@@ -470,7 +470,7 @@ def generate_homepage(recipes):
       😈 あくまれしぴ - 奇抜アレンジレシピの聖地
     </h1>
     <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto 1.5rem; font-size: 1.1rem;">
-      女の子ウケ抜群 of パステル付箋風デザイン。ローカルAIが描き下ろした最高にエモいアニメ調フード画像と共にお届け。
+      女の子ウケ抜群 of パステル付箋風デザイン。描き下ろした最高にエモいアニメ調フード画像と共にお届け。
     </p>
   </section>
 
