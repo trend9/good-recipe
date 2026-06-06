@@ -158,53 +158,62 @@
       });
     });
 
-    let isAuthRedirecting = true;
-
     // Check redirect result on page mount to block early signOut loops
-    firebase.auth().getRedirectResult().then(result => {
-      isAuthRedirecting = false;
-      if (result.user) {
-        console.log("OAuth Redirect return successful:", result.user.email);
-      }
-      // Trigger evaluation of current state after checking redirect
-      evaluateAuthState(firebase.auth().currentUser);
-    }).catch(error => {
-      isAuthRedirecting = false;
-      console.error("OAuth Redirect return error:", error);
-      evaluateAuthState(firebase.auth().currentUser);
-    });
-
     firebase.auth().onAuthStateChanged(user => {
-      if (!isAuthRedirecting) {
-        evaluateAuthState(user);
-      }
-    });
-
-    function evaluateAuthState(user) {
       if (user) {
         console.log("Logged in user:", user.email);
         if (user.email === 'mattan029@gmail.com') {
           // Success
-          loginBtn.textContent = "ログアウト";
-          alertBox.style.display = 'none';
-          cmsConsole.style.display = 'block';
+          if (loginBtn) loginBtn.textContent = "ログアウト";
+          if (alertBox) alertBox.style.display = 'none';
+          if (cmsConsole) cmsConsole.style.display = 'block';
           loadRecipesDatabase();
         } else {
           // Unauthorized user
-          alertBox.style.background = '#ffe3e3';
-          alertBox.style.display = 'block';
-          alertTitle.textContent = "❌ アクセス拒否";
-          alertDesc.innerHTML = `ログインされたアカウント (${user.email}) は管理者権限がありません。<br>許可された管理者アカウントでサインインし直してください。`;
-          cmsConsole.style.display = 'none';
-          loginBtn.textContent = "別のアカウントでログイン";
+          if (alertBox) {
+            alertBox.style.background = '#ffe3e3';
+            alertBox.style.display = 'block';
+            alertTitle.textContent = "❌ アクセス拒否";
+            alertDesc.innerHTML = `ログインされたアカウント (${user.email}) は管理者権限がありません。<br>許可された管理者アカウントでサインインし直してください。`;
+          }
+          if (cmsConsole) cmsConsole.style.display = 'none';
+          if (loginBtn) loginBtn.textContent = "別のアカウントでログイン";
         }
       } else {
         console.log("User session is empty.");
-        loginBtn.textContent = "Googleログイン";
-        alertBox.style.display = 'block';
-        cmsConsole.style.display = 'none';
+        if (loginBtn) loginBtn.textContent = "Googleログイン";
+        if (alertBox) alertBox.style.display = 'block';
+        if (cmsConsole) cmsConsole.style.display = 'none';
       }
-    }
+    });
+
+    window.addEventListener('DOMContentLoaded', () => {
+      provider = new firebase.auth.GoogleAuthProvider();
+      provider.addScope('email');
+      provider.addScope('profile');
+
+      loginBtn = document.getElementById('loginBtn');
+      alertBox = document.getElementById('alertBox');
+      alertTitle = document.getElementById('alertTitle');
+      alertDesc = document.getElementById('alertDesc');
+      cmsConsole = document.getElementById('cmsConsole');
+
+      // Bind Click
+      loginBtn.addEventListener('click', () => {
+        const user = firebase.auth().currentUser;
+        if (user) {
+          firebase.auth().signOut().then(() => {
+            window.location.reload();
+          });
+        } else {
+          console.log("Initiating Popup Sign-In...");
+          firebase.auth().signInWithPopup(provider).catch(e => {
+            console.error("signInWithPopup failed:", e);
+            alert("ログインエラー: " + e.message);
+          });
+        }
+      });
+    });
 
     function loadRecipesDatabase() {
       fetch('data/recipes.json')
