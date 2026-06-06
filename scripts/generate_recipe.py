@@ -4,6 +4,7 @@ import random
 import time
 import urllib.parse
 import requests
+import re
 
 # Base paths
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -12,24 +13,239 @@ RECIPE_IMAGES_DIR = os.path.join(BASE_DIR, 'recipes')
 
 os.makedirs(RECIPE_IMAGES_DIR, exist_ok=True)
 
-# Bizarre Food Items seed database to mix and match for high click-bait / viral recipe ideas
-BIZARRE_FOODS = [
+# ============================================================
+# LLM Recipe Generation via Hugging Face Inference API
+# ============================================================
+
+# Categories and random ingredients for LLM prompt variety
+CATEGORIES = [
+    ("noodle", "麺類"),
+    ("dessert", "デザート"),
+    ("side", "おかず"),
+    ("bread", "パン類"),
+    ("rice", "ご飯もの"),
+    ("drink", "ドリンク"),
+    ("snack", "おやつ"),
+]
+
+BIZARRE_COMBOS = [
+    "コーラ × カレーライス", "わたあめ × ラーメン", "アイスクリーム × 納豆",
+    "チョコレート × 餃子", "プリン × 醤油", "ポテトチップス × ヨーグルト",
+    "メロンソーダ × 味噌汁", "マシュマロ × キムチ", "ジャム × 焼き魚",
+    "コンデンスミルク × カップ麺", "バナナ × 醤油ラーメン", "キャラメル × 冷やし中華",
+    "ホイップクリーム × 牛丼", "抹茶 × ピザ", "はちみつ × 唐揚げ",
+    "ココア × おでん", "マヨネーズ × ホットケーキ", "グミ × お茶漬け",
+    "ゼリー × カレーうどん", "チーズ × あんこ", "コーンフレーク × 豚汁",
+    "タピオカ × 天ぷら", "クリームソーダ × そうめん", "杏仁豆腐 × キムチ鍋",
+    "ドーナツ × 味噌", "パンケーキ × 明太子", "綿菓子 × たこ焼き",
+    "プッチンプリン × 焼きそば", "練乳 × 肉じゃが", "ポッキー × 雑炊",
+    "わさび × シュークリーム", "柿の種 × チョコフォンデュ",
+    "エナジードリンク × そば", "ラムネ × 冷麺", "きなこ × ハンバーグ",
+]
+
+LLM_SYSTEM_PROMPT = """あなたは「あくまれしぴ」という奇抜レシピサイトの専属レシピクリエイターです。
+SNSでバズるような、見た目のインパクトが強く、実際に作れる奇抜な組み合わせレシピを1つ考案してください。
+
+以下のJSON形式で出力してください。JSON以外のテキストは一切出力しないでください。
+```json
+{
+  "title_ja": "レシピ名（日本語）",
+  "title_en": "Recipe Name (English)",
+  "description_ja": "SNSでバズるような魅力的な説明文（日本語・50文字以上）",
+  "description_en": "Attractive description in English",
+  "category": "カテゴリ英語(noodle/dessert/side/bread/rice/drink/snack)",
+  "category_ja": "カテゴリ日本語",
+  "occasion_ja": "こんな時におすすめ！（日本語）",
+  "occasion_en": "Recommended occasion (English)",
+  "ingredients": [
+    {"name": "材料名", "amount": "分量"},
+    {"name": "材料名", "amount": "分量"}
+  ],
+  "steps": [
+    "手順1の説明",
+    "手順2の説明",
+    "手順3の説明",
+    "手順4の説明"
+  ],
+  "image_prompt": "Cozy anime illustration of the dish, detailed food digital art, Ghibli style (英語で具体的に料理の見た目を描写)"
+}
+```"""
+
+
+def generate_recipe_with_llm(hf_token, existing_titles):
+    """Use Hugging Face LLM to generate a unique bizarre recipe."""
+    
+    # Pick a random bizarre combo for inspiration
+    combo = random.choice(BIZARRE_COMBOS)
+    
+    # Build user prompt with existing titles to avoid duplicates
+    existing_list = "、".join(existing_titles[:10]) if existing_titles else "なし"
+    
+    user_prompt = f"""以下の奇抜な食材の組み合わせをヒントに、新しいレシピを1つ考えてください。
+ヒントの組み合わせ: {combo}
+
+既存のレシピ（重複禁止）: {existing_list}
+
+上記と被らない、全く新しい奇抜レシピをJSON形式で出力してください。材料は4〜6個、手順は4つにしてください。"""
+
+    # Try multiple LLM models in order of preference
+    models = [
+        "mistralai/Mistral-7B-Instruct-v0.3",
+        "google/gemma-2-2b-it",
+        "HuggingFaceH4/zephyr-7b-beta",
+        "microsoft/Phi-3-mini-4k-instruct",
+    ]
+    
+    headers = {
+        "Authorization": f"Bearer {hf_token}",
+        "Content-Type": "application/json"
+    }
+    
+    for model in models:
+        print(f"Trying LLM model: {model}...")
+        
+        # Try chat completions API first
+        chat_url = f"https://api-inference.huggingface.co/models/{model}/v1/chat/completions"
+        chat_payload = {
+            "model": model,
+            "messages": [
+                {"role": "system", "content": LLM_SYSTEM_PROMPT},
+                {"role": "user", "content": user_prompt}
+            ],
+            "max_tokens": 1500,
+            "temperature": 0.9,
+            "stream": False
+        }
+        
+        for attempt in range(1, 4):
+            try:
+                print(f"  Attempt {attempt}...")
+                response = requests.post(chat_url, json=chat_payload, headers=headers, timeout=90)
+                
+                if response.status_code == 200:
+                    result = response.json()
+                    content = result.get("choices", [{}])[0].get("message", {}).get("content", "")
+                    print(f"  LLM response length: {len(content)} chars")
+                    
+                    # Extract JSON from response
+                    recipe_data = extract_json_from_text(content)
+                    if recipe_data and validate_recipe(recipe_data):
+                        print(f"  Successfully generated recipe: {recipe_data.get('title_ja', '?')}")
+                        return recipe_data
+                    else:
+                        print(f"  Failed to parse valid JSON from response")
+                        
+                elif response.status_code == 503:
+                    wait_time = response.json().get("estimated_time", 20)
+                    print(f"  Model loading, waiting {wait_time}s...")
+                    time.sleep(min(wait_time, 30))
+                else:
+                    print(f"  Error {response.status_code}: {response.text[:200]}")
+                    
+                    # Try text generation API as fallback
+                    if attempt == 1:
+                        print("  Trying text generation API instead...")
+                        text_url = f"https://api-inference.huggingface.co/models/{model}"
+                        full_prompt = f"<s>[INST] {LLM_SYSTEM_PROMPT}\n\n{user_prompt} [/INST]"
+                        text_payload = {
+                            "inputs": full_prompt,
+                            "parameters": {
+                                "max_new_tokens": 1500,
+                                "temperature": 0.9,
+                                "return_full_text": False
+                            }
+                        }
+                        try:
+                            text_resp = requests.post(text_url, json=text_payload, headers=headers, timeout=90)
+                            if text_resp.status_code == 200:
+                                text_result = text_resp.json()
+                                if isinstance(text_result, list) and len(text_result) > 0:
+                                    generated = text_result[0].get("generated_text", "")
+                                    recipe_data = extract_json_from_text(generated)
+                                    if recipe_data and validate_recipe(recipe_data):
+                                        print(f"  Successfully generated recipe via text API: {recipe_data.get('title_ja', '?')}")
+                                        return recipe_data
+                        except Exception as e:
+                            print(f"  Text API fallback error: {e}")
+                    
+                    time.sleep(3)
+            except Exception as e:
+                print(f"  Request error: {type(e).__name__}: {e}")
+                time.sleep(3)
+    
+    return None
+
+
+def extract_json_from_text(text):
+    """Extract JSON object from LLM response text."""
+    # Try to find JSON block in markdown code fence
+    json_match = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', text, re.DOTALL)
+    if json_match:
+        try:
+            return json.loads(json_match.group(1))
+        except json.JSONDecodeError:
+            pass
+    
+    # Try to find raw JSON object
+    json_match = re.search(r'\{[^{}]*"title_ja"[^{}]*\}', text, re.DOTALL)
+    if json_match:
+        try:
+            return json.loads(json_match.group(0))
+        except json.JSONDecodeError:
+            pass
+    
+    # Try finding the largest { ... } block
+    brace_start = text.find('{')
+    if brace_start != -1:
+        depth = 0
+        for i in range(brace_start, len(text)):
+            if text[i] == '{':
+                depth += 1
+            elif text[i] == '}':
+                depth -= 1
+                if depth == 0:
+                    try:
+                        return json.loads(text[brace_start:i+1])
+                    except json.JSONDecodeError:
+                        break
+    
+    return None
+
+
+def validate_recipe(data):
+    """Check that generated recipe has required fields."""
+    required = ["title_ja", "title_en", "description_ja", "category", "category_ja", 
+                "ingredients", "steps"]
+    for field in required:
+        if field not in data:
+            print(f"  Missing required field: {field}")
+            return False
+    if not isinstance(data.get("ingredients"), list) or len(data["ingredients"]) < 2:
+        print("  Not enough ingredients")
+        return False
+    if not isinstance(data.get("steps"), list) or len(data["steps"]) < 2:
+        print("  Not enough steps")
+        return False
+    return True
+
+
+# ============================================================
+# Fallback template (used only when LLM is unavailable)
+# ============================================================
+
+FALLBACK_TEMPLATES = [
     {
         "title_ja": "綿あめカレーうどん",
         "title_en": "Cotton Candy Curry Udon",
         "description_ja": "ふわふわの甘い綿あめをスパイシーなカレーうどんに溶かして食べる、衝撃の新感覚レシピ！甘みと辛みが絶妙にマッチします。",
-        "description_en": "A shocking new sensory recipe where fluffy sweet cotton candy is dissolved into spicy curry udon! Sweet and spicy match perfectly.",
-        "category": "noodle",
-        "category_ja": "麺類",
+        "description_en": "A shocking new sensory recipe where fluffy sweet cotton candy is dissolved into spicy curry udon!",
+        "category": "noodle", "category_ja": "麺類",
         "occasion_ja": "週末のホームパーティーや、甘辛の新しい扉を開きたい時に！",
-        "occasion_en": "Perfect for weekend house parties or when you want to open a new door of sweet and savory!",
+        "occasion_en": "Perfect for weekend house parties!",
         "ingredients": [
-            {"name": "冷凍うどん", "amount": "1玉"},
-            {"name": "カレールー", "amount": "1皿分"},
-            {"name": "和風だし", "amount": "300ml"},
-            {"name": "綿あめ", "amount": "大きな塊1個"},
-            {"name": "豚バラ肉", "amount": "50g"},
-            {"name": "ネギ", "amount": "適量"}
+            {"name": "冷凍うどん", "amount": "1玉"}, {"name": "カレールー", "amount": "1皿分"},
+            {"name": "和風だし", "amount": "300ml"}, {"name": "綿あめ", "amount": "大きな塊1個"},
+            {"name": "豚バラ肉", "amount": "50g"}, {"name": "ネギ", "amount": "適量"}
         ],
         "steps": [
             "豚バラ肉を炒め、和風だしとカレールーを加えてカレーつゆを作ります。",
@@ -37,178 +253,14 @@ BIZARRE_FOODS = [
             "食べる直前に、うどん全体を覆うように大きな綿あめをのせます。",
             "綿あめがつゆに溶けていく様子を楽しみながら混ぜて召し上がれ！"
         ],
-        "prompt": "Cozy anime illustration of a steaming bowl of japanese curry udon, topped with a giant fluffy cloud of pink cotton candy, delicious food aesthetic, Ghibli style, detailed digital art"
+        "image_prompt": "Cozy anime illustration of a steaming bowl of japanese curry udon, topped with a giant fluffy cloud of pink cotton candy, delicious food aesthetic, Ghibli style, detailed digital art"
     },
-    {
-        "title_ja": "メロンソーダラーメン",
-        "title_en": "Melon Soda Ramen",
-        "description_ja": "シュワシュワの炭酸メロンソーダと塩ラーメンスープの奇跡のコラボレーション！見た目のインパクトと爽快なのどごしが最高です。",
-        "description_en": "A miraculous collaboration of fizzy carbonated melon soda and salt ramen soup! The visual impact and refreshing throat feel are outstanding.",
-        "category": "noodle",
-        "category_ja": "麺類",
-        "occasion_ja": "暑い夏の日のランチや、SNSでバズる写真を撮りたい女子会に！",
-        "occasion_en": "For hot summer lunches or girls' night outs looking to snap viral photos!",
-        "ingredients": [
-            {"name": "塩ラーメン（インスタント）", "amount": "1袋"},
-            {"name": "無糖炭酸水", "amount": "150ml"},
-            {"name": "メロンシロップ", "amount": "30ml"},
-            {"name": "バニラアイス", "amount": "1ディッシャー"},
-            {"name": "チャーシュー", "amount": "1枚"},
-            {"name": "サクランボ（缶詰）", "amount": "1個"}
-        ],
-        "steps": [
-            "ラーメンの麺を通常通り茹で、冷水でしめます。",
-            "付属の塩スープの素を少量の温水で溶かし、炭酸水とメロンシロップを混ぜて冷やします。",
-            "器に麺と冷たいメロンスープを注ぎます。",
-            "トッピングとしてバニラアイス、チャーシュー、サクランボをのせて完成。"
-        ],
-        "prompt": "Cozy anime illustration of a bowl of ramen filled with glowing emerald green melon soda broth, topped with a scoop of vanilla ice cream and a cherry, detailed food digital art, Makoto Shinkai style"
-    },
-    {
-        "title_ja": "板チョコ餃子ドッグ",
-        "title_en": "Chocolate Bar Gyoza Dog",
-        "description_ja": "ジューシーな餃子の皮の中にまるごと板チョコを挟んでパリパリに揚げ焼きした、甘じょっぱさがクセになる悪魔のスイーツおつまみ。",
-        "description_en": "A whole chocolate bar wrapped inside gyoza skin and pan-fried to crispy perfection. A devilish sweet and salty snack that is highly addictive.",
-        "category": "dessert",
-        "category_ja": "デザート",
-        "occasion_ja": "夜遅くの背徳的なおやつや、バレンタインの意外なサプライズに！",
-        "occasion_en": "For late-night guilty pleasure snacks or an unexpected Valentine surprise!",
-        "ingredients": [
-            {"name": "餃子の皮（大きめ）", "amount": "10枚"},
-            {"name": "ミルクチョコレート板チョコ", "amount": "1枚"},
-            {"name": "マシュマロ", "amount": "5個"},
-            {"name": "サラダ油", "amount": "適量"},
-            {"name": "粉糖", "amount": "仕上げ用"}
-        ],
-        "steps": [
-            "板チョコを餃子の皮に入るサイズに割ります。",
-            "餃子の皮にチョコと半分に切ったマシュマロをのせ、フチに水をつけてしっかり包みます。",
-            "フライパンに多めの油を熱し、きつね色になるまで両面をパリッと揚げ焼きします。",
-            "お皿に盛り付け、仕上げに粉糖をふりかけます。"
-        ],
-        "prompt": "Cozy anime illustration of crispy golden-brown fried gyoza dumplings oozing warm melted milk chocolate and marshmallows, stacked beautifully on a pastel plate, Ghibli style, detailed art"
-    },
-    {
-        "title_ja": "タピオカ麻婆豆腐",
-        "title_en": "Tapioca Mapo Tofu",
-        "description_ja": "辛口の本格麻婆豆腐に、もちもちのブラックタピオカをプラス！噛むたびに楽しい食感と旨辛ダレが最高に絡み合います。",
-        "description_en": "Adding chewy black tapioca pearls to authentic spicy mapo tofu! The combination of fun texture and spicy savory sauce is amazing.",
-        "category": "side",
-        "category_ja": "おかず",
-        "occasion_ja": "モチモチ食感が大好きな女子や、いつもの中華に飽きた食卓に！",
-        "occasion_en": "For chewiness-loving girls or dining tables bored of typical Chinese food!",
-        "ingredients": [
-            {"name": "豆腐", "amount": "1丁"},
-            {"name": "豚ひき肉", "amount": "100g"},
-            {"name": "ブラックタピオカ（茹でたもの）", "amount": "50g"},
-            {"name": "麻婆豆腐の素（辛口）", "amount": "1回分"},
-            {"name": "ラー油", "amount": "適量"}
-        ],
-        "steps": [
-            "豆腐をさいの目に切り、茹でて水気を切っておきます。",
-            "フライパンでひき肉を炒め、麻婆豆腐の素と水を加えて一煮立ちさせます。",
-            "豆腐と茹でたブラックタピオカを加え、崩れないように優しく混ぜ合わせます。",
-            "とろみがついたらラー油を回し入れ、熱々を器に盛ります。"
-        ],
-        "prompt": "Anime style illustration of a steaming plate of hot red mapo tofu filled with shiny round black tapioca pearls and diced tofu, garnished with green scallions, cozy food aesthetic, detailed digital art"
-    },
-    {
-        "title_ja": "たこ焼きホットケーキ",
-        "title_en": "Takoyaki Hotcake",
-        "description_ja": "たこ焼き器を使って丸く作ったベビーカステラ風ホットケーキの中に、本物のタコをイン！ソースの代わりにハチミツをかけて召し上がれ。",
-        "description_en": "Round baby-castella style hotcakes made using a takoyaki griddle, with real octopus chunks hidden inside! Top with honey instead of savory sauce.",
-        "category": "dessert",
-        "category_ja": "デザート",
-        "occasion_ja": "お子様と一緒に楽しむタコパや、ちょっとしたおうちカフェ時間に！",
-        "occasion_en": "For a takoyaki party with kids or a cute home cafe afternoon!",
-        "ingredients": [
-            {"name": "ホットケーキミックス", "amount": "150g"},
-            {"name": "牛乳", "amount": "100ml"},
-            {"name": "たまご", "amount": "1個"},
-            {"name": "茹でダコ（ぶつ切り）", "amount": "20カット"},
-            {"name": "はちみつ / メープルシロップ", "amount": "お好みで"}
-        ],
-        "steps": [
-            "ボウルにホットケーキミックス、牛乳、たまごを入れてダマがなくなるまで混ぜます。",
-            "温めたたこ焼き器に薄く油をひき、生地を穴の半分まで流し込みます。",
-            "中央にタコのぶつ切りを1つずつ入れ、さらに上から生地を溢れるくらい注ぎます。",
-            "竹串でくるくると回しながら綺麗な球体に焼き上げ、はちみつをかけて完成。"
-        ],
-        "prompt": "Anime illustration of golden round takoyaki-shaped pancake balls, glistening with honey and butter syrup, on a warm wooden board, cute illustration style, warm cozy lighting"
-    },
-    {
-        "title_ja": "プリングルズポテトマッシュトースト",
-        "title_en": "Pringles Mashed Potato Toast",
-        "description_ja": "砕いたプリングルズをお湯でポテトサラダ風に戻し、チーズと一緒にトーストにのせて焼き上げました。超濃厚なポテチの風味がジュワッと広がります。",
-        "description_en": "Rehydrate crushed Pringles potato chips with hot water into a potato-salad style mash, then bake on toast with melted cheese. Hyper-rich potato flavor spreads in every bite.",
-        "category": "bread",
-        "category_ja": "パン類",
-        "occasion_ja": "ガッツリ食べたい朝ごはんや、深夜のリッチなジャンク欲に！",
-        "occasion_en": "For hearty breakfasts or intense late-night junk food cravings!",
-        "ingredients": [
-            {"name": "食パン（6枚切り）", "amount": "1枚"},
-            {"name": "プリングルズ（サワークリーム＆オニオン）", "amount": "1/2缶"},
-            {"name": "お湯", "amount": "50ml"},
-            {"name": "ピザ用チーズ", "amount": "30g"},
-            {"name": "マヨネーズ", "amount": "大さじ1"}
-        ],
-        "steps": [
-            "袋の中にプリングルズを入れて細かく砕きます。",
-            "ボウルに移し、お湯を注いでスプーンでよく練ってポテトマッシュを作ります。",
-            "食パンにマヨネーズを塗り、その上に作ったポテトマッシュを平らに広げます。",
-            "チーズをたっぷりとのせ、トースターでこんがり焼き色がつくまで焼きます。"
-        ],
-        "prompt": "Anime illustration of a thick slice of golden toasted bread, topped with a mountain of creamy mashed potato and melted stringy cheese, cozy warm kitchen aesthetic"
-    },
-    {
-        "title_ja": "ポテトチップスオムレツ",
-        "title_en": "Potato Chips Omelet",
-        "description_ja": "卵液の中にポテトチップスをそのまま砕き入れてフライパンで丸く焼き上げたスペイン風オムレツ。ポテチの塩気とサクサク感が卵と絶妙にマッチ！",
-        "description_en": "A Spanish-style omelet made by crushing potato chips directly into egg wash and frying them round. The saltiness and crunchiness of potato chips match eggs perfectly!",
-        "category": "side",
-        "category_ja": "おかず",
-        "occasion_ja": "お酒のおつまみが今すぐ欲しいとき、手軽な朝ごはんのおかずに！",
-        "occasion_en": "When you need a quick drink snack or an easy morning side dish!",
-        "ingredients": [
-            {"name": "たまご", "amount": "3個"},
-            {"name": "ポテトチップス（うすしお）", "amount": "1/2袋"},
-            {"name": "牛乳", "amount": "大さじ1"},
-            {"name": "オリーブオイル", "amount": "大さじ1"},
-            {"name": "ケチャップ", "amount": "お好みで"}
-        ],
-        "steps": [
-            "たまごをボウルに割り入れ、牛乳を加えてよく混ぜます。",
-            "ポテトチップスを手で荒く砕きながら卵液に入れ、軽く浸します。",
-            "フライパンにオリーブオイルを熱し、卵液を一気に流し込みます。",
-            "弱火で両面をじっくりと丸く焼き上げ、お好みでケチャップを添えます。"
-        ],
-        "prompt": "Anime illustration of a round Spanish-style golden potato omelette slice on a white ceramic plate, steam rising, warm cozy food art"
-    },
-    {
-        "title_ja": "プリン醤油うどん（ウニ風風）",
-        "title_en": "Pudding Soy Sauce Udon (Sea Urchin Style)",
-        "description_ja": "カスタードプリンに醤油をかけると「ウニ」の味になる！？その噂を本格的なうどんで再現。クリーミーで濃厚なコクがモチモチうどんに絡みます。",
-        "description_en": "Does pudding with soy sauce taste like sea urchin?! Recreated that rumor in an authentic udon dish. Creamy rich depth coats the chewy udon noodles.",
-        "category": "noodle",
-        "category_ja": "麺類",
-        "occasion_ja": "安価で高級ウニ気分を味わいたい給料日前や、好奇心旺盛な友達との食事に！",
-        "occasion_en": "For days before payday when you want to feel luxurious on a budget, or meals with curious friends!",
-        "ingredients": [
-            {"name": "冷凍うどん", "amount": "1玉"},
-            {"name": "市販のカスタードプリン", "amount": "1個"},
-            {"name": "醤油 / めんつゆ", "amount": "大さじ1.5"},
-            {"name": "刻み海苔", "amount": "適量"},
-            {"name": "わさび", "amount": "少々"}
-        ],
-        "steps": [
-            "冷凍うどんを電子レンジで加熱し、器に盛ります。",
-            "温かいうどんの上に、カスタードプリンをドカンとまるごと1個のせます。",
-            "醤油（またはめんつゆ）を回しかけ、わさびと刻み海苔をトッピングします。",
-            "プリンをしっかりと崩しながら、全体を均一に混ぜ合わせて召し上がれ。"
-        ],
-        "prompt": "Anime style illustration of hot udon noodles topped with a single custard pudding shaking on top, drizzled with dark soy sauce and green nori seaweed, Ghibli food aesthetic"
-    }
 ]
+
+
+# ============================================================
+# Data I/O
+# ============================================================
 
 def load_recipes():
     if os.path.exists(DATA_FILE):
@@ -225,8 +277,12 @@ def save_recipes(recipes):
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(recipes, f, indent=2, ensure_ascii=False)
 
+
+# ============================================================
+# Static Page Generators
+# ============================================================
+
 def generate_individual_pages(recipes):
-    # Ensure detailed pages directory exists
     articles_dir = os.path.join(BASE_DIR, 'recipes_pages')
     os.makedirs(articles_dir, exist_ok=True)
     
@@ -240,7 +296,6 @@ def generate_individual_pages(recipes):
         date_str = rp.get("date", "")
         
         ingredients_list_html = ""
-        # Split ingredients into two post-its for stylish UI
         ing_chunks = [rp["ingredients"][i:i + 3] for i in range(0, len(rp["ingredients"]), 3)]
         
         colors = ["yellow", "pink", "blue", "green"]
@@ -268,22 +323,18 @@ def generate_individual_pages(recipes):
             </div>
             """
 
-        # Generate LD-JSON schema markup for SEO
         schema_json = {
             "@context": "https://schema.org",
             "@type": "Recipe",
             "name": title_ja,
             "image": [f"https://good-recipe.vercel.app/recipes/{filename}"],
-            "author": {
-                "@type": "Organization",
-                "name": "Buzz Recipe Laboratory"
-            },
+            "author": {"@type": "Organization", "name": "Buzz Recipe Laboratory"},
             "datePublished": date_str.split(" ")[0] if date_str else "2026-06-06",
             "description": desc_ja,
             "recipeIngredient": [f"{item['name']} {item['amount']}" for item in rp["ingredients"]],
             "recipeInstructions": [{"@type": "HowToStep", "text": step} for step in rp["steps"]]
         }
-        schema_script = f"<script type=\"application/ld+json\">{json.dumps(schema_json, ensure_ascii=False)}</script>"
+        schema_script = f'<script type="application/ld+json">{json.dumps(schema_json, ensure_ascii=False)}</script>'
         
         html_content = f"""<!DOCTYPE html>
 <html lang="ja">
@@ -391,7 +442,6 @@ def generate_individual_pages(recipes):
     print(f"Generated {len(recipes)} individual recipe detail pages.")
 
 def generate_homepage(recipes):
-    # Generates the listing index.html page
     cards_html = ""
     for idx, rp in enumerate(recipes):
         rp_id = rp.get("id")
@@ -401,7 +451,6 @@ def generate_homepage(recipes):
         category_ja = rp.get("category_ja")
         date_str = rp.get("date")
         
-        # Color rotation index
         color_class = f"color-{idx % 6}"
         
         cards_html += f"""
@@ -470,54 +519,45 @@ def generate_homepage(recipes):
         f.write(homepage_html)
     print("Successfully rebuilt index.html listing!")
 
-def main():
-    existing_recipes = load_recipes()
-    count = len(existing_recipes)
-    
-    # Pick the next bizarre recipe sequentially or randomly
-    recipe_template = BIZARRE_FOODS[count % len(BIZARRE_FOODS)]
-    
-    # Random offset to distinguish titles
-    timestamp = int(time.time())
-    recipe_id = f"recipe_{timestamp}"
-    filename = f"recipe_{timestamp}.jpg"
-    filepath = os.path.join(RECIPE_IMAGES_DIR, filename)
-    
-    prompt = recipe_template["prompt"]
+
+# ============================================================
+# Image Generation
+# ============================================================
+
+def generate_image(prompt, filepath, filename, hf_token):
+    """Try multiple image generation APIs, return True on success."""
     encoded_prompt = urllib.parse.quote(prompt)
     seed = random.randint(0, 999999)
     success = False
     
     # 1. Hugging Face Inference API FLUX Model
-    hf_token = os.environ.get('HF_TOKEN')
     if hf_token:
-        print("HF_TOKEN detected. Starting image generation via Hugging Face...")
+        print("Attempting image generation via Hugging Face...")
         hf_model = "black-forest-labs/FLUX.1-schnell"
         hf_url = f"https://api-inference.huggingface.co/models/{hf_model}"
         hf_headers = {"Authorization": f"Bearer {hf_token}"}
         
         for attempt in range(1, 6):
             try:
-                print(f"Hugging Face attempt {attempt}...")
+                print(f"  HF image attempt {attempt}...")
                 response = requests.post(hf_url, json={"inputs": prompt}, headers=hf_headers, timeout=60)
-                if response.status_code == 200:
+                if response.status_code == 200 and len(response.content) > 5000:
                     with open(filepath, 'wb') as f:
                         f.write(response.content)
-                    print(f"Successfully saved Hugging Face image to {filename}!")
-                    success = True
-                    break
+                    print(f"  Successfully saved HF image to {filename}! ({len(response.content)} bytes)")
+                    return True
                 elif response.status_code == 503:
                     estimated_time = response.json().get("estimated_time", 20)
-                    print(f"Model loading. Sleeping for {estimated_time}s...")
-                    time.sleep(estimated_time)
+                    print(f"  Model loading. Sleeping for {estimated_time}s...")
+                    time.sleep(min(estimated_time, 30))
                 else:
-                    print(f"Error {response.status_code}: {response.text}")
+                    print(f"  Error {response.status_code}: {response.text[:200]}")
                     time.sleep(3)
             except Exception as e:
-                print(f"Request failed: {type(e).__name__}")
+                print(f"  Request failed: {type(e).__name__}")
                 time.sleep(3)
                 
-    # 2. Pollinations AI Fallback (free tier, no model param to avoid 402)
+    # 2. Pollinations AI Fallback (free tier)
     if not success:
         print("Falling back to Pollinations AI...")
         pollinations_params_list = [
@@ -527,7 +567,7 @@ def main():
         
         for params in pollinations_params_list:
             url_attempt = f"https://image.pollinations.ai/prompt/{encoded_prompt}{params}"
-            print(f"Querying Pollinations AI: {url_attempt}")
+            print(f"  Querying: {url_attempt[:120]}...")
             for attempt in range(1, 4):
                 try:
                     response = requests.get(url_attempt, timeout=120, allow_redirects=True)
@@ -535,93 +575,40 @@ def main():
                     if response.status_code == 200 and ('image' in content_type or len(response.content) > 10000):
                         with open(filepath, 'wb') as f:
                             f.write(response.content)
-                        print(f"Saved Pollinations image to {filename}! ({len(response.content)} bytes)")
-                        success = True
-                        break
+                        print(f"  Saved Pollinations image! ({len(response.content)} bytes)")
+                        return True
                     else:
-                        print(f"Failed: code={response.status_code}, type={content_type}, size={len(response.content)}. Retrying...")
+                        print(f"  Failed: code={response.status_code}, size={len(response.content)}")
                         time.sleep(5)
                 except Exception as e:
-                    print(f"Pollinations error: {e}")
+                    print(f"  Pollinations error: {e}")
                     time.sleep(5)
-            if success:
-                break
-
+            
     # 3. Hercai Anime generator fallback
     if not success:
-        print("Falling back to Hercai Anime generator...")
-        herc_models = ["v3", "simurg", "lexica"]
-        for model in herc_models:
-            print(f"Requesting image from Hercai (model: {model})...")
+        print("Falling back to Hercai...")
+        for model in ["v3", "simurg", "lexica"]:
             herc_url = f"https://hercai.onrender.com/{model}/text2image"
-            for attempt in range(1, 4):
+            for attempt in range(1, 3):
                 try:
-                    response = requests.get(herc_url, params={"prompt": prompt + ", anime style food illustration, detailed"}, timeout=60)
+                    response = requests.get(herc_url, params={"prompt": prompt}, timeout=60)
                     if response.status_code == 200:
-                        res_json = response.json()
-                        img_url = res_json.get("url")
+                        img_url = response.json().get("url")
                         if img_url:
                             img_data = requests.get(img_url, timeout=60)
-                            if img_data.status_code == 200:
+                            if img_data.status_code == 200 and len(img_data.content) > 5000:
                                 with open(filepath, 'wb') as f:
                                     f.write(img_data.content)
-                                print(f"Saved Hercai image to {filename}!")
-                                success = True
-                                break
+                                print(f"  Saved Hercai image!")
+                                return True
                     time.sleep(3)
                 except Exception as e:
-                    print(f"Hercai error: {e}")
+                    print(f"  Hercai error: {e}")
                     time.sleep(3)
-            if success:
-                break
 
-    # 4. AI Horde anonymous API fallback
+    # 4. PIL Programmatic fallback
     if not success:
-        print("Initiating AI Horde generation fallback...")
-        horde_url = "https://aihorde.net/api/v2/generate/async"
-        horde_headers = {
-            "apikey": "0000000000",
-            "Client-Agent": "RecipeWebsiteSystem:1.0:user@example.com"
-        }
-        horde_payload = {
-            "prompt": prompt + ", anime style food, cozy ghibli style art",
-            "models": ["stable_diffusion", "Dreamshaper", "Deliberate"],
-            "params": {
-                "width": 1024,
-                "height": 1024,
-                "steps": 20,
-                "cfg_scale": 7.0
-            }
-        }
-        try:
-            submit_resp = requests.post(horde_url, json=horde_payload, headers=horde_headers, timeout=45)
-            if submit_resp.status_code == 202:
-                job_id = submit_resp.json().get("id")
-                status_url = f"https://aihorde.net/api/v2/generate/status/{job_id}"
-                for poll in range(1, 37):
-                    status_resp = requests.get(status_url, timeout=30)
-                    if status_resp.status_code == 200:
-                        status_data = status_resp.json()
-                        if status_data.get("done") is True:
-                            generations = status_data.get("generations", [])
-                            if generations:
-                                img_url = generations[0].get("img")
-                                img_data = requests.get(img_url, timeout=45)
-                                if img_data.status_code == 200:
-                                    with open(filepath, 'wb') as f:
-                                        f.write(img_data.content)
-                                    print(f"Successfully saved AI Horde image to {filename}!")
-                                    success = True
-                                    break
-                        elif status_data.get("faulted") is True:
-                            break
-                    time.sleep(5)
-        except Exception as e:
-            print(f"AI Horde encountered error: {e}")
-
-    # 5. PIL Programmatic generation fallback if all web APIs are down/rate-limited
-    if not success:
-        print("All APIs rate-limited. Generating fallback local art programmatically...")
+        print("All APIs failed. Generating fallback image with PIL...")
         try:
             from PIL import Image, ImageDraw, ImageFont, ImageFilter
         except ImportError:
@@ -629,34 +616,26 @@ def main():
             subprocess.run(["pip", "install", "pillow"], check=True)
             from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-        # Create a rich gradient background food card
         img = Image.new('RGB', (800, 800), color='#fff9db')
         draw = ImageDraw.Draw(img)
         
-        # Warm gradient background
         for y in range(800):
             r = int(255 - (y / 800) * 30)
             g = int(245 - (y / 800) * 60)
             b = int(220 - (y / 800) * 100)
             draw.line([(0, y), (800, y)], fill=(r, g, b))
         
-        # Decorative circles (plate/bowl)
         draw.ellipse([(100, 150), (700, 650)], fill='#fff5f5', outline='#e8590c', width=6)
         draw.ellipse([(150, 200), (650, 600)], fill='#fff9db', outline='#fcc419', width=4)
         
-        # Food elements
         food_colors = ['#ff6b6b', '#51cf66', '#ffa94d', '#845ef7', '#339af0']
         for i in range(8):
-            cx = random.randint(250, 550)
-            cy = random.randint(280, 520)
+            cx, cy = random.randint(250, 550), random.randint(280, 520)
             size = random.randint(30, 70)
-            color = random.choice(food_colors)
-            draw.ellipse([(cx-size, cy-size), (cx+size, cy+size)], fill=color, outline='#fff', width=2)
+            draw.ellipse([(cx-size, cy-size), (cx+size, cy+size)], fill=random.choice(food_colors), outline='#fff', width=2)
         
-        # Title banner
         draw.rectangle([(50, 660), (750, 780)], fill='#c92a2a', outline='#a61e1e', width=3)
         
-        # Text
         try:
             font_large = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 28)
             font_small = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 18)
@@ -665,45 +644,102 @@ def main():
             font_small = ImageFont.load_default()
         
         draw.text((200, 50), "AKUMA RECIPE", fill="#c92a2a", font=font_large)
-        draw.text((120, 700), recipe_template["title_ja"], fill="#ffffff", font=font_small)
         
-        # Apply slight blur for softer look
         img = img.filter(ImageFilter.SMOOTH)
-        
         img.save(filepath, "JPEG", quality=90)
-        print(f"Successfully drew programmatic food canvas preview and saved to {filename}!")
-        success = True
+        print(f"  Saved PIL fallback image!")
+        return True
 
-    if success:
-        # Create a database record
+    return False
+
+
+# ============================================================
+# Main
+# ============================================================
+
+def main():
+    existing_recipes = load_recipes()
+    existing_titles = [r.get("title_ja", "") for r in existing_recipes]
+    
+    timestamp = int(time.time())
+    recipe_id = f"recipe_{timestamp}"
+    filename = f"recipe_{timestamp}.jpg"
+    filepath = os.path.join(RECIPE_IMAGES_DIR, filename)
+    
+    hf_token = os.environ.get('HF_TOKEN')
+    
+    # Step 1: Generate recipe content with LLM
+    recipe_data = None
+    if hf_token:
+        print("=" * 60)
+        print("STEP 1: Generating recipe with Hugging Face LLM...")
+        print("=" * 60)
+        recipe_data = generate_recipe_with_llm(hf_token, existing_titles)
+    
+    # Fallback to template if LLM fails
+    if not recipe_data:
+        print("LLM generation failed or no HF_TOKEN. Using fallback template...")
+        # Pick a random template that hasn't been used recently
+        available = [t for t in FALLBACK_TEMPLATES if t["title_ja"] not in existing_titles]
+        if not available:
+            available = FALLBACK_TEMPLATES
+        recipe_data = random.choice(available)
+    
+    # Ensure required fields have defaults
+    if "occasion_ja" not in recipe_data:
+        recipe_data["occasion_ja"] = "友達との楽しい食事会や、SNSで話題になりたい時に！"
+    if "occasion_en" not in recipe_data:
+        recipe_data["occasion_en"] = "For fun dinner parties or when you want to go viral on social media!"
+    if "description_en" not in recipe_data:
+        recipe_data["description_en"] = recipe_data.get("title_en", recipe_data["title_ja"])
+    
+    # Get image prompt from recipe data
+    image_prompt = recipe_data.get("image_prompt") or recipe_data.get("prompt", "")
+    if not image_prompt:
+        # Generate a default prompt from the title
+        image_prompt = f"Cozy anime illustration of {recipe_data.get('title_en', recipe_data['title_ja'])}, delicious food aesthetic, detailed digital art, Ghibli style, warm lighting"
+    
+    print(f"\nRecipe: {recipe_data['title_ja']}")
+    print(f"Image prompt: {image_prompt[:100]}...")
+    
+    # Step 2: Generate image
+    print("\n" + "=" * 60)
+    print("STEP 2: Generating image...")
+    print("=" * 60)
+    
+    img_success = generate_image(image_prompt, filepath, filename, hf_token)
+    
+    if img_success:
         new_recipe = {
             "id": recipe_id,
-            "category": recipe_template["category"],
-            "category_ja": recipe_template["category_ja"],
-            "title_ja": recipe_template["title_ja"],
-            "title_en": recipe_template["title_en"],
-            "description_ja": recipe_template["description_ja"],
-            "description_en": recipe_template["description_en"],
-            "occasion_ja": recipe_template["occasion_ja"],
-            "occasion_en": recipe_template["occasion_en"],
-            "ingredients": recipe_template["ingredients"],
-            "steps": recipe_template["steps"],
-            "prompt": prompt,
+            "category": recipe_data.get("category", "side"),
+            "category_ja": recipe_data.get("category_ja", "おかず"),
+            "title_ja": recipe_data["title_ja"],
+            "title_en": recipe_data.get("title_en", recipe_data["title_ja"]),
+            "description_ja": recipe_data["description_ja"],
+            "description_en": recipe_data.get("description_en", ""),
+            "occasion_ja": recipe_data.get("occasion_ja", ""),
+            "occasion_en": recipe_data.get("occasion_en", ""),
+            "ingredients": recipe_data["ingredients"],
+            "steps": recipe_data["steps"],
+            "prompt": image_prompt,
             "filename": filename,
             "date": time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()),
             "timestamp": timestamp,
             "likes": 0,
-            "views": random.randint(150, 480) # Simulated high seed views to target > 10,000 views monthly
+            "views": random.randint(150, 480)
         }
         
         existing_recipes.insert(0, new_recipe)
         save_recipes(existing_recipes)
-        print("Updated recipes database successfully!")
+        print("\nUpdated recipes database successfully!")
         
-        # Build individual static HTML pages
         generate_individual_pages(existing_recipes)
-        # Re-compile homepage
         generate_homepage(existing_recipes)
+        
+        print(f"\n{'=' * 60}")
+        print(f"SUCCESS: {recipe_data['title_ja']}")
+        print(f"{'=' * 60}")
     else:
         print("ERROR: Image generation completely failed.")
 
