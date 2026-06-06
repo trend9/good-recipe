@@ -252,12 +252,16 @@
     function syncLivePageviews() {
       try {
         const dbRef = firebase.database().ref('pageviews');
-        dbRef.once('value', snapshot => {
+        dbRef.once('value').then(snapshot => {
           const liveViews = snapshot.val() || {};
           recipesData.forEach(r => {
             // Add live firebase views to static json values
             r.views = (r.views || 0) + (liveViews[r.id] || 0);
           });
+          renderRecipesList();
+          calculateStats();
+        }).catch(err => {
+          console.warn("Firebase Live DB query rejected (check rules):", err);
           renderRecipesList();
           calculateStats();
         });
