@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780757307",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "チーズあんこダンプリン",
+    "title_en": "Cheese Red Bean Dumplings",
+    "description_ja": "甘くてしょっぱい食感の衝撃的な新定番！チーズとあんこのハーモニーが最高にクセになる牡蠣粉を使った和洋折衷のデザート。焼き立てのふわふわ食感が癒し系SNS映えを誓約します。",
+    "description_en": "Unique and addictive dessert combines sweet and savory flavors! The amazing combination of cheese and red bean paste creates a harmonious blend. The fluffy texture made with koshi (potato starch) is sure to be a hit on social media especially while still warm.",
+    "occasion_ja": "ひとり時間の特別感アップに！飲み会のデザートにピッタリ",
+    "occasion_en": "Perfect for a cozy me-time treat or a unique dessert at a social gathering.",
+    "ingredients": [
+      {
+        "name": "甘納豆",
+        "amount": "200g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "牡蠣粉",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "ボウルにクリームチーズと砂糖を入れ、柔らかくなるまで混ぜます。",
+      "卵と牛乳を加え、滑らかになるまで混ぜ合わせます。別のボウルで牡蠣粉を加えながらこね、ドロドロ状になるまで混ぜ合わせます。",
+      "焼き型に甘納豆を流し入れ、さらに上からチーズ混ぜた牡蠣粉ミックスを流し入れます。",
+      "180℃のオーブンで25分焼き上がりが待ちきれないので少々焼き色が付く前にかたまりを分けます。"
+    ],
+    "prompt": "Anime-style cozy illustration of cheese and red bean dumpling dessert, served on a vintage plate with a rustic wooden background, pastel colors, detailed food art, warm and inviting atmosphere",
+    "filename": "recipe_1780757307.jpg",
+    "date": "2026-06-06 14:48:36",
+    "timestamp": 1780757307,
+    "likes": 0,
+    "views": 194
+  },
+  {
     "id": "recipe_1780756969",
     "category": "dessert",
     "category_ja": "スイーツ",
