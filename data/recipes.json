@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780726938",
+    "category": "noodle",
+    "category_ja": "麺類",
+    "title_ja": "メロンソーダラーメン",
+    "title_en": "Melon Soda Ramen",
+    "description_ja": "シュワシュワの炭酸メロンソーダと塩ラーメンスープの奇跡のコラボレーション！見た目のインパクトと爽快なのどごしが最高です。",
+    "description_en": "A miraculous collaboration of fizzy carbonated melon soda and salt ramen soup! The visual impact and refreshing throat feel are outstanding.",
+    "occasion_ja": "暑い夏の日のランチや、SNSでバズる写真を撮りたい女子会に！",
+    "occasion_en": "For hot summer lunches or girls' night outs looking to snap viral photos!",
+    "ingredients": [
+      {
+        "name": "塩ラーメン（インスタント）",
+        "amount": "1袋"
+      },
+      {
+        "name": "無糖炭酸水",
+        "amount": "150ml"
+      },
+      {
+        "name": "メロンシロップ",
+        "amount": "30ml"
+      },
+      {
+        "name": "バニラアイス",
+        "amount": "1ディッシャー"
+      },
+      {
+        "name": "チャーシュー",
+        "amount": "1枚"
+      },
+      {
+        "name": "サクランボ（缶詰）",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "ラーメンの麺を通常通り茹で、冷水でしめます。",
+      "付属の塩スープの素を少量の温水で溶かし、炭酸水とメロンシロップを混ぜて冷やします。",
+      "器に麺と冷たいメロンスープを注ぎます。",
+      "トッピングとしてバニラアイス、チャーシュー、サクランボをのせて完成。"
+    ],
+    "prompt": "Cozy anime illustration of a bowl of ramen filled with glowing emerald green melon soda broth, topped with a scoop of vanilla ice cream and a cherry, detailed food digital art, Makoto Shinkai style",
+    "filename": "recipe_1780726938.jpg",
+    "date": "2026-06-06 15:23:24",
+    "timestamp": 1780726938,
+    "likes": 0,
+    "views": 368
+  },
+  {
     "id": "recipe_1780725999",
     "category": "noodle",
     "category_ja": "麺類",

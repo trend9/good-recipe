@@ -290,11 +290,11 @@ def generate_individual_pages(recipes):
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{title_ja} - バズレシピ研究所</title>
+  <title>{title_ja} - あくまれしぴ</title>
   <meta name="description" content="{desc_ja}">
   
   <!-- Open Graph -->
-  <meta property="og:title" content="{title_ja} - バズレシピ研究所">
+  <meta property="og:title" content="{title_ja} - あくまれしぴ">
   <meta property="og:description" content="{desc_ja}">
   <meta property="og:image" content="https://good-recipe.vercel.app/recipes/{filename}">
   <meta property="og:type" content="article">
@@ -310,10 +310,10 @@ def generate_individual_pages(recipes):
     <div class="nav-container">
       <a href="../" class="logo">
         <span class="logo-icon"></span>
-        バズレシピ研究所
+        あくまれしぴ
       </a>
       <div>
-        <a href="../#host" class="btn btn-secondary" style="padding: 0.4rem 1rem; font-size: 0.85rem;">管理者CMS</a>
+        <a href="/host" class="btn btn-secondary" style="padding: 0.4rem 1rem; font-size: 0.85rem;">管理者ログイン</a>
       </div>
     </div>
   </header>
@@ -360,7 +360,7 @@ def generate_individual_pages(recipes):
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2026 バズレシピ研究所. All rights reserved.</p>
+    <p>&copy; 2026 あくまれしぴ. All rights reserved.</p>
   </footer>
 </body>
 </html>
@@ -403,7 +403,7 @@ def generate_homepage(recipes):
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>バズレシピ研究所 - 1日24個投稿される奇抜アレンジレシピの聖地</title>
+  <title>あくまれしぴ - 1日24個投稿される奇抜アレンジレシピの聖地</title>
   <meta name="description" content="クックパッドを超える新感覚！SNSで絶対バズる奇抜で美味しい料理レシピを大公開。ポストイット風の見やすい材料リストと美味しそうなアニメ調フード画像が満載。">
   
   <!-- CSS Link -->
@@ -416,10 +416,10 @@ def generate_homepage(recipes):
     <div class="nav-container">
       <a href="#" class="logo">
         <span class="logo-icon"></span>
-        バズレシピ研究所
+        あくまれしぴ
       </a>
       <div style="display: flex; gap: 0.5rem; align-items: center;">
-        <a href="host.html" class="btn btn-secondary" style="padding: 0.4rem 1rem; font-size: 0.85rem;">管理者CMS</a>
+        <a href="/host" class="btn btn-secondary" style="padding: 0.4rem 1rem; font-size: 0.85rem;">管理者ログイン</a>
       </div>
     </div>
   </header>
@@ -427,10 +427,10 @@ def generate_homepage(recipes):
   <!-- Hero Banner -->
   <section style="text-align: center; padding: 4rem 1rem 2rem; background: linear-gradient(180deg, #fff9db 0%, var(--bg-color) 100%);">
     <h1 style="font-family: 'Kiwi Maru', sans-serif; font-size: 2.5rem; color: #c92a2a; margin-bottom: 1rem;">
-      🍽️ バズを狙う！奇抜レシピの決定版
+      😈 あくまれしぴ - 奇抜アレンジレシピの聖地
     </h1>
     <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto 1.5rem; font-size: 1.1rem;">
-      女の子ウケ抜群のパステル付箋風デザイン。ローカルAIが描き下ろした最高にエモいアニメ調フード画像と共にお届け。
+      女の子ウケ抜群 of パステル付箋風デザイン。ローカルAIが描き下ろした最高にエモいアニメ調フード画像と共にお届け。
     </p>
   </section>
 
@@ -443,7 +443,7 @@ def generate_homepage(recipes):
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2026 バズレシピ研究所. All rights reserved.</p>
+    <p>&copy; 2026 あくまれしぴ. All rights reserved.</p>
   </footer>
 </body>
 </html>
