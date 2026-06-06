@@ -139,11 +139,8 @@
           window.location.reload();
         });
       } else {
-        // Sign in: Try popup first (friendly for local testing), fallback to redirect if blocked
-        firebase.auth().signInWithPopup(provider).catch(err => {
-          console.warn("Popup blocked, trying redirect method...", err);
-          firebase.auth().signInWithRedirect(provider);
-        });
+        // Sign in: Direct redirect method to prevent popup immediate close bugs
+        firebase.auth().signInWithRedirect(provider);
       }
     });
 
