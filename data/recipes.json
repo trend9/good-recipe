@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1780748432",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "たこ焼きホットケーキ",
+    "title_en": "Takoyaki Hotcake",
+    "description_ja": "たこ焼き器を使って丸く作ったベビーカステラ風ホットケーキの中に、本物のタコをイン！ソースの代わりにハチミツをかけて召し上がれ。",
+    "description_en": "Round baby-castella style hotcakes made using a takoyaki griddle, with real octopus chunks hidden inside! Top with honey instead of savory sauce.",
+    "occasion_ja": "お子様と一緒に楽しむタコパや、ちょっとしたおうちカフェ時間に！",
+    "occasion_en": "For a takoyaki party with kids or a cute home cafe afternoon!",
+    "ingredients": [
+      {
+        "name": "ホットケーキミックス",
+        "amount": "150g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "たまご",
+        "amount": "1個"
+      },
+      {
+        "name": "茹でダコ（ぶつ切り）",
+        "amount": "20カット"
+      },
+      {
+        "name": "はちみつ / メープルシロップ",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "ボウルにホットケーキミックス、牛乳、たまごを入れてダマがなくなるまで混ぜます。",
+      "温めたたこ焼き器に薄く油をひき、生地を穴の半分まで流し込みます。",
+      "中央にタコのぶつ切りを1つずつ入れ、さらに上から生地を溢れるくらい注ぎます。",
+      "竹串でくるくると回しながら綺麗な球体に焼き上げ、はちみつをかけて完成。"
+    ],
+    "prompt": "Anime illustration of golden round takoyaki-shaped pancake balls, glistening with honey and butter syrup, on a warm wooden board, cute illustration style, warm cozy lighting",
+    "filename": "recipe_1780748432.jpg",
+    "date": "2026-06-06 12:21:39",
+    "timestamp": 1780748432,
+    "likes": 0,
+    "views": 251
+  },
+  {
     "id": "recipe_1780747723",
     "category": "side",
     "category_ja": "おかず",
