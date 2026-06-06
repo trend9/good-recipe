@@ -517,32 +517,33 @@ def main():
                 print(f"Request failed: {type(e).__name__}")
                 time.sleep(3)
                 
-    # 2. Pollinations AI Fallback with anime flux tags
+    # 2. Pollinations AI Fallback (free tier, no model param to avoid 402)
     if not success:
         print("Falling back to Pollinations AI...")
-        pollinations_configs = [
-            {"model": "flux", "params": f"?width=1024&height=1024&nologo=true&seed={seed}&model=flux"},
-            {"model": "flux-realism", "params": f"?width=1024&height=1024&nologo=true&seed={seed}&model=flux-realism"}
+        pollinations_params_list = [
+            f"?width=768&height=768&nologo=true&seed={seed}&enhance=true",
+            f"?width=512&height=512&nologo=true&seed={seed}",
         ]
         
-        for config in pollinations_configs:
-            url_attempt = f"https://image.pollinations.ai/prompt/{encoded_prompt}{config['params']}"
+        for params in pollinations_params_list:
+            url_attempt = f"https://image.pollinations.ai/prompt/{encoded_prompt}{params}"
             print(f"Querying Pollinations AI: {url_attempt}")
             for attempt in range(1, 4):
                 try:
-                    response = requests.get(url_attempt, timeout=60)
-                    if response.status_code == 200:
+                    response = requests.get(url_attempt, timeout=120, allow_redirects=True)
+                    content_type = response.headers.get('content-type', '')
+                    if response.status_code == 200 and ('image' in content_type or len(response.content) > 10000):
                         with open(filepath, 'wb') as f:
                             f.write(response.content)
-                        print(f"Saved Pollinations image to {filename}!")
+                        print(f"Saved Pollinations image to {filename}! ({len(response.content)} bytes)")
                         success = True
                         break
                     else:
-                        print(f"Failed with code {response.status_code}. Retrying...")
-                        time.sleep(3)
+                        print(f"Failed: code={response.status_code}, type={content_type}, size={len(response.content)}. Retrying...")
+                        time.sleep(5)
                 except Exception as e:
                     print(f"Pollinations error: {e}")
-                    time.sleep(3)
+                    time.sleep(5)
             if success:
                 break
 
@@ -622,29 +623,54 @@ def main():
     if not success:
         print("All APIs rate-limited. Generating fallback local art programmatically...")
         try:
-            from PIL import Image, ImageDraw, ImageFont
+            from PIL import Image, ImageDraw, ImageFont, ImageFilter
         except ImportError:
             import subprocess
             subprocess.run(["pip", "install", "pillow"], check=True)
-            from PIL import Image, ImageDraw, ImageFont
+            from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-        # Create a stylish pastel card with text and cooking elements
-        img = Image.new('RGB', (800, 800), color='#fff9db') # warm sticky note yellow
+        # Create a rich gradient background food card
+        img = Image.new('RGB', (800, 800), color='#fff9db')
         draw = ImageDraw.Draw(img)
         
-        # Draw some anime style kitchen elements/stripes
-        draw.rectangle([(20, 20), (780, 780)], fill='#ffe3e3', outline='#c92a2a', width=12) # Warm soft red inner background
-        draw.ellipse([(200, 200), (600, 600)], fill='#fff9db', outline='#ffd43b', width=8) # Dish plate circle
+        # Warm gradient background
+        for y in range(800):
+            r = int(255 - (y / 800) * 30)
+            g = int(245 - (y / 800) * 60)
+            b = int(220 - (y / 800) * 100)
+            draw.line([(0, y), (800, y)], fill=(r, g, b))
         
-        # Draw simulated food items inside the dish
-        draw.ellipse([(280, 280), (520, 520)], fill='#e6fcf5', outline='#20c997', width=4) # green food garnish
-        draw.rectangle([(340, 320), (460, 480)], fill='#ffa94d', outline='#d9480f', width=4) # main food item center
+        # Decorative circles (plate/bowl)
+        draw.ellipse([(100, 150), (700, 650)], fill='#fff5f5', outline='#e8590c', width=6)
+        draw.ellipse([(150, 200), (650, 600)], fill='#fff9db', outline='#fcc419', width=4)
         
-        # Text details
-        draw.text((250, 80), "DELICIOUS RECIPE", fill="#c92a2a")
-        draw.text((250, 700), recipe_template["title_ja"], fill="#333333")
+        # Food elements
+        food_colors = ['#ff6b6b', '#51cf66', '#ffa94d', '#845ef7', '#339af0']
+        for i in range(8):
+            cx = random.randint(250, 550)
+            cy = random.randint(280, 520)
+            size = random.randint(30, 70)
+            color = random.choice(food_colors)
+            draw.ellipse([(cx-size, cy-size), (cx+size, cy+size)], fill=color, outline='#fff', width=2)
         
-        img.save(filepath, "JPEG")
+        # Title banner
+        draw.rectangle([(50, 660), (750, 780)], fill='#c92a2a', outline='#a61e1e', width=3)
+        
+        # Text
+        try:
+            font_large = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 28)
+            font_small = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 18)
+        except (OSError, IOError):
+            font_large = ImageFont.load_default()
+            font_small = ImageFont.load_default()
+        
+        draw.text((200, 50), "AKUMA RECIPE", fill="#c92a2a", font=font_large)
+        draw.text((120, 700), recipe_template["title_ja"], fill="#ffffff", font=font_small)
+        
+        # Apply slight blur for softer look
+        img = img.filter(ImageFilter.SMOOTH)
+        
+        img.save(filepath, "JPEG", quality=90)
         print(f"Successfully drew programmatic food canvas preview and saved to {filename}!")
         success = True
 

@@ -188,65 +188,39 @@
       }
     });
 
-    window.addEventListener('DOMContentLoaded', () => {
-      provider = new firebase.auth.GoogleAuthProvider();
-      provider.addScope('email');
-      provider.addScope('profile');
 
-      loginBtn = document.getElementById('loginBtn');
-      alertBox = document.getElementById('alertBox');
-      alertTitle = document.getElementById('alertTitle');
-      alertDesc = document.getElementById('alertDesc');
-      cmsConsole = document.getElementById('cmsConsole');
 
-      // Bind Click
-      loginBtn.addEventListener('click', () => {
-        const user = firebase.auth().currentUser;
-        if (user) {
-          firebase.auth().signOut().then(() => {
-            window.location.reload();
-          });
-        } else {
-          console.log("Initiating Popup Sign-In...");
-          firebase.auth().signInWithPopup(provider).catch(e => {
-            console.error("signInWithPopup failed:", e);
-            alert("ログインエラー: " + e.message);
-          });
-        }
-      });
-    });
 
     function loadRecipesDatabase() {
-      fetch('data/recipes.json')
-        .then(res => res.json())
-        .then(data => {
-          recipesData = data;
+      const paths = ['data/recipes.json', '/data/recipes.json', '../data/recipes.json'];
+      let pathIndex = 0;
+      
+      function tryFetch() {
+        if (pathIndex >= paths.length) {
+          console.error("All recipe fetch paths failed. Using empty list.");
+          recipesData = [];
           syncLivePageviews();
-        })
-        .catch(err => {
-          console.error("Database loading error, trying relative fallback...", err);
-          fetch('../data/recipes.json')
-            .then(res => res.json())
-            .then(data => {
-              recipesData = data;
-              syncLivePageviews();
-            })
-            .catch(e => {
-              recipesData = [
-                {
-                  "id": "recipe_1780725999",
-                  "category": "noodle",
-                  "category_ja": "麺類",
-                  "title_ja": "綿あめカレーうどん",
-                  "description_ja": "ふわふわの甘い綿あめをスパイシーなカレーうどんに溶かして食べる、衝撃の新感覚レシピ！",
-                  "filename": "recipe_1780725999.jpg",
-                  "date": "2026-06-06 15:00:00",
-                  "views": 430
-                }
-              ];
-              syncLivePageviews();
-            });
-        });
+          return;
+        }
+        const url = paths[pathIndex];
+        console.log("Fetching recipes from:", url);
+        fetch(url)
+          .then(res => {
+            if (!res.ok) throw new Error("HTTP " + res.status);
+            return res.json();
+          })
+          .then(data => {
+            console.log("Loaded", data.length, "recipes from", url);
+            recipesData = data;
+            syncLivePageviews();
+          })
+          .catch(err => {
+            console.warn("Failed to load from", url, err);
+            pathIndex++;
+            tryFetch();
+          });
+      }
+      tryFetch();
     }
 
     function syncLivePageviews() {
