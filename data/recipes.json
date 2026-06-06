@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780752644",
+    "category": "noodle",
+    "category_ja": "麺類",
+    "title_ja": "綿あめカレーうどん",
+    "title_en": "Cotton Candy Curry Udon",
+    "description_ja": "ふわふわの甘い綿あめをスパイシーなカレーうどんに溶かして食べる、衝撃の新感覚レシピ！甘みと辛みが絶妙にマッチします。",
+    "description_en": "A shocking new sensory recipe where fluffy sweet cotton candy is dissolved into spicy curry udon!",
+    "occasion_ja": "週末のホームパーティーや、甘辛の新しい扉を開きたい時に！",
+    "occasion_en": "Perfect for weekend house parties!",
+    "ingredients": [
+      {
+        "name": "冷凍うどん",
+        "amount": "1玉"
+      },
+      {
+        "name": "カレールー",
+        "amount": "1皿分"
+      },
+      {
+        "name": "和風だし",
+        "amount": "300ml"
+      },
+      {
+        "name": "綿あめ",
+        "amount": "大きな塊1個"
+      },
+      {
+        "name": "豚バラ肉",
+        "amount": "50g"
+      },
+      {
+        "name": "ネギ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "豚バラ肉を炒め、和風だしとカレールーを加えてカレーつゆを作ります。",
+      "茹でたうどんをつゆに入れ、器に盛ります。",
+      "食べる直前に、うどん全体を覆うように大きな綿あめをのせます。",
+      "綿あめがつゆに溶けていく様子を楽しみながら混ぜて召し上がれ！"
+    ],
+    "prompt": "Cozy anime illustration of a steaming bowl of japanese curry udon, topped with a giant fluffy cloud of pink cotton candy, delicious food aesthetic, Ghibli style, detailed digital art",
+    "filename": "recipe_1780752644.jpg",
+    "date": "2026-06-06 13:32:28",
+    "timestamp": 1780752644,
+    "likes": 0,
+    "views": 201
+  },
+  {
     "id": "recipe_1780752084",
     "category": "dessert",
     "category_ja": "デザート",
