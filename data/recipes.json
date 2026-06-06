@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780773072",
+    "category": "noodle",
+    "category_ja": "丼物",
+    "title_ja": "ハニーマスタードカツ丼",
+    "title_en": "Honey Mustard Cutlet Bowl",
+    "description_ja": "極厚カツをトッピングに特製ハニーマスタードをのせた、悪魔的に美味しそうな丼物!",
+    "description_en": "A devilishly delicious bowl dish topped with a thick cutlet and our special honey mustard sauce!",
+    "occasion_ja": "お弁当やランチにぴったり!",
+    "occasion_en": "Perfect for bento or lunch!",
+    "ingredients": [
+      {
+        "name": "豚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "2t"
+      },
+      {
+        "name": "新米",
+        "amount": "100g"
+      },
+      {
+        "name": "新鮮なレタス",
+        "amount": "1枚"
+      },
+      {
+        "name": "トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "生しょうが",
+        "amount": "1本"
+      }
+    ],
+    "steps": [
+      "豚カツを調理し、熱々の新米の上に乗せる。",
+      "特製ハニーマスタードを豚カツにのせて、美味しさを引き立てる。",
+      "新鮮なレタスとトマトを新米の上に乗せ、生しょうがを刻んでのせる。",
+      "最後に特製ハニーマスタードをもう一度のせて、悪魔的な美味しさを完成させる!"
+    ],
+    "prompt": "Cozy anime illustration of the dish, detailed food digital art, Ghibli style: A steaming hot bowl of rice topped with a juicy cutlet, fresh lettuce, tomato, and a sprinkle of grated ginger, all finished with a drizzle of our special honey mustard sauce.",
+    "filename": "recipe_1780773072.jpg",
+    "date": "2026-06-06 19:11:22",
+    "timestamp": 1780773072,
+    "likes": 0,
+    "views": 475
+  },
+  {
     "id": "recipe_1780766243",
     "category": "rice",
     "category_ja": "ご飯料理",
