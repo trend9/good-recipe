@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780766243",
+    "category": "rice",
+    "category_ja": "ご飯料理",
+    "title_ja": "ガーリックバター焼き海老の海老ピラフ丼",
+    "title_en": "Garlic Butter Shrimp Pilaf Bowl with Seared Shrimp",
+    "description_ja": "ガーリックバターの香り高い海老と、ふわふわの海老ピラフが絶妙にマッチした、見た目も美味しさもたっぷりの一品。海老の旨みとバターのコクが口いっぱいに広がる悪魔的な美味しさ！",
+    "description_en": "A delightful bowl featuring garlic butter shrimp and fluffy shrimp pilaf, perfectly matched in both appearance and taste. The umami of the shrimp and the richness of the butter will spread across your palate.",
+    "occasion_ja": "特別な日や家族との食卓で、驚きと喜びを与える一品に！",
+    "occasion_en": "Perfect for special occasions or family dinners to surprise and delight!",
+    "ingredients": [
+      {
+        "name": "海老（中サイズ）",
+        "amount": "8匹"
+      },
+      {
+        "name": "ご飯",
+        "amount": "2杯"
+      },
+      {
+        "name": "バター",
+        "amount": "30g"
+      },
+      {
+        "name": "にんにく",
+        "amount": "2片"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "パセリ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "海老は殻をむき、背ワタを取り除いておく。にんにくはみじん切り、玉ねぎはみじん切りにする。",
+      "フライパンにバターを溶かし、にんにくを香りが出るまで炒める。その後、玉ねぎを加え、しんなりするまで炒める。",
+      "海老を加え、中まで火が通るように焼く。フライパンの半分にご飯を盛り、海老とバターをかける。",
+      "完成した海老ピラフ丼にパセリを散らし、完成！"
+    ],
+    "prompt": "A cozy anime illustration of a shrimp pilaf bowl with garlic butter shrimp, detailed food digital art, Ghibli style. The bowl is filled with fluffy rice and topped with succulent shrimp glazed in golden garlic butter, garnished with fresh parsley. The dish is presented on a rustic wooden table with a soft, warm glow.",
+    "filename": "recipe_1780766243.jpg",
+    "date": "2026-06-06 17:17:30",
+    "timestamp": 1780766243,
+    "likes": 0,
+    "views": 479
+  },
+  {
     "id": "recipe_1780760000",
     "category": "rice",
     "category_ja": "ご飯もの",
