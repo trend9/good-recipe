@@ -105,7 +105,7 @@ def generate_recipe_with_llm(hf_token, existing_titles):
         print(f"Trying LLM model: {model}...")
         
         # Try chat completions API first
-        chat_url = f"https://api-inference.huggingface.co/models/{model}/v1/chat/completions"
+        chat_url = "https://router.huggingface.co/v1/chat/completions"
         chat_payload = {
             "model": model,
             "messages": [
@@ -145,7 +145,7 @@ def generate_recipe_with_llm(hf_token, existing_titles):
                     # Try text generation API as fallback
                     if attempt == 1:
                         print("  Trying text generation API instead...")
-                        text_url = f"https://api-inference.huggingface.co/models/{model}"
+                        text_url = f"https://router.huggingface.co/hf-inference/models/{model}"
                         full_prompt = f"<s>[INST] {LLM_SYSTEM_PROMPT}\n\n{user_prompt} [/INST]"
                         text_payload = {
                             "inputs": full_prompt,
@@ -515,7 +515,7 @@ def generate_image(prompt, filepath, filename, hf_token):
         
         for hf_model in hf_image_models:
             print(f"Attempting HF image model: {hf_model}")
-            hf_url = f"https://api-inference.huggingface.co/models/{hf_model}"
+            hf_url = f"https://router.huggingface.co/hf-inference/models/{hf_model}"
             
             for attempt in range(1, 4):
                 try:
