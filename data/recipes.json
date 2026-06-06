@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780783384",
+    "category": "noodle",
+    "category_ja": "ラーメン",
+    "title_ja": "ローストビーフと特製オニオンソースのラーメン",
+    "title_en": "Roast Beef and Special Onion Sauce Ramen",
+    "description_ja": "ローストビーフと特製オニオンソースの美味しい組み合わせをラーメンに纏めました。豚骨ラーメンの旨味と、オニオンソースの濃厚さが相性が抜群です。",
+    "description_en": "A delicious combination of roast beef and special onion sauce, wrapped in a ramen dish. The rich flavor of the pork bone ramen and the thick onion sauce are perfectly matched.",
+    "occasion_ja": "ビーフラーメンを求めている人にオススメのレシピです。",
+    "occasion_en": "Recommended for those who are looking for a beef ramen.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "100g"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "50g"
+      },
+      {
+        "name": "豚骨ラーメン",
+        "amount": "1パック"
+      },
+      {
+        "name": "生姜",
+        "amount": "1cm"
+      },
+      {
+        "name": "生卵",
+        "amount": "1個"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ローストビーフを薄切りにして、生姜と黒胡椒を加えて混ぜます。",
+      "豚骨ラーメンを調理して、特製オニオンソースを入れて混ぜます。",
+      "生卵を割って、ラーメンに乗せます。",
+      "ローストビーフをラーメンに乗せて、完成です!"
+    ],
+    "prompt": "A steaming hot bowl of ramen with roast beef, special onion sauce, and a soft-boiled egg, garnished with green onions and a sprinkle of black pepper.",
+    "filename": "recipe_1780783384.jpg",
+    "date": "2026-06-06 22:03:16",
+    "timestamp": 1780783384,
+    "likes": 0,
+    "views": 305
+  },
+  {
     "id": "recipe_1780779467",
     "category": "noodle",
     "category_ja": "丼物",
