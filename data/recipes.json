@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1780737713",
+    "category": "side",
+    "category_ja": "おかず",
+    "title_ja": "ポテトチップスオムレツ",
+    "title_en": "Potato Chips Omelet",
+    "description_ja": "卵液の中にポテトチップスをそのまま砕き入れてフライパンで丸く焼き上げたスペイン風オムレツ。ポテチの塩気とサクサク感が卵と絶妙にマッチ！",
+    "description_en": "A Spanish-style omelet made by crushing potato chips directly into egg wash and frying them round. The saltiness and crunchiness of potato chips match eggs perfectly!",
+    "occasion_ja": "お酒のおつまみが今すぐ欲しいとき、手軽な朝ごはんのおかずに！",
+    "occasion_en": "When you need a quick drink snack or an easy morning side dish!",
+    "ingredients": [
+      {
+        "name": "たまご",
+        "amount": "3個"
+      },
+      {
+        "name": "ポテトチップス（うすしお）",
+        "amount": "1/2袋"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ケチャップ",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "たまごをボウルに割り入れ、牛乳を加えてよく混ぜます。",
+      "ポテトチップスを手で荒く砕きながら卵液に入れ、軽く浸します。",
+      "フライパンにオリーブオイルを熱し、卵液を一気に流し込みます。",
+      "弱火で両面をじっくりと丸く焼き上げ、お好みでケチャップを添えます。"
+    ],
+    "prompt": "Anime illustration of a round Spanish-style golden potato omelette slice on a white ceramic plate, steam rising, warm cozy food art",
+    "filename": "recipe_1780737713.jpg",
+    "date": "2026-06-06 09:22:59",
+    "timestamp": 1780737713,
+    "likes": 0,
+    "views": 294
+  },
+  {
     "id": "recipe_1780730976",
     "category": "bread",
     "category_ja": "パン類",
