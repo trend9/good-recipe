@@ -9,6 +9,7 @@
   <!-- Firebase App & Auth SDKs -->
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-database-compat.js"></script>
 </head>
 <body>
 
@@ -220,8 +221,7 @@
         .then(res => res.json())
         .then(data => {
           recipesData = data;
-          renderRecipesList();
-          calculateStats();
+          syncLivePageviews();
         })
         .catch(err => {
           console.error("Database loading error, trying relative fallback...", err);
@@ -229,11 +229,9 @@
             .then(res => res.json())
             .then(data => {
               recipesData = data;
-              renderRecipesList();
-              calculateStats();
+              syncLivePageviews();
             })
             .catch(e => {
-              // Mock fallback to allow offline/local dashboard loading
               recipesData = [
                 {
                   "id": "recipe_1780725999",
@@ -246,10 +244,28 @@
                   "views": 430
                 }
               ];
-              renderRecipesList();
-              calculateStats();
+              syncLivePageviews();
             });
         });
+    }
+
+    function syncLivePageviews() {
+      try {
+        const dbRef = firebase.database().ref('pageviews');
+        dbRef.once('value', snapshot => {
+          const liveViews = snapshot.val() || {};
+          recipesData.forEach(r => {
+            // Add live firebase views to static json values
+            r.views = (r.views || 0) + (liveViews[r.id] || 0);
+          });
+          renderRecipesList();
+          calculateStats();
+        });
+      } catch (err) {
+        console.warn("Firebase Live DB sync warning:", err);
+        renderRecipesList();
+        calculateStats();
+      }
     }
 
     function calculateStats() {
