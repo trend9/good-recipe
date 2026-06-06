@@ -119,29 +119,43 @@
     };
     firebase.initializeApp(firebaseConfig);
 
-    const provider = new firebase.auth.GoogleAuthProvider();
+    let provider;
     let recipesData = [];
     let selectedRecipeId = null;
+    let loginBtn, alertBox, alertTitle, alertDesc, cmsConsole;
 
-    // Login/Logout buttons
-    const loginBtn = document.getElementById('loginBtn');
-    const alertBox = document.getElementById('alertBox');
-    const alertTitle = document.getElementById('alertTitle');
-    const alertDesc = document.getElementById('alertDesc');
-    const cmsConsole = document.getElementById('cmsConsole');
+    window.addEventListener('DOMContentLoaded', () => {
+      // Initialize Provider standard parameters
+      provider = new firebase.auth.GoogleAuthProvider();
+      provider.addScope('email');
+      provider.addScope('profile');
 
-    // Unified Authentication Handler
-    loginBtn.addEventListener('click', () => {
-      const user = firebase.auth().currentUser;
-      if (user) {
-        // Sign out
-        firebase.auth().signOut().then(() => {
-          window.location.reload();
-        });
-      } else {
-        // Sign in: Direct redirect method to prevent popup immediate close bugs
-        firebase.auth().signInWithRedirect(provider);
-      }
+      loginBtn = document.getElementById('loginBtn');
+      alertBox = document.getElementById('alertBox');
+      alertTitle = document.getElementById('alertTitle');
+      alertDesc = document.getElementById('alertDesc');
+      cmsConsole = document.getElementById('cmsConsole');
+
+      // Bind Click
+      loginBtn.addEventListener('click', () => {
+        try {
+          const user = firebase.auth().currentUser;
+          if (user) {
+            firebase.auth().signOut().then(() => {
+              window.location.reload();
+            });
+          } else {
+            console.log("Initiating Redirect Sign-In...");
+            firebase.auth().signInWithRedirect(provider).catch(e => {
+              console.error("signInWithRedirect failed:", e);
+              alert("ログインエラー: " + e.message);
+            });
+          }
+        } catch (err) {
+          console.error("Auth trigger error:", err);
+          alert("エラー: " + err.message);
+        }
+      });
     });
 
     firebase.auth().onAuthStateChanged(user => {
