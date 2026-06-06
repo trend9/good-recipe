@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780765517",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "ゼリーカレーうどんプリン",
+    "title_en": "Curry Udon Jelly Pudding",
+    "description_ja": "ゼリーとカレーうどんを融合させた、見た目も食感もビックリのデザート！甘辛いカレーの風味がゼリーに染み込み、 typціcalなプリンのような食感が楽しい！",
+    "description_en": "A surprising dessert that combines jelly and curry udon! The sweet and savory flavor of curry soaks into the jelly, creating a unique experience similar to classic pudding.",
+    "occasion_ja": "友達とのおっさん男子の喫茶店マネゴロや、ハロウィンパーティー、驚きのデザートが欲しい時",
+    "occasion_en": "For casual gatherings with friends, Halloween parties, or when you want a surprising dessert",
+    "ingredients": [
+      {
+        "name": "ゼリー（無糖）",
+        "amount": "2個"
+      },
+      {
+        "name": "カレーうどん（完成品）",
+        "amount": "1食分"
+      },
+      {
+        "name": "牛乳",
+        "amount": "30ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      },
+      {
+        "name": "コンデンスミルク",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "マカダミアナッツ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "カレーうどんを完成させ、少し冷まし、たり одреずに牛乳、砂糖、コンデンスミルクを加えて混ぜます。",
+      "ゼリーを溶いて、カレーうどんのスープを少量加え、混ぜます。",
+      "溶かしたゼリーをプリン型に注ぎ、冷蔵庫で冷やします。",
+      "固まったらマカダミアナッツをトッピングして完成です。"
+    ],
+    "prompt": "Cozy anime illustration of a colorful dish with a vibrant curry udon jelly pudding in a clear glass, detailed food digital art, Ghibli style, featuring a inviting the curry udon bubbles and garnished with crunchy macadamia nuts",
+    "filename": "recipe_1780765517.jpg",
+    "date": "2026-06-06 17:05:23",
+    "timestamp": 1780765517,
+    "likes": 0,
+    "views": 216
+  },
+  {
     "id": "recipe_1780758568",
     "category": "dessert",
     "category_ja": "デザート",
