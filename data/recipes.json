@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1780744808",
+    "category": "noodle",
+    "category_ja": "麺類",
+    "title_ja": "プリン醤油うどん（ウニ風風）",
+    "title_en": "Pudding Soy Sauce Udon (Sea Urchin Style)",
+    "description_ja": "カスタードプリンに醤油をかけると「ウニ」の味になる！？その噂を本格的なうどんで再現。クリーミーで濃厚なコクがモチモチうどんに絡みます。",
+    "description_en": "Does pudding with soy sauce taste like sea urchin?! Recreated that rumor in an authentic udon dish. Creamy rich depth coats the chewy udon noodles.",
+    "occasion_ja": "安価で高級ウニ気分を味わいたい給料日前や、好奇心旺盛な友達との食事に！",
+    "occasion_en": "For days before payday when you want to feel luxurious on a budget, or meals with curious friends!",
+    "ingredients": [
+      {
+        "name": "冷凍うどん",
+        "amount": "1玉"
+      },
+      {
+        "name": "市販のカスタードプリン",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油 / めんつゆ",
+        "amount": "大さじ1.5"
+      },
+      {
+        "name": "刻み海苔",
+        "amount": "適量"
+      },
+      {
+        "name": "わさび",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "冷凍うどんを電子レンジで加熱し、器に盛ります。",
+      "温かいうどんの上に、カスタードプリンをドカンとまるごと1個のせます。",
+      "醤油（またはめんつゆ）を回しかけ、わさびと刻み海苔をトッピングします。",
+      "プリンをしっかりと崩しながら、全体を均一に混ぜ合わせて召し上がれ。"
+    ],
+    "prompt": "Anime style illustration of hot udon noodles topped with a single custard pudding shaking on top, drizzled with dark soy sauce and green nori seaweed, Ghibli food aesthetic",
+    "filename": "recipe_1780744808.jpg",
+    "date": "2026-06-06 11:21:13",
+    "timestamp": 1780744808,
+    "likes": 0,
+    "views": 170
+  },
+  {
     "id": "recipe_1780737713",
     "category": "side",
     "category_ja": "おかず",
