@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780756969",
+    "category": "dessert",
+    "category_ja": "スイーツ",
+    "title_ja": "プリン焼きそばプリンフルーツタルト",
+    "title_en": "Pudding Stir-Fried Noodle Fruit Tart",
+    "description_ja": "甘いプリンと香ばしい焼きそばがコラボ！タルト型に焼きそばを詰めてプリンに煮込み、フルーツをトッピング。見た目のインパクトと味の驚きがSNSでバズる一品です。",
+    "description_en": "A surprising fusion of sweet pudding and savory stir-fried noodles! Cook noodles in pudding and top with fruits in a tart mold. The visual impact and flavor combination are sure to go viral on social media.",
+    "occasion_ja": "パーティーやデザートタイムに。見た目が華やかでインスタ映えするため、記念日やお祝いにも最適！",
+    "occasion_en": "Party or dessert time. Perfect for special occasions and celebrations as it's very photogenic.",
+    "ingredients": [
+      {
+        "name": "あくもない卵",
+        "amount": "4個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "400ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "80g"
+      },
+      {
+        "name": "焼きそば用麺",
+        "amount": "1パック"
+      },
+      {
+        "name": "フルーツ（イチゴ・ブルーベリー等）",
+        "amount": "適量"
+      },
+      {
+        "name": "角型のタルト型",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "タルト型の内側をラードやマルガリンで塗っておきます。材料の卵をボウルに入れ、牛乳と砂糖を加えよく混ぜ、ふるいにかけます。",
+      "鍋に材料の卵液を入れてtoshi、とろみがつくようになってきたら、焼きそば用麺を入れます。",
+      "タルト型に火が通った焼きそばを流し込み、ひととおり火を通したら扉を閉めて半熟プリン状にします。",
+      "冷蔵庫で冷やしたら、タルト型から外し、好きなフルーツをトッピングして完成です。"
+    ],
+    "prompt": "A vibrant and colorful anime-style illustration of a pudding stir-fried noodle fruit tart in a tart mold, topped with assorted fresh fruits, detailed food digital art, Ghibli style, appetizing and visually appealing",
+    "filename": "recipe_1780756969.jpg",
+    "date": "2026-06-06 14:43:00",
+    "timestamp": 1780756969,
+    "likes": 0,
+    "views": 169
+  },
+  {
     "id": "recipe_1780754400",
     "category": "noodle",
     "category_ja": "麺料理",
