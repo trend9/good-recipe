@@ -134,6 +134,16 @@
       firebase.auth().signInWithRedirect(provider);
     });
 
+    // Check redirect result on load
+    firebase.auth().getRedirectResult().then(result => {
+      if (result.user) {
+        console.log("Redirect sign-in successful", result.user);
+      }
+    }).catch(error => {
+      console.error("Redirect sign-in error", error);
+      alert("ログインエラーが発生しました: " + error.message);
+    });
+
     firebase.auth().onAuthStateChanged(user => {
       if (user) {
         // Whitelist checks
