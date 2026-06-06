@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780757407",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "コーラカレーアイス",
+    "title_en": "Cola Curry Ice",
+    "description_ja": "コーラの甘さとカレーのスパイスが融合した、これまでになかった奇抜スイーツ！夏の暑さにぴったりで、インスタ映えする色合いがSNSで人気を呼ぶこと間違いなし",
+    "description_en": "A unique dessert combining the sweetness of cola and the spice of curry! Perfect for the summer heat, its Instagram-worthy colors are sure to go viral on social media.",
+    "occasion_ja": "夏のしゅわしゅわタイムにおすすめ！",
+    "occasion_en": "Recommended for a refreshing summer time!",
+    "ingredients": [
+      {
+        "name": "コーラ",
+        "amount": "500ml"
+      },
+      {
+        "name": "カレーゼリー",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "飾り用レモン",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ボウルにコーラ、牛乳、砂糖、レモン汁を加えてよく混ぜます。",
+      "別のボウルでカレーゼリーを湯煎で溶かし、冷ます。",
+      "コーラ液に溶かしたカレーゼリーを加えて、さらによく混ぜます。",
+      "棚にアイスの型を入れ、冷蔵庫で3時間以上冷やして完成"
+    ],
+    "prompt": "An anime-style illustration of Cola Curry Ice in a glass, featuring a vibrant orange color with bubbles and a slice of lemon as a garnish. The background is a cozy summer garden with a cheerful atmosphere, Ghibli-like detailed food art.",
+    "filename": "recipe_1780757407.jpg",
+    "date": "2026-06-06 14:50:33",
+    "timestamp": 1780757407,
+    "likes": 0,
+    "views": 284
+  },
+  {
     "id": "recipe_1780757307",
     "category": "dessert",
     "category_ja": "デザート",
