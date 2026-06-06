@@ -50,7 +50,7 @@ jobs:
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_ORG_ID: team_GFGRE9Qh1IoeY5gOqFBDFBfW
-          VERCEL_PROJECT_ID: prj_F5u6dylD0NR9e1jb3QLGs4YKoLQs
+          VERCEL_PROJECT_ID: prj_piDvauZJRae9tfKYsTNyRYJoQCxI
         run: |
           rm -rf .vercel
           npx vercel pull --yes --environment=production --token ${{ secrets.VERCEL_TOKEN }}
