@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780779467",
+    "category": "noodle",
+    "category_ja": "丼物",
+    "title_ja": "ハニーマヨネーズのサクサク唐揚げ丼",
+    "title_en": "Honey Mayo Chicken Cutlet Bowl",
+    "description_ja": "サクサク唐揚げの絶品をさらに高めました！ハニーマヨネーズの甘さと唐揚げのささやかなコクが、絶対に味わってほしいレシピです。",
+    "description_en": "Take our crispy chicken cutlet to the next level! The sweetness of honey mayo and the subtle crunch of the cutlet will leave you wanting more.",
+    "occasion_ja": "家族や友達と一緒に食事を楽しむ時におすすめ！",
+    "occasion_en": "Recommended for family or friends gatherings",
+    "ingredients": [
+      {
+        "name": "サクサク唐揚げ",
+        "amount": "4個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "新芽のレタス",
+        "amount": "1本"
+      },
+      {
+        "name": "トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "コーンミール",
+        "amount": "100g"
+      },
+      {
+        "name": "ホワイトソース",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "サクサク唐揚げを小さく切って、コーンミールにまく。フライパンに油を熱して唐揚げをフライする。",
+      "ハニーマヨネーズとホワイトソースを混ぜて、唐揚げの上にのせる。",
+      "新芽のレタスとトマトを切って、唐揚げの上にのせる。",
+      "完成！サクサク唐揚げ丼を美味しく楽しんでください。"
+    ],
+    "prompt": "A warm and inviting illustration of a crispy chicken cutlet bowl, topped with fresh lettuce, tomato, and a drizzle of honey mayo sauce, served on a rustic wooden table with a side of steaming hot rice.",
+    "filename": "recipe_1780779467.jpg",
+    "date": "2026-06-06 20:57:53",
+    "timestamp": 1780779467,
+    "likes": 0,
+    "views": 380
+  },
+  {
     "id": "recipe_1780773072",
     "category": "noodle",
     "category_ja": "丼物",
