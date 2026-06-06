@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1780758568",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "チョコフォンデュ 柿の種クレペ 한다운",
+    "title_en": "Choco Fondue Persimmon Seed Crepe Pancake",
+    "description_ja": "チョコフォンデュの甘さと柿の種の風味が融合した、隠し味にびっくりのクレペするパンケーキ！食感の違和感が楽しめるお преступлениеの一品。",
+    "description_en": "A pancake with surprise hidden flavors, blending the sweetness of Choco fondue and the unique taste of persimmon seed.",
+    "occasion_ja": "友達と楽しく茶飲み時間に",
+    "occasion_en": "When having tea and snack time with friends.",
+    "ingredients": [
+      {
+        "name": "チョコフォンデュ（ダークチョコレートチップ）",
+        "amount": "100g"
+      },
+      {
+        "name": "柿の種",
+        "amount": "50g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "最初に、柿の種を少量の水で粉砕し、絹ごしした後、小麦粉と混ぜておきます。",
+      "ボウルに卵と牛乳を加えて全体を混ぜ、次に粉類を入れてシャーペンスト（デンプンがぎゅっとなる程度）まで捏ねて、懐かしいクレペ用の生地を完成させます。",
+      "フライパンを加熱させ、生地を少量ずつ注いでいきます。焦げないよう注意しながら、クレペを形成します。",
+      "小さめのクレペを2枚重ね、ふわふわ感を出すように焼き上げます。完成したクレペにチョコフォンデュをトッピングしてサービスします。"
+    ],
+    "prompt": "A stack of crepe with thick chocolate fudge drizzled over it. Crunchy and light texture crepe with melted dark chocolate beside. Ghibli inspired.",
+    "filename": "recipe_1780758568.jpg",
+    "date": "2026-06-06 15:09:35",
+    "timestamp": 1780758568,
+    "likes": 0,
+    "views": 174
+  },
+  {
     "id": "recipe_1780757407",
     "category": "dessert",
     "category_ja": "デザート",
