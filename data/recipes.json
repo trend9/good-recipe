@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1780750054",
+    "category": "bread",
+    "category_ja": "パン類",
+    "title_ja": "プリングルズポテトマッシュトースト",
+    "title_en": "Pringles Mashed Potato Toast",
+    "description_ja": "砕いたプリングルズをお湯でポテトサラダ風に戻し、チーズと一緒にトーストにのせて焼き上げました。超濃厚なポテチの風味がジュワッと広がります。",
+    "description_en": "Rehydrate crushed Pringles potato chips with hot water into a potato-salad style mash, then bake on toast with melted cheese. Hyper-rich potato flavor spreads in every bite.",
+    "occasion_ja": "ガッツリ食べたい朝ごはんや、深夜のリッチなジャンク欲に！",
+    "occasion_en": "For hearty breakfasts or intense late-night junk food cravings!",
+    "ingredients": [
+      {
+        "name": "食パン（6枚切り）",
+        "amount": "1枚"
+      },
+      {
+        "name": "プリングルズ（サワークリーム＆オニオン）",
+        "amount": "1/2缶"
+      },
+      {
+        "name": "お湯",
+        "amount": "50ml"
+      },
+      {
+        "name": "ピザ用チーズ",
+        "amount": "30g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "袋の中にプリングルズを入れて細かく砕きます。",
+      "ボウルに移し、お湯を注いでスプーンでよく練ってポテトマッシュを作ります。",
+      "食パンにマヨネーズを塗り、その上に作ったポテトマッシュを平らに広げます。",
+      "チーズをたっぷりとのせ、トースターでこんがり焼き色がつくまで焼きます。"
+    ],
+    "prompt": "Anime illustration of a thick slice of golden toasted bread, topped with a mountain of creamy mashed potato and melted stringy cheese, cozy warm kitchen aesthetic",
+    "filename": "recipe_1780750054.jpg",
+    "date": "2026-06-06 12:48:39",
+    "timestamp": 1780750054,
+    "likes": 0,
+    "views": 236
+  },
+  {
     "id": "recipe_1780748432",
     "category": "dessert",
     "category_ja": "デザート",
