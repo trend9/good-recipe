@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780790343",
+    "category": "rice",
+    "category_ja": "カレー丼",
+    "title_ja": "ガーリックバターのトマトソースが染み込んだ海老のカレー丼",
+    "title_en": "Garlic Butter Tom Yum Curry Rice Bowl",
+    "description_ja": "海老のカレー丼にガーリックバターのトマトソースが染み込んだ美味しさを加えた、悪魔的に美味しいレシピです。トマトソースの甘さと海老のカレーの辛さがうまくバランスをとり、ガーリックバターの風味が絶妙です。",
+    "description_en": "A delicious recipe that combines the sweetness of tomato sauce with the spiciness of shrimp curry, topped with garlic butter.",
+    "occasion_ja": "日曜日のお弁当や、家族で食事を楽しむ時におすすめです。",
+    "occasion_en": "Recommended for Sunday lunch or family dinner",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "カレー粉",
+        "amount": "2テーブルスプーン"
+      },
+      {
+        "name": "トマトソース",
+        "amount": "1/2カップ"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "2テーブルスプーン"
+      },
+      {
+        "name": "ココナッツミルク",
+        "amount": "1/4カップ"
+      },
+      {
+        "name": "バジル",
+        "amount": "1/4カップ"
+      }
+    ],
+    "steps": [
+      "まず、海老を小さく切ってカレー粉と混ぜて、30秒ほど焼きます。",
+      "次に、トマトソースとココナッツミルクを加えて、カレーの味を整えます。",
+      "ガーリックバターを加えて、風味を加えます。",
+      "最後に、バジルを加えて美味しさを完成させます。"
+    ],
+    "prompt": "A cozy anime illustration of a delicious curry rice bowl with garlic butter and tomato sauce, garnished with basil and a side of steamed vegetables.",
+    "filename": "recipe_1780790343.jpg",
+    "date": "2026-06-06 23:59:16",
+    "timestamp": 1780790343,
+    "likes": 0,
+    "views": 249
+  },
+  {
     "id": "recipe_1780783384",
     "category": "noodle",
     "category_ja": "ラーメン",
