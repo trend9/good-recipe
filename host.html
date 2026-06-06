@@ -158,9 +158,31 @@
       });
     });
 
+    let isAuthRedirecting = true;
+
+    // Check redirect result on page mount to block early signOut loops
+    firebase.auth().getRedirectResult().then(result => {
+      isAuthRedirecting = false;
+      if (result.user) {
+        console.log("OAuth Redirect return successful:", result.user.email);
+      }
+      // Trigger evaluation of current state after checking redirect
+      evaluateAuthState(firebase.auth().currentUser);
+    }).catch(error => {
+      isAuthRedirecting = false;
+      console.error("OAuth Redirect return error:", error);
+      evaluateAuthState(firebase.auth().currentUser);
+    });
+
     firebase.auth().onAuthStateChanged(user => {
+      if (!isAuthRedirecting) {
+        evaluateAuthState(user);
+      }
+    });
+
+    function evaluateAuthState(user) {
       if (user) {
-        // Whitelist checks
+        console.log("Logged in user:", user.email);
         if (user.email === 'mattan029@gmail.com') {
           // Success
           loginBtn.textContent = "ログアウト";
@@ -177,11 +199,12 @@
           loginBtn.textContent = "別のアカウントでログイン";
         }
       } else {
+        console.log("User session is empty.");
         loginBtn.textContent = "Googleログイン";
         alertBox.style.display = 'block';
         cmsConsole.style.display = 'none';
       }
-    });
+    }
 
     function loadRecipesDatabase() {
       fetch('data/recipes.json')
