@@ -131,10 +131,7 @@
     const cmsConsole = document.getElementById('cmsConsole');
 
     loginBtn.addEventListener('click', () => {
-      firebase.auth().signInWithPopup(provider).catch(err => {
-        console.error("Sign in error", err);
-        alert("Googleログインに失敗しました: " + err.message);
-      });
+      firebase.auth().signInWithRedirect(provider);
     });
 
     firebase.auth().onAuthStateChanged(user => {
@@ -143,7 +140,11 @@
         if (user.email === 'mattan029@gmail.com') {
           // Success
           loginBtn.textContent = "ログアウト";
-          loginBtn.onclick = () => firebase.auth().signOut();
+          loginBtn.onclick = () => {
+            firebase.auth().signOut().then(() => {
+              window.location.reload();
+            });
+          };
           alertBox.style.display = 'none';
           cmsConsole.style.display = 'block';
           loadRecipesDatabase();
@@ -156,7 +157,9 @@
         }
       } else {
         loginBtn.textContent = "Googleログイン";
-        loginBtn.onclick = () => firebase.auth().signInWithPopup(provider);
+        loginBtn.onclick = () => {
+          firebase.auth().signInWithRedirect(provider);
+        };
         alertBox.style.display = 'block';
         cmsConsole.style.display = 'none';
       }

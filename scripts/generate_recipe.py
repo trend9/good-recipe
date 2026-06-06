@@ -610,10 +610,16 @@ def main():
         draw = ImageDraw.Draw(img)
         
         # Draw some anime style kitchen elements/stripes
-        draw.rectangle([(20, 20), (780, 780)], outline='#c92a2a', width=8)
-        draw.text((100, 250), "Anime Style Food", fill="#c92a2a")
-        draw.text((100, 350), recipe_template["title_ja"], fill="#333333")
-        draw.text((100, 450), "Special Recipe Preview", fill="#888888")
+        draw.rectangle([(20, 20), (780, 780)], fill='#ffe3e3', outline='#c92a2a', width=12) # Warm soft red inner background
+        draw.ellipse([(200, 200), (600, 600)], fill='#fff9db', outline='#ffd43b', width=8) # Dish plate circle
+        
+        # Draw simulated food items inside the dish
+        draw.ellipse([(280, 280), (520, 520)], fill='#e6fcf5', outline='#20c997', width=4) # green food garnish
+        draw.rectangle([(340, 320), (460, 480)], fill='#ffa94d', outline='#d9480f', width=4) # main food item center
+        
+        # Text details
+        draw.text((250, 80), "DELICIOUS RECIPE", fill="#c92a2a")
+        draw.text((250, 700), recipe_template["title_ja"], fill="#333333")
         
         img.save(filepath, "JPEG")
         print(f"Successfully drew programmatic food canvas preview and saved to {filename}!")
