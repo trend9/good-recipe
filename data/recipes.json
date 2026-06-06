@@ -1,100 +1,149 @@
 [
   {
-    "id": "recipe_1780756969",
-    "category": "dessert",
-    "category_ja": "スイーツ",
-    "title_ja": "プリン焼きそばプリンフルーツタルト",
-    "title_en": "Pudding Stir-Fried Noodle Fruit Tart",
-    "description_ja": "甘いプリンと香ばしい焼きそばがコラボ！タルト型に焼きそばを詰めてプリンに煮込み、フルーツをトッピング。見た目のインパクトと味の驚きがSNSでバズる一品です。",
-    "description_en": "A surprising fusion of sweet pudding and savory stir-fried noodles! Cook noodles in pudding and top with fruits in a tart mold. The visual impact and flavor combination are sure to go viral on social media.",
-    "occasion_ja": "パーティーやデザートタイムに。見た目が華やかでインスタ映えするため、記念日やお祝いにも最適！",
-    "occasion_en": "Party or dessert time. Perfect for special occasions and celebrations as it's very photogenic.",
+    "id": "recipe_1780760000",
+    "category": "rice",
+    "category_ja": "ご飯もの",
+    "title_ja": "とろけるアボカドサーモンの温玉ユッケ丼",
+    "title_en": "Melty Avocado and Salmon Yukhoe Bowl with Soft Egg",
+    "description_ja": "とろけるサーモンとクリーミーなアボカドをごま油香る特製ユッケダレで和え、温玉をトッピング！濃厚で悪魔的な美味しさが一杯に詰まった極上どんぶり。",
+    "description_en": "Tender salmon and creamy avocado tossed in a fragrant sesame yukhoe sauce, topped with a soft-boiled egg! An addictive rice bowl packed with rich flavors.",
+    "occasion_ja": "贅沢な気分を味わいたい日のランチや、手軽に美味しいどんぶりを食べたい時に！",
+    "occasion_en": "For a luxurious lunch or when you want a quick, delicious rice bowl!",
     "ingredients": [
       {
-        "name": "あくもない卵",
-        "amount": "4個"
+        "name": "サーモン（刺身用）",
+        "amount": "120g"
       },
       {
-        "name": "牛乳",
-        "amount": "400ml"
-      },
-      {
-        "name": "砂糖",
-        "amount": "80g"
-      },
-      {
-        "name": "焼きそば用麺",
-        "amount": "1パック"
-      },
-      {
-        "name": "フルーツ（イチゴ・ブルーベリー等）",
-        "amount": "適量"
-      },
-      {
-        "name": "角型のタルト型",
-        "amount": "2個"
-      }
-    ],
-    "steps": [
-      "タルト型の内側をラードやマルガリンで塗っておきます。材料の卵をボウルに入れ、牛乳と砂糖を加えよく混ぜ、ふるいにかけます。",
-      "鍋に材料の卵液を入れてtoshi、とろみがつくようになってきたら、焼きそば用麺を入れます。",
-      "タルト型に火が通った焼きそばを流し込み、ひととおり火を通したら扉を閉めて半熟プリン状にします。",
-      "冷蔵庫で冷やしたら、タルト型から外し、好きなフルーツをトッピングして完成です。"
-    ],
-    "prompt": "A vibrant and colorful anime-style illustration of a pudding stir-fried noodle fruit tart in a tart mold, topped with assorted fresh fruits, detailed food digital art, Ghibli style, appetizing and visually appealing",
-    "filename": "recipe_1780756969.jpg",
-    "date": "2026-06-06 14:43:00",
-    "timestamp": 1780756969,
-    "likes": 0,
-    "views": 169
-  },
-  {
-    "id": "recipe_1780754400",
-    "category": "noodle",
-    "category_ja": "麺料理",
-    "title_ja": "ラムネ冷麺バブルスープ",
-    "title_en": "Ramune Naengmyeon Bubble Soup",
-    "description_ja": "ラムネのキャンドルを溶かし、冷たい冷麺と組み合わせたアクアリウムのような奇抜スープ！湧き上がる炭酸ラムネの風と、透明な麺のコントラストが写真映え抜群！",
-    "description_en": "Dissolve Ramune candy into a chilled naengmyeon soup for an aquarium-like, bubbly dish! The rising carbonated Ramune foam and clear noodles create a stunning contrast perfect for photos.",
-    "occasion_ja": "SNSにアップしたくなる特殊なスープが飲みたい時！",
-    "occasion_en": "When you want a special soup worth sharing on SNS!",
-    "ingredients": [
-      {
-        "name": "ラムネキャンドル",
+        "name": "アボカド",
         "amount": "1個"
       },
       {
-        "name": "冷麺（冷麺用麺）",
-        "amount": "300g"
+        "name": "温泉卵",
+        "amount": "1個"
       },
       {
-        "name": "ラムネのソーダ",
-        "amount": "500ml"
+        "name": "ごま油",
+        "amount": "大さじ1"
       },
       {
-        "name": "キムチ（刺身用）",
-        "amount": "50g"
+        "name": "コチュジャン・醤油",
+        "amount": "各小さじ1"
       },
       {
-        "name": "深谷ねぎ",
-        "amount": "2本"
-      },
-      {
-        "name": "氷",
+        "name": "白ごま・きざみのり",
         "amount": "適量"
       }
     ],
     "steps": [
-      "ラムネキャンドルの糖分を溶かすため、ラムネのソーダを急須などで加熱しEFEモードが溶けるまで混ぜる。",
-      "別の鍋でラムネキャンドルを溶かしたソーダを入れ、氷を加えながら冷やしていく。",
-      "冷えたラムネキャンドルソーダをボウルに移し、キムチと深谷ねぎを入れる。",
-      "最終仕上げに冷麺を冷えたラムネキャンドルソーダに入れ焼いたラムネを ומかす。 Sollte"
+      "サーモンとアボカドを一口大のサイコロ状にカットします。",
+      "ボウルに醤油、ごま油、コチュジャンを入れてよく混ぜ合わせ、特製ユッケだれを作ります。",
+      "カットしたサーモンとアボカドをたれに加え、崩れないように優しく和えて味をなじませます。",
+      "器に温かいご飯を盛り、きざみのりを敷いてから具材をのせ、中央に温泉卵を落として白ごまを振ります。"
     ],
-    "prompt": "Detailed food digital art of a clear soup bowl with rising Ramune bubbles, chilled naengmyeon noodles, and sliced kimchi in a Ghibli style, featuring vibrant colors and intricate detailing",
-    "filename": "recipe_1780754400.jpg",
-    "date": "2026-06-06 14:00:13",
-    "timestamp": 1780754400,
-    "likes": 0,
-    "views": 200
+    "prompt": "Appetizing cozy anime-style illustration of an avocado salmon rice bowl with a soft-boiled egg in the center, topped with chopped nori seaweed and sesame seeds, detailed food digital art, Ghibli style, warm lighting",
+    "filename": "recipe_1780760000.jpg",
+    "date": "2026-06-07 02:10:00",
+    "timestamp": 1780760000,
+    "likes": 12,
+    "views": 432
+  },
+  {
+    "id": "recipe_1780759000",
+    "category": "side",
+    "category_ja": "おかず",
+    "title_ja": "とろーりチーズとハニーマヨ唐揚げ",
+    "title_en": "Melty Cheese Honey Mayo Fried Chicken",
+    "description_ja": "サクサクのジューシー唐揚げに、甘みとコクのある特製ハニーマヨソースを絡め、とろけるチーズをたっぷりとかけました。一度食べたら止まらない悪魔的美味しさ！",
+    "description_en": "Crispy, juicy fried chicken tossed in sweet and rich honey mayo sauce, topped with plenty of melted cheese. An addictively delicious dish you won't stop eating!",
+    "occasion_ja": "がっつり食べたい日の夕食やおつまみ、パーティーの主役にぴったり！",
+    "occasion_en": "Perfect for a satisfying dinner, snacks with drinks, or the star of a party!",
+    "ingredients": [
+      {
+        "name": "鶏もも肉",
+        "amount": "300g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "はちみつ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ピザ用チーズ",
+        "amount": "60g"
+      },
+      {
+        "name": "醤油・おろしにんにく",
+        "amount": "各小さじ1"
+      },
+      {
+        "name": "片栗粉（揚げ用）",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏もも肉を一口大に切り、醤油とおろしにんにくを揉み込んで10分ほど置きます。",
+      "片栗粉を薄くまぶし、180度の油で外側がカリッとするまでジューシーに揚げます。",
+      "ボウルにマヨネーズとはちみつを混ぜ合わせ、揚げたての唐揚げを加えて全体に絡めます。",
+      "耐熱皿に唐揚げを盛り付け、ピザ用チーズをのせてトースターでチーズがとろけるまで焼きます。"
+    ],
+    "prompt": "Vibrant cozy anime-style illustration of golden crispy fried chicken covered with honey mayo sauce and highly melted, stretching cheese, Ghibli style food art, delicious and hot",
+    "filename": "recipe_1780759000.jpg",
+    "date": "2026-06-07 02:08:00",
+    "timestamp": 1780759000,
+    "likes": 8,
+    "views": 250
+  },
+  {
+    "id": "recipe_1780758000",
+    "category": "noodle",
+    "category_ja": "麺料理",
+    "title_ja": "焦がしガーリックバターの濃厚エビパスタ",
+    "title_en": "Rich Shrimp Pasta with Burnt Garlic Butter",
+    "description_ja": "香ばしい焦がしにんにくとコク深いバターの風味を、ぷりぷりのエビに合わせた濃厚パスタ。隠し味の醤油がパスタ全体を引き締め、フォークが止まらなくなります。",
+    "description_en": "A rich pasta featuring fragrant burnt garlic and deep butter flavors paired with plump shrimp. A splash of soy sauce tightens the flavors for an irresistible dish.",
+    "occasion_ja": "週末の特別なランチや、ワインと一緒に楽しむディナーに！",
+    "occasion_en": "Perfect for a special weekend lunch or a cozy dinner accompanied by wine!",
+    "ingredients": [
+      {
+        "name": "スパゲッティ",
+        "amount": "180g"
+      },
+      {
+        "name": "むきエビ",
+        "amount": "80g"
+      },
+      {
+        "name": "にんにく（みじん切り）",
+        "amount": "2片"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パセリ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "スパゲッティをパッケージの表記通りに茹でます（茹で汁を50ml取っておきます）。",
+      "フライパンにバターとにんにくを入れ、弱火でじっくり温めて香りと焦がし風味を引き出します。",
+      "エビを加えて中火で炒め、色が変わったら茹で上がったパスタと茹で汁、醤油を加えます。",
+      "全体を素早く混ぜ合わせて乳化させ、お皿に盛り付けて仕上げにパセリを振ります。"
+    ],
+    "prompt": "Mouthwatering cozy anime-style illustration of a plate of garlic butter shrimp pasta, with glistening noodles and plump pink shrimp, Ghibli food aesthetic, green parsley garnish",
+    "filename": "recipe_1780758000.jpg",
+    "date": "2026-06-07 02:05:00",
+    "timestamp": 1780758000,
+    "likes": 15,
+    "views": 390
   }
 ]

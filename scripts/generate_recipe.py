@@ -29,29 +29,30 @@ CATEGORIES = [
 ]
 
 BIZARRE_COMBOS = [
-    "コーラ × カレーライス", "わたあめ × ラーメン", "アイスクリーム × 納豆",
-    "チョコレート × 餃子", "プリン × 醤油", "ポテトチップス × ヨーグルト",
-    "メロンソーダ × 味噌汁", "マシュマロ × キムチ", "ジャム × 焼き魚",
-    "コンデンスミルク × カップ麺", "バナナ × 醤油ラーメン", "キャラメル × 冷やし中華",
-    "ホイップクリーム × 牛丼", "抹茶 × ピザ", "はちみつ × 唐揚げ",
-    "ココア × おでん", "マヨネーズ × ホットケーキ", "グミ × お茶漬け",
-    "ゼリー × カレーうどん", "チーズ × あんこ", "コーンフレーク × 豚汁",
-    "タピオカ × 天ぷら", "クリームソーダ × そうめん", "杏仁豆腐 × キムチ鍋",
-    "ドーナツ × 味噌", "パンケーキ × 明太子", "綿菓子 × たこ焼き",
-    "プッチンプリン × 焼きそば", "練乳 × 肉じゃが", "ポッキー × 雑炊",
-    "わさび × シュークリーム", "柿の種 × チョコフォンデュ",
-    "エナジードリンク × そば", "ラムネ × 冷麺", "きなこ × ハンバーグ",
+    "とろけるチーズ × タッカルビチキン", "サーモン × アボカドタルタル", "明太子 × レモンクリーム生パスタ",
+    "極厚カツ × 特製ハニーマスタード", "完熟バナナ × キャラメルブリュレ", "抹茶 × 濃厚ホワイトチョコレート",
+    "完熟トマト × フレッシュモッツァレラ", "炙りチャーシュー × 濃厚焦がしにんにく醤油", "ガーリックバター × ぷりぷり海老ピラフ",
+    "とろーり半熟卵 × デミグラスハンバーグ", "ふわとろ卵 × 旨辛麻婆豆腐丼", "サクサクポテト × クリーミーチーズソース",
+    "ハニーマヨネーズ × サクサク唐揚げ", "黒蜜 × きな粉もちもちアイス", "焼き芋 × とろけるバターカラメル",
+    "ローストビーフ × 特製オニオンソース", "海老 × クリーミーアボカドグラタン"
 ]
 
-LLM_SYSTEM_PROMPT = """あなたは「あくまれしぴ」という奇抜レシピサイトの専属レシピクリエイターです。
-SNSでバズるような、見た目のインパクトが強く、実際に作れる奇抜な組み合わせレシピを1つ考案してください。
+LLM_SYSTEM_PROMPT = """あなたは「あくまれしぴ」という大人気レシピサイトの専属レシピクリエイターです。
+SNSでバズるような、見た目が華やかで非常に美味しそう（悪魔的な美味しさ）であり、実際に家庭で簡単に作れる極上のアレンジレシピを1つ考案してください。
+
+【重要ルール】
+1. 必ず自然な日本語で出力してください。
+2. 文字化け、不自然な外国語の混入、不要なコードや壊れた文字（例: 「EFEモード」「ומかす」「Sollte」「toshi」などの意味不明な文字列）は絶対に含めないでください。
+3. 日本語の表現は自然かつ読みやすく、誤字脱字のない正しい文法にしてください。
+4. 食材の組み合わせは「奇抜で食べられないもの」ではなく、「意外性はあるが、本当に美味しいもの」にしてください。
+5. 手順は明確に日本語で分かりやすく記述し、最後が途中で途切れることのないように完結させてください。
 
 以下のJSON形式で出力してください。JSON以外のテキストは一切出力しないでください。
 ```json
 {
-  "title_ja": "レシピ名（日本語）",
+  "title_ja": "レシピ名（日本語・美味しそうなタイトル）",
   "title_en": "Recipe Name (English)",
-  "description_ja": "SNSでバズるような魅力的な説明文（日本語・50文字以上）",
+  "description_ja": "SNSでバズるような、悪魔的に美味しそうで魅力的な説明文（日本語・50文字以上）",
   "description_en": "Attractive description in English",
   "category": "カテゴリ英語(noodle/dessert/side/bread/rice/drink/snack)",
   "category_ja": "カテゴリ日本語",
@@ -73,20 +74,20 @@ SNSでバズるような、見た目のインパクトが強く、実際に作�
 
 
 def generate_recipe_with_llm(hf_token, existing_titles):
-    """Use Hugging Face LLM to generate a unique bizarre recipe."""
+    """Use Hugging Face LLM to generate a unique delicious recipe."""
     
-    # Pick a random bizarre combo for inspiration
+    # Pick a random combo for inspiration
     combo = random.choice(BIZARRE_COMBOS)
     
     # Build user prompt with existing titles to avoid duplicates
     existing_list = "、".join(existing_titles[:10]) if existing_titles else "なし"
     
-    user_prompt = f"""以下の奇抜な食材の組み合わせをヒントに、新しいレシピを1つ考えてください。
+    user_prompt = f"""以下の食材・料理の組み合わせをヒントに、新しい美味しいレシピを1つ考えてください。
 ヒントの組み合わせ: {combo}
 
 既存のレシピ（重複禁止）: {existing_list}
 
-上記と被らない、全く新しい奇抜レシピをJSON形式で出力してください。材料は4〜6個、手順は4つにしてください。"""
+上記と被らない、全く新しい悪魔的美味しさのアレンジレシピをJSON形式で出力してください。材料は4〜6個、手順は4つにしてください。"""
 
     # Try multiple LLM models in order of preference
     models = [
@@ -113,7 +114,7 @@ def generate_recipe_with_llm(hf_token, existing_titles):
                 {"role": "user", "content": user_prompt}
             ],
             "max_tokens": 1500,
-            "temperature": 0.9,
+            "temperature": 0.4,
             "stream": False
         }
         
@@ -151,7 +152,7 @@ def generate_recipe_with_llm(hf_token, existing_titles):
                             "inputs": full_prompt,
                             "parameters": {
                                 "max_new_tokens": 1500,
-                                "temperature": 0.9,
+                                "temperature": 0.4,
                                 "return_full_text": False
                             }
                         }
@@ -263,7 +264,7 @@ def generate_individual_pages(recipes):
     for rp in recipes:
         rp_id = rp.get("id")
         filename = rp.get("filename")
-        title_ja = rp.get("title_ja", "奇抜レシピ").replace('"', '&quot;')
+        title_ja = rp.get("title_ja", "悪魔のレシピ").replace('"', '&quot;')
         desc_ja = rp.get("description_ja", "").replace('"', '&quot;')
         category_ja = rp.get("category_ja", "その他").replace('"', '&quot;')
         occasion_ja = rp.get("occasion_ja", "").replace('"', '&quot;')
@@ -446,8 +447,8 @@ def generate_homepage(recipes):
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>あくまれしぴ - 1日24個投稿される奇抜アレンジレシピの聖地</title>
-  <meta name="description" content="クックパッドを超える新感覚！SNSで絶対バズる奇抜で美味しい料理レシピを大公開。ポストイット風の見やすい材料リストと美味しそうなアニメ調フード画像が満載。">
+  <title>あくまれしぴ - 1日24個投稿される悪魔的に美味しいアレンジレシピの聖地</title>
+  <meta name="description" content="クックパッドを超える新感覚！SNSで絶対バズる、悪魔的に美味しい極旨料理レシピを大公開。ポストイット風の見やすい材料リストと美味しそうなアニメ調フード画像が満載。">
   
   <!-- CSS Link -->
   <link rel="stylesheet" href="index.css">
@@ -467,7 +468,7 @@ def generate_homepage(recipes):
   <!-- Hero Banner -->
   <section style="text-align: center; padding: 4rem 1rem 2rem; background: linear-gradient(180deg, #fff9db 0%, var(--bg-color) 100%);">
     <h1 style="font-family: 'Kiwi Maru', sans-serif; font-size: 2.5rem; color: #c92a2a; margin-bottom: 1rem;">
-      😈 あくまれしぴ - 奇抜アレンジレシピの聖地
+      😈 あくまれしぴ - 悪魔的に美味しいアレンジレシピの聖地
     </h1>
     <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto 1.5rem; font-size: 1.1rem;">
       女の子ウケ抜群 of パステル付箋風デザイン。描き下ろした最高にエモいアニメ調フード画像と共にお届け。
