@@ -312,9 +312,6 @@ def generate_individual_pages(recipes):
         <span class="logo-icon"></span>
         あくまれしぴ
       </a>
-      <div>
-        <a href="/host" class="btn btn-secondary" style="padding: 0.4rem 1rem; font-size: 0.85rem;">管理者ログイン</a>
-      </div>
     </div>
   </header>
 
@@ -418,9 +415,6 @@ def generate_homepage(recipes):
         <span class="logo-icon"></span>
         あくまれしぴ
       </a>
-      <div style="display: flex; gap: 0.5rem; align-items: center;">
-        <a href="/host" class="btn btn-secondary" style="padding: 0.4rem 1rem; font-size: 0.85rem;">管理者ログイン</a>
-      </div>
     </div>
   </header>
 
