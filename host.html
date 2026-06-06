@@ -130,18 +130,21 @@
     const alertDesc = document.getElementById('alertDesc');
     const cmsConsole = document.getElementById('cmsConsole');
 
+    // Unified Authentication Handler
     loginBtn.addEventListener('click', () => {
-      firebase.auth().signInWithRedirect(provider);
-    });
-
-    // Check redirect result on load
-    firebase.auth().getRedirectResult().then(result => {
-      if (result.user) {
-        console.log("Redirect sign-in successful", result.user);
+      const user = firebase.auth().currentUser;
+      if (user) {
+        // Sign out
+        firebase.auth().signOut().then(() => {
+          window.location.reload();
+        });
+      } else {
+        // Sign in: Try popup first (friendly for local testing), fallback to redirect if blocked
+        firebase.auth().signInWithPopup(provider).catch(err => {
+          console.warn("Popup blocked, trying redirect method...", err);
+          firebase.auth().signInWithRedirect(provider);
+        });
       }
-    }).catch(error => {
-      console.error("Redirect sign-in error", error);
-      alert("ログインエラーが発生しました: " + error.message);
     });
 
     firebase.auth().onAuthStateChanged(user => {
@@ -150,11 +153,6 @@
         if (user.email === 'mattan029@gmail.com') {
           // Success
           loginBtn.textContent = "ログアウト";
-          loginBtn.onclick = () => {
-            firebase.auth().signOut().then(() => {
-              window.location.reload();
-            });
-          };
           alertBox.style.display = 'none';
           cmsConsole.style.display = 'block';
           loadRecipesDatabase();
@@ -167,9 +165,6 @@
         }
       } else {
         loginBtn.textContent = "Googleログイン";
-        loginBtn.onclick = () => {
-          firebase.auth().signInWithRedirect(provider);
-        };
         alertBox.style.display = 'block';
         cmsConsole.style.display = 'none';
       }
