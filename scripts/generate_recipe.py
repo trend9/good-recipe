@@ -90,10 +90,10 @@ def generate_recipe_with_llm(hf_token, existing_titles):
 
     # Try multiple LLM models in order of preference
     models = [
-        "mistralai/Mistral-7B-Instruct-v0.3",
-        "google/gemma-2-2b-it",
-        "HuggingFaceH4/zephyr-7b-beta",
-        "microsoft/Phi-3-mini-4k-instruct",
+        "meta-llama/Llama-3.1-8B-Instruct",
+        "Qwen/Qwen2.5-7B-Instruct",
+        "meta-llama/Meta-Llama-3-8B-Instruct",
+        "meta-llama/Llama-3.3-70B-Instruct",
     ]
     
     headers = {
