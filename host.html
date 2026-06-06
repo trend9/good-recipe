@@ -159,9 +159,11 @@
         } else {
           // Unauthorized user
           alertBox.style.background = '#ffe3e3';
+          alertBox.style.display = 'block';
           alertTitle.textContent = "❌ アクセス拒否";
-          alertDesc.innerHTML = `ログインされたアカウント (${user.email}) は管理者権限がありません。<br>許可された管理者アカウントのGoogleアカウントでログインし直してください。`;
-          firebase.auth().signOut();
+          alertDesc.innerHTML = `ログインされたアカウント (${user.email}) は管理者権限がありません。<br>許可された管理者アカウントでサインインし直してください。`;
+          cmsConsole.style.display = 'none';
+          loginBtn.textContent = "別のアカウントでログイン";
         }
       } else {
         loginBtn.textContent = "Googleログイン";
