@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1780747723",
+    "category": "side",
+    "category_ja": "おかず",
+    "title_ja": "タピオカ麻婆豆腐",
+    "title_en": "Tapioca Mapo Tofu",
+    "description_ja": "辛口の本格麻婆豆腐に、もちもちのブラックタピオカをプラス！噛むたびに楽しい食感と旨辛ダレが最高に絡み合います。",
+    "description_en": "Adding chewy black tapioca pearls to authentic spicy mapo tofu! The combination of fun texture and spicy savory sauce is amazing.",
+    "occasion_ja": "モチモチ食感が大好きな女子や、いつもの中華に飽きた食卓に！",
+    "occasion_en": "For chewiness-loving girls or dining tables bored of typical Chinese food!",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "1丁"
+      },
+      {
+        "name": "豚ひき肉",
+        "amount": "100g"
+      },
+      {
+        "name": "ブラックタピオカ（茹でたもの）",
+        "amount": "50g"
+      },
+      {
+        "name": "麻婆豆腐の素（辛口）",
+        "amount": "1回分"
+      },
+      {
+        "name": "ラー油",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "豆腐をさいの目に切り、茹でて水気を切っておきます。",
+      "フライパンでひき肉を炒め、麻婆豆腐の素と水を加えて一煮立ちさせます。",
+      "豆腐と茹でたブラックタピオカを加え、崩れないように優しく混ぜ合わせます。",
+      "とろみがついたらラー油を回し入れ、熱々を器に盛ります。"
+    ],
+    "prompt": "Anime style illustration of a steaming plate of hot red mapo tofu filled with shiny round black tapioca pearls and diced tofu, garnished with green scallions, cozy food aesthetic, detailed digital art",
+    "filename": "recipe_1780747723.jpg",
+    "date": "2026-06-06 12:09:48",
+    "timestamp": 1780747723,
+    "likes": 0,
+    "views": 328
+  },
+  {
     "id": "recipe_1780747066",
     "category": "dessert",
     "category_ja": "デザート",
