@@ -106,5 +106,28 @@
   <footer>
     <p>&copy; 2026 あくまれしぴ. All rights reserved.</p>
   </footer>
+
+  <!-- Firebase Analytics Pageview Incrementor -->
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-database-compat.js"></script>
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyDV5eL7wOP5xVgPfPFoC5LBBgI74LDT6l4",
+      authDomain: "akuma-recipe.firebaseapp.com",
+      projectId: "akuma-recipe",
+      storageBucket: "akuma-recipe.firebasestorage.app",
+      messagingSenderId: "963604937462",
+      appId: "1:963604937462:web:ead8d17eb9e1f3e52acad7",
+      measurementId: "G-8DC8SENZWL"
+    };
+    if (!firebase.apps.length) {
+      firebase.initializeApp(firebaseConfig);
+    }
+    // Increment pageview for this recipe id
+    const recipeId = "recipe_1780726938";
+    firebase.database().ref('pageviews/' + recipeId).transaction(currentValue => {
+      return (currentValue || 0) + 1;
+    });
+  </script>
 </body>
 </html>
