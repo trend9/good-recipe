@@ -145,9 +145,9 @@
               window.location.reload();
             });
           } else {
-            console.log("Initiating Redirect Sign-In...");
-            firebase.auth().signInWithRedirect(provider).catch(e => {
-              console.error("signInWithRedirect failed:", e);
+            console.log("Initiating Popup Sign-In...");
+            firebase.auth().signInWithPopup(provider).catch(e => {
+              console.error("signInWithPopup failed:", e);
               alert("ログインエラー: " + e.message);
             });
           }
