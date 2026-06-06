@@ -49,7 +49,6 @@ jobs:
       - name: Deploy to Vercel
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          VERCEL_ORG_ID: yuis-projects-1b5aaab3
           VERCEL_PROJECT_ID: prj_piDvauZJRae9tfKYsTNyRYJoQCxI
         run: |
           rm -rf .vercel
