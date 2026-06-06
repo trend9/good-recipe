@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1780747066",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "板チョコ餃子ドッグ",
+    "title_en": "Chocolate Bar Gyoza Dog",
+    "description_ja": "ジューシーな餃子の皮の中にまるごと板チョコを挟んでパリパリに揚げ焼きした、甘じょっぱさがクセになる悪魔のスイーツおつまみ。",
+    "description_en": "A whole chocolate bar wrapped inside gyoza skin and pan-fried to crispy perfection. A devilish sweet and salty snack that is highly addictive.",
+    "occasion_ja": "夜遅くの背徳的なおやつや、バレンタインの意外なサプライズに！",
+    "occasion_en": "For late-night guilty pleasure snacks or an unexpected Valentine surprise!",
+    "ingredients": [
+      {
+        "name": "餃子の皮（大きめ）",
+        "amount": "10枚"
+      },
+      {
+        "name": "ミルクチョコレート板チョコ",
+        "amount": "1枚"
+      },
+      {
+        "name": "マシュマロ",
+        "amount": "5個"
+      },
+      {
+        "name": "サラダ油",
+        "amount": "適量"
+      },
+      {
+        "name": "粉糖",
+        "amount": "仕上げ用"
+      }
+    ],
+    "steps": [
+      "板チョコを餃子の皮に入るサイズに割ります。",
+      "餃子の皮にチョコと半分に切ったマシュマロをのせ、フチに水をつけてしっかり包みます。",
+      "フライパンに多めの油を熱し、きつね色になるまで両面をパリッと揚げ焼きします。",
+      "お皿に盛り付け、仕上げに粉糖をふりかけます。"
+    ],
+    "prompt": "Cozy anime illustration of crispy golden-brown fried gyoza dumplings oozing warm melted milk chocolate and marshmallows, stacked beautifully on a pastel plate, Ghibli style, detailed art",
+    "filename": "recipe_1780747066.jpg",
+    "date": "2026-06-06 11:58:51",
+    "timestamp": 1780747066,
+    "likes": 0,
+    "views": 275
+  },
+  {
     "id": "recipe_1780746927",
     "category": "noodle",
     "category_ja": "麺類",
