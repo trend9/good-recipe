@@ -1,0 +1,10 @@
+{
+  "name": "good-recipe",
+  "version": "1.0.0",
+  "description": "Premium Sticky-note Recipe Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {}
+}

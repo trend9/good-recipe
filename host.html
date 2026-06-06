@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>管理者CMS - バズレシピ研究所</title>
+  <link rel="stylesheet" href="index.css">
+  
+  <!-- Firebase App & Auth SDKs -->
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-auth-compat.js"></script>
+</head>
+<body>
+
+  <header>
+    <div class="nav-container">
+      <a href="./" class="logo">
+        <span class="logo-icon"></span>
+        バズレシピ研究所 CMS
+      </a>
+      <div id="auth-header-action">
+        <button id="loginBtn" class="btn btn-primary">Googleログイン</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="detail-main" style="max-width: 1000px;">
+    <!-- Auth Status & Access restriction notice -->
+    <div id="alertBox" class="recommend-box" style="border: 1px dashed #c92a2a; background: #ffe3e3;">
+      <h3 id="alertTitle" class="recommend-title" style="color: #c92a2a;">🔒 管理者限定ページ</h3>
+      <p id="alertDesc" style="font-size: 0.95rem; color: var(--text-secondary);">
+        このページは <strong>mattan029@gmail.com</strong> 専用の管理CMSです。Googleアカウントでログインしてください。
+      </p>
+    </div>
+
+    <!-- CMS Admin Console -->
+    <div id="cmsConsole" style="display: none;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem;">
+        <h2 style="font-family: 'Kiwi Maru', sans-serif;">📝 投稿レシピ管理・編集</h2>
+        <div>
+          <button id="saveDbBtn" class="btn btn-primary">編集をダウンロード保存(JSON)</button>
+        </div>
+      </div>
+      
+      <!-- Analytics overview -->
+      <div class="ingredients-board" style="margin-bottom: 2rem;">
+        <div class="postit-note green">
+          <h3>📊 アクセス統計 (今月累計)</h3>
+          <ul class="ingredient-list">
+            <li class="ingredient-item"><span>想定月間アクセス目標</span><strong>10,000+ PV</strong></li>
+            <li class="ingredient-item"><span>現在の累計ページビュー</span><strong id="totalViews">--- PV</strong></li>
+            <li class="ingredient-item"><span>総レシピ数</span><strong id="totalRecipes">0 個</strong></li>
+          </ul>
+        </div>
+        <div class="postit-note blue">
+          <h3>🔧 管理者コマンド</h3>
+          <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 1rem;">
+            編集後にダウンロードされた「recipes.json」をリポジトリの `data/recipes.json` に差し替えてプッシュすることで、サイトに変更を即時反映できます。
+          </p>
+        </div>
+      </div>
+
+      <!-- Recipes List and Editor Grid -->
+      <div id="editorGrid" style="display: grid; grid-template-columns: 320px 1fr; gap: 2rem;">
+        <!-- Left Sidebar: Recipe List -->
+        <div style="background: white; border-radius: 12px; border: 1px solid #e1dcd6; padding: 1rem; max-height: 600px; overflow-y: auto;">
+          <h4 style="margin-bottom: 1rem; border-bottom: 1px solid #eee; padding-bottom: 0.5rem;">レシピ一覧</h4>
+          <div id="recipesSidebarList" style="display: flex; flex-direction: column; gap: 0.5rem;">
+            <!-- Rendered dynamically -->
+          </div>
+        </div>
+
+        <!-- Right Content: Editor Form -->
+        <div id="editorForm" style="background: white; border-radius: 12px; border: 1px solid #e1dcd6; padding: 2rem; display: none;">
+          <h3 style="font-family: 'Kiwi Maru', sans-serif; margin-bottom: 1.5rem;" id="formTitle">レシピの編集</h3>
+          
+          <div style="display: flex; flex-direction: column; gap: 1.2rem;">
+            <div>
+              <label style="display: block; font-weight: bold; margin-bottom: 0.4rem;">タイトル (和名)</label>
+              <input type="text" id="editTitleJa" style="width: 100%; padding: 0.6rem; border-radius: 6px; border: 1px solid #ccc; font-family: inherit;">
+            </div>
+
+            <div>
+              <label style="display: block; font-weight: bold; margin-bottom: 0.4rem;">ディスクリプション (和名)</label>
+              <textarea id="editDescJa" rows="3" style="width: 100%; padding: 0.6rem; border-radius: 6px; border: 1px solid #ccc; font-family: inherit;"></textarea>
+            </div>
+
+            <div>
+              <label style="display: block; font-weight: bold; margin-bottom: 0.4rem;">おすすめのシーン</label>
+              <input type="text" id="editOccasionJa" style="width: 100%; padding: 0.6rem; border-radius: 6px; border: 1px solid #ccc; font-family: inherit;">
+            </div>
+
+            <div>
+              <label style="display: block; font-weight: bold; margin-bottom: 0.4rem;">サムネイル画像パス/URL</label>
+              <div style="display: flex; gap: 1rem; align-items: center;">
+                <input type="text" id="editImageFilename" style="flex: 1; padding: 0.6rem; border-radius: 6px; border: 1px solid #ccc; font-family: inherit;">
+                <img id="formImgPreview" src="" alt="Preview" style="width: 60px; height: 60px; object-fit: cover; border-radius: 6px; border: 1px solid #ccc;">
+              </div>
+            </div>
+
+            <div style="border-top: 1px dashed #eee; padding-top: 1rem;">
+              <button id="updateRecipeBtn" class="btn btn-primary" style="width: 100%;">変更を一時保存</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    // Initialize Firebase
+    // Users can fill in details here. We configure a default compatible layout
+    const firebaseConfig = {
+      apiKey: "AIzaSyDummyKeyForGoogleAuthRestrictedToClient",
+      authDomain: "good-recipe.firebaseapp.com",
+      projectId: "good-recipe"
+    };
+    firebase.initializeApp(firebaseConfig);
+
+    const provider = new firebase.auth.GoogleAuthProvider();
+    let recipesData = [];
+    let selectedRecipeId = null;
+
+    // Login/Logout buttons
+    const loginBtn = document.getElementById('loginBtn');
+    const alertBox = document.getElementById('alertBox');
+    const alertTitle = document.getElementById('alertTitle');
+    const alertDesc = document.getElementById('alertDesc');
+    const cmsConsole = document.getElementById('cmsConsole');
+
+    loginBtn.addEventListener('click', () => {
+      firebase.auth().signInWithPopup(provider).catch(err => {
+        console.error("Sign in error", err);
+        alert("Googleログインに失敗しました: " + err.message);
+      });
+    });
+
+    firebase.auth().onAuthStateChanged(user => {
+      if (user) {
+        // Whitelist checks
+        if (user.email === 'mattan029@gmail.com') {
+          // Success
+          loginBtn.textContent = "ログアウト";
+          loginBtn.onclick = () => firebase.auth().signOut();
+          alertBox.style.display = 'none';
+          cmsConsole.style.display = 'block';
+          loadRecipesDatabase();
+        } else {
+          // Unauthorized user
+          alertBox.style.background = '#ffe3e3';
+          alertTitle.textContent = "❌ アクセス拒否";
+          alertDesc.innerHTML = `ログインされたアカウント (${user.email}) は管理者権限がありません。<br>mattan029@gmail.com のGoogleアカウントでログインし直してください。`;
+          firebase.auth().signOut();
+        }
+      } else {
+        loginBtn.textContent = "Googleログイン";
+        loginBtn.onclick = () => firebase.auth().signInWithPopup(provider);
+        alertBox.style.display = 'block';
+        cmsConsole.style.display = 'none';
+      }
+    });
+
+    function loadRecipesDatabase() {
+      fetch('data/recipes.json')
+        .then(res => res.json())
+        .then(data => {
+          recipesData = data;
+          renderRecipesList();
+          calculateStats();
+        })
+        .catch(err => {
+          console.error("Database loading error", err);
+          // Load mocked/fallback if missing locally
+          recipesData = [];
+          renderRecipesList();
+        });
+    }
+
+    function calculateStats() {
+      document.getElementById('totalRecipes').textContent = recipesData.length + " 個";
+      let totalViews = 0;
+      recipesData.forEach(r => totalViews += (r.views || 0));
+      document.getElementById('totalViews').textContent = totalViews.toLocaleString() + " PV";
+    }
+
+    function renderRecipesList() {
+      const listContainer = document.getElementById('recipesSidebarList');
+      listContainer.innerHTML = '';
+      
+      recipesData.forEach(rp => {
+        const item = document.createElement('button');
+        item.style.display = 'block';
+        item.style.width = '100%';
+        item.style.textAlign = 'left';
+        item.style.padding = '0.75rem';
+        item.style.border = '1px solid #eee';
+        item.style.borderRadius = '6px';
+        item.style.background = rp.id === selectedRecipeId ? '#ffe3e3' : 'white';
+        item.style.cursor = 'pointer';
+        item.style.fontFamily = 'inherit';
+        item.style.fontSize = '0.9rem';
+        item.style.marginBottom = '0.4rem';
+        
+        item.innerHTML = `
+          <div style="font-weight: bold; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">${rp.title_ja}</div>
+          <div style="font-size: 0.75rem; color: #888;">${rp.date} | ${rp.category_ja}</div>
+        `;
+        
+        item.addEventListener('click', () => {
+          selectedRecipeId = rp.id;
+          renderRecipesList();
+          openEditor(rp);
+        });
+        
+        listContainer.appendChild(item);
+      });
+    }
+
+    function openEditor(recipe) {
+      document.getElementById('editorForm').style.display = 'block';
+      document.getElementById('formTitle').textContent = `編集: ${recipe.title_ja}`;
+      document.getElementById('editTitleJa').value = recipe.title_ja;
+      document.getElementById('editDescJa').value = recipe.description_ja;
+      document.getElementById('editOccasionJa').value = recipe.occasion_ja;
+      document.getElementById('editImageFilename').value = recipe.filename;
+      document.getElementById('formImgPreview').src = `recipes/${recipe.filename}`;
+    }
+
+    document.getElementById('updateRecipeBtn').addEventListener('click', () => {
+      if (!selectedRecipeId) return;
+      const index = recipesData.findIndex(r => r.id === selectedRecipeId);
+      if (index !== -1) {
+        recipesData[index].title_ja = document.getElementById('editTitleJa').value;
+        recipesData[index].description_ja = document.getElementById('editDescJa').value;
+        recipesData[index].occasion_ja = document.getElementById('editOccasionJa').value;
+        recipesData[index].filename = document.getElementById('editImageFilename').value;
+        
+        alert("一時変更しました。右上の「編集をダウンロード保存」より保存し、gitへ反映させてください。");
+        renderRecipesList();
+        calculateStats();
+      }
+    });
+
+    document.getElementById('saveDbBtn').addEventListener('click', () => {
+      const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(recipesData, null, 2));
+      const downloadAnchor = document.createElement('a');
+      downloadAnchor.setAttribute("href", dataStr);
+      downloadAnchor.setAttribute("download", "recipes.json");
+      document.body.appendChild(downloadAnchor);
+      downloadAnchor.click();
+      downloadAnchor.remove();
+    });
+  </script>
+</body>
+</html>

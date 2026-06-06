@@ -1,0 +1,56 @@
+name: Generate Bizarre Recipe
+
+on:
+  schedule:
+    # Run hourly
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions
+
+jobs:
+  build-and-generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run recipe generation script
+        env:
+          HF_TOKEN: "${{ secrets.HF_TOKEN }}"
+        run: python scripts/generate_recipe.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/recipes.json recipes/ recipes_pages/ index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-generate new recipe [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
+
+      - name: Deploy to Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: team_GFGRE9Qh1IoeY5gOqFBDFBfW
+          VERCEL_PROJECT_ID: prj_F5u6dylD0NR9e1jb3QLGs4YKoLQs
+        run: |
+          npm install --global vercel
+          vercel deploy --prod --token ${{ secrets.VERCEL_TOKEN }} --yes
