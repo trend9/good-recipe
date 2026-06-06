@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780754400",
+    "category": "noodle",
+    "category_ja": "麺料理",
+    "title_ja": "ラムネ冷麺バブルスープ",
+    "title_en": "Ramune Naengmyeon Bubble Soup",
+    "description_ja": "ラムネのキャンドルを溶かし、冷たい冷麺と組み合わせたアクアリウムのような奇抜スープ！湧き上がる炭酸ラムネの風と、透明な麺のコントラストが写真映え抜群！",
+    "description_en": "Dissolve Ramune candy into a chilled naengmyeon soup for an aquarium-like, bubbly dish! The rising carbonated Ramune foam and clear noodles create a stunning contrast perfect for photos.",
+    "occasion_ja": "SNSにアップしたくなる特殊なスープが飲みたい時！",
+    "occasion_en": "When you want a special soup worth sharing on SNS!",
+    "ingredients": [
+      {
+        "name": "ラムネキャンドル",
+        "amount": "1個"
+      },
+      {
+        "name": "冷麺（冷麺用麺）",
+        "amount": "300g"
+      },
+      {
+        "name": "ラムネのソーダ",
+        "amount": "500ml"
+      },
+      {
+        "name": "キムチ（刺身用）",
+        "amount": "50g"
+      },
+      {
+        "name": "深谷ねぎ",
+        "amount": "2本"
+      },
+      {
+        "name": "氷",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ラムネキャンドルの糖分を溶かすため、ラムネのソーダを急須などで加熱しEFEモードが溶けるまで混ぜる。",
+      "別の鍋でラムネキャンドルを溶かしたソーダを入れ、氷を加えながら冷やしていく。",
+      "冷えたラムネキャンドルソーダをボウルに移し、キムチと深谷ねぎを入れる。",
+      "最終仕上げに冷麺を冷えたラムネキャンドルソーダに入れ焼いたラムネを ומかす。 Sollte"
+    ],
+    "prompt": "Detailed food digital art of a clear soup bowl with rising Ramune bubbles, chilled naengmyeon noodles, and sliced kimchi in a Ghibli style, featuring vibrant colors and intricate detailing",
+    "filename": "recipe_1780754400.jpg",
+    "date": "2026-06-06 14:00:13",
+    "timestamp": 1780754400,
+    "likes": 0,
+    "views": 200
+  },
+  {
     "id": "recipe_1780752644",
     "category": "noodle",
     "category_ja": "麺類",
