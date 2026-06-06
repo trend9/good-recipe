@@ -6,6 +6,12 @@
   <title>管理者CMS - あくまれしぴ</title>
   <link rel="stylesheet" href="index.css">
   
+  <!-- Vercel Web Analytics -->
+  <script>
+    window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+  </script>
+  <script defer src="/_vercel/insights/script.js"></script>
+  
   <!-- Firebase App & Auth SDKs -->
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-auth-compat.js"></script>
@@ -149,7 +155,7 @@
             console.log("Initiating Popup Sign-In...");
             firebase.auth().signInWithPopup(provider).catch(e => {
               console.error("signInWithPopup failed:", e);
-              alert("ログインエラー: " + e.message);
+              alert("ログイ��エラー: " + e.message);
             });
           }
         } catch (err) {
