@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780820422",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋とバターカラメルのスイートポテトパンケーキ",
+    "title_en": "Sweet Potato Pancake with Caramel Butter",
+    "description_ja": "焼き芋の甘さとバターカラメルのコクが絶妙に調和した、ふわふわ食感のパンケーキ。朝食やデザートにぴったりの、見た目も華やかな一品です。",
+    "description_en": "A delightful pancake that harmonizes the sweetness of roasted sweet potatoes with the richness of caramel butter. Perfect for breakfast or dessert.",
+    "occasion_ja": "朝食やデザート、おもてなしの時におすすめ！",
+    "occasion_en": "Recommended for breakfast, dessert, or entertaining guests.",
+    "ingredients": [
+      {
+        "name": "さつまいも",
+        "amount": "200g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      },
+      {
+        "name": "バター",
+        "amount": "30g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "30g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "さつまいもを皮をむいて蒸し、フォークで潰しておく。",
+      "ボウルに卵、小麦粉、砂糖を加え、さつまいもを混ぜて生地を作る。",
+      "フライパンにバターを溶かし、生地を適量ずつ入れて焼く。",
+      "焼き上がったパンケーキにバターカラメルソースをかけて完成。"
+    ],
+    "prompt": "Cozy anime illustration of a stack of sweet potato pancakes, topped with melted caramel butter, served on a rustic wooden plate, with a side of fresh berries and a drizzle of honey. The scene is set in a warm, sunlit kitchen with a vintage feel, reminiscent of Studio Ghibli's whimsical style.",
+    "filename": "recipe_1780820422.jpg",
+    "date": "2026-06-07 08:20:29",
+    "timestamp": 1780820422,
+    "likes": 0,
+    "views": 314
+  },
+  {
     "id": "recipe_1780806065",
     "category": "dessert",
     "category_ja": "デザート",
