@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1780806065",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコレートのマカロンサンド",
+    "title_en": "Matcha White Chocolate Macaron Sandwich",
+    "description_ja": "抹茶の風味とホワイトチョコレートの甘さが絶妙にマッチした、見た目も華やかで口どけの良いマカロンサンド。抹茶の苦みがチョコレートの甘さを引き立て、一口食べれば癒される魔法のスイーツです。",
+    "description_en": "A delightful matcha white chocolate macaron sandwich with a perfect balance of matcha's bitterness and the sweetness of white chocolate. This visually stunning and melt-in-your-mouth treat is sure to enchant your taste buds.",
+    "occasion_ja": "お茶会やおもてなし、デザートとして最適な一品。",
+    "occasion_en": "Perfect for tea parties, entertaining guests, or as a delightful dessert.",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "粉砂糖",
+        "amount": "100g"
+      },
+      {
+        "name": "卵白",
+        "amount": "60g"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "抹茶クリーム",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "抹茶パウダーと粉砂糖を混ぜ、卵白を少しずつ加えてマカロン生地を作ります。生地をパイピングバッグに入れ、シートに円形に押し出します。",
+      "オーブンで150度で15分焼き、冷ますとマカロンが完成します。",
+      "ホワイトチョコレートとバターを溶かし、冷ますとクリーム状になります。",
+      "マカロンを2枚重ね、その間にホワイトチョコレートクリームと抹茶クリームを挟んで完成です。"
+    ],
+    "prompt": "Cozy anime illustration of matcha white chocolate macaron sandwiches, detailed food digital art, Ghibli style. The macarons are beautifully colored with matcha green, and the white chocolate cream is visible between the layers. The overall scene is warm and inviting, with a soft glow highlighting the delicate textures of the macarons.",
+    "filename": "recipe_1780806065.jpg",
+    "date": "2026-06-07 04:21:19",
+    "timestamp": 1780806065,
+    "likes": 0,
+    "views": 291
+  },
+  {
     "id": "recipe_1780790343",
     "category": "rice",
     "category_ja": "カレー丼",
