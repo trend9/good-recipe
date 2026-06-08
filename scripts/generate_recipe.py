@@ -75,6 +75,8 @@ SNSでバズるような、見た目が華やかで非常に美味しそう（�
 
 def generate_recipe_with_llm(colab_url, existing_titles):
     """Use Colab LLM to generate a unique delicious recipe."""
+    if colab_url:
+        colab_url = colab_url.rstrip('/')
     
     # Pick a random combo for inspiration
     combo = random.choice(BIZARRE_COMBOS)
@@ -454,6 +456,7 @@ def generate_image(prompt, filepath, filename, colab_url):
     
     # 1. Colab API Stable Diffusion
     if colab_url:
+        colab_url = colab_url.rstrip('/')
         print(f"Attempting Colab SD image generation for: {prompt[:60]}...")
         try:
             response = requests.post(
