@@ -575,6 +575,15 @@ def generate_image(prompt, filepath, filename, colab_url):
 # Main
 # ============================================================
 
+def main():
+    existing_recipes = load_recipes()
+    existing_titles = [r.get("title_ja", "") for r in existing_recipes]
+    
+    timestamp = int(time.time())
+    recipe_id = f"recipe_{timestamp}"
+    filename = f"recipe_{timestamp}.jpg"
+    filepath = os.path.join(RECIPE_IMAGES_DIR, filename)
+    
     colab_url = os.environ.get('COLAB_API_URL')
     
     # Step 1: Generate recipe content with LLM
