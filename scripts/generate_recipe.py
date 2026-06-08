@@ -73,8 +73,8 @@ SNSでバズるような、見た目が華やかで非常に美味しそう（�
 ```"""
 
 
-def generate_recipe_with_llm(hf_token, existing_titles):
-    """Use Hugging Face LLM to generate a unique delicious recipe."""
+def generate_recipe_with_llm(colab_url, existing_titles):
+    """Use Colab LLM to generate a unique delicious recipe."""
     
     # Pick a random combo for inspiration
     combo = random.choice(BIZARRE_COMBOS)
@@ -89,90 +89,37 @@ def generate_recipe_with_llm(hf_token, existing_titles):
 
 上記と被らない、全く新しい悪魔的美味しさのアレンジレシピをJSON形式で出力してください。材料は4〜6個、手順は4つにしてください。"""
 
-    # Try multiple LLM models in order of preference
-    models = [
-        "meta-llama/Llama-3.1-8B-Instruct",
-        "Qwen/Qwen2.5-7B-Instruct",
-        "meta-llama/Meta-Llama-3-8B-Instruct",
-        "meta-llama/Llama-3.3-70B-Instruct",
-    ]
-    
-    headers = {
-        "Authorization": f"Bearer {hf_token}",
-        "Content-Type": "application/json"
-    }
-    
-    for model in models:
-        print(f"Trying LLM model: {model}...")
-        
-        # Try chat completions API first
-        chat_url = "https://router.huggingface.co/v1/chat/completions"
-        chat_payload = {
-            "model": model,
-            "messages": [
-                {"role": "system", "content": LLM_SYSTEM_PROMPT},
-                {"role": "user", "content": user_prompt}
-            ],
-            "max_tokens": 1500,
-            "temperature": 0.4,
-            "stream": False
-        }
-        
-        for attempt in range(1, 4):
-            try:
-                print(f"  Attempt {attempt}...")
-                response = requests.post(chat_url, json=chat_payload, headers=headers, timeout=90)
+    print("Calling Colab text generation API...")
+    for attempt in range(1, 4):
+        try:
+            print(f"  Attempt {attempt}...")
+            response = requests.post(
+                f"{colab_url}/generate/text",
+                json={
+                    "system_prompt": LLM_SYSTEM_PROMPT,
+                    "user_prompt": user_prompt
+                },
+                timeout=90
+            )
+            
+            if response.status_code == 200:
+                result = response.json()
+                content = result.get("result", "")
+                print(f"  LLM response length: {len(content)} chars")
                 
-                if response.status_code == 200:
-                    result = response.json()
-                    content = result.get("choices", [{}])[0].get("message", {}).get("content", "")
-                    print(f"  LLM response length: {len(content)} chars")
-                    
-                    # Extract JSON from response
-                    recipe_data = extract_json_from_text(content)
-                    if recipe_data and validate_recipe(recipe_data):
-                        print(f"  Successfully generated recipe: {recipe_data.get('title_ja', '?')}")
-                        return recipe_data
-                    else:
-                        print(f"  Failed to parse valid JSON from response")
-                        
-                elif response.status_code == 503:
-                    wait_time = response.json().get("estimated_time", 20)
-                    print(f"  Model loading, waiting {wait_time}s...")
-                    time.sleep(min(wait_time, 30))
+                # Extract JSON from response
+                recipe_data = extract_json_from_text(content)
+                if recipe_data and validate_recipe(recipe_data):
+                    print(f"  Successfully generated recipe: {recipe_data.get('title_ja', '?')}")
+                    return recipe_data
                 else:
-                    print(f"  Error {response.status_code}: {response.text[:200]}")
-                    
-                    # Try text generation API as fallback
-                    if attempt == 1:
-                        print("  Trying text generation API instead...")
-                        text_url = f"https://router.huggingface.co/hf-inference/models/{model}"
-                        full_prompt = f"<s>[INST] {LLM_SYSTEM_PROMPT}\n\n{user_prompt} [/INST]"
-                        text_payload = {
-                            "inputs": full_prompt,
-                            "parameters": {
-                                "max_new_tokens": 1500,
-                                "temperature": 0.4,
-                                "return_full_text": False
-                            }
-                        }
-                        try:
-                            text_resp = requests.post(text_url, json=text_payload, headers=headers, timeout=90)
-                            if text_resp.status_code == 200:
-                                text_result = text_resp.json()
-                                if isinstance(text_result, list) and len(text_result) > 0:
-                                    generated = text_result[0].get("generated_text", "")
-                                    recipe_data = extract_json_from_text(generated)
-                                    if recipe_data and validate_recipe(recipe_data):
-                                        print(f"  Successfully generated recipe via text API: {recipe_data.get('title_ja', '?')}")
-                                        return recipe_data
-                        except Exception as e:
-                            print(f"  Text API fallback error: {e}")
-                    
-                    time.sleep(3)
-            except Exception as e:
-                print(f"  Request error: {type(e).__name__}: {e}")
-                time.sleep(3)
+                    print(f"  Failed to parse valid JSON from response")
+            else:
+                print(f"  Error {response.status_code}: {response.text[:200]}")
+            time.sleep(3)
+        except Exception as e:
+            print(f"  Request error: {type(e).__name__}: {e}")
+            time.sleep(3)
     
     return None
 
@@ -499,49 +446,34 @@ def generate_homepage(recipes):
 # Image Generation
 # ============================================================
 
-def generate_image(prompt, filepath, filename, hf_token):
+def generate_image(prompt, filepath, filename, colab_url):
     """Try multiple image generation APIs, return True on success."""
     encoded_prompt = urllib.parse.quote(prompt)
     seed = random.randint(0, 999999)
     success = False
     
-    # 1. Hugging Face Inference API - try multiple image models
-    if hf_token:
-        hf_image_models = [
-            "black-forest-labs/FLUX.1-schnell",
-            "stabilityai/stable-diffusion-xl-base-1.0",
-            "runwayml/stable-diffusion-v1-5",
-        ]
-        hf_headers = {"Authorization": f"Bearer {hf_token}"}
-        
-        for hf_model in hf_image_models:
-            print(f"Attempting HF image model: {hf_model}")
-            hf_url = f"https://router.huggingface.co/hf-inference/models/{hf_model}"
-            
-            for attempt in range(1, 4):
-                try:
-                    print(f"  Attempt {attempt}...")
-                    response = requests.post(hf_url, json={"inputs": prompt}, headers=hf_headers, timeout=90)
-                    if response.status_code == 200 and len(response.content) > 5000:
-                        content_type = response.headers.get('content-type', '')
-                        if 'image' in content_type or len(response.content) > 10000:
-                            with open(filepath, 'wb') as f:
-                                f.write(response.content)
-                            print(f"  SUCCESS! Saved {filename} ({len(response.content)} bytes, model={hf_model})")
-                            return True
-                    elif response.status_code == 503:
-                        wait = min(response.json().get("estimated_time", 15), 25)
-                        print(f"  Model loading, waiting {wait}s...")
-                        time.sleep(wait)
-                    elif response.status_code == 422:
-                        print(f"  Model {hf_model} rejected input, trying next model...")
-                        break
-                    else:
-                        print(f"  Error {response.status_code}: {response.text[:200]}")
-                        time.sleep(3)
-                except Exception as e:
-                    print(f"  Request failed: {type(e).__name__}")
-                    time.sleep(3)
+    # 1. Colab API Stable Diffusion
+    if colab_url:
+        print(f"Attempting Colab SD image generation for: {prompt[:60]}...")
+        try:
+            response = requests.post(
+                f"{colab_url}/generate/image",
+                json={"prompt": prompt, "width": 512, "height": 512},
+                timeout=120
+            )
+            if response.status_code == 200:
+                res_json = response.json()
+                base64_str = res_json.get("image_base64")
+                if base64_str:
+                    import base64
+                    img_data = base64.b64decode(base64_str)
+                    with open(filepath, 'wb') as f:
+                        f.write(img_data)
+                    print(f"  SUCCESS! Saved {filename} ({len(img_data)} bytes)")
+                    return True
+            print(f"  Colab image API failed: {response.status_code}")
+        except Exception as e:
+            print(f"  Colab Image API error: {e}")
                 
     # 2. Pollinations AI Fallback (free tier)
     if not success:
@@ -643,28 +575,19 @@ def generate_image(prompt, filepath, filename, hf_token):
 # Main
 # ============================================================
 
-def main():
-    existing_recipes = load_recipes()
-    existing_titles = [r.get("title_ja", "") for r in existing_recipes]
-    
-    timestamp = int(time.time())
-    recipe_id = f"recipe_{timestamp}"
-    filename = f"recipe_{timestamp}.jpg"
-    filepath = os.path.join(RECIPE_IMAGES_DIR, filename)
-    
-    hf_token = os.environ.get('HF_TOKEN')
+    colab_url = os.environ.get('COLAB_API_URL')
     
     # Step 1: Generate recipe content with LLM
     recipe_data = None
-    if hf_token:
+    if colab_url:
         print("=" * 60)
-        print("STEP 1: Generating recipe with Hugging Face LLM...")
+        print("STEP 1: Generating recipe with Colab LLM...")
         print("=" * 60)
-        recipe_data = generate_recipe_with_llm(hf_token, existing_titles)
+        recipe_data = generate_recipe_with_llm(colab_url, existing_titles)
     
     # If LLM fails, abort - no templates allowed
     if not recipe_data:
-        print("ERROR: LLM recipe generation failed and no HF_TOKEN available.")
+        print("ERROR: LLM recipe generation failed and no COLAB_API_URL available.")
         print("Cannot create recipe without LLM. Aborting.")
         return
     
@@ -690,7 +613,7 @@ def main():
     print("STEP 2: Generating image...")
     print("=" * 60)
     
-    img_success = generate_image(image_prompt, filepath, filename, hf_token)
+    img_success = generate_image(image_prompt, filepath, filename, colab_url)
     
     if img_success:
         new_recipe = {

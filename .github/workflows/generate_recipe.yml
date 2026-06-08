@@ -30,7 +30,7 @@ jobs:
 
       - name: Run recipe generation script
         env:
-          HF_TOKEN: "${{ secrets.HF_TOKEN }}"
+          COLAB_API_URL: "${{ secrets.COLAB_API_URL }}"
         run: python scripts/generate_recipe.py
 
       - name: Commit and push changes
