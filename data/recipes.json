@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781006241",
+    "category": "丼",
+    "category_ja": "丼物",
+    "title_ja": "とろける卵黄とスパイシーな旨辛麻婆豆腐の丼",
+    "title_en": "Spicy & Creamy Egg Yolk with Sichuan Peppercorn and Chili Bean Paste Bowl",
+    "description_ja": "ふわふわとろける卵黄が、濃厚な旨辛麻婆豆腐と絡み合い、意外な美味しさに。まるで悪魔が作ったような、究極の丼！ ",
+    "description_en": "Creamy egg yolk with a spicy and savory Sichuan peppercorn and chili bean paste. This bowl will surprise you with its unexpected deliciousness! A devilishly good dish.",
+    "occasion_ja": "特別な日にはもちろん、普段使いにもぴったりな、美味しい丼です。",
+    "occasion_en": "Perfect for special occasions and everyday use, this bowl is a great option to enjoy deliciousness.",
+    "ingredients": [
+      {
+        "name": "卵黄",
+        "amount": "2個"
+      },
+      {
+        "name": "絹ごし豆腐",
+        "amount": "150g"
+      },
+      {
+        "name": "豚バラ肉",
+        "amount": "100g"
+      },
+      {
+        "name": "中華スパイス",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "麻婆豆腐のタレ",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "卵黄をボウルに入れ、混ぜる。",
+      "絹ごし豆腐、豚バラ肉、中華スパイスを加え、炒める。",
+      "炒めた豆腐と肉に麻婆豆腐のタレを加え、煮込む。",
+      "卵黄を丼に盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a bowl with creamy egg yolk, Sichuan peppercorns, chili bean paste and spicy stir-fried tofu. The dish has a beautiful golden color.",
+    "filename": "recipe_1781006241.jpg",
+    "date": "2026-06-09 11:59:42",
+    "timestamp": 1781006241,
+    "likes": 0,
+    "views": 205
+  },
+  {
     "id": "recipe_1780820422",
     "category": "dessert",
     "category_ja": "デザート",
