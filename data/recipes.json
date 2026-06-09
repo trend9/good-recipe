@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1781025910",
+    "category": "メインディッシュ",
+    "category_ja": "メイン料理",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛ソースが炸裂！",
+    "title_en": "Devilish Sweet and Spicy: A Fried Pork Cutlet With Honey Mustard Glaze, a Twist You'll Crave!",
+    "description_ja": "極厚カツに、独特な甘辛のハニーマスタードソースを絡めて、悪魔的な美味しさの炸裂体験！",
+    "description_en": "A devilish twist on the classic fried pork cutlet with a unique sweet and spicy honey mustard glaze! Expect a flavor explosion you'll crave!",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "極厚カツ (Pork cutlet)",
+        "amount": "2"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "100g"
+      },
+      {
+        "name": "甘辛いソース (お好みで) ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツを2つ、それぞれに特製ハニーマスタードを塗り、10分ほど置く。",
+      "フライパンで中火でバターを加え、熱する。",
+      "熱したフライパンに極厚カツを乗せ、焼き色がつくまで焼く。",
+      "甘辛いソースとハニーマスタードソース、お好みで。バターと絡めて食べよう。"
+    ],
+    "prompt": "A close-up shot of a fried pork cutlet with a honey mustard glaze, topped with a generous amount of butter and served on a plate with a drizzle of sauce. The cutlet is juicy and golden brown with crispy edges.",
+    "filename": "recipe_1781025910.jpg",
+    "date": "2026-06-09 17:26:50",
+    "timestamp": 1781025910,
+    "likes": 0,
+    "views": 381
+  },
+  {
     "id": "recipe_1781016102",
     "category": "麺料理",
     "category_ja": "麺料理",
