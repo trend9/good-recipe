@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781016102",
+    "category": "麺料理",
+    "category_ja": "麺料理",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「悪魔的」チーズ焼きそば",
+    "title_en": "Spicy Garlic & Onion Cheese-Baked Ramen with Char Siu and Creamy Roasted Garlic Sauce",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を、まるでチーズ焼きそばのように焼き上げる。濃厚な味わいが、一口食べたら止まらない！",
+    "description_en": "A spicy and cheesy twist on the classic ramen, featuring char siu, creamy roasted garlic sauce, and a gooey cheese topping. A taste sensation that will blow your mind!",
+    "occasion_ja": "お酒の会、夜食にぴったり！",
+    "occasion_en": "Perfect for parties and after-dinner snacks.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "200g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "50ml"
+      },
+      {
+        "name": "麺類 (好みでラーメンや焼きそばなど)",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵黄",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. チャーシューを焼いて、濃厚焦がしにんにく醤油をかけます。\n   - 熱々のチャーシューは、焦げ目がついてもOK。",
+      "2. 麺類を茹でます。\n   - 麺を茹でる際は、少しだけ塩を加えてください。",
+      "3. 卵黄とチーズを混ぜ合わせます。\n   - 卵黄とチーズの混ぜ合わせは、口の中にもっと味が広がります。",
+      "4. 焼きそばの麺の上に、チャーシューと濃厚焦がしにんにく醤油を乗せ、卵黄とチーズをトッピングします。\n   - 少しだけ醤油で味付けして仕上げます。"
+    ],
+    "prompt": "Close-up shot of a steaming ramen bowl topped with melted cheese and char siu, surrounded by sizzling garlic oil.",
+    "filename": "recipe_1781016102.jpg",
+    "date": "2026-06-09 14:43:24",
+    "timestamp": 1781016102,
+    "likes": 0,
+    "views": 154
+  },
+  {
     "id": "recipe_1781006241",
     "category": "丼",
     "category_ja": "丼物",
