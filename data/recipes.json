@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781043678",
+    "category": "dessert/bread",
+    "category_ja": "デザート/パンケーキ",
+    "title_ja": "焼き芋 × トロけるバターカラメル:  悪魔の甘辛スパイシーパンケーキ",
+    "title_en": "Roasted Sweet Potato Pancakes with Creamy Caramel and Spicy Chili - A Delicious Twist!",
+    "description_ja": "焼き芋の甘さと、とろけるバターカラメルの組み合わせ。スパイシーなChiliを効かせたパンケーキに仕上げる。悪魔的な美味しさ！",
+    "description_en": "This sweet potato pancake recipe is a surprising and delicious mix of textures. Creamy caramel, spicy chili flakes, and the natural sweetness of roasted sweet potatoes combine for an unforgettable flavor experience! ",
+    "occasion_ja": "特別な日にはもちろん、日常の甘酸っぱい味覚を刺激する一品に！",
+    "occasion_en": "Perfect for a special occasion or just to add a little extra sweetness to your day! ",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "150g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "20g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cm角にカット。",
+      "小麦粉、砂糖、塩、バターを混ぜ合わせて生地を作る。",
+      "生地を焼き芋のサイズに丸め、平らになるように伸ばす。",
+      "フライパンで両面を焼き、カラメルソースをかけた後に仕上げる。"
+    ],
+    "prompt": "A close-up shot of a fluffy pancake with caramelized toppings, contrasting the sweet potato and buttery flavors. The background is warm and inviting.",
+    "filename": "recipe_1781043678.jpg",
+    "date": "2026-06-09 22:22:59",
+    "timestamp": 1781043678,
+    "likes": 0,
+    "views": 471
+  },
+  {
     "id": "recipe_1781035396",
     "category": "pasta",
     "category_ja": "パスタ",
