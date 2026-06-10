@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781128605",
+    "category": "サイド, 焼きそば",
+    "category_ja": "サイド dishes",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘辛スパイシーチーズ焼きそば",
+    "title_en": "Spicy Cheesy Korean BBQ Chicken & Cheese Ramen - An Epic Fusion Recipe!",
+    "description_ja": "とろけるチーズとタッカルビチキンが織りなす、まるで悪魔の宴を彷彿とさせる一皿！甘辛いスパイシーな味わいが、まるで夢のような感覚で口の中に広がる。",
+    "description_en": "Spicy Cheesy Korean BBQ Chicken & Cheese Ramen! This epic fusion recipe blends creamy cheese and tangy spicy flavors for a dish that will transport you straight to an underworld feast. ",
+    "occasion_ja": "お酒の合間、友達とディナーにぴったり！",
+    "occasion_en": "Perfect for a gathering with friends or a relaxing dinner party!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "味噌",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを、味噌、砂糖、醤油で味付けします。",
+      "フライパンに油を入れ、タッカルビチキンを焼く。",
+      "チーズと混ぜ合わせて溶かします。",
+      "焼き上がったチキンを、チーズソースと一緒に焼きそば麺の上に盛り付けます。"
+    ],
+    "prompt": "Close-up shot of a ramen bowl with creamy cheese and spicy chicken, surrounded by a smoky haze. Ramen noodles are topped with melted cheese and crispy chicken, showcasing a delicious fusion of flavors.",
+    "filename": "recipe_1781128605.jpg",
+    "date": "2026-06-10 21:58:31",
+    "timestamp": 1781128605,
+    "likes": 0,
+    "views": 211
+  },
+  {
     "id": "recipe_1781119977",
     "category": "side",
     "category_ja": "サイドdish",
