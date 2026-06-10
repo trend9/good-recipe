@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781119977",
+    "category": "side",
+    "category_ja": "サイドdish",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「紅梅風」チーズ焼きそば",
+    "title_en": "Spicy & Smoky Ramen with Smoked Salmon & Garlic-Chili Cheese",
+    "description_ja": "濃厚な焦がしにんにくの旨味と、ほのかな梅酒の香りに包まれた、まるで紅梅の様な焼きそば。炙りチャーシューとチーズが絶妙に絡み合い、一口食べれば、悪魔的な美味しさに魅了されるでしょう！",
+    "description_en": "A spicy and smoky ramen with smoked salmon, garlic chili cheese, and a hint of plum wine. This unique dish combines the rich flavors of a smoky garlic-chili cheese sauce with smoked salmon, topped with a cheesy layer for an explosion of flavor in every bite!",
+    "occasion_ja": "パーティーや特別な日の夜にぴったり！",
+    "occasion_en": "Perfect for parties or special nights.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "2枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "きゅうり",
+        "amount": "1/4本"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "生卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを一口サイズに切り、濃厚焦がしにんにく醤油と混ぜ合わせ、塩コショウで味をつける。",
+      "2.  きゅうりを薄切りにして、チーズと生卵をそれぞれ、焼きそばの麺の上に盛り付ける。",
+      "3.  炙りチャーシューと濃厚焦がしにんにく醤油を交互に、麺の上に重ねる。",
+      "4. 熱したフライパンで焼きそばを軽く炒め、完成。"
+    ],
+    "prompt": "Close-up shot of the ramen with melted cheese and smoked salmon, with a sizzling effect, showcasing the red color from the plum wine.",
+    "filename": "recipe_1781119977.jpg",
+    "date": "2026-06-10 19:35:29",
+    "timestamp": 1781119977,
+    "likes": 0,
+    "views": 429
+  },
+  {
     "id": "recipe_1781109259",
     "category": "side",
     "category_ja": "サイドディッシュ",
