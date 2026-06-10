@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781096026",
+    "category": "ラーメン",
+    "category_ja": "ラーメン",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「悪魔的」チーズ焼きそば",
+    "title_en": "Devilishly Delicious: Smoked Brisket & Garlic-Roasted Pork with Spicy Cheese Ramen",
+    "description_ja": "普段とは違う、斬新な味わいに挑戦。炙りチャーシューと濃厚焦がしにんにく醤油の組み合わせが、まさに悪魔的！チーズ焼きそばは、辛さと甘さのバランスが取れた、食欲をそそる一品に仕上がります。",
+    "description_en": "Step outside your comfort zone and indulge in a uniquely devilish ramen. Smoked brisket & Garlic-Roasted Pork with Spicy Cheese Ramen takes on the classic dish, elevating it with a flavor bomb of umami and heat that's hard to resist! ",
+    "occasion_ja": "特別な夜に、自分だけの「悪魔的」な一杯を味わってみませんか？",
+    "occasion_en": "Ready to indulge in a devilishly delicious ramen? This recipe will take your tastebuds on a thrilling journey!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "麺類 (ラーメン用麺)",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューと濃厚焦がしにんにく醤油を混ぜ、麺類の上にトッピングする。",
+      "2. 卵を溶いて、麺類全体に絡める。",
+      "3. チーズを散らし、焼きそばを完成させる。",
+      "4.  熱々のラーメンを一口食べると、想像を超える美味しさに驚くはず。"
+    ],
+    "prompt": "Close-up shot of a steaming bowl of ramen with smoked brisket and garlic-roasted pork topping, cheese on top of the noodles,  and a drop of sauce falling onto the noodles. An anime illustration style.",
+    "filename": "recipe_1781096026.jpg",
+    "date": "2026-06-10 12:55:33",
+    "timestamp": 1781096026,
+    "likes": 0,
+    "views": 478
+  },
+  {
     "id": "recipe_1781084825",
     "category": "dessert",
     "category_ja": "デザート",
