@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781133825",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔の甘辛パンケーキ",
+    "title_en": "Grilled Sweet Potato with Butter Caramel: Devilishly Delicious Cinnamon Bread Pudding",
+    "description_ja": "秋の味覚、焼き芋に、とろけるバターカラメルが加わり、悪魔的な甘辛な味わい！まるでパンケーキのような贅沢な一品に。",
+    "description_en": "A devilish dessert with a twist - Grilled sweet potato topped with melting butter caramel and served as an incredibly decadent cinnamon bread pudding! ",
+    "occasion_ja": "秋の味覚が楽しめる特別な日のデザートに最適！",
+    "occasion_en": "Perfect for a special occasion with autumn flavors!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "カラメル",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "シナモンパウダー",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "焼き芋を中火で焼いて、皮を剥き、内側にも甘辛なソースを塗る。",
+      "バターと砂糖を加熱し、溶かしながらシナモンパウダーを加える。",
+      "溶けたバターと砂糖を焼き芋に塗り、焦げ目がつくまで焼く。",
+      "カラメル液を加えて混ぜ合わせ、焼き上がりの焼き芋にかければ完成。"
+    ],
+    "prompt": "Close-up shot of a sweet potato with melted butter caramel drizzled over it, surrounded by cinnamon sugar. The image should showcase the caramelized surface and textures.",
+    "filename": "recipe_1781133825.jpg",
+    "date": "2026-06-10 23:25:25",
+    "timestamp": 1781133825,
+    "likes": 0,
+    "views": 370
+  },
+  {
     "id": "recipe_1781128605",
     "category": "サイド, 焼きそば",
     "category_ja": "サイド dishes",
