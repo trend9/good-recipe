@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781068456",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "ガーリックバター🦐ぷりぷり海老ピラフ　悪魔の甘辛Explosion！",
+    "title_en": "Garlic Butter Shrimp Risotto – A Spicy & Sweet Explosion!",
+    "description_ja": "ガーリックバターとエビが絡み合う、ぷりぷりの食感ピラフ！甘辛スパイシーな味わいが止まらない！",
+    "description_en": "A creamy and savory shrimp risotto with a kick of spice and sweet!  The garlicky butter will make your taste buds dance.",
+    "occasion_ja": "パーティーや特別な日にぴったりな一品！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "150g"
+      },
+      {
+        "name": "白米",
+        "amount": "300g"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "ガーリック",
+        "amount": "1個"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. エビを150gにカットし、バターとガーリックを加え炒め合わせる。",
+      "2. 白米を湯で洗い、鍋にバターとエビを加えて炒める。",
+      "3. 砂糖と醤油を加えて煮詰める。",
+      "4. お好みのハーブやスパイスを加えて味を整え、完成！"
+    ],
+    "prompt": "A close-up shot of a creamy shrimp risotto with garlicky butter, showcasing the fluffy rice and succulent shrimp.",
+    "filename": "recipe_1781068456.jpg",
+    "date": "2026-06-10 05:15:55",
+    "timestamp": 1781068456,
+    "likes": 0,
+    "views": 439
+  },
+  {
     "id": "recipe_1781050171",
     "category": "丼",
     "category_ja": "丼もの",
