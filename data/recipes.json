@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781109259",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の海藻グラタン：とろけるクリーミー＆スパイシーな一皿",
+    "title_en": "Devilish Seaweed Gratin: Creamy & Spicy Delight",
+    "description_ja": "まるで海の底に潜む、神秘的な味わい！クリーミーでスパイシーな海藻とアボカドのグラタン。見た目は美しく、悪魔のような味を堪能しよう！",
+    "description_en": "A mysterious taste, like a secret of the deep ocean! Creamy and spicy seaweed gratin with avocado. This dish is not only visually stunning but also offers an unexpectedly delicious devilish flavor experience!",
+    "occasion_ja": "パーティーや特別な日に。",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "殻付きホタテ (300g)",
+        "amount": "1個"
+      },
+      {
+        "name": "アボカド (2個)",
+        "amount": "2個"
+      },
+      {
+        "name": "クリーミーなマヨネーズ (大さじ2)",
+        "amount": "2"
+      },
+      {
+        "name": "レモン汁 (大さじ1)",
+        "amount": "1"
+      },
+      {
+        "name": "コショウ (小さじ1/2)",
+        "amount": "1/2"
+      },
+      {
+        "name": "海藻 (50g)",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1. ホタテの殻を取り除き、内側を洗い、軽く水切りする。",
+      "2. アボカドは皮を剥き、中身を半分に切る。",
+      "3. ミキサーでクリーミーなマヨネーズとレモン汁を混ぜる。コショウを加えて味を調える。",
+      "4. 海藻を混ぜ合わせたアボカドとマヨネーズをホタテの殻に詰め、オーブンで15分焼く。"
+    ],
+    "prompt": "A close-up image of the Devil's Seaweed Gratin, showcasing the creamy texture and unique shape.",
+    "filename": "recipe_1781109259.jpg",
+    "date": "2026-06-10 16:36:50",
+    "timestamp": 1781109259,
+    "likes": 0,
+    "views": 337
+  },
+  {
     "id": "recipe_1781096026",
     "category": "ラーメン",
     "category_ja": "ラーメン",
