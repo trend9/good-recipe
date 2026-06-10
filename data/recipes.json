@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781050171",
+    "category": "丼",
+    "category_ja": "丼もの",
+    "title_ja": "悪魔的とろ卵麻婆豆腐丼 - 甘辛Explosion！",
+    "title_en": "Spicy Egg & Tofu Bowl: Sweet, Spicy Explosion!",
+    "description_ja": "とろける卵と、旨辛麻婆豆腐のハーモニーが炸裂する、一汁三菜の悪魔的な美味しさ。甘い甘辛い辛味とクリーミーな卵黄の組み合わせは、まさに衝撃的！",
+    "description_en": "A bowl of spicy egg and tofu with a sweet, spicy kick that will make your taste buds explode. This one-pot dish combines the creamy richness of scrambled eggs and the intense spice of spicy tofu for a flavor experience you won't forget.",
+    "occasion_ja": "特別な夜に、または夜食としてぴったり！",
+    "occasion_en": "Perfect for special nights or a late-night snack! ",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "150g"
+      },
+      {
+        "name": "中辛の唐辛子粉",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "麻婆豆腐ソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "甘酢",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "豆腐に中辛唐辛子粉を混ぜ、15分ほど置いておく。",
+      "フライパンで卵を軽く炒める。",
+      "麻婆豆腐ソースと甘酢を加え、全体を炒める。",
+      "豆腐の麻婆豆腐丼の上に卵をのせる。"
+    ],
+    "prompt": "Close-up shot of a creamy egg and spicy tofu bowl with sizzling sauce. Dramatic, high-contrast lighting.",
+    "filename": "recipe_1781050171.jpg",
+    "date": "2026-06-10 00:11:52",
+    "timestamp": 1781050171,
+    "likes": 0,
+    "views": 405
+  },
+  {
     "id": "recipe_1781043678",
     "category": "dessert/bread",
     "category_ja": "デザート/パンケーキ",
