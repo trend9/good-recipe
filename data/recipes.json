@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781084825",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコレートの衝撃！甘酸っぱくクリーミーな「抹茶クリームチーズ」のスイーツ丼",
+    "title_en": "Decadent Matcha White Chocolate Cream Cheese Dessert Bowl - A Creamy Explosion of Flavor!",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートのコクと甘さを存分に味わえる、見た目も華やかなデザート丼。意外な組み合わせが食欲をそそる一品！",
+    "description_en": "Experience the fusion of matcha and white chocolate's decadent flavor with this stunning dessert bowl, where creamy goodness meets unexpected textures! This unique combination is sure to tantalize your taste buds.",
+    "occasion_ja": "特別な日のおやつに、または甘い気分を味わいたいとき。",
+    "occasion_en": "Perfect for an afternoon treat or a delightful dessert indulgence.",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "抹茶とホワイトチョコレートを混ぜ合わせて、なめらかになるまでよく混ぜる。",
+      "生クリームと塩、砂糖を加えて混ぜ合わせる。",
+      "抹茶クリームチーズの生地を、丼に盛る。",
+      "お好みで、抹茶の粉を添える。"
+    ],
+    "prompt": "Close-up shot of a stunning dessert bowl with creamy matcha white chocolate cream cheese, garnished with green tea powder.",
+    "filename": "recipe_1781084825.jpg",
+    "date": "2026-06-10 09:50:10",
+    "timestamp": 1781084825,
+    "likes": 0,
+    "views": 266
+  },
+  {
     "id": "recipe_1781068456",
     "category": "dessert",
     "category_ja": "デザート",
