@@ -275,6 +275,7 @@ def generate_individual_pages(recipes):
   <meta property="og:type" content="article">
   
   <!-- CSS Link -->
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg" />
   <link rel="stylesheet" href="../index.css">
   {schema_script}
 </head>
@@ -400,6 +401,7 @@ def generate_homepage(recipes):
   <meta name="description" content="クックパッドを超える新感覚！SNSで絶対バズる、悪魔的に美味しい極旨料理レシピを大公開。ポストイット風の見やすい材料リストと美味しそうなアニメ調フード画像が満載。">
   
   <!-- CSS Link -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <link rel="stylesheet" href="index.css">
 </head>
 <body>
@@ -587,7 +589,12 @@ def main():
     filename = f"recipe_{timestamp}.jpg"
     filepath = os.path.join(RECIPE_IMAGES_DIR, filename)
     
-    colab_url = os.environ.get('COLAB_API_URL')
+    import sys
+    colab_url = None
+    if len(sys.argv) > 1 and (sys.argv[1].startswith("http://") or sys.argv[1].startswith("https://")):
+        colab_url = sys.argv[1]
+    else:
+        colab_url = os.environ.get('COLAB_API_URL')
     
     # Step 1: Generate recipe content with LLM
     recipe_data = None
