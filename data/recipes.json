@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781206351",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サーモン×アボカドタルタルの「悪魔的」チーズ焼きそば",
+    "title_en": "Salmon Avocado Tartar Cheese Ramen",
+    "description_ja": "濃厚なアボカドと、鮮やかなサーモンが一体となった、意外性あふれる悪魔的な美味しさのチーズ焼きそば。一口食べれば、世界が少し歪んだような感覚に。",
+    "description_en": "Unleash the inner devil in your palate with this salmon avocado tartar cheese ramen. The creamy, decadent flavor of the dish will leave you wondering how it's even possible to make something this awesome.",
+    "occasion_ja": "パーティーや特別な日の夜にぴったり!",
+    "occasion_en": "Perfect for parties or special occasions! ",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "1切れ"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンは一口サイズに切り、塩コショウで味付けする。",
+      "アボカドは薄切りにし、チーズを乗せて溶かしバターでトーストする。",
+      "卵を茹でる。",
+      "焼きそば麺をゆでる。チーズを麺に加え、卵とサーモンを加えて混ぜる。"
+    ],
+    "prompt": "Close-up of a steaming bowl of ramen with salmon slices, avocado and cheese on top.",
+    "filename": "recipe_1781206351.jpg",
+    "date": "2026-06-11 19:35:32",
+    "timestamp": 1781206351,
+    "likes": 0,
+    "views": 432
+  },
+  {
     "id": "recipe_1781181725",
     "category": "dessert",
     "category_ja": "デザート",
