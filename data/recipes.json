@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781165353",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマトの鮮烈な甘酸っぱさとモッツァレラのクリーミーなハーモニー！悪魔的チーズケーキ",
+    "title_en": "Tomato's Fiery Sweetness Meets Creamy Mozzarella! Devilish Cheese Cake Recipe",
+    "description_ja": "完熟トマトとモッツァレラの組み合わせは、今までにない悪魔的な甘酸っぱさ、クリーミーさと軽やかな食感が楽しめる一品。まるで魔法のチーズケーキのように、その見た目も味も忘れられない一皿を演出します。",
+    "description_en": "A devilishly delicious twist on the classic cheese cake. The fiery sweetness of ripe tomatoes and creamy mozzarella will be a delight, with the light and fluffy texture reminiscent of a magical cheesecake. ",
+    "occasion_ja": "特別な夜や、特別な人に贈る一品に。",
+    "occasion_en": "Perfect for special occasions or gifts.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "グラノーラ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトの果肉を細かく刻み、1/2個分を別容器に用意します。残りのトマトは、果皮を取り除き、潰し、少し水分が残る程度にします。",
+      "2. ボウルにモッツァレラチーズと生クリームを入れ、混ぜ合わせます。",
+      "3. 砕いたグラノーラを全体に加え、混ぜ合わせます。",
+      "4. 器にトマトの果肉とクリームチーズソースを盛り付け、お好みでグラノーラを添え、完成。"
+    ],
+    "prompt": "A close-up photo of a cheese cake with chunks of fresh tomatoes, creamy mozzarella and a sprinkle of granola on top.",
+    "filename": "recipe_1781165353.jpg",
+    "date": "2026-06-11 08:11:03",
+    "timestamp": 1781165353,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1781146900",
     "category": "side",
     "category_ja": "サイド dish",
