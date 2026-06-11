@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781146900",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "抹茶ホワイトチョコ×濃厚Cream Cheeseの「悪魔的」チーズ焼きそば",
+    "title_en": "Matcha White Chocolate & Cream Cheese Creamy Spicy Ramen",
+    "description_ja": "抹茶とホワイトチョコレートの意外な組み合わせが、濃厚クリーミーでスパイシーなチーズ焼きそばに！ 悪魔的な美味しさを実現します。",
+    "description_en": "A twist of matcha and white chocolate, leading to a creamy spicy ramen that is devilishly good! ",
+    "occasion_ja": " parties, gatherings",
+    "occasion_en": "Party/Gathering",
+    "ingredients": [
+      {
+        "name": "中華麺",
+        "amount": "1 serving"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "50g"
+      },
+      {
+        "name": "抹茶粉",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Cream Cheese",
+        "amount": "100g"
+      },
+      {
+        "name": "醤油",
+        "amount": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "中華麺に、濃厚ホワイトチョコレートと抹茶粉を混ぜる。",
+      "Cream Cheeseを加え、なめらかになるまで混ぜる。",
+      "醤油で味を調える。",
+      "麺の上に、チーズソースを乗せる。"
+    ],
+    "prompt": "close-up image of creamy ramen with white chocolate sauce and a sprinkle of matcha powder. It should be steamy and inviting.",
+    "filename": "recipe_1781146900.jpg",
+    "date": "2026-06-11 03:04:41",
+    "timestamp": 1781146900,
+    "likes": 0,
+    "views": 413
+  },
+  {
     "id": "recipe_1781133825",
     "category": "dessert",
     "category_ja": "デザート",
