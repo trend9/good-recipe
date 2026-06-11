@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781215129",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "ローストビーフ × 特製オニオンソースの「悪魔の甘辛チーズ焼きそば」",
+    "title_en": "Roast Beef × Special Onion Sauce: Devilishly Sweet and Spicy Cheese Noodle",
+    "description_ja": "一見普通の焼きそばに、悪魔的な甘辛さに！濃厚なローストビーフと、特製オニオンソースが融合した、まるで夜空を駆け抜けたような、衝撃的な一品をあなたに届けます。",
+    "description_en": "Prepare to be devilishly delighted! This is not your ordinary noodle dish. It's a sweet and spicy fusion of melt-in-your-mouth roast beef and our specially crafted onion sauce, ready to take you on a journey through the night sky.",
+    "occasion_ja": "特別な日の夜に、みんなで楽しむ料理！",
+    "occasion_en": "The perfect dish for your special occasion gatherings with loved ones!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "チーズ (モッツァレラ)",
+        "amount": "50g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフを一口サイズにカット。",
+      "2. 玉ねぎを薄切りにして、フライパンで炒める。",
+      "3. オニオンソースを加え、とろみがつくまで炒め合わせる。",
+      "4. チーズと小麦粉を混ぜて、焼きそばの具材と混ぜる。"
+    ],
+    "prompt": "Close-up of a sizzling noodle stir-fry with melt-in-your-mouth roast beef, creamy onion sauce, and a sprinkle of cheese.",
+    "filename": "recipe_1781215129.jpg",
+    "date": "2026-06-11 22:00:41",
+    "timestamp": 1781215129,
+    "likes": 0,
+    "views": 470
+  },
+  {
     "id": "recipe_1781206351",
     "category": "side",
     "category_ja": "サイド",
