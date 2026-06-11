@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781181725",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコ × 濃厚クリームチーズの「超絶」チーズタルト",
+    "title_en": "Ultimate Matcha & White Chocolate Cheesecake Tart",
+    "description_ja": "普段は抹茶スイーツといえば、ちょっと苦味と甘味のバランスが難しい…しかし、この「超絶」チーズタルトは、濃厚なホワイトチョコレートとの組み合わせで、まさに「抹茶の苦み」を「甘さ」と「クリーミー」で包み込む！今までにない、新しい感覚の抹茶スイーツをお楽しみください。",
+    "description_en": "Get ready for a matcha twist you've never seen before! This cheesecake tart blends creamy white chocolate with rich cream cheese, creating a symphony of flavors that will blow your mind.  Dive into the new world of deliciousness with this incredible taste explosion.",
+    "occasion_ja": "特別な日、特別な人にプレゼントにぴったり！",
+    "occasion_en": "Perfect for celebrating special occasions and treating loved ones!",
+    "ingredients": [
+      {
+        "name": "抹茶ホワイトチョコクランチ",
+        "amount": "15g"
+      },
+      {
+        "name": "濃厚クリームチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "60g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "抹茶ホワイトチョコクランチを2cm角に切り、生クリームと混ぜて15分冷蔵庫で冷やす。",
+      "薄力粉と卵を混ぜ合わせて生地を作る。",
+      "生地を型に流し、20分間冷蔵庫で冷やし、表面を抹茶ホワイトチョコクランチで飾る。",
+      "オーブンを180℃に予熱し、15分焼成。"
+    ],
+    "prompt": "Close-up shot of a beautiful matcha white chocolate cheesecake tart, with intricate decorations and creamy texture, styled in a modern and elegant way.",
+    "filename": "recipe_1781181725.jpg",
+    "date": "2026-06-11 12:43:53",
+    "timestamp": 1781181725,
+    "likes": 0,
+    "views": 380
+  },
+  {
     "id": "recipe_1781165353",
     "category": "dessert",
     "category_ja": "デザート",
