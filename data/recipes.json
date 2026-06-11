@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781220153",
+    "category": "side/snack",
+    "category_ja": "サイドメニュー",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油の「紅梅風」チーズ焼きそば",
+    "title_en": "Roast Beef with Spicy Ginger & Plum Cheese-Filled Yakisoba",
+    "description_ja": "鮮やかな紅梅の香りと、濃厚焦がしにんにく醤油を合わせた、悪魔的な味覚に満ちた一品！炙りチャーシューとチーズが絡み合い、とろけるチーズの甘酸っぱさが新たな深みを演出する、斬新な焼きそば。",
+    "description_en": "A fiery and flavorful take on yakisoba, with the bold flavor of red plum and spicy ginger. This dish blends tender roast beef with melt-in-your-mouth cheese for a unique and delicious twist!  ",
+    "occasion_ja": "パーティーや夜食にぴったり",
+    "occasion_en": "Perfect for parties and after dinner snacks.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "2枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "紅梅",
+        "amount": "適量"
+      },
+      {
+        "name": "薄切りネギ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 薄切りにしたネギと、炙りチャーシューを焼きましょう。",
+      "2. 濃厚焦がしにんにく醤油を全体に塗る。",
+      "3. 紅梅の香りが漂う、チーズを溶きほぐして混ぜ込みます。",
+      "4. 焼きそばの麺を準備し、具材と合わせて調理します。"
+    ],
+    "prompt": "Close-up shot of yakisoba noodles with melted cheese and red plum on top, with a grill mark on the roast beef.",
+    "filename": "recipe_1781220153.jpg",
+    "date": "2026-06-11 23:26:03",
+    "timestamp": 1781220153,
+    "likes": 0,
+    "views": 340
+  },
+  {
     "id": "recipe_1781215129",
     "category": "pasta",
     "category_ja": "パスタ",
