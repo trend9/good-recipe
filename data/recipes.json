@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1781285814",
+    "category": "丼",
+    "category_ja": "丼物",
+    "title_ja": "とろける卵×旨辛麻婆豆腐丼：悪魔の甘辛卵焼き丼",
+    "title_en": "Spicy Egg Roll-Style Mapo Tofu Bowl: Devilish Spicy & Sweetness",
+    "description_ja": "とろける卵と、旨辛麻婆豆腐の相性は抜群！意外な組み合わせなのに、めちゃくちゃ美味しさ爆発！見た目もインパクト抜群の丼ぶりレシピ。家庭でも簡単に作れるよ！",
+    "description_en": "A spicy egg roll-style mapo tofu bowl with an unexpectedly delicious and decadent combination! The visual appeal is also impressive, making it a perfect dish for sharing. It's easy to make at home!",
+    "occasion_ja": "晩御飯や、特別な日にもぴったり！",
+    "occasion_en": "Perfect for a special occasion or dinner! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "4個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1合"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "お好みで: 溶き卵、マヨネーズ、ネギ、唐辛子など",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 麻婆豆腐とご飯を混ぜる。",
+      "2. 卵は溶いて、ボウルに流し入れ、塩コショウで味付けする。",
+      "3. 混ぜ合わせたら丼erに盛り付ける。",
+      "4.お好みでマヨネーズやネギなどを加えれば完成！"
+    ],
+    "prompt": "Close-up shot of the bowl with sizzling mapo tofu, fluffy egg omelette, and a garnish of green onions and sesame seeds.",
+    "filename": "recipe_1781285814.jpg",
+    "date": "2026-06-12 17:39:15",
+    "timestamp": 1781285814,
+    "likes": 0,
+    "views": 315
+  },
+  {
     "id": "recipe_1781275669",
     "category": "side",
     "category_ja": "サイド",
