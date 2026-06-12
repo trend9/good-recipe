@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781294608",
+    "category": "side/stir fry",
+    "category_ja": "サイドメニュー / Stir Fry",
+    "title_ja": "サクサクポテト×クリーミーチーズソースの「闇」焼きそば",
+    "title_en": "Blackened Dynamite Stir-Fried Noodles with Smashed Potatoes and Creamy Cheese Sauce",
+    "description_ja": "悪魔的な美味しさ！サクサク食感のポテトにクリーミーチーズソースを絡めて、まるで闇の中に潜む恐ろしい料理が誕生。一口食べれば、その絶品味の虜となるでしょう。",
+    "description_en": "Get ready for a wickedly delicious stir-fry! This dish combines crispy potato chunks with a creamy cheese sauce, creating a noodle experience that will leave you wanting more. Prepare to be mesmerized.",
+    "occasion_ja": "週末ディナーにぴったり！",
+    "occasion_en": "Perfect for weekend dinners!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "じゃがいもを一口大に切り、小麦粉で衣をつけます。",
+      "フライパンにごま油をひき、じゃがいもを焼きます。",
+      "焼いたポテトにクリーミーチーズと醤油、砂糖を加えて混ぜ合わせます。",
+      "クリーミーチーズソースを絡めて、仕上げにパクチーやネギを添えて召し上がれ。"
+    ],
+    "prompt": "A closeup shot of the noodles with a mix of creamy cheese sauce and crispy potato. The noodles are coated in black sesame oil and sprinkled with green onions.",
+    "filename": "recipe_1781294608.jpg",
+    "date": "2026-06-12 20:05:16",
+    "timestamp": 1781294608,
+    "likes": 0,
+    "views": 421
+  },
+  {
     "id": "recipe_1781285814",
     "category": "丼",
     "category_ja": "丼物",
