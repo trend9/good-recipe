@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1781302974",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛炸裂！焼きそば",
+    "title_en": "Spicy Honey-Mustard Glazed Thick Cut Pork Steak: A Devilish Sweet & Spicy Explosion in Your Mouth!",
+    "description_ja": "極厚カツに、特製ハニーマスタードが絡む、悪魔的な甘辛さが炸裂！焼きそばで、食欲を刺激する一皿です。",
+    "description_en": "Spicy, sweet and tangy! A devilish combination of thick-cut pork cutlets with our special honey mustard glaze. This unique dish is sure to set your taste buds ablaze!",
+    "occasion_ja": "パーティーや、特別な日にもぴったり！",
+    "occasion_en": "Perfect for parties or special occasions! ",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "お好みで砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "焼きそば",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツに、特製ハニーマスタードを塗る。",
+      "お好みで砂糖を加え、甘辛い味付けをする。",
+      "焼きそばと極厚カツを並べて、焼きそばのソースを絡める。",
+      "一口食べれば、悪魔的な甘辛さが爆発する一皿が完成!"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious pork steak cutlets, glazed with honey mustard sauce and drizzled with colorful sauce over a bed of perfectly cooked noodles.",
+    "filename": "recipe_1781302974.jpg",
+    "date": "2026-06-12 22:25:24",
+    "timestamp": 1781302974,
+    "likes": 0,
+    "views": 466
+  },
+  {
     "id": "recipe_1781294608",
     "category": "side/stir fry",
     "category_ja": "サイドメニュー / Stir Fry",
