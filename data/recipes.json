@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781248912",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "抹茶ホワイトチョコ・濃厚クリームチーズの「闇のチョコレート」焼きそば",
+    "title_en": "Dark Chocolate & Cream Cheese Matcha Ramen",
+    "description_ja": "抹茶と濃厚クリームチーズの組み合わせは、まさに悪魔的な美味しさに昇華！このレシピで魅せる、極上の焼きそば体験をぜひご堪能ください。\n",
+    "description_en": "The combination of matcha and creamy cheesecake will bring you a true devilishly delicious experience! Come discover the ultimate ramen adventure with this recipe. ",
+    "occasion_ja": "パーティーや夜食にピッタリ！",
+    "occasion_en": "Perfect for parties and a late-night snack!",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "濃厚クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "ホワイトチョコ",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "1カップ"
+      }
+    ],
+    "steps": [
+      "抹茶粉とクリームチーズを混ぜる。\n",
+      "ホワイトチョコを溶かし、混ぜる。\n",
+      "醤油と水を混ぜ、全体に染み込ませる。\n",
+      "焼きそばを加え、両面を焼き上げる。"
+    ],
+    "prompt": "A bowl of creamy dark chocolate matcha ramen with an anime-style illustration, a steaming hot and decadent ramen noodle soup.",
+    "filename": "recipe_1781248912.jpg",
+    "date": "2026-06-12 07:23:30",
+    "timestamp": 1781248912,
+    "likes": 0,
+    "views": 165
+  },
+  {
     "id": "recipe_1781233051",
     "category": "side",
     "category_ja": "サイドディッシュ",
