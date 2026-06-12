@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781233051",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔のサーモンアボカドチーズ焼きそば",
+    "title_en": "Devil's Salmon Avocado Cheese Carbonara Bake",
+    "description_ja": "炙りサーモンとアボカド、濃厚チーズで作る、まるで悪魔が作ったような焼きそば。見た目も美味しさと悪魔的な美味しさの両方を詰め込んだ一品！",
+    "description_en": "A devilishly delicious salmon avocado cheese bake, with a unique flavor that'll leave you wanting more. This recipe takes your typical carbonara to the next level of culinary magic.",
+    "occasion_ja": "パーティーや特別な日に最適！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "パスタ",
+        "amount": "200g"
+      }
+    ],
+    "steps": [
+      "1. サーモンは焼き、アボカドとクリームチーズを混ぜる。",
+      "2. パスタは茹でる。",
+      "3. 卵とモッツァレラチーズを加えて混ぜる。",
+      "4. パスタにソースとチーズの混合物を絡めながら盛り付ける。"
+    ],
+    "prompt": "A close-up image of a Devil's Salmon Avocado Cheese Carbonara Bake, featuring an appealingly charred salmon fillet, creamy avocado mash, and melted cheese on a bed of carbonara pasta.",
+    "filename": "recipe_1781233051.jpg",
+    "date": "2026-06-12 02:59:48",
+    "timestamp": 1781233051,
+    "likes": 0,
+    "views": 164
+  },
+  {
     "id": "recipe_1781220153",
     "category": "side/snack",
     "category_ja": "サイドメニュー",
