@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781264559",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ×タッカルビチキン：悪魔の甘辛スパイシーチーズ焼きそば",
+    "title_en": "Spicy cheesy tacodile-wrapped fried noodles with a twist of smoky goodness",
+    "description_ja": "とろけるチーズとタッカルビチキンが相性抜群！スパイシーな甘辛ソースで食欲をそそる、まさに悪魔の料理。家庭でも簡単に作れる簡単レシピです。",
+    "description_en": "A spicy and cheesy take on fried noodles with chicken, perfect for any occasion. The creamy cheese and the smoky-sweet sauce is a guaranteed crowd-pleaser!",
+    "occasion_ja": "パーティーや夜食にぴったり！",
+    "occasion_en": "Perfect for parties or after-dinner snacks!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "1個"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "30g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを一口大に切り、チーズはスライス状にします。",
+      "2. 混ぜ合わせ、小麦粉と塩を加え、生地を形成します。",
+      "3. 生地をタッカルビチキンに包み、両面を軽く油で揚げます。",
+      "4. 仕上げに醤油を少々加えて、お好みでソースをかけて召し上がってください。"
+    ],
+    "prompt": "Anime-style illustration of a person enjoying the dish with a dramatic light, showing the cheese and chicken in a creative and appetizing way.",
+    "filename": "recipe_1781264559.jpg",
+    "date": "2026-06-12 11:44:17",
+    "timestamp": 1781264559,
+    "likes": 0,
+    "views": 285
+  },
+  {
     "id": "recipe_1781248912",
     "category": "side",
     "category_ja": "サイド",
