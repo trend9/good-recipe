@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781275669",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サーモン × アボカドの「闇」チーズ焼きそば",
+    "title_en": "Salmon & Avocado's 'Dark' Cheese Ramen",
+    "description_ja": "一見普通の焼きそばに見えがしますが、実は超絶美味しさの秘密が！濃厚チーズで引き立てる、悪魔的な味わいが爆発します。",
+    "description_en": "An ordinary-looking ramen will reveal a secret of extreme deliciousness. The creamy cheese creates an unbelievable taste sensation.",
+    "occasion_ja": "お酒のおつまみ、パーティーにもおすすめ!",
+    "occasion_en": "Perfect for an appetizer, party, or just for yourself!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "30g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "サーモンは、薄切りにして塩コショウで味付けする。",
+      "アボカドは、皮をむき、縦に2等分した後、1つの半分を2cmほどの厚さに切る。",
+      "卵は、溶きほぐし、小麦粉と混ぜる。",
+      "チーズは、細かく砕いて、混ぜる。"
+    ],
+    "prompt": "close-up image of a ramen bowl with a salmon fillet, avocado slices and a creamy cheese topping.",
+    "filename": "recipe_1781275669.jpg",
+    "date": "2026-06-12 14:50:54",
+    "timestamp": 1781275669,
+    "likes": 0,
+    "views": 301
+  },
+  {
     "id": "recipe_1781264559",
     "category": "side",
     "category_ja": "サイド",
