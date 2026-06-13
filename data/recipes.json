@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781358559",
+    "category": "デザート",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘辛デザート",
+    "title_en": "Sweet and Salty Caramel Dessert: Baked Apple's Devilish Bite",
+    "description_ja": "秋の味覚、焼き芋を贅沢に味わう、悪魔的スイーツレシピ！とろけるバターカラメルと焼き芋の意外性あふれる組み合わせが、あなたの舌を魅了する！",
+    "description_en": "Indulge in the sweet and salty flavors of baked apple with this devilishly delicious dessert! The caramelized butter paired with the soft baked apples will leave your taste buds craving more.",
+    "occasion_ja": "秋の味覚を堪能したい時、特別な日のデザートに最適！",
+    "occasion_en": "Perfect for autumn-flavored experiences, this dessert is ideal for special occasions and celebrations.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "100g"
+      },
+      {
+        "name": "水",
+        "amount": "15ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cmほどの厚さに切り、皮と内側を軽く割る。",
+      "ボウルにバターと砂糖を加え、よく混ぜ合わせる。",
+      "焼き芋をボウルに入れたバターと砂糖の液体を包み込むように入れる。",
+      "全体を焼き目をつけて、弱火で10分程度焼けば完成。"
+    ],
+    "prompt": "Close-up image of caramelized apple with a soft, smooth texture and buttery glaze, featuring autumnal colors.",
+    "filename": "recipe_1781358559.jpg",
+    "date": "2026-06-13 13:50:58",
+    "timestamp": 1781358559,
+    "likes": 0,
+    "views": 393
+  },
+  {
     "id": "recipe_1781349151",
     "category": "メインディッシュ",
     "category_ja": "メイン料理",
