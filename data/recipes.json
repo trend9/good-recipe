@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781327961",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の黄金の唐揚げ！ハニーマヨネーズが止まらない！",
+    "title_en": "Golden Chicken with Honey Mayo: A Devilishly Delicious Twist!",
+    "description_ja": "サクサク食感と甘辛いハニーマヨネーズが融合した、衝撃的な唐揚げレシピ！一口食べれば、悪魔の世界へ誘われるはず。",
+    "description_en": "This recipe combines the crispy texture of fried chicken with a devilishly delicious honey mayo sauce. A single bite will transport you to another world.",
+    "occasion_ja": "パーティーや飲み会、家族での食事に最適です！",
+    "occasion_en": "Perfect for parties, get-togethers, or family dinners!",
+    "ingredients": [
+      {
+        "name": "鶏もも肉",
+        "amount": "250g"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "100g"
+      },
+      {
+        "name": "溶かしバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "鶏もも肉を一口大に切る。",
+      "小麦粉と溶かしバターを加え、鶏肉を裹粉する。",
+      "鶏肉をハニーマヨネーズで味付けし、冷蔵庫で30分程度冷やす。",
+      "揚げる前に、片側を少しだけ揚げて、カリッとした食感を楽しむ。"
+    ],
+    "prompt": "Close-up of golden fried chicken with a drizzle of honey mayo sauce, on a wooden background, with some spices in the foreground (英語で料理の見た目を描写)",
+    "filename": "recipe_1781327961.jpg",
+    "date": "2026-06-13 05:20:59",
+    "timestamp": 1781327961,
+    "likes": 0,
+    "views": 478
+  },
+  {
     "id": "recipe_1781309889",
     "category": "pasta",
     "category_ja": "パスタ",
