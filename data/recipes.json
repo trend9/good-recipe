@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1781391651",
+    "category": "焼きそば/グラタン",
+    "category_ja": "焼きそば/グラタン",
+    "title_ja": "海老！クリーミーアボカドグラタンの「夜明け」風焼きそば",
+    "title_en": "Black Cod & Creamy Avocado Gratin Ramen with a 'Sunrise' Flavor",
+    "description_ja": "一見すると普通のグラタンに見えるが、実は夜明けをイメージした特別な味わいが！黒Codのクリーミーなアボカドと、甘辛ソースで作る焼きそばが食欲をそそる一品！",
+    "description_en": "This creamy avocado gratin ramen looks like a regular gratin, but it hides a special and surprising flavor! It's a recipe that will take you on a journey from the morning with black cod, creamy avocado, and a sweet and spicy sauce. You're going to love this!",
+    "occasion_ja": "特別な日の夜に、特別な一品で、ワクワク感を味わいたいとき",
+    "occasion_en": "Perfect for special occasions, this delicious recipe will give you a taste of excitement.",
+    "ingredients": [
+      {
+        "name": "黒Cod",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "Black cod is lightly grilled and salted. Pan-fry the cream cheese in a pan.",
+      "The shredded black cod with creamy avocado, egg, and sweet sauce mixture. Make it into a ramen bowl shape. ",
+      "In an oven at 200°C for about 15 minutes. The result is a delicious, flavorful dish!",
+      "Serve with ramen noodles."
+    ],
+    "prompt": "Close-up of black cod, creamy avocado, egg and sauce mixture in a bowl, a warm sunset sky backdrop, Ramen bowl style illustration with anime vibes",
+    "filename": "recipe_1781391651.jpg",
+    "date": "2026-06-13 23:02:42",
+    "timestamp": 1781391651,
+    "likes": 0,
+    "views": 240
+  },
+  {
     "id": "recipe_1781385059",
     "category": "そば・麺料理",
     "category_ja": "そば料理",
