@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781309889",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的！サーモン×アボカドの「森」チーズ焼きそば",
+    "title_en": "Devilishly Delicious! Salmon & Avocado Forest Cheese Baked Noodles",
+    "description_ja": "まるで森を再現した、濃厚チーズとハーブが織りなす、神秘的な味わいの焼きそば。サーモンとアボカドの組み合わせは意外性ありながら、悪魔的な美味しさに昇格！",
+    "description_en": "Experience the forest's magic with this unexpected and devilishly delicious salmon & avocado baked noodle recipe. A unique fusion of flavors elevates a simple salmon & avocado pairing to an unforgettable culinary experience.",
+    "occasion_ja": "パーティーや特別な日に、特別な味わいを求めるあなたへ。",
+    "occasion_en": "For those who seek special and extraordinary flavors for a party or a special occasion!",
+    "ingredients": [
+      {
+        "name": "サーモン (切り身)",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド (切 blok) ",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ (モッツァレラ)、 (100g) ",
+        "amount": "100g"
+      },
+      {
+        "name": "ハーブ (バジル、ローズマリー)",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "サーモンは塩コショウで下味をつけ、アボカドは細かく刻む。",
+      "チーズを小さく刻み、ハーブと混ぜる。",
+      "フライパンにサラダ油を熱し、小麦粉を加えて混ぜる。",
+      "混ぜ合わせたものをサーモン、アボカド、チーズ、ハーブを加え、焼きそばの具材を作る。"
+    ],
+    "prompt": "An anime-style illustration of the baked noodles in a forest setting with wisps of smoke. A whimsical forest atmosphere.",
+    "filename": "recipe_1781309889.jpg",
+    "date": "2026-06-13 00:19:50",
+    "timestamp": 1781309889,
+    "likes": 0,
+    "views": 238
+  },
+  {
     "id": "recipe_1781302974",
     "category": "side",
     "category_ja": "サイドディッシュ",
