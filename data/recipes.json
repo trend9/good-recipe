@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781385059",
+    "category": "そば・麺料理",
+    "category_ja": "そば料理",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「闇」焼きそば",
+    "title_en": "Ramen with Smoky, Savory Beef & Garlic Roasted Chili:  A Darkened Comfort Food",
+    "description_ja": "悪魔的な美味しさ！炙りチャーシューと濃厚焦がしにんにく醤油が、まるで「闇」の中に潜む、甘辛スパイシーな焼きそばを完成させる。家庭で簡単に作れる、特別な夜にぴったりなレシピだよ。",
+    "description_en": "An unexpected and addictive twist on classic ramen! The savory beef and smoky garlic sauce creates a unique, complex flavor that will leave you wanting more. This recipe is perfect for special occasions.",
+    "occasion_ja": "特別な夜に、友達と家族と楽しむ料理を",
+    "occasion_en": "Perfect for a special occasion with friends and family",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "2枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "50ml"
+      },
+      {
+        "name": "ニンニク",
+        "amount": "1チューブ"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを小さくカットします。",
+      "2. 濃厚焦がしにんにく醤油と小麦粉を混ぜ合わせ、水を加えます。",
+      "3. 混合した材料を焼きそばの麺に塗ります。",
+      "4. 熱したフライパンで焼き、焦げ付かないように注意して調理します。"
+    ],
+    "prompt": "A close-up shot of the ramen noodles with a smoky, dark red sauce and thinly sliced char siu on top of it. The background is dark and shadowy.",
+    "filename": "recipe_1781385059.jpg",
+    "date": "2026-06-13 21:13:58",
+    "timestamp": 1781385059,
+    "likes": 0,
+    "views": 401
+  },
+  {
     "id": "recipe_1781371142",
     "category": "焼きそば",
     "category_ja": "焼きそば",
