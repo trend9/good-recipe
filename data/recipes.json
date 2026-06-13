@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781371142",
+    "category": "焼きそば",
+    "category_ja": "焼きそば",
+    "title_ja": "ローストビーフ × オニオンソースの「夜空」焼きそば",
+    "title_en": "Roast Beef & Onion Sauce 'Night Sky' Ramen",
+    "description_ja": "まるで夜空に浮かぶ、鮮やかな紅と橙の焼そば！ローストビーフと特製オニオンソースが絶妙な甘辛さに。特別な夜を演出する一皿！ ",
+    "description_en": "A ramen dish with a stunning crimson and orange from the roast beef and special onion sauce, giving a night sky effect. Perfect for a special occasion!",
+    "occasion_ja": "特別な夜に、特別な一杯を！",
+    "occasion_en": "A special evening, with a unique and delicious dish.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "100g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "2個"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "焼きそば麺",
+        "amount": "1パック"
+      },
+      {
+        "name": "バター",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "ローストビーフは一口サイズに切る。",
+      "玉ねぎは薄切りにして、炒めながらオニオンソースを加える。",
+      "焼きそば麺を茹でる。",
+      "麺と野菜の炒め物を、熱々のスープに絡める。"
+    ],
+    "prompt": "Close-up shot of a bowl of ramen with red and orange ingredients, smoky texture, vibrant colours",
+    "filename": "recipe_1781371142.jpg",
+    "date": "2026-06-13 17:20:38",
+    "timestamp": 1781371142,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1781364669",
     "category": "pasta",
     "category_ja": "パスタ",
