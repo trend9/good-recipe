@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781349151",
+    "category": "メインディッシュ",
+    "category_ja": "メイン料理",
+    "title_ja": "悪魔のローストビーフ×オニオンソース：甘辛炸裂！",
+    "title_en": "Devilish Roast Beef & Onion Sauce: Sweet and Spicy Explosion!",
+    "description_ja": "普段はローストビーフがちょっぴり寂しい...そんなあなたへ。意外な組み合わせで、悪魔的な美味しさに覚醒！とろけるローストビーフと、甘辛に染み渡るオニオンソースが、まさに「悪魔の宴」を演出します。",
+    "description_en": "Is your roast beef a bit boring? Unleash the devilish side of it! A unique and unexpected pairing, this dish is an explosion of sweet and spicy flavors. Melt-in-your-mouth roast beef combined with the sweet and savory onion sauce will take your taste buds on a journey to culinary hell.",
+    "occasion_ja": "特別な日や、友達とのお食事会にぴったり！",
+    "occasion_en": "Perfect for special occasions or parties with friends!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "1枚"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "ローストビーフは、一口大にカットします。",
+      "オニオンソース、バター、砂糖、醤油、みりんを混ぜて、全体に絡めます。",
+      "ローストビーフにオニオンソースを絡め、加熱して、表面が焦げ付くまで炒めます。",
+      "お好みで、レモン汁を加えて、仕上げます。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious roast beef with a thick, red sauce, with smoke rising from the meat.",
+    "filename": "recipe_1781349151.jpg",
+    "date": "2026-06-13 11:14:16",
+    "timestamp": 1781349151,
+    "likes": 0,
+    "views": 230
+  },
+  {
     "id": "recipe_1781327961",
     "category": "side",
     "category_ja": "サイドディッシュ",
