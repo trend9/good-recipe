@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1781478288",
+    "category": "dessert/side",
+    "category_ja": "デザート/サイド",
+    "title_ja": "抹茶 × 濃厚ホワイトチョコレート焼きそば - 夜空の星屑🍫🍵",
+    "title_en": "Matcha x White Chocolate Ramen - Night Sky Star Sprinkle🍫🍵",
+    "description_ja": "甘くてまろやかな抹茶と、濃厚なホワイトチョコレートが織りなす、夜空に浮かぶ絶品焼きそば。まるで星屑を一口食べているかのような、魅惑的な味わい！",
+    "description_en": "A symphony of matcha and creamy white chocolate, this ramen is a heavenly treat, as if you were tasting stardust in every bite. ",
+    "occasion_ja": "特別な日に、特別な焼きそばが食べたい時。",
+    "occasion_en": "For a special occasion, a ramen you'll never forget.",
+    "ingredients": [
+      {
+        "name": "抹茶ソース",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "抹茶粉と水で抹茶溶液を作る。",
+      "濃厚ホワイトチョコレートを溶かす。",
+      "抹茶溶液とホワイトチョコレートの混合物を、お好みで混ぜ合わせながら、小麦粉を加え、生地を作る。",
+      "焼きそば麺を茹でる前に、生地を100mlの水で溶き、絡める。",
+      "麺を水気を取りながら、生地に絡めて焼きそばに、抹茶ソースとホワイトチョコレートを乗せる。"
+    ],
+    "prompt": "Close-up shot of a white chocolate and matcha ramen, sprinkled with sugar in the shape of a star.",
+    "filename": "recipe_1781478288.jpg",
+    "date": "2026-06-14 23:06:26",
+    "timestamp": 1781478288,
+    "likes": 0,
+    "views": 233
+  },
+  {
     "id": "recipe_1781471160",
     "category": "dessert",
     "category_ja": "デザート",
