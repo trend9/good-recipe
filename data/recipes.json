@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781464772",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の星アボカドチーズ焼きそば",
+    "title_en": "Devil's Star Avocado Cheese Quesadillas",
+    "description_ja": "濃厚なアボカドと、クリーミーなチーズが、まるで宇宙の星のように輝く焼きそば！ 意外性のある組み合わせで、味覚に新たな世界が広がる、悪魔的な一品。 ",
+    "description_en": "Avocado and cream cheese, like a star in the night sky. A totally unexpected combination that unlocks a new world of flavors! ",
+    "occasion_ja": "お酒のお供にぴったり！",
+    "occasion_en": "Perfect for enjoying with your drink!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンは一口大に切る。アボカドは薄切りにする。チーズは細かく切る。",
+      "卵を溶き、醤油と塩コショウで味付けする。",
+      "フライパンにサラダ油をひき、サーモンを焼く。",
+      "アボカドとチーズを加えて、焼いたサーモンの上に、卵の溶き卵を乗せる。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious quesadilla, with a melted cheese and avocado filling. Smoke rising from the top. A sprinkle of chili powder. Anime style illustration.",
+    "filename": "recipe_1781464772.jpg",
+    "date": "2026-06-14 19:21:11",
+    "timestamp": 1781464772,
+    "likes": 0,
+    "views": 205
+  },
+  {
     "id": "recipe_1781457402",
     "category": "side/snack",
     "category_ja": "サイド/スナック",
