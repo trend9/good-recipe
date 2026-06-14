@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1781445119",
+    "category": "焼きそば",
+    "category_ja": "焼きそば",
+    "title_ja": "バナナキャラメル brûlée焼きそば (悪魔の甘辛焼きそば 2.0)",
+    "title_en": "Banana Caramel Brulee Ramen (Devilishly Sweet and Spicy Ramen - 2.0)",
+    "description_ja": "濃厚なキャラメルソースと完熟バナナの組み合わせ、まるで魔法の夜空を味わえる、悪魔的美味しさの焼きそば。表面にカリッとしたキャラメルブリュレで、一口食べれば心が踊り出すでしょう！",
+    "description_en": "A sweet and spicy ramen with a rich caramel sauce and ripe banana, reminiscent of the magical night sky! The caramelized top adds a crunchy texture to this devilishly delicious dish. ",
+    "occasion_ja": "特別な日にぴったり！ 友達とシェアしても、心も体も満たされる一皿に",
+    "occasion_en": "Perfect for special occasions! Share with friends and fill your heart and body with this satisfying dish.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2本"
+      },
+      {
+        "name": "キャラメルソース (溶かしバターと砂糖で作る)",
+        "amount": "100g"
+      },
+      {
+        "name": "キャラメルブリュレ (材料を混ぜて焼く)",
+        "amount": "適量"
+      },
+      {
+        "name": "焼きそば麺",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 焼きそば麺を熱湯で茹でる。",
+      "2. 完熟バナナをスライスし、キャラメルソースを全体に塗る。",
+      "3. キャラメルソースを煮詰めて、焦げ付くまで炒める。",
+      "4. 弱火でキャラメルソースとバナナが溶けるまで加熱して完成。"
+    ],
+    "prompt": "Close-up of a ramen bowl with caramelized banana slices, burnt caramel and noodles in a light and dark color gradient. The noodles are cooked al dente. A single drop of sauce drips down the side. An anime illustration style.",
+    "filename": "recipe_1781445119.jpg",
+    "date": "2026-06-14 13:54:29",
+    "timestamp": 1781445119,
+    "likes": 0,
+    "views": 172
+  },
+  {
     "id": "recipe_1781438001",
     "category": "ラーメン",
     "category_ja": "ラーメン",
