@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1781452050",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔マヨ唐揚げパスタ",
+    "title_en": "Devil's Mayo Chicken Pasta",
+    "description_ja": "サクサク食感の唐揚げを、ハニーマヨネーズと絡めたパスタソースで。意外な組み合わせが、まるで悪魔のような美味しさに！",
+    "description_en": "Unexpectedly delicious! Fried chicken coated in a honey mayonnaise sauce. A new dish with an addictive flavor.",
+    "occasion_ja": "パーティーや、特別な日にぴったりな一品！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "パスタソース",
+        "amount": "1袋"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏肉を一口大に切り、小麦粉と塩コショウで下味をつける。",
+      "揚げ油を熱し、鶏肉を揚げる。",
+      "ハニーマヨネーズを加えたパスタソースを、フライパンに入れて加熱する。",
+      "揚げた鶏肉とパスタソースを加え、炒め合わせる。",
+      "お好みで刻んだネギやパクチーなどをトッピング。"
+    ],
+    "prompt": "Close-up shot of devil's mayo chicken pasta dish, with a golden fried chicken on top and colorful sauce. Focus on the texture contrast.",
+    "filename": "recipe_1781452050.jpg",
+    "date": "2026-06-14 15:49:49",
+    "timestamp": 1781452050,
+    "likes": 0,
+    "views": 230
+  },
+  {
     "id": "recipe_1781445119",
     "category": "焼きそば",
     "category_ja": "焼きそば",
