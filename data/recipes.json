@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781438001",
+    "category": "ラーメン",
+    "category_ja": "ラーメン",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油 の「闇」焼きそば (悪魔の甘辛焼きそば) ",
+    "title_en": "Spicy Smoked Beef and Garlic Chili Shrimp Ramen",
+    "description_ja": "このレシピは、炙りチャーシューと濃厚焦がしにんにく醤油を組み合わせ、まるで闇の世界が広がるような、悪魔的な甘辛焼きそばをご堪能ください。香ばしいチャーシューの味わいが、濃厚なにんにく醤油が絡み合うことで、まさに絶品焼きそばの誕生です。",
+    "description_en": "A spicy and savory ramen made with smoked beef and garlic chili shrimp, this recipe takes on a dark and mysterious flavor profile.  Enjoy the smoky taste of char-grilled beef paired with a rich and intense garlic chili sauce. ",
+    "occasion_ja": "週末にぴったりな悪魔の焼きそば。飲み会や仲間とシェアするのもおすすめ！",
+    "occasion_en": "Perfect for a weekend night, this dark and mysterious ramen is perfect for sharing with friends.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "豚骨スープ",
+        "amount": "適量"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1/2個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "しょうが",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. 豚骨スープに、にんじんと玉ねぎを炒める。",
+      "2. 炙りチャーシューと濃厚焦がしにんにく醤油を加え、煮詰める。",
+      "3. 溶かしバターで炒めたニンニクを少し加え、香ばしさをプラスする。",
+      "4. 溶かしバターで炒めた玉ねぎとしょうがを加えて、完成。"
+    ],
+    "prompt": "A steaming bowl of ramen with a rich broth, garnished with thinly sliced smoked beef and a swirl of thick garlic chili sauce, on a dark background.",
+    "filename": "recipe_1781438001.jpg",
+    "date": "2026-06-14 11:55:07",
+    "timestamp": 1781438001,
+    "likes": 0,
+    "views": 365
+  },
+  {
     "id": "recipe_1781429149",
     "category": "dessert/side",
     "category_ja": "デザート/サイドdish",
