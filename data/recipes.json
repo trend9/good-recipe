@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781414943",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろとろ卵×旨辛麻婆豆腐丼：夜空の悪魔丼",
+    "title_en": "Spicy Tofu Bowl with Soft Egg: Night Sky Devil's Bowl",
+    "description_ja": "とろける卵と、食欲をそそる旨辛麻婆豆腐が、夜空に浮かぶような、まさに悪魔的な美味しさ。家庭で簡単に作れる、インパクト抜群のレシピです！",
+    "description_en": "Spicy, creamy and comforting tofu bowl with a soft egg. The combination of textures and flavors is sure to bring you a night sky-like experience in every bite.",
+    "occasion_ja": "晩御飯に最適。友達とシェアしたい一品",
+    "occasion_en": "Perfect for dinner. Great to share with friends!",
+    "ingredients": [
+      {
+        "name": "麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1.麻婆豆腐は、お好みで辛さを調整しながら作りましょう。",
+      "2.卵は、溶き卵と水で薄く混ぜ、熱したフライパンで、弱火で卵が固まるまで炒めます。",
+      "3.ご飯を盛り、麻婆豆腐、卵を盛り付けます。",
+      "4.醤油、みりんを加え、お好みで塩コショウで味を調えます。"
+    ],
+    "prompt": "Close-up image of a bowl with fluffy white eggs and spicy tofu, against a dark background, illustration style with soft lighting and subtle details.",
+    "filename": "recipe_1781414943.jpg",
+    "date": "2026-06-14 05:30:46",
+    "timestamp": 1781414943,
+    "likes": 0,
+    "views": 445
+  },
+  {
     "id": "recipe_1781396032",
     "category": "焼きそば",
     "category_ja": "焼きそば",
