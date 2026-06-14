@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781457402",
+    "category": "side/snack",
+    "category_ja": "サイド/スナック",
+    "title_ja": "夜空に浮かぶ！旨辛麻婆豆腐の「星」チーズ焼きそば (悪魔的な美味しさ)",
+    "title_en": "Starry Night Spicy Pork Ramen (Spicy Sichuan Noodles - A Devilish Delight)",
+    "description_ja": "とろとろ卵と旨辛麻婆豆腐の組み合わせに、チーズを加え、夜空をイメージした、まるで宇宙からの贈り物のような焼きそば。悪魔的な美味しさをお届けします！",
+    "description_en": "A star-studded, spicy Sichuan noodles experience inspired by a celestial night sky. It combines creamy eggs with rich and spicy pork stir-fry in the most exquisite way. Experience this devilishly delicious dish!",
+    "occasion_ja": "パーティーや映画鑑賞、夜にぴったりな一品！",
+    "occasion_en": "Perfect for parties, movie nights or even a casual dinner",
+    "ingredients": [
+      {
+        "name": "麻婆豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "麻婆豆腐を混ぜ、卵を加え、混ぜる。",
+      "チーズを皿に散らす。",
+      "熱した油で炒めた麻婆豆腐をチーズの上に載せる。",
+      "醤油と砂糖を加えて味を調える。"
+    ],
+    "prompt": "Close-up shot of a sizzling stir-fried noodle, with a sprinkle of cheese and star-shaped decorations on top. Anime style illustration.",
+    "filename": "recipe_1781457402.jpg",
+    "date": "2026-06-14 17:18:25",
+    "timestamp": 1781457402,
+    "likes": 0,
+    "views": 432
+  },
+  {
     "id": "recipe_1781452050",
     "category": "pasta",
     "category_ja": "パスタ",
