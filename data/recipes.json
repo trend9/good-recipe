@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781396032",
+    "category": "焼きそば",
+    "category_ja": "焼きそば",
+    "title_ja": "海老！アボカドの「夜空」チーズ焼きそば (悪魔的な美味しさ)」",
+    "title_en": "Black Gold Salmon & Avocado Cheesy Ramen (Devilishly Delicious)",
+    "description_ja": "「夜空」をイメージした、悪魔的な美味しさを持つ海老！アボカドのチーズ焼きそば。濃厚なチーズソースと、クリーミーなアボカドが食欲をそそります。",
+    "description_en": "Take a trip to 'the night sky' with this devilishly delicious black gold salmon and avocado cheesy ramen. Creamy, decadent avocados meet the savory richness of black gold salmon in a creamy, cheesy sauce.",
+    "occasion_ja": "パーティーや特別な日にもぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "黒金鮭",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鮭は塩コショウで味付けし、フライパンで炒める。",
+      "アボカドは皮を剥き、1cm角に切る。",
+      "チーズと牛乳を混ぜてクリーム状にする。",
+      "焼きそばを茹でる。焼きそばを皿に盛り、アボカドと鮭を乗せて、クリームチーズソースをかける。"
+    ],
+    "prompt": "Close-up shot of a bowl of cheesy ramen with salmon and avocado slices, topped with a cloud of creamy cheese sauce.",
+    "filename": "recipe_1781396032.jpg",
+    "date": "2026-06-14 00:16:14",
+    "timestamp": 1781396032,
+    "likes": 0,
+    "views": 343
+  },
+  {
     "id": "recipe_1781391651",
     "category": "焼きそば/グラタン",
     "category_ja": "焼きそば/グラタン",
