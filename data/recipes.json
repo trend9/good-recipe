@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781517548",
+    "category": "side",
+    "category_ja": "サイドdish",
+    "title_ja": "悪魔の星屑バナナキャラメル焼きそば (絶品！バナナの甘酸っぱさ、キャラメルが引き立てる！)",
+    "title_en": "Devilishly Delicious Starlit Banana Caramel Yakisoba",
+    "description_ja": "完熟バナナとキャラメルブリュレを組み合わせた、今までにない悪魔的な美味しさの焼きそばレシピです！甘酸っぱさに、キャラメルの香ばしさで魅了する一品です。",
+    "description_en": "Prepare for a devilishly delicious journey with this innovative yakisoba recipe! The perfect blend of ripe banana and caramel brûlée create an unforgettable, unique experience.",
+    "occasion_ja": "パーティー、デート、夜食など、特別な日に最適な一品！",
+    "occasion_en": "Perfect for parties, dates, or a late-night snack. ",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1本"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "1カップ"
+      }
+    ],
+    "steps": [
+      "バナナをスライスして、塩コショウで味を調える。",
+      "フライパンに油をひき、焼きそば麺を加えて炒める。",
+      "キャラメルブリュレを細かく砕き、麺に加えて炒める。",
+      "麺の表面にキャラメルがコーティングされた状態になったら完成。"
+    ],
+    "prompt": "Close-up image of a yakisoba noodle with caramelized banana and caramel topping, in a sizzling, hot frying pan.",
+    "filename": "recipe_1781517548.jpg",
+    "date": "2026-06-15 10:00:47",
+    "timestamp": 1781517548,
+    "likes": 0,
+    "views": 322
+  },
+  {
     "id": "recipe_1781494553",
     "category": "pasta",
     "category_ja": "パスタ",
