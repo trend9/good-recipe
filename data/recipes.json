@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781494553",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子の夜空の秘密！レモンクリーム生パスタ",
+    "title_en": "Lemon Cream Pasta with a Secret Midnight Surprise!",
+    "description_ja": "明太子とレモンクリームが織りなす、まるで夜空に浮かぶ星屑のようなパスタ！意外な美味しさで魅せる一皿を完成させましょう。",
+    "description_en": "A pasta that weaves the magic of lemon cream and spicy mayo into a celestial masterpiece! Get ready to uncover the hidden taste delight for your taste buds.",
+    "occasion_ja": "特別な日には、この夜空の秘密を味わってみませんか？",
+    "occasion_en": "A perfect dish for special occasions, discover the secret of this celestial pasta night!",
+    "ingredients": [
+      {
+        "name": "生パスタ",
+        "amount": "150g"
+      },
+      {
+        "name": "明太子",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "パスタを茹でる。",
+      "ボウルに明太子とレモン汁、バターを入れて混ぜる。",
+      "生クリームを加え、なめらかになるまで混ぜる。",
+      "茹で上がったパスタとソースを絡めながら盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a colorful pasta dish with an ethereal glow, lemon cream sauce and chopped salmon flakes.",
+    "filename": "recipe_1781494553.jpg",
+    "date": "2026-06-15 03:37:34",
+    "timestamp": 1781494553,
+    "likes": 0,
+    "views": 464
+  },
+  {
     "id": "recipe_1781478288",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
