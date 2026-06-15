@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781538353",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろとろ卵・旨辛麻婆豆腐の「星」丼",
+    "title_en": "Starry Egg & Spicy Mapo Tofu Bowl",
+    "description_ja": "ふわふわ卵と、激辛な麻婆豆腐の組み合わせが、食欲をそそる、まさに悪魔的な一皿！まるで宇宙空間を味わえる！？ そして、その上に、黄金色の甘酒で飾る。 ",
+    "description_en": "This heavenly dish combines fluffy egg and spicy mapo tofu in a bowl, for an unforgettable experience. A golden brown sweet sake drizzle finishes it off to elevate the experience even further.",
+    "occasion_ja": "特別な日に、一人でも楽しめる一品。 ",
+    "occasion_en": "Enjoy this special dish solo for any occasion. ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "甘酒",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩昆布",
+        "amount": "少々"
+      },
+      {
+        "name": "ネギ",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "鍋に麻婆豆腐を入れて、加熱。",
+      "卵を割りほぐし、器に注ぐ。",
+      "甘酒、塩昆布、ネギを加え混ぜる。",
+      "ご飯を碗に盛り、麻婆豆腐の卵ご飯をのせる。"
+    ],
+    "prompt": "Close-up image of the starry egg & spicy mapo tofu bowl, with a vibrant golden glaze and fluffy egg on top. Food photography style.",
+    "filename": "recipe_1781538353.jpg",
+    "date": "2026-06-15 15:47:32",
+    "timestamp": 1781538353,
+    "likes": 0,
+    "views": 351
+  },
+  {
     "id": "recipe_1781517548",
     "category": "side",
     "category_ja": "サイドdish",
