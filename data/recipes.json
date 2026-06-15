@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781561764",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリーム生パスタ × 甘酸っぱい魚介の「星」焼きそば",
+    "title_en": "Spicy Tuna & Lemon Cream Pasta with Star-Shaped Baked Noodle",
+    "description_ja": "衝撃的な美味しさ！明太子とレモンクリームを生Pastaに、甘酸っぱく旨味を閉じ込めた「星」焼きそばの完成！まるで宇宙の夜空を味わえる一皿。",
+    "description_en": "An unexpected culinary experience! This is a pasta dish with a twist, combining the spicy flavors of mayonnaise and lemon cream with a star-shaped baked noodle. The result is an out-of-this-world dish that will transport you straight to the night sky.",
+    "occasion_ja": "特別な夜、友人とシェアする一皿に最適。",
+    "occasion_en": "This is perfect for sharing with friends or enjoying on a special occasion.",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "20g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "150g"
+      },
+      {
+        "name": "甘酸っぱい魚介 (例: マッシュルーム、イカ、エビなど)",
+        "amount": "200g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "パスタを茹でる。",
+      "明太子とレモン汁を加え、混ぜる。",
+      "甘酸っぱい魚介を炒め、塩胡椒で味を調える。",
+      "パスタに甘酸っぱい魚介を絡める。"
+    ],
+    "prompt": "A close-up shot of a steaming bowl of the pasta, with star-shaped baked noodles and a drizzle of sauce. The background should have an ethereal, night sky-like effect.",
+    "filename": "recipe_1781561764.jpg",
+    "date": "2026-06-15 22:17:47",
+    "timestamp": 1781561764,
+    "likes": 0,
+    "views": 267
+  },
+  {
     "id": "recipe_1781552600",
     "category": "pasta",
     "category_ja": "パスタ",
