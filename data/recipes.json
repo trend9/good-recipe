@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1781611797",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜 × きな粉もちもちアイス：悪魔の甘酸っぱさ！",
+    "title_en": "Black Honey x Kinako Mochi Ice: The Devilish Sweet and Sour Delight!",
+    "description_ja": "衝撃的！黒蜜ときな粉の組み合わせで、想像を超える美味しさ！もちもちアイスと一体となった、まさに悪魔的な甘酸っぱさ！",
+    "description_en": "The devilishly delicious combination of black honey and kinako! This unique sweet & sour sensation will leave your taste buds wanting more. A must-try dessert that's a fusion of texture and flavor.",
+    "occasion_ja": "特別な日のデザートに、ぜひ試してみてね！",
+    "occasion_en": "Perfect for special occasions. A must-try dessert for every occasion!",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "2個"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "きな粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "もちもちアイスを2個用意します。",
+      "黒蜜ときな粉を加えて混ぜます。",
+      "牛乳を加えて、なめらかになるまで混ぜます。",
+      "もちもちアイスに黒蜜ミルクソースをつけ、いただきます！"
+    ],
+    "prompt": "Close-up shot of the delicious black honey and kinako ice cream, with a dollop of rich black honey sauce atop a glistening ice cream scoop. Use bright and warm color palette.",
+    "filename": "recipe_1781611797.jpg",
+    "date": "2026-06-16 12:10:48",
+    "timestamp": 1781611797,
+    "likes": 0,
+    "views": 213
+  },
+  {
     "id": "recipe_1781591465",
     "category": "ラーメン",
     "category_ja": "ラーメン",
