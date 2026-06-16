@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1781652080",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔の夜空！",
+    "title_en": "Snakcy Potatoes x Creamy Cheese Sauce: Devil's Night Sky!",
+    "description_ja": "見た目も鮮やかな、サクサクポテトにクリーミーチーズソースを絡めて、悪魔的な美味しさで魅了する、超絶アレンジレシピ！",
+    "description_en": "Get ready for a devilishly delicious recipe that combines crispy potato with creamy cheese sauce, all in one! ",
+    "occasion_ja": "パーティー、ディナータイム、夜食に最適！",
+    "occasion_en": "Perfect for parties, dinners, and a late-night snack!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "じゃがいもを1cm角にカットし、10分程度水気を切ります。",
+      "マヨネーズと塩コショウで味付けをし、揚げる。(200℃で約10分)",
+      "揚げたポテトをクリーミーチーズソースで絡めて、混ぜ合わせる (お好みで生クリームを加えても美味しい)。",
+      "盛り付け後、お好みでパセリやハーブを添えれば完成です。"
+    ],
+    "prompt": "Close-up shot of crispy potato with creamy cheese sauce, sprinkled with parsley and a dramatic background for the night sky.",
+    "filename": "recipe_1781652080.jpg",
+    "date": "2026-06-16 23:22:57",
+    "timestamp": 1781652080,
+    "likes": 0,
+    "views": 373
+  },
+  {
     "id": "recipe_1781644369",
     "category": "メインディッシュ",
     "category_ja": "メイン料理",
