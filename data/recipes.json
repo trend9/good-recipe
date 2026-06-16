@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781632912",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "海の悪魔のグラタン：クリーミーアボカドと生マグロの夜空星屑",
+    "title_en": "Seafood Devil's Delight: Creamy Avocado and Raw Salmon Starry-Eyed Galantine",
+    "description_ja": "黒蜜の甘酸っぱさ、クリーミーなアボカドと、とろける生マグロの贅沢な組み合わせ。悪魔的な美味しさに酔いしれる夜空を演出！",
+    "description_en": "A devilishly delicious fusion of creamy avocado and raw salmon, with a touch of black honey's sweet and sour flavor. This recipe will transport you to another dimension of culinary experience.",
+    "occasion_ja": "特別な日に、優雅なひとときを演出",
+    "occasion_en": "For a special occasion, enjoy a decadent moment.",
+    "ingredients": [
+      {
+        "name": "生マグロ",
+        "amount": "1切れ"
+      },
+      {
+        "name": "クリーミーアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "生マグロは、薄切りにする。",
+      "クリーミーアボカドは、細かく刻む。",
+      "黒蜜とグラタンソースを混ぜ合わせる。",
+      "マグロ、アボカド、黒蜜ソースをグラタン皿に並べ、パルメザンチーズを散らす。"
+    ],
+    "prompt": "A close-up shot of a decadent creamy avocado and raw salmon grainy dessert, topped with a sprinkle of black sesame seeds. Starry night effect.",
+    "filename": "recipe_1781632912.jpg",
+    "date": "2026-06-16 18:03:10",
+    "timestamp": 1781632912,
+    "likes": 0,
+    "views": 365
+  },
+  {
     "id": "recipe_1781611797",
     "category": "dessert",
     "category_ja": "デザート",
