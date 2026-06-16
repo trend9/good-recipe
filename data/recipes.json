@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781591465",
+    "category": "ラーメン",
+    "category_ja": "ラーメン",
+    "title_ja": "バナナキャラメルチーズ焼きそばの夜空星屑",
+    "title_en": "Starry Banana Caramel Cheese Ramen",
+    "description_ja": "完熟バナナとキャラメルのハーモニーが炸裂する、絶品！焼きそばの魔法。まるで宇宙に浮かぶ星屑みたい！",
+    "description_en": "A taste explosion of banana and caramel, in a delicious ramen noodle dish. Enjoy the star-like magic of the recipe!",
+    "occasion_ja": "特別な夜に、特別な人を招待する料理。",
+    "occasion_en": "For special occasions and to impress your guests.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1本"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "完熟バナナは、皮をむき、細長くカットします。\n",
+      "1/4サイズにカットしたバナナを、キャラメルソースと共に、フライパンで炒めます。\n",
+      "小麦粉と水を加えて、生地を作ります。\n",
+      "生地を麺状に伸ばし、チーズを乗せます。\n"
+    ],
+    "prompt": "Close-up shot of a ramen bowl with a creamy and fluffy banana, caramel sauce drizzled on top. With melted cheese in the center.",
+    "filename": "recipe_1781591465.jpg",
+    "date": "2026-06-16 06:32:48",
+    "timestamp": 1781591465,
+    "likes": 0,
+    "views": 471
+  },
+  {
     "id": "recipe_1781569718",
     "category": "パスタ",
     "category_ja": "パスタ",
