@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781733497",
+    "category": "焼きそば",
+    "category_ja": "焼きそば",
+    "title_ja": "バナナキャラメルナッツの「夜空」焼きそば",
+    "title_en": "Banana Caramel Nut 'Night Sky' Ramen",
+    "description_ja": "悪魔的な美味しさと夜空の美しさを融合させた、斬新な焼きそば。完熟バナナの甘酸っぱさとキャラメルナッツの濃厚さが、まるで宇宙の夜空を表現したような、まさに「夜空」焼きそば！",
+    "description_en": "A revolutionary ramen featuring the 'night sky' theme, merging a dark and delicious experience with the beauty of space! The caramelized banana’s sweet and tangy notes are balanced by the nutty depth of caramel nuts. It is truly a night sky-inspired dish.",
+    "occasion_ja": "特別な夜に、特別な人に、心を込めて贈る一品。",
+    "occasion_en": "A special occasion dish perfect for sharing. Delight your guests with this uniquely delicious and visually captivating ramen! ",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1本"
+      },
+      {
+        "name": "キャラメルナッツ",
+        "amount": "適量"
+      },
+      {
+        "name": "ラーメン麺",
+        "amount": "1パック"
+      },
+      {
+        "name": "醤油ダレ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "バナナを刻み、キャラメルナッツを混ぜる。",
+      "ラーメン麺を茹でて、塩コショウで味をする。",
+      "焼きそばのタレと、刻んだバナナとキャラメルナッツを混ぜ合わせる。",
+      "麺を皿に盛り付け、タレとバナナキャラメルナッツを乗せて完成！"
+    ],
+    "prompt": "A close-up shot of a ramen bowl with dark, smoky noodles, topped with a bright yellow banana and caramel nut mixture. A sprinkle of salt and pepper can be seen on the noodles and the scene is framed against a starry night sky.",
+    "filename": "recipe_1781733497.jpg",
+    "date": "2026-06-17 22:00:05",
+    "timestamp": 1781733497,
+    "likes": 0,
+    "views": 468
+  },
+  {
     "id": "recipe_1781724241",
     "category": "丼もの",
     "category_ja": "丼もの",
