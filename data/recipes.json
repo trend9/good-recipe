@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781714233",
+    "category": "pasta/side",
+    "category_ja": "パスタ/サイドdish",
+    "title_ja": "トマト・モッツァレラチーズの「星」焼きそば：悪魔の甘酸っぱさ！",
+    "title_en": "Tomato & Mozzarella Cheese Star-shaped Pasta: Devilish Sweet Sour Flavor!",
+    "description_ja": "完熟トマトとフレッシュモッツァレラチーズを組み合わせて、まるで夜空に浮かぶ星屑のような焼きそば。悪魔的な甘酸っぱさが爆発する！",
+    "description_en": "A star-shaped pasta with tomato and fresh mozzarella cheese. A devilishly delicious combination of sweet and sour flavors, reminiscent of a starry night sky!",
+    "occasion_ja": "特別な夜に、特別な人へ贈り物に。",
+    "occasion_en": "For special occasions and gifts.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "15g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 1cm角に切ります。",
+      "2. 卵と砂糖を混ぜて、小麦粉を加えて生地を作ります。",
+      "3. 生地を丸くして、成形します。",
+      "4. フライパンで油を熱し、生地を焼き、熟成させてください。"
+    ],
+    "prompt": "Close-up shot of a star-shaped pasta with tomato and mozzarella cheese, glowing in the dark like a night sky.",
+    "filename": "recipe_1781714233.jpg",
+    "date": "2026-06-17 16:38:52",
+    "timestamp": 1781714233,
+    "likes": 0,
+    "views": 472
+  },
+  {
     "id": "recipe_1781700703",
     "category": "side/snack/dessert",
     "category_ja": "サイド/デザート",
