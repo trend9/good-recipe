@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781686732",
+    "category": "side dish",
+    "category_ja": "サイドメニュー",
+    "title_ja": "とろける半熟卵 × デミグラスハンバーグの夜空星屑！",
+    "title_en": "Half-cooked Egg & Demi-Glace Burger Night Sky Starry Surprise!",
+    "description_ja": "まるで宇宙を飛び越えたような、とろける半熟卵とデミグラスハンバーグが織りなす、衝撃的な美味しさ！まるで夜空に浮かぶ星屑のように輝く、特別な一品に仕上がります。",
+    "description_en": "A surprisingly delicious and unique dish where melt-in-your-mouth half-cooked eggs and demi-glace burgers come together to form a night sky, starry surprise. This is sure to become your next favorite recipe!",
+    "occasion_ja": "特別な日には、友達や家族と楽しむのにぴったりな一品！",
+    "occasion_en": "Perfect for special occasions and gatherings with friends or family! ",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "パセリ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ハンバーグの肉汁を染み込ませるようにデミグラスソースを塗ります。",
+      "フライパンで半熟卵を焼きます。",
+      "ハンバーグとデミグラスソースを並べ、パセリを添えます。",
+      "お好みで、チーズやハーブなどをトッピングして完成! "
+    ],
+    "prompt": "Close-up photo of a half-cooked egg and demi-glace burger, with the egg yolk oozing out and a beautiful garnish of parsley. It's like a miniature celestial landscape.",
+    "filename": "recipe_1781686732.jpg",
+    "date": "2026-06-17 09:01:20",
+    "timestamp": 1781686732,
+    "likes": 0,
+    "views": 437
+  },
+  {
     "id": "recipe_1781667000",
     "category": "pasta",
     "category_ja": "パスタ",
