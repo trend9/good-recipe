@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781700703",
+    "category": "side/snack/dessert",
+    "category_ja": "サイド/デザート",
+    "title_ja": "バナナキャラメルブリュレ ×  黒蜜ソースの「星」焼きそば",
+    "title_en": "Banana Caramel Brulee x Black Honey Sauce 'Star' Ramen",
+    "description_ja": "完全に完成度を上げる！ 完熟バナナとキャラメルが織りなす、悪魔的な美味しさの焼きそばに、黒蜜ソースで「星」を飾る。家庭でも簡単に作れる一皿の魔法が、あなたを待っています！",
+    "description_en": "A perfect blend of devilish deliciousness! This dish is a caramelized banana and caramel treat topped with black honey sauce, creating a star-studded ramen. This simple recipe delivers a magic experience in your own kitchen.",
+    "occasion_ja": "特別な日や、夜ごはんにぴったりな悪魔的な一品。",
+    "occasion_en": "Perfect for special occasions or a night-time treat. ",
+    "ingredients": [
+      {
+        "name": "バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "焼きそば麺",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "バナナをキャラメルと黒蜜で煮詰めます。",
+      "熱したフライパンで焼きそば麺を炒めます。",
+      "焼きそば麺をキャラメルバナナのソースに絡めて、醤油を加えて完成です。",
+      "この悪魔的な美味しさは、あなたを待っています！"
+    ],
+    "prompt": "A close-up photo of a ramen noodle dish. Ramen noodles are swimming in a pool of caramelized banana and black honey sauce with a star shape garnish on top.",
+    "filename": "recipe_1781700703.jpg",
+    "date": "2026-06-17 12:54:58",
+    "timestamp": 1781700703,
+    "likes": 0,
+    "views": 315
+  },
+  {
     "id": "recipe_1781686732",
     "category": "side dish",
     "category_ja": "サイドメニュー",
