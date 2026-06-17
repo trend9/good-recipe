@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781738530",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "海賊の星屑グラタン",
+    "title_en": "Pirate Star Graven Delight",
+    "description_ja": "海賊の冒険心を刺激する、クリーミーなアボカドとマグロのグラタン。 意外な組み合わせで、悪魔的な美味しさに包まれる！",
+    "description_en": "A pirate-themed creamy avocado and tuna melt with a touch of magic. A surprising but delicious twist on the classic! ",
+    "occasion_ja": "特別なパーティーや、大人向けの夜食にぴったり",
+    "occasion_en": "Perfect for special parties or an evening snack with adult friends!",
+    "ingredients": [
+      {
+        "name": "マグロ (薄切り)",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド (中サイズ)",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム (薄切り)",
+        "amount": "30ml"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "水溶き片栗粉 (薄切り)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "マグロは薄切りにする。",
+      "アボカドを潰し、クリーミーチーズを加え、塩コショウで味を調える。",
+      "マグロとアボカドの具材を混ぜる。",
+      "グラタン皿に具材を盛り付ける。Creamy cheese and water-soluble starch powder is added to the top, and baked until bubbly."
+    ],
+    "prompt": "A close-up photo of a pirate themed gravy boat with a creamy white sauce and chunks of red fish on top. The image should be taken in an artistic and colorful style.",
+    "filename": "recipe_1781738530.jpg",
+    "date": "2026-06-17 23:25:09",
+    "timestamp": 1781738530,
+    "likes": 0,
+    "views": 383
+  },
+  {
     "id": "recipe_1781733497",
     "category": "焼きそば",
     "category_ja": "焼きそば",
