@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781724241",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵と旨辛麻婆豆腐の星屑丼：悪魔の夜空！",
+    "title_en": "Spicy & Creamy Egg Drop Dumpling Bowl: Starry Sky Inferno!",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の組み合わせは、まさに悪魔の夜空！ 意外性と美味しさに満ちた、特別な丼の誕生です。",
+    "description_en": "A culinary masterpiece of creamy eggs and spicy Sichuan tofu, this dish offers a truly unique taste experience. A true star-studded creation for your dinner table!",
+    "occasion_ja": "特別な夜に、特別な一品を召し上がれ！",
+    "occasion_en": "Perfect for special occasions, savor this unique dish! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "だし醤油",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "お好みのトッピング (例: 刻み海苔、ネギなど)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "豆腐を炒める：旨辛麻婆豆腐に油と調味料を加え炒める。",
+      "卵焼きを作る：卵を混ぜる。だし醤油を少し加えて、とろける卵焼きを作製する。",
+      "ご飯を炊き、豆腐ソースと卵焼きを盛り付ける：ご飯を炊き、豆腐ソースを全体に散らし、卵焼きを重ねる。",
+      "トッピング：お好みで刻み海苔、ネギなどをトッピングする。 "
+    ],
+    "prompt": "Close-up shot of a steaming bowl with fluffy egg, creamy tofu and rice. Dramatic lighting, artistic bokeh effect, anime style (英語で料理の見た目を描写)",
+    "filename": "recipe_1781724241.jpg",
+    "date": "2026-06-17 19:27:05",
+    "timestamp": 1781724241,
+    "likes": 0,
+    "views": 155
+  },
+  {
     "id": "recipe_1781714233",
     "category": "pasta/side",
     "category_ja": "パスタ/サイドdish",
