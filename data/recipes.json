@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781667000",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "トマト・モッツァレラチーズの星屑パスタ",
+    "title_en": "Starry Pasta with Tomato and Mozzarella",
+    "description_ja": "完熟トマトとフレッシュモッツァレラの絶妙な組み合わせで、まるで星屑が舞うような、悪魔的な美味しさ！ 濃厚なチーズソースと、爽やかなトマトのハーモニーは、あなたを魅了する魔法の料理です。",
+    "description_en": "A heavenly combination of ripe tomatoes and fresh mozzarella creates a pasta dish that looks like stardust, and is incredibly delicious! The rich cheese sauce and the refreshing tomato harmony will captivate your taste buds.",
+    "occasion_ja": "特別な日のお食事にぴったり！",
+    "occasion_en": "Perfect for a special meal!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトは薄切りにして、フライパンで軽く炒める。",
+      "2. 茹で上がったパスタを皿に移し、バターと牛乳を加える。",
+      "3.  塩を少々加えて混ぜる。",
+      "4. トマトを加え、モッツァレラチーズを散らす。"
+    ],
+    "prompt": "Close-up photo of the pasta dish with a sprinkle of fresh mozzarella on top. The tomato is beautifully red and shining, and there are small stars made from white mozzarella.",
+    "filename": "recipe_1781667000.jpg",
+    "date": "2026-06-17 03:32:26",
+    "timestamp": 1781667000,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1781652080",
     "category": "side",
     "category_ja": "サイドディッシュ",
