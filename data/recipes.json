@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781785313",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "海賊の星屑！クリーミーアボカド＆ハッシュドポテトグラタン",
+    "title_en": "Starry Sea Pirate's Delight! Creamy Avocado & Hasselback Potato Gratin",
+    "description_ja": "悪魔的な美味しさに、海の星屑を想像させます。クリーミーなアボカドと、カリッとしたポテトのグラタンは、一口食べれば海の冒険気分が味わえる、特別な一品に仕上がります。",
+    "description_en": "Dive into a sea of deliciousness! A creamy avocado and Hasselback potato gratin that will transport you on an imaginary pirate adventure. With every bite, the taste buds are taken on a journey to the open seas.",
+    "occasion_ja": "パーティーや特別な日のディナーにぴったりな一品。",
+    "occasion_en": "Perfect for parties or special occasions. ",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "ポテト",
+        "amount": "1kg"
+      },
+      {
+        "name": "牛乳",
+        "amount": "150ml"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. ポテトは、1cmの厚さにハッシュドポテトにする。",
+      "2. アボカドは、カットし、牛乳とバターを加えて混ぜる。",
+      "3. ハッシュドポテトをグラタンの皿に敷き詰める。",
+      "4. アボカドのソースを乗せて、熱したオーブンで15分焼く。"
+    ],
+    "prompt": "A close-up shot of a cheesy, golden gratin with chunks of potatoes and avocado on a rustic wooden board, sprinkled with parsley, against the backdrop of a starry night sky.",
+    "filename": "recipe_1781785313.jpg",
+    "date": "2026-06-18 12:23:34",
+    "timestamp": 1781785313,
+    "likes": 0,
+    "views": 466
+  },
+  {
     "id": "recipe_1781770028",
     "category": "side",
     "category_ja": "サイド dish",
