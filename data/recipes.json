@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781751468",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "悪魔の炸裂！ハニーマヨ唐揚げとサクサクポテトの夜空星屑！",
+    "title_en": "Blast off! Honey Mayo Fried Chicken & Crispy Potato Starry Night Sprinkle!",
+    "description_ja": "甘いハニーマヨネーズとサクサクとしたポテトが、まるで宇宙の星屑のように輝く！このレシピは、悪魔的な美味しさの最高峰を表現する一品。家庭で簡単に作れるので、ぜひチャレンジしてみてください！",
+    "description_en": "A blast of flavor! Honey mayo fried chicken and crispy potatoes, sprinkled to resemble a starry night sky. This recipe is the pinnacle of devilishly delicious, easily made at home. So go ahead, take a leap and enjoy this amazing dish!",
+    "occasion_ja": "パーティー、家族で食べる時、お酒のつまみに最適！",
+    "occasion_en": "Great for parties, family gatherings, or a snack to enjoy with your drinks!",
+    "ingredients": [
+      {
+        "name": "鶏もも肉",
+        "amount": "250g"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "油",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏もも肉は一口大に切る。",
+      "ハニーマヨネーズと混ぜ合わせたタレを鶏肉に塗る。",
+      "180度に予熱した油で揚げる。",
+      "揚げた鶏肉を盛り付ける。"
+    ],
+    "prompt": "Close-up image of golden fried chicken with a crispy coating and sprinkle of cheese, against a black background. The background should be starry night sky with twinkling stars.",
+    "filename": "recipe_1781751468.jpg",
+    "date": "2026-06-18 03:01:16",
+    "timestamp": 1781751468,
+    "likes": 0,
+    "views": 250
+  },
+  {
     "id": "recipe_1781738530",
     "category": "グラタン",
     "category_ja": "グラタン",
