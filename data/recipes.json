@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781800027",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の星屑！トマトモッツァレラチーズケーキ",
+    "title_en": "Devilish Starry Cheese Cake: Tomato & Mozzarella",
+    "description_ja": "完熟トマトの甘酸っぱさが、フレッシュモッツァレラチーズと相性抜群。まるで宇宙に浮かぶ星屑ケーキ！ ぜひお試しあれ!",
+    "description_en": "A devilishly delicious cheesecake experience! The sweet and tangy tomato meets fresh mozzarella cheese for a heavenly result. It's as if you are staring at a starlit cake from the cosmos!",
+    "occasion_ja": "特別な日や、いつもと違う特別な夜に。",
+    "occasion_en": "For a special occasion or a night you wish to be extraordinary!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトの水分を飛ばし、細かく刻みます。",
+      "2. 生クリームと砂糖、塩を加え、泡立て器でよく混ぜます。",
+      "3. 溶き卵を加え、さらに泡立てます。",
+      "4. 生クリームチーズ生地を完成したトマトとモッツァレラチーズの土台の上に、均等に広げ、冷蔵庫で1時間以上冷やします。"
+    ],
+    "prompt": "A close-up image of a cheesecake with a tomato and mozzarella swirl on top. A vibrant red and white color palette, with a sprinkle of gold dust for a touch of glamour.",
+    "filename": "recipe_1781800027.jpg",
+    "date": "2026-06-18 16:29:31",
+    "timestamp": 1781800027,
+    "likes": 0,
+    "views": 258
+  },
+  {
     "id": "recipe_1781785313",
     "category": "side",
     "category_ja": "サイド",
