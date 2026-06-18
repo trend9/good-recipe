@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781770028",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "悪魔の夜空！ローストビーフ＆特製オニオンソースの「星屑」焼きそば",
+    "title_en": "Starry Night! Roast Beef & Special Onion Sauce Ramen",
+    "description_ja": "「夜空に輝く」ような、贅沢な味わいを表現した、本格的な焼きそば！ローストビーフと特製オニオンソースの組み合わせが、まるで宇宙を駆け巡ったような感覚で楽しめる、悪魔的美味しさのレシピ。",
+    "description_en": "A gourmet ramen with a heavenly taste and a 'starry night' design! Roast beef and special onion sauce are combined for an experience that feels like traveling through space. ",
+    "occasion_ja": "特別な夜に、特別なひとときを過ごしたい方におすすめ！",
+    "occasion_en": "Perfect for special occasions, a unique and unforgettable experience.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "きゅうり",
+        "amount": "1個"
+      },
+      {
+        "name": "白菜",
+        "amount": "1/4個"
+      },
+      {
+        "name": "生卵",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフを一口サイズにカットする。",
+      "2. 特製オニオンソースと、きゅうりを混ぜ合わせ、混ぜ合わせたソースが、まぶしい「星屑」に見えるように、焼きそばの麺の上にたっぷりかける。",
+      "3. 軽く塩コショウで味付けした白菜を、焼きそばの麺の上に飾り付け、さらに、生卵を乗せて、まるで宇宙空間を漂う、悪魔的な美味しさを見せる。",
+      "4. 熱したフライパンで、焼きそばを炒める。(お好みで、醤油などで味を調える。) "
+    ],
+    "prompt": "Close-up shot of the ramen with a star pattern made from shredded vegetables and egg yolk.",
+    "filename": "recipe_1781770028.jpg",
+    "date": "2026-06-18 08:08:57",
+    "timestamp": 1781770028,
+    "likes": 0,
+    "views": 452
+  },
+  {
     "id": "recipe_1781751468",
     "category": "side",
     "category_ja": "サイドメニュー",
