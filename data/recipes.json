@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781810735",
+    "category": "焼きそば",
+    "category_ja": "焼きそば",
+    "title_ja": "焼き芋 × トろけるバターカラメル  「星屑」焼きそば  ",
+    "title_en": "Roasted Yam x Crunchy Butter Caramel  Starry Ramen",
+    "description_ja": "まるで宇宙の星屑が、焼き芋とバターの美味しさが混ざって、焼きそばの新たな伝説を生み出す！ 意外な組み合わせだけど、悪魔的な美味しさのレシピです。",
+    "description_en": "A cosmic explosion of roasted yam and a crunchy butter caramel, bringing new meaning to 'Starry Ramen'! This surprising combination offers an otherworldly taste experience.",
+    "occasion_ja": "特別な日や、夜食に最適な一品",
+    "occasion_en": "Perfect for special occasions or a late-night snack",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "焼き芋を一口大に切り、軽く焼きます。",
+      "バターとカラメルソースを混ぜ合わせ、焼き芋と絡めます。",
+      "小麦粉と水を混ぜ合わせて、生地を作ります。",
+      "生地を焼き芋に包み、焼き上げます。"
+    ],
+    "prompt": "Close-up shot of a ramen bowl with roasted yam slices topped with caramel sauce, and crispy ramen noodles.",
+    "filename": "recipe_1781810735.jpg",
+    "date": "2026-06-18 19:27:11",
+    "timestamp": 1781810735,
+    "likes": 0,
+    "views": 384
+  },
+  {
     "id": "recipe_1781800027",
     "category": "dessert",
     "category_ja": "デザート",
