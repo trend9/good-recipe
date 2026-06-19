@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781898342",
+    "category": "Pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子の夜空！レモンクリーム生パスタ",
+    "title_en": "Lemon Cream Pasta with Spicy Crab: A Night Sky Recipe",
+    "description_ja": "いつもの明太子とレモンクリームが、まるで夜空に浮かぶ宝石のような、新たな美味しさを実現。特別な夜に、心も体も満たしてくれる一品だ。",
+    "description_en": "This unique and delicious recipe elevates the classic combination of creamy lemon sauce with spicy crab meat.  Prepare for an unforgettable night sky experience, both literally and figuratively.",
+    "occasion_ja": "特別な夜や、普段の食事に、ちょっと贅沢な一品が欲しい時におすすめ",
+    "occasion_en": "Perfect for special occasions or when you want to add some extra flair to your everyday meals.",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "2個"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "100g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 明太子の大きさに合わせて、生パスタに明太子を散りばめ、レモン汁とバターを加え、全体をよく混ぜる。",
+      "2. さらに塩コショウで味を調える。",
+      "3. パスタを沸騰した水で茹で、火を止めた後、レモンクリームソースと一緒に絡める。",
+      "4. 熱々のパスタを皿に盛り、お好みで新鮮なハーブやパセリを飾る。"
+    ],
+    "prompt": "Close-up shot of a bright yellow, creamy lemon pasta with red and green crab meat in a light and airy night sky background.",
+    "filename": "recipe_1781898342.jpg",
+    "date": "2026-06-19 19:47:24",
+    "timestamp": 1781898342,
+    "likes": 0,
+    "views": 293
+  },
+  {
     "id": "recipe_1781889338",
     "category": "dessert",
     "category_ja": "デザート",
