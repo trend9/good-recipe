@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1781903245",
+    "category": "side dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サクサクポテト × クリーミーチーズソース！悪魔の夜空！",
+    "title_en": "Sizzling Potato & Creamy Cheese Sauce - Devil's Night Sky!",
+    "description_ja": "このレシピは、サクサクとしたポテトとクリーミーなチーズソースの組み合わせで、まるで夜空に浮かぶ星屑のような、見た目も魅惑的で食べるのが楽しい一品を提案する。悪魔的な美味しさをお楽しみください！",
+    "description_en": "Imagine a dish as delicious and breathtaking as the night sky! This recipe combines the crispy texture of potato with creamy cheese sauce in a way that’s out of this world. Prepare to experience culinary magic! ",
+    "occasion_ja": "パーティーや飲み会、夜食にぴったり！",
+    "occasion_en": "Perfect for parties, gatherings, and a midnight snack!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "じゃがいもを皮ごと薄切りにする。\n",
+      "小麦粉、塩、砂糖を混ぜ合わせて、片栗粉を加えて更に混ぜる。",
+      "油を熱し、じゃがいもを揚げ焼きにする。\n",
+      "クリーミーチーズとバターを溶かし、ソースを作る。"
+    ],
+    "prompt": "A closeup photo of sizzling potato with cheese sauce, star-shaped sprinkles, and an enticing golden glow.",
+    "filename": "recipe_1781903245.jpg",
+    "date": "2026-06-19 21:09:41",
+    "timestamp": 1781903245,
+    "likes": 0,
+    "views": 365
+  },
+  {
     "id": "recipe_1781898342",
     "category": "Pasta",
     "category_ja": "パスタ",
