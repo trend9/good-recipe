@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781909546",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サーモン×アボカドタルタル！「夜空」の衝撃スイーツ",
+    "title_en": "Salmon & Avocado Tartare 'Night Sky' - A Dessert Sensation!",
+    "description_ja": "今まで見たことのない、サーモンとアボカドの贅沢な組み合わせで、まるで夜空を駆け抜けるような感覚を味わえる、悪魔的なスイーツレシピ。",
+    "description_en": "An utterly unique, decadent combination of salmon and avocado that will transport your taste buds to the night sky. ",
+    "occasion_ja": "特別な日にはもちろん、普段の夜も気分転換にぴったりなスイーツレシピです。",
+    "occasion_en": "This recipe is perfect for any occasion, from special events to casual evenings, offering a unique twist on dessert. ",
+    "ingredients": [
+      {
+        "name": "サーモン (鮮度の良いものがおすすめ)",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド (熟したものを選びましょう)",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "バジリコ (お好みで)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンを薄くスライスし、塩コショウで味付けします。",
+      "アボカドは皮と種を取った後、軽く潰して混ぜます。",
+      "レモン汁を加え、アボカドとサーモンをさらに和らげます。",
+      "お好みでバジリコを添えて、夜空のデザートを完成させましょう。"
+    ],
+    "prompt": "Close-up photo of a beautifully plated dessert, featuring salmon tartare and avocado slices over whipped cream with a sprinkle of chopped chives on top. The background is dark grey with white stars.",
+    "filename": "recipe_1781909546.jpg",
+    "date": "2026-06-19 22:54:09",
+    "timestamp": 1781909546,
+    "likes": 0,
+    "views": 323
+  },
+  {
     "id": "recipe_1781903245",
     "category": "side dish",
     "category_ja": "サイドディッシュ",
