@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1781828639",
+    "category": "dessert/side/pasta",
+    "category_ja": "デザート/サイドディッシュ/パスタ",
+    "title_ja": "抹茶 × 濃厚ホワイトチョコレートの「星屑」焼きそば",
+    "title_en": "Matcha & White Chocolate Starry Pasta",
+    "description_ja": "一見、抹茶とホワイトチョコレートの組み合わせが異様な！？しかし、この独特な美味しさは、まるで星屑のように、想像を超える魅惑を届ける。",
+    "description_en": "The combination of matcha and white chocolate might seem strange, but this unique flavor is a starry surprise that will exceed your expectations.",
+    "occasion_ja": "特別な夜に、特別な一杯を。",
+    "occasion_en": "For special occasions, an exquisite taste of magic.",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "50g"
+      },
+      {
+        "name": "白玉粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "溶かしバター",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "抹茶粉と濃厚ホワイトチョコレートを混ぜ合わせ、溶かしバターで滑らかな生地を作る。",
+      "白玉粉を加えて、さらに混ぜる。",
+      "生クリームで生地を包み込み、冷蔵庫で1時間程度冷やす。",
+      "熱したフライパンで生地を広げる。",
+      "焼きそばのように形を整え、仕上げにホワイトチョコレートソースをかければ完成です。"
+    ],
+    "prompt": "A close-up shot of the freshly made 'Starry' pasta with a fluffy and even texture, surrounded by star-shaped white chocolate flakes.",
+    "filename": "recipe_1781828639.jpg",
+    "date": "2026-06-19 00:25:36",
+    "timestamp": 1781828639,
+    "likes": 0,
+    "views": 311
+  },
+  {
     "id": "recipe_1781810735",
     "category": "焼きそば",
     "category_ja": "焼きそば",
