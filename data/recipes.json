@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781880777",
+    "category": "そば/焼きそば",
+    "category_ja": "そば・焼きそば",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「夜空」焼きそば",
+    "title_en": "Black Garlic-Soy Glazed Smoked Pulled Pork Ramen with Starry Glaze",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油が、まるで夜空に浮かぶように、絶品焼きそばを完成させる！ 意外な組み合わせで、悪魔的な美味しさに驚くでしょう。",
+    "description_en": "Smoked pulled pork ramen with black garlic and soy glaze, topped with a heavenly star-shaped glaze. A unique and delicious recipe that is sure to blow your mind! ",
+    "occasion_ja": "夜遅くまで楽しめる、特別な夜にぴったりな一品",
+    "occasion_en": "Perfect for a late-night dinner, an evening of indulgence.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "そば粉",
+        "amount": "適量"
+      },
+      {
+        "name": "水",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "フライパンで炙りチャーシューと濃厚焦がしにんにく醤油を混ぜ合わせる。",
+      "そば粉と水を混ぜ、生地を作る。",
+      "生地を薄く伸ばし、焼きそばの形にする。",
+      "焼いたそばに炙りチャーシューと濃厚焦がしにんにく醤油を載せる。"
+    ],
+    "prompt": "Anime illustration of a ramen bowl with smoked pulled pork, star-shaped glaze drizzled on top. Smoky and elegant, with soft lights and vibrant colors.",
+    "filename": "recipe_1781880777.jpg",
+    "date": "2026-06-19 14:55:23",
+    "timestamp": 1781880777,
+    "likes": 0,
+    "views": 185
+  },
+  {
     "id": "recipe_1781867930",
     "category": "丼",
     "category_ja": "丼",
