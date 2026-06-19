@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781867930",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "極厚カツ × 特製ハニーマスタード「夜空」丼",
+    "title_en": "Ultimate Thick Cut Steak with Honey Mustard 'Night Sky' Bowl",
+    "description_ja": "極厚カツを、特製ハニーマスタードソースで食べる、悪魔的な美味しさの夜空丼！  見た目はまるで宇宙の夜空をイメージした、まるで宇宙を飛び越えて食べたような感覚が味わえる一品。",
+    "description_en": "Experience the ultimate heavenly flavor with our Deep Fried Steak 'Night Sky' Bowl. The thick-cut steak is drizzled with a special honey mustard sauce for a truly out of this world, culinary adventure.",
+    "occasion_ja": "特別な日に、ワクワク感を味わいたい時",
+    "occasion_en": "Perfect for special occasions and any time you crave an extra special treat. ",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1枚"
+      },
+      {
+        "name": "特製ハニーマスタードソース",
+        "amount": "適量"
+      },
+      {
+        "name": "サラダ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵焼き",
+        "amount": "1個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      }
+    ],
+    "steps": [
+      "極厚カツを、両面を揚げて、熱いうちに特製ハニーマスタードソースで味付けします。",
+      "サラダと卵焼きを加えて、丼に盛り付けます。",
+      "ご飯も添え、丼を完成させます。",
+      "お好みで、レモン汁をかければ、より一層爽やかな味わいが楽しめます。"
+    ],
+    "prompt": "A close-up shot of the 'Night Sky' Bowl with deep-fried steak, a honey mustard sauce drizzle, and ingredients like salad and an egg roll on top. The background should be a starry night sky.",
+    "filename": "recipe_1781867930.jpg",
+    "date": "2026-06-19 11:20:31",
+    "timestamp": 1781867930,
+    "likes": 0,
+    "views": 368
+  },
+  {
     "id": "recipe_1781849617",
     "category": "丼ぶり",
     "category_ja": "丼ぶり",
