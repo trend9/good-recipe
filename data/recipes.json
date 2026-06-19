@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781849617",
+    "category": "丼ぶり",
+    "category_ja": "丼ぶり",
+    "title_ja": "とろける卵と旨辛麻婆豆腐の「夜空」丼: 悪魔の甘酸っぱさ！",
+    "title_en": "Tofu and Egg Surprise Bowl - Devilish Sweet & Sour! ",
+    "description_ja": "悪魔的な美味しさの丼ぶりレシピ。とろける卵と旨辛麻婆豆腐が、意外なハーモニーを生み出す、夢のような一品に仕上がります！",
+    "description_en": "A devilishly delicious bowl recipe. The combination of creamy egg and spicy tofu creates a magical experience.",
+    "occasion_ja": "特別な日や、おもてなしにも最適！",
+    "occasion_en": "Perfect for special occasions and entertaining!",
+    "ingredients": [
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "麻婆豆腐を温める。",
+      "卵を溶き、醤油、みりん、砂糖で味を調える。",
+      "丼に麻婆豆腐と卵を盛る。",
+      "お好みで、刻んだネギやパプリカなどをトッピングする。"
+    ],
+    "prompt": "Close-up shot of the Devil's Bowl. The deliciousness is reflected in every detail.  Rich and creamy white sauce, topped with a fluffy egg yolk and spicy tofu chunks, all resting on a bed of steaming rice. Dramatic lighting, as if a fiery demon's spirit is radiating from it.",
+    "filename": "recipe_1781849617.jpg",
+    "date": "2026-06-19 06:15:15",
+    "timestamp": 1781849617,
+    "likes": 0,
+    "views": 392
+  },
+  {
     "id": "recipe_1781828639",
     "category": "dessert/side/pasta",
     "category_ja": "デザート/サイドディッシュ/パスタ",
