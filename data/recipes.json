@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781970295",
+    "category": "side/snack",
+    "category_ja": "サイドDish",
+    "title_ja": "極厚カツ×特製ハニーマスタード：悪魔の夜空！",
+    "title_en": "Ultimate Deep Fried Pork Cutlet: Devil's Night Sky!",
+    "description_ja": "極厚カツに、特製ハニーマスタードの甘辛ソースを絡めて食べる。この意外な組み合わせは、まるで宇宙からの贈り物のような味覚体験！",
+    "description_en": "Experience a universe of flavor with this unexpected yet delicious combination. Deep fried pork cutlets paired with a unique sweet and spicy honey mustard sauce, creating a cosmic delight on your palate!",
+    "occasion_ja": "パーティーやBBQなど、どんなシーンにも合う一品！",
+    "occasion_en": "Perfect for parties and BBQs! This will take any gathering to the next level!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "甘辛ソース",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面こんがりと焼き、粗熱を取ります。",
+      "特製ハニーマスタードの甘辛ソースを作ります。ハニーマスタードと醤油、砂糖などを混ぜて、お好みで塩コショウを加えて調整します。",
+      "極厚カツに特製ハニーマスタードのソースをたっぷり絡めて、一口食べましょう。",
+      "お好みで、レモン汁を加えても美味しくいただけます。"
+    ],
+    "prompt": "Close-up shot of a deep fried pork cutlet with honey mustard sauce, bursting with flavor. A sprinkle of sesame seeds adds extra texture and visual appeal.",
+    "filename": "recipe_1781970295.jpg",
+    "date": "2026-06-20 15:46:37",
+    "timestamp": 1781970295,
+    "likes": 0,
+    "views": 307
+  },
+  {
     "id": "recipe_1781963409",
     "category": "dessert",
     "category_ja": "デザート",
