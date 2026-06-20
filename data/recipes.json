@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781976250",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト×クリーミーチーズソース：宇宙の衝撃！",
+    "title_en": "Space-Age Crunch: A Universe of Flavor Explosion!",
+    "description_ja": "まるで宇宙を飛び越えたような、サクサクポテトにクリーミーチーズソースが加わった、極上の悪魔的美味しさ！ 意外な組み合わせで、誰もが驚嘆する一品。",
+    "description_en": "Prepare for a taste bud-shattering cosmic experience! This unique combination of crispy potato and creamy cheese sauce is a flavor explosion that will leave you breathless.",
+    "occasion_ja": "パーティーや特別なイベントにぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "サクサクポテト",
+        "amount": "2個"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "1カップ"
+      },
+      {
+        "name": "バジル",
+        "amount": "適量"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. サクサクポテトをオーブンで焼きます。",
+      "2. クリーミーチーズソースを作る：クリーミーチーズとバジル、ブラックペッパーを加え、とろみをつける。",
+      "3.  サクサクポテトにクリーミーチーズソースを塗ります。",
+      "4.  お好みでブラックペッパーを振れば完成！"
+    ],
+    "prompt": "An astronaut wearing a white spacesuit holding a large plate of cheesy, crispy potato fries, with a starry background. The astronaut is smiling.",
+    "filename": "recipe_1781976250.jpg",
+    "date": "2026-06-20 17:25:46",
+    "timestamp": 1781976250,
+    "likes": 0,
+    "views": 333
+  },
+  {
     "id": "recipe_1781970295",
     "category": "side/snack",
     "category_ja": "サイドDish",
