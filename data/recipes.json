@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781963409",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の夜空！サーモンチーズケーキ＆アボカドの「星空」サラダ",
+    "title_en": "Starry Night: Salmon Cheese Cake & Avocado Salad",
+    "description_ja": "いつもと違う、斬新で美味しい夜空を演出するレシピ。チーズケーキとアボカドの組み合わせが、甘酸っぱさとクリーミーな味わいを、まるで宇宙空間の星空のように表現します。",
+    "description_en": "A new twist on the classic “starry night” theme, this recipe offers a delicious fusion of creamy cheese cake and refreshing avocado salad. The combination brings a unique balance of sweet and sour flavors, all reminiscent of the vastness of the universe.",
+    "occasion_ja": "特別な日にぴったりなデザート",
+    "occasion_en": "Perfect for special occasions. ",
+    "ingredients": [
+      {
+        "name": "チーズケーキ",
+        "amount": "2個"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "チーズケーキを冷蔵庫から取り出し、1cm程度の厚さにカットする。",
+      "アボカドは皮と種を取り除き、みじん切りにする。",
+      "レモン汁とバターを入れて混ぜ、塩で味を調える。",
+      "チーズケーキの表面にアボカドサラダを乗せる。"
+    ],
+    "prompt": "Close-up image of the salmon cheese cake and avocado salad with a starry night background.",
+    "filename": "recipe_1781963409.jpg",
+    "date": "2026-06-20 13:51:50",
+    "timestamp": 1781963409,
+    "likes": 0,
+    "views": 309
+  },
+  {
     "id": "recipe_1781954014",
     "category": "pasta",
     "category_ja": "パスタ",
