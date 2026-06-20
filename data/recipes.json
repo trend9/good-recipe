@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781996657",
+    "category": "side/snack",
+    "category_ja": "サイド/スナック",
+    "title_ja": "ハニーマヨ唐揚げ × サクサクエビの甘酸味！: 悪魔の夜空！",
+    "title_en": "Honey Mayo Fried Chicken & Crunchy Shrimp with Sweet-Spicy Sauce: A Night Sky of Flavor!",
+    "description_ja": "悪魔的な美味しさの夜空を彩る、ハニーマヨ唐揚げとサクサクエビの甘酸味！このレシピは、意外性と美味しさの両方を兼ね備えた、まさに「夜空」を表現した一品に仕上がります。",
+    "description_en": "A night sky of flavor! A blend of honey mayo fried chicken and crunchy shrimp with sweet-spicy sauce that captures the unique beauty and deliciousness of the night. ",
+    "occasion_ja": "パーティーやディナーなど、特別な日の食事にぴったりです。",
+    "occasion_en": "Perfect for parties or dinners, this recipe delivers a unique and delicious experience.",
+    "ingredients": [
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "唐揚げ用の薄力粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "エビ",
+        "amount": "200g"
+      },
+      {
+        "name": "甘酸っぱいタレ (例：醤油、みりん、砂糖、酢)",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "唐揚げを薄力粉で衣をつけ、ハニーマヨネーズと混ぜる。",
+      "エビは塩コショウで味付けし、揚げる。",
+      "揚げたエビに甘酸っぱいタレをかける。",
+      "揚げたエビと唐揚げを盛り付け、お好みでライムやパプリカを添えて完成。"
+    ],
+    "prompt": "A close-up shot of the fried shrimp and chicken with honey mayo sauce, drizzled with sweet and spicy sauce. A sprinkle of lime slices over the top adds a pop of color.",
+    "filename": "recipe_1781996657.jpg",
+    "date": "2026-06-20 23:06:01",
+    "timestamp": 1781996657,
+    "likes": 0,
+    "views": 342
+  },
+  {
     "id": "recipe_1781989912",
     "category": "丼",
     "category_ja": "丼もの",
