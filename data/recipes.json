@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781954014",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子の夜空！レモンクリーム生パスタ＆パプリカの鮮烈なコラボ！",
+    "title_en": "Spicy & Tangy Sunrise: Lemon Cream Pasta with a Surprise Twist! ",
+    "description_ja": "明太子とレモンが、まるで夜空に輝くような、爽やかな美味しさを実現。 パプリカのピリ辛さがアクセントに！ これが「明太子の夜空」の誕生！",
+    "description_en": "A taste of sunrise! The perfect blend of lemon cream and spicy peppers brings a delightful explosion to your taste buds. This is the birth of a true masterpiece: ‘Spicy & Tangy Sunrise’!",
+    "occasion_ja": "特別な夜に、ちょっとだけ贅沢なひとときを味わいたい時に！",
+    "occasion_en": "For special occasions, indulge in a touch of luxury. ",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "1個"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "1束"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パプリカ(赤&黄)",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. パプリカはピーラーで薄切りにし、レモン汁と混ぜ合わせておく。",
+      "2. 生パスタを沸騰したお湯に茹で、芯が固まるまで茹でる。",
+      "3. 明太子をボウルに入れて、軽く水気を切っておく。",
+      "4. パプリカのピリ辛ソースをパスタと明太子を絡めながら混ぜ合わせる。"
+    ],
+    "prompt": "Photo of a vibrant orange-yellow lemon cream sauce with colorful chopped peppers and a fresh, glistening yellow pasta in a bowl on white table.",
+    "filename": "recipe_1781954014.jpg",
+    "date": "2026-06-20 11:15:21",
+    "timestamp": 1781954014,
+    "likes": 0,
+    "views": 276
+  },
+  {
     "id": "recipe_1781945269",
     "category": "dessert",
     "category_ja": "デザート",
