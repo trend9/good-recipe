@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781983061",
+    "category": "サイドディッシュ",
+    "category_ja": "サイドメニュー",
+    "title_ja": "極厚カツ × ハニーマスタード & 生姜の甘酸味！ – 悪魔の夜空！",
+    "title_en": "Extreme Thick Cutlet & Spicy Honey Mustard - A taste of the night sky!",
+    "description_ja": "極厚カツに、ハニーマスタードと生姜の甘酸っぱさが爆発する、悪魔的な美味しさ！このレシピで、夜空を征服しましょう！",
+    "description_en": "A devilishly delicious twist on the classic thick cutlet with a burst of honey mustard and ginger's spicy-sweet tang! Conquer the night sky with this recipe!",
+    "occasion_ja": "パーティーやBBQにぴったり！",
+    "occasion_en": "Perfect for parties and barbecues!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1切れ"
+      },
+      {
+        "name": "ハニーマスタードソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "生姜",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "極厚カツに、ハニーマスタードソースを塗り、冷蔵庫で冷やします。",
+      "生姜をすりおろして、砂糖を加えて混ぜ合わせ、レモン汁を混ぜます。",
+      "冷えた極厚カツに、生姜甘酸味ソースを塗ります。",
+      "お好みで、生姜の甘酸味ソースを添えましょう。"
+    ],
+    "prompt": "Close-up shot of a thick cutlet with honey mustard and ginger glaze, glistening under kitchen lighting.",
+    "filename": "recipe_1781983061.jpg",
+    "date": "2026-06-20 19:19:24",
+    "timestamp": 1781983061,
+    "likes": 0,
+    "views": 437
+  },
+  {
     "id": "recipe_1781976250",
     "category": "side",
     "category_ja": "サイド",
