@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781989912",
+    "category": "丼",
+    "category_ja": "丼もの",
+    "title_ja": "ふわふわとろとろ卵 × 旨辛麻婆豆腐丼：悪魔の夜空！",
+    "title_en": "Fluffy Egg Yolk Bowl with Spicy Pork & Tofu: A Recipe from Hell!",
+    "description_ja": "とろける卵と、スパイシーな麻婆豆腐のハーモニーが炸裂する、悪魔的な美味しさ！ 想像を超えた食感と、激辛でコクのある味わいが、まるで地獄の宴を体験したかのような感覚にさせてくれる。",
+    "description_en": "A thrilling taste adventure of creamy egg yolk and spicy pork and tofu. This recipe delivers a heavenly combination of textures and flavors that will transport you straight to the realm of hellish delights!",
+    "occasion_ja": "特別な日、または特別な夜に！",
+    "occasion_en": "Perfect for a special occasion or for a night where you want something truly unique.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "4個"
+      },
+      {
+        "name": "麻婆豆腐",
+        "amount": "1合"
+      },
+      {
+        "name": "鶏肉(薄切り)",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ(薄切り) ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "1. 卵を溶き、1/2 tablespoons of the egg yolk to a bowl, whisk for 5 seconds. 1 tablespoon of soy sauce and remaining egg yolk to another bowl. ",
+      "2. 麻婆豆腐を熱した鍋に、鶏肉を炒める。玉ねぎを加えて炒める。",
+      "3.  卵と醤油を混ぜ合わせた液体を加え、豆腐と鶏肉の炒め物と混ぜ合わせる。",
+      "4. 盛り付け。 "
+    ],
+    "prompt": "Close-up shot of a steaming bowl of delicious egg yolk bowl with spicy pork and tofu, topped with fluffy egg yolk, in a dramatic setting.",
+    "filename": "recipe_1781989912.jpg",
+    "date": "2026-06-20 21:14:53",
+    "timestamp": 1781989912,
+    "likes": 0,
+    "views": 408
+  },
+  {
     "id": "recipe_1781983061",
     "category": "サイドディッシュ",
     "category_ja": "サイドメニュー",
