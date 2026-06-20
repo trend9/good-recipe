@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781932208",
+    "category": "焼きそば",
+    "category_ja": "焼きそば",
+    "title_ja": "抹茶ホワイトチョコレート・サウザンドクォーツ！悪魔の夜空焼きそば",
+    "title_en": "Thousand-Quartz Milky Chocolate! Devil's Night Sky Noodle Bake",
+    "description_ja": "抹茶と濃厚ホワイトチョコの意外な組み合わせ、サウザンドクォーツの独特な輝きを表現した、まるで宇宙空間の夜空を彷彿とさせる焼きそば。魅惑的な見た目も味も、このレシピで体験せよ！",
+    "description_en": "A taste-and-sight experience like no other, the Devil's Night Sky Noodle Bake blends the unexpected wonder of green tea and white chocolate in a dish that resembles a cosmic night sky. The beauty will astound you as well as the flavor! ",
+    "occasion_ja": "特別な夜、特別な人との時間を演出する",
+    "occasion_en": "Special occasions, elevating your time with special people. ",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "濃厚ホワイトチョコ",
+        "amount": "100g"
+      },
+      {
+        "name": "白玉粉",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "1.  抹茶とホワイトチョコを混ぜ、白玉粉を加え、なめらかになるまで混ぜます。",
+      "2.  白玉粉を加えた抹茶ホワイトチョコソースを、焼きそばの麺に加えて混ぜ合わせます。",
+      "3.  油で揚げ、焼きそばを焼き上げ、抹茶ホワイトチョコソースを絡めて、完成！ ",
+      "4.  お好みで黒蜜や抹茶パウダーをかけて頂く。"
+    ],
+    "prompt": "close-up of a colorful, smoky and textured Devil's Night Sky Noodle Bake with white chocolate sauce. An alluring image of space or night sky in the background.",
+    "filename": "recipe_1781932208.jpg",
+    "date": "2026-06-20 05:11:51",
+    "timestamp": 1781932208,
+    "likes": 0,
+    "views": 313
+  },
+  {
     "id": "recipe_1781913963",
     "category": "pasta",
     "category_ja": "パスタ",
