@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1781913963",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子の夜空！レモンクリーム生パスタの斬新アレンジ",
+    "title_en": "A New Twist on the Lemon Cream Pasta with Spicy Tuna - Devilish Deliciousness",
+    "description_ja": "明太子とレモンクリームの意外な組み合わせで、衝撃的な美味しさに進化！悪魔的食感と味覚を体験できる極上のレシピ。夜空を彩る、一皿の芸術作品だ",
+    "description_en": "Take the classic lemon cream pasta and turn it upside down with a kick of spicy tuna for an incredible taste experience. A recipe that is both visually stunning and devilishly delicious, this dish offers a unique culinary masterpiece.",
+    "occasion_ja": "特別な日や、普段の食事にもおすすめ",
+    "occasion_en": "Ideal for special occasions or everyday dining",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "1 boîte"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "卵白",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "パスタを茹でる。",
+      "明太子とレモン汁、マヨネーズを混ぜる。",
+      "茹で上がったパスタと明太子のソース、卵白を加えて混ぜる。",
+      "皿に盛り付ける。"
+    ],
+    "prompt": "A close-up photo of a plate of lemon cream pasta with a vibrant, creamy sauce, topped with diced tuna and a sprinkle of grated parmesan cheese, illuminated with an artistic and dramatic lighting.",
+    "filename": "recipe_1781913963.jpg",
+    "date": "2026-06-20 00:07:34",
+    "timestamp": 1781913963,
+    "likes": 0,
+    "views": 194
+  },
+  {
     "id": "recipe_1781909546",
     "category": "dessert",
     "category_ja": "デザート",
