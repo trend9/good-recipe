@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782062719",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマトチーズの宇宙空間！",
+    "title_en": "Tomato & Mozzarella's Space Odyssey!",
+    "description_ja": "完熟トマトとフレッシュモッツァレラを組み合わせ、まるで宇宙空間にある宝石のような見た目で、悪魔的な美味しさをご堪能ください。甘酸っぱさとクリーミーな食感のハーモニーが、まさに「宇宙空間」のような絶品体験を演出します。",
+    "description_en": "A dazzling culinary adventure in the cosmos! This dish combines ripe tomatoes and fresh mozzarella, creating a space-age masterpiece. The sweet and tangy flavors and creamy textures will transport you to another realm, an experience both breathtaking and delicious.",
+    "occasion_ja": "特別な夜に。",
+    "occasion_en": "For special occasions.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラ",
+        "amount": "200g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バジル",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "トマトを薄切りにし、塩コショウ少々を振る。",
+      "ボウルにフレッシュモッツァレラとオリーブオイルを入れ、軽く混ぜる。",
+      "トマトの薄切りを、モッツァレラのチーズソースで包むように arrange する。",
+      "お好みでバジルを飾る。"
+    ],
+    "prompt": "Close-up photo of a delicious space food with a burst of fresh mozzarella and tomato slices, garnished with basil. A dreamy cosmic background.",
+    "filename": "recipe_1782062719.jpg",
+    "date": "2026-06-21 17:27:00",
+    "timestamp": 1782062719,
+    "likes": 0,
+    "views": 321
+  },
+  {
     "id": "recipe_1782057035",
     "category": "side",
     "category_ja": "サイドディッシュ",
