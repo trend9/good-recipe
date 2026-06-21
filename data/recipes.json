@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782083286",
+    "category": "side/bowl",
+    "category_ja": "サイドメニュー / ボウル",
+    "title_ja": "とろける卵 × 旨辛麻婆豆腐の「天άмі」丼！",
+    "title_en": "Sunny Egg & Spicy Tofu Bowl: The 'Island' Bowl!",
+    "description_ja": "悪魔的な美味しさ、意外性あふれるハーモニーの丼にチャレンジ！とろける卵と旨辛麻婆豆腐が、まるで天άміのように輝く、この「天άмі」丼で、新たな食の発見をしよう！",
+    "description_en": "A daring and delicious fusion of spicy tofu and silky scrambled eggs! The 'Island' Bowl will transform your senses with its sunny, yet spicy surprise. ",
+    "occasion_ja": " parties/dinner party の盛り上がりのアクセントに！",
+    "occasion_en": " An exciting addition to your dinner party or celebration! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1合"
+      },
+      {
+        "name": "生豆",
+        "amount": "10g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "卵をゆでる。",
+      "ご飯に、生豆と玉ねぎを加え炒める。",
+      "旨辛麻婆豆腐を入れ、全体を混ぜる。",
+      "とろける卵を乗せる。ごま油をかけて完成。"
+    ],
+    "prompt": "A sunny, close-up shot of a bowl with fluffy scrambled egg and spicy tofu. The texture of both ingredients is emphasized.  The focus should be on the contrast between the creamy yolk and the deep red color of the tofu. ",
+    "filename": "recipe_1782083286.jpg",
+    "date": "2026-06-21 23:10:28",
+    "timestamp": 1782083286,
+    "likes": 0,
+    "views": 367
+  },
+  {
     "id": "recipe_1782076215",
     "category": "丼",
     "category_ja": "丼物",
