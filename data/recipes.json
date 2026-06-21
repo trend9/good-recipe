@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782050270",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリーム生パスタ × 抹茶チョコレートソース：宇宙の衝撃！",
+    "title_en": "Matcha Chocolate Cream Pasta: An Out-of-This-World Delight!",
+    "description_ja": "日常を忘れさせてくれる、異次元な美味しさの秘訣は、明太子と抹茶チョコレートソースの融合。意外性と美味しさを同時に味わえる、あなただけの「宇宙の衝撃」料理誕生！",
+    "description_en": "A new dimension in pasta, this recipe combines the creamy goodness of lemon cream sauce with the unexpected but delicious fusion of matcha and chocolate. Prepare for an out-of-this-world flavor experience that will blow your mind!",
+    "occasion_ja": "特別な日に、あなただけの「宇宙の衝撃」を味わおう！",
+    "occasion_en": "A unique culinary adventure for special occasions! Prepare to take on the universe with your own twist of a taste experience.",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "200g"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "350g"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "抹茶",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "チョコレートソース",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 明太子とレモン汁を混ぜる。",
+      "2. 生パスタを茹で、冷水でザルに上げておく。",
+      "3. 抹茶とチョコレートソースを混ぜる。",
+      "4. 明太子のレモン汁で味付けしたパスタと抹茶チョコレートソースを合わせる。"
+    ],
+    "prompt": "A close-up shot of a steaming bowl of matcha chocolate cream pasta with a sprinkle of chopped green onion and a lemon wedge on top, evoking an otherworldly and vibrant beauty.",
+    "filename": "recipe_1782050270.jpg",
+    "date": "2026-06-21 13:59:40",
+    "timestamp": 1782050270,
+    "likes": 0,
+    "views": 457
+  },
+  {
     "id": "recipe_1782042175",
     "category": "pasta",
     "category_ja": "パスタ",
