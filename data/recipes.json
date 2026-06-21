@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1782030340",
+    "category": "pasta/side",
+    "category_ja": "パスタ/サイド",
+    "title_ja": "明太子の夜空！レモンクリーム生パスタ＆パプリカの鮮烈なコラボ！",
+    "title_en": "Spicy & Citrusy Pasta with Creamy Lemon and Paprika!",
+    "description_ja": "悪魔的に美味しい、明太子とレモンの爽やかさとパプリカの酸味がマッチする生パスタアレンジレシピ。日常の料理に新たな美味しさを加える一品をぜひ試してみてね！",
+    "description_en": "A recipe for creamy lemon pasta with spicy and fresh paprika, a unique twist on the classic. It's sure to elevate your everyday cooking.",
+    "occasion_ja": "晩御飯やパーティーにぴったり！",
+    "occasion_en": "Perfect for dinner or parties!",
+    "ingredients": [
+      {
+        "name": "生パスタ",
+        "amount": "100g"
+      },
+      {
+        "name": "明太子",
+        "amount": "2個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1/4個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. 生パスタを茹でる。",
+      "2. パプリカは細かく刻んで、明太子とレモン汁を加えて混ぜる。",
+      "3. 茹で上がったパスタにバターと塩を加え、レモン汁と明太子ソースを絡める。",
+      "4. 生パスタを盛り付けて、パプリカのソースを添えて完成。"
+    ],
+    "prompt": "Close-up photo of creamy lemon pasta with a bright red paprika and some chopped chives, slightly styled in a bowl. Vibrant colors and fresh ingredient focus.",
+    "filename": "recipe_1782030340.jpg",
+    "date": "2026-06-21 08:27:22",
+    "timestamp": 1782030340,
+    "likes": 0,
+    "views": 337
+  },
+  {
     "id": "recipe_1782012684",
     "category": "side",
     "category_ja": "サイド",
