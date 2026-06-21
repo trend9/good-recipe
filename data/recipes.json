@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782076215",
+    "category": "丼",
+    "category_ja": "丼物",
+    "title_ja": "とろける卵 × 旨辛麻婆豆腐の意外性あふれるハーモニー丼！",
+    "title_en": "Unexpected Harmony of Creamy Egg & Spicy Kung Pao Tofu Bowl!",
+    "description_ja": "ふわふわとろとろ卵と、旨辛麻婆豆腐が意外な美味しさで炸裂する丼！一口食べれば、悪魔の舌を魅了する一皿。",
+    "description_en": "A bowl overflowing with unexpected harmony! Creamy egg and spicy Kung Pao Tofu create a delicious symphony of flavor! Get ready for your tastebuds to be mesmerized by this unique dish.",
+    "occasion_ja": "特別な日や、普段からの美味しいご飯タイムにぴったり！",
+    "occasion_en": "Perfect for special occasions or a delicious home-cooked meal! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "3個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "鍋にご飯、醤油、みりんを混ぜ合わせ、弱火で温める。",
+      "卵を割り、軽く混ぜる。",
+      "フライパンで、麻婆豆腐を加え、炒める。",
+      "ご飯を碗に入れ、卵と麻婆豆腐を乗せ、お好みでラー油をかけ、混ぜる。"
+    ],
+    "prompt": "Close-up photo of a bowl with fluffy scrambled eggs and spicy Kung Pao Tofu, garnished with green onion. The background is a minimalistic white plate. A steamy, warm vibe.",
+    "filename": "recipe_1782076215.jpg",
+    "date": "2026-06-21 21:12:38",
+    "timestamp": 1782076215,
+    "likes": 0,
+    "views": 247
+  },
+  {
     "id": "recipe_1782069810",
     "category": "dessert",
     "category_ja": "デザート",
