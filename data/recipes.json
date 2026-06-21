@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1782012684",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の夜空！ 🍯💥",
+    "title_en": "Ultra-Thick Cutlet & Honey Mustard Sauce: Devil's Night Sky!",
+    "description_ja": "極厚カツに、甘酸っぱい特製ハニーマスタードをたっぷり絡めて。一口食べたら、まるで夜空を駆け巡る彗星のような衝撃！",
+    "description_en": "Experience the explosive flavor of our ultra-thick cutlets topped with a devilishly addictive honey mustard sauce. It's like a comet streaking across the night sky with every bite!",
+    "occasion_ja": "お酒の肴にぴったり！パーティーにも最適な一品!",
+    "occasion_en": "Perfect as an appetizer or side dish, great for parties!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "お好みで",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを2個用意します。",
+      "特製ハニーマスタードとレモン汁を加え、しっかりと混ぜ合わせます。",
+      "極厚カツに特製ハニーマスタードソースをつけ、全体に絡めてください。",
+      "お好みで、生胡椒や七味唐辛子などを加えても美味しいでしょう。"
+    ],
+    "prompt": "Close-up shot of a plate with two large cutlets, drizzled with honey mustard sauce and garnished with fresh herbs. The background is dark, almost black, to emphasize the richness of the food.",
+    "filename": "recipe_1782012684.jpg",
+    "date": "2026-06-21 03:34:37",
+    "timestamp": 1782012684,
+    "likes": 0,
+    "views": 335
+  },
+  {
     "id": "recipe_1781996657",
     "category": "side/snack",
     "category_ja": "サイド/スナック",
