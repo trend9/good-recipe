@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782042175",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリームパスタ ～ 悪魔の夜空～",
+    "title_en": "Devilish Lemon Cream Pasta with Spicy Crab - A Night Sky Recipe",
+    "description_ja": "いつもの明太子パスタに、レモンクリームソースと新鮮な crab を加えた、意外性と悪魔的な美味しさの極上アレンジレシピ！ 爽やかさと辛さのバランスが絶妙で、まるで宇宙の夜空を味わえる。",
+    "description_en": "A devilishly delicious twist on classic lemon cream pasta featuring fresh crab for a unique and unforgettable experience! The perfect balance of refreshing sourness and spicy heat will transport you to the vast night sky.",
+    "occasion_ja": "特別な日にぴったりな、一味違う大人の夜食。",
+    "occasion_en": "A sophisticated appetizer for a special occasion - a night of delicious indulgence.",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "20g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "1.5tbsp"
+      },
+      {
+        "name": "淡赤魚 (またはカニ), 生クリーム, レモン汁で作ったソースを混ぜ合わせる",
+        "amount": "1/2cup"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "明太子と生クリーム、レモン汁でソースを作る。",
+      "パスタを茹でる。",
+      "茹で上がったパスタと明太子ソースを混ぜ合わせる。",
+      "お好みで、新鮮な淡赤魚 (またはカニ) を乗せる。"
+    ],
+    "prompt": "A close-up shot of a devilishly delicious lemon cream pasta dish with crab meat on top, surrounded by steaming hot air. A blurry background of night sky with twinkling stars.",
+    "filename": "recipe_1782042175.jpg",
+    "date": "2026-06-21 11:44:46",
+    "timestamp": 1782042175,
+    "likes": 0,
+    "views": 381
+  },
+  {
     "id": "recipe_1782030340",
     "category": "pasta/side",
     "category_ja": "パスタ/サイド",
