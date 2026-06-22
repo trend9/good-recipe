@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782121508",
+    "category": "丼",
+    "category_ja": "丼物",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の悪魔的ハーモニー丼！",
+    "title_en": "Devilishly Delicious Beef & Garlic BBQ Bowl!",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を贅沢に使用した、一見するも食欲に火をつける、悪魔的なハーモニー丼。 意外な組み合わせで、美味しさを再発見！",
+    "description_en": "A devilishly delicious beef and garlic BBQ bowl, featuring the unique combination of seared beef and rich garlic & soy glaze. An unexpected combo for a new experience in flavor!",
+    "occasion_ja": "特別な日に、または普段の食卓にちょっとした変化を加えたい時におすすめ！",
+    "occasion_en": "A great option to add a little excitement to your meal, or for a special occasion.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "2枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "お好みの米",
+        "amount": "適量"
+      },
+      {
+        "name": "ごま油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ねぎ",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを器に敷き、濃厚焦がしにんにく醤油を全体につけておく。",
+      "2. お好みの米を少量のごま油とネギで混ぜ合わせ、丼に盛り付ける。",
+      "3. 上に乗せて完成！",
+      "4. 召し上がれ！"
+    ],
+    "prompt": "A close-up shot of a devilishly delicious beef and garlic BBQ bowl. A person is looking at the bowl with admiration, steam rising from the top of it.",
+    "filename": "recipe_1782121508.jpg",
+    "date": "2026-06-22 09:47:29",
+    "timestamp": 1782121508,
+    "likes": 0,
+    "views": 280
+  },
+  {
     "id": "recipe_1782099447",
     "category": "パスタ",
     "category_ja": "パスタ",
