@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782141639",
+    "category": "dessert/snack",
+    "category_ja": "デザート/スナック",
+    "title_ja": "抹茶ホワイトチョコクランチ！ – 悪魔的な甘酸っぱさ爆発！",
+    "title_en": "抹茶 White Chocolate Crunch! - A Devilishly Delicious Sweet and Tangy Explosion!",
+    "description_ja": "濃厚な抹茶と白チョコの意外性あふれるハーモニーが、クランチで実現！ – 抹茶と白チョコの組み合わせ、想像を超える美味しさに包まれる！",
+    "description_en": "A devilishly delicious fusion of rich matcha and white chocolate - in a crunchy form! Expect an explosion of flavors that go beyond your wildest expectations.",
+    "occasion_ja": "特別な日のデザートに、大人も子供も楽しめる！",
+    "occasion_en": "Perfect for a special dessert, enjoyed by both adults and children!",
+    "ingredients": [
+      {
+        "name": "抹茶",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "白チョコ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "小さじ2"
+      }
+    ],
+    "steps": [
+      "抹茶と白チョコを溶かす。",
+      "砂糖を加えてよく混ぜる。",
+      "牛乳を少しずつ加え、なめらかになるまで混ぜる。",
+      "生地を丸くまとめ、クランチの形にする。"
+    ],
+    "prompt": "Close-up image of a beautiful and colorful Matcha White Chocolate Crunch, sprinkled with green matcha powder and white chocolate. The crunch texture is clear, and it's surrounded by white background.",
+    "filename": "recipe_1782141639.jpg",
+    "date": "2026-06-22 15:22:19",
+    "timestamp": 1782141639,
+    "likes": 0,
+    "views": 396
+  },
+  {
     "id": "recipe_1782121508",
     "category": "丼",
     "category_ja": "丼物",
