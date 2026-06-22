@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782165609",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバター・ぷりぷり海老の海賊ピラフ！",
+    "title_en": "Garlic Butter & Crispy Shrimp Pirate Pot Rice!",
+    "description_ja": "異次元的な美味しさの海賊ピラフを、ガーリックバターで更に進化させた、衝撃レシピ！ぷりぷり海老とバター香りのピラフは、まるで海の冒険を味わえる！",
+    "description_en": "Dive into the pirate's paradise of this garlic butter & crispy shrimp pot rice! A flavor bomb that transports you to an unknown world, with shrimp and garlicky goodness exploding in your mouth.",
+    "occasion_ja": " parties/dinner/events/potluck",
+    "occasion_en": " Parties/Dinner/Events/Potluck",
+    "ingredients": [
+      {
+        "name": "ごはん",
+        "amount": "1合"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "ご飯と牛乳を混ぜ合わせ、電子レンジで加熱する。",
+      "ぷりぷり海老を軽く塩コショウで味付けし、バターで炒める。",
+      "パプリカは細切りにして、炒め合わせる。",
+      "加熱したご飯を加え、全体を混ぜる。"
+    ],
+    "prompt": "Close-up shot of a steaming pot of rice with shrimp and garlic butter, topped with red peppers. The scene is surrounded by ocean waves, with a whimsical pirate ship silhouette in the background.",
+    "filename": "recipe_1782165609.jpg",
+    "date": "2026-06-22 22:01:53",
+    "timestamp": 1782165609,
+    "likes": 0,
+    "views": 380
+  },
+  {
     "id": "recipe_1782156213",
     "category": "パスタ",
     "category_ja": "パスタ",
