@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782255981",
+    "category": "メイン料理",
+    "category_ja": "メイン料理",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグ：悪魔の甘辛さ、重厚なコク！",
+    "title_en": "Devilishly Delicious: Semi-Soft Egg + Demi-Glace Beef Meatball",
+    "description_ja": "とろける半熟卵と濃厚デミグラスハンバーグの組み合わせが、食欲をそそる悪魔的な美味しさに！ 複雑な香辛料を加え、重厚なコクと甘さを追求した一品です。",
+    "description_en": "A devilishly delicious fusion of semi-soft egg and demi-glace beef meatballs, with a complex spice blend that delivers a rich savory flavor and sweet indulgence. ",
+    "occasion_ja": "特別な日に、ゆっくりと楽しむための悪魔的な一皿。",
+    "occasion_en": "For a special occasion, indulge in this devilishly delightful dish. Enjoy it leisurely.",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "300g"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "150ml"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      }
+    ],
+    "steps": [
+      "ハンバーグをデミグラスソースで炒める。",
+      "卵を半熟に仕上げ、チーズをトッピングする。",
+      "ハンバーグと卵を皿に盛り付け、玉ねぎを添えて完成。",
+      "お好みで、ソースやハーブを添える。"
+    ],
+    "prompt": "Close-up shot of a demi-glace beef meatball, topped with a semi-soft egg and cheese. Drizzle of sauce, a sprinkle of herbs and an artistic arrangement.",
+    "filename": "recipe_1782255981.jpg",
+    "date": "2026-06-23 23:09:29",
+    "timestamp": 1782255981,
+    "likes": 0,
+    "views": 300
+  },
+  {
     "id": "recipe_1782250220",
     "category": "side",
     "category_ja": "サイドディッシュ",
