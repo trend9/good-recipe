@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782232027",
+    "category": "side/dessert",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔的な甘辛さ、海藻のCreamyアボカドグラタン！",
+    "title_en": "Devilishly Creamy Avocado Gratin with Seaweed",
+    "description_ja": "海藻とクリーミーなアボカドが調和する、悪魔的な美味しさのグラタン。見た目も華やかで、家庭でも簡単に作れる極上のアレンジレシピ！",
+    "description_en": "A devilishly creamy and delicious avocado gratin with seaweed. Easy to make, even at home!",
+    "occasion_ja": "パーティーや特別な日に、インパクトのある一品を。",
+    "occasion_en": "A perfect side dish for parties or special occasions. ",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      },
+      {
+        "name": "海藻 (昆布、ナвозラなど)",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. アボカドは皮をむき、1cm角に切る。",
+      "2. フライパンにごま油をひき、アボカドを炒める。",
+      "3. 混ぜ合わせた生クリームと塩を加え、火にかける。",
+      "4. 海藻を混ぜ込み、グラタン皿に盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a creamy avocado gratin with seaweed, plated on a black background.",
+    "filename": "recipe_1782232027.jpg",
+    "date": "2026-06-23 16:28:50",
+    "timestamp": 1782232027,
+    "likes": 0,
+    "views": 242
+  },
+  {
     "id": "recipe_1782222217",
     "category": "Side",
     "category_ja": "サイド",
