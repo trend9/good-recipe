@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1782197160",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘酸っぱさ",
+    "title_en": "Baked Sweet Potato × Butter Caramel: Devilish Sweet and Sour Delight",
+    "description_ja": "一口食べれば、焼き芋の甘さととろけるバターカラメルの甘酸っぱさに魅了される。意外性あふれる悪魔的な美味しさ！",
+    "description_en": "A taste of sweet potato's natural sweetness combined with the melting butter caramel, creating a devilishly delicious combination. A unique and unexpected twist of flavor awaits!",
+    "occasion_ja": "パーティーや特別な日など、デザートとして最適",
+    "occasion_en": "Perfect as a dessert, ideal for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "焼き芋は、皮を剥いて一口大にカットする。",
+      "バターと砂糖を加え、溶かしながら、塩を混ぜる。",
+      "焼き芋の表面全体を、溶かしバターソースで包む。",
+      "30分程、オーブンで焼けば、悪魔的な美味しさの焼き芋が完成！"
+    ],
+    "prompt": "Close-up of golden baked sweet potato topped with a luxurious butter caramel sauce. A steaming bowl of dessert, with a light smoke effect and elegant lighting.",
+    "filename": "recipe_1782197160.jpg",
+    "date": "2026-06-23 06:47:39",
+    "timestamp": 1782197160,
+    "likes": 0,
+    "views": 462
+  },
+  {
     "id": "recipe_1782182580",
     "category": "パスタ",
     "category_ja": "パスタ",
