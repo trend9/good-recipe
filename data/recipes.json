@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782250220",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サクサクポテト×クリーミーチーズソース：悪魔の甘辛さ爆発！",
+    "title_en": "Smashed Potato & Creamy Cheese Sauce: A taste of the Devil!",
+    "description_ja": "サクサクポテトにクリーミーチーズソースを絡めて、悪魔的な甘辛さが広がる！見た目は普通だけど、味は衝撃的！",
+    "description_en": "A classic comfort food with a devilish twist! These crispy potatoes are coated in a creamy cheese sauce, delivering a taste of the underworld!",
+    "occasion_ja": "パーティーや、お酒のおつまみにもぴったり",
+    "occasion_en": "Perfect as a side dish for parties or an appetizer.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを、1cm角にカットする。",
+      "ボウルに入れたマヨネーズでじゃがいもをまぶす。",
+      "油をひいたフライパンで、両面がサクサクになるまで揚げる。",
+      "揚げたポテトを、塩コショウで味付け後、クリーミーチーズソースをかける。"
+    ],
+    "prompt": "Close up shot of crispy fried potato with creamy cheese sauce poured on top, golden and inviting, photorealistic, fantasy style, illustration.",
+    "filename": "recipe_1782250220.jpg",
+    "date": "2026-06-23 21:31:58",
+    "timestamp": 1782250220,
+    "likes": 0,
+    "views": 468
+  },
+  {
     "id": "recipe_1782241726",
     "category": "side-dish",
     "category_ja": "サイドディッシュ",
