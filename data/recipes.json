@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782241726",
+    "category": "side-dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘辛さ爆発！",
+    "title_en": "Tofu Quesadilla with Spicy Korean Chicken: A Taste of Hell!",
+    "description_ja": "とろけるチーズとタッカルビチキン、意外な組み合わせで、悪魔的な甘辛さが爆発する絶品料理レシピ！ 誰もが想像するよりも驚きの美味しさに。",
+    "description_en": "Unexpectedly delicious! This recipe pairs creamy tofu quesadillas with spicy Korean chicken for a taste sensation that will take your palate on a journey to hell. ",
+    "occasion_ja": "パーティーやBBQに最適！",
+    "occasion_en": "Perfect for parties and BBQs!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": " tortillas",
+        "amount": "2枚"
+      },
+      {
+        "name": "ピーマン",
+        "amount": "1個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンをフライパンで炒めて、塩コショウで味付けします。",
+      "とろけるチーズを、タッカルビチキンとピーマン、玉ねぎのせて、両面焼き目をつけます。",
+      "2枚のトーストに、チーズとタッカルビチキン、ピーマン、玉ねぎの具材を乗せ、チーズが溶けきるまで焼きます。",
+      "完成したら、お好みでソースをかけて、お召し上がりください。"
+    ],
+    "prompt": "Close-up shot of a delicious quesadilla with melted cheese and spicy Korean chicken. A fiery orange background for visual impact.",
+    "filename": "recipe_1782241726.jpg",
+    "date": "2026-06-23 19:10:28",
+    "timestamp": 1782241726,
+    "likes": 0,
+    "views": 266
+  },
+  {
     "id": "recipe_1782232027",
     "category": "side/dessert",
     "category_ja": "サイドディッシュ",
