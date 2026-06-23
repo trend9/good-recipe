@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782210880",
+    "category": "メインディッシュ",
+    "category_ja": "メイン",
+    "title_ja": "ローストビーフ × 特製オニオンソース：悪魔の甘辛さ爆発！",
+    "title_en": "Roast Beef with Spicy Onion Sauce: Devilishly Delicious!",
+    "description_ja": "とろけるローストビーフに、隠し味でスパイシーなオニオンソース。意外な組み合わせが、悪魔的に美味しい一品を創造します！",
+    "description_en": "Deconstruct the classic roast beef and create a devilishly delicious, spicy onion sauce. This unexpected combination promises a culinary adventure.",
+    "occasion_ja": "週末のディナーに！",
+    "occasion_en": "Perfect for dinner parties on the weekend!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "2個"
+      },
+      {
+        "name": "にんにく",
+        "amount": "2片"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ローストビーフに塩コショウで味付けをする。",
+      "玉ねぎを薄切りにし、にんにくをすりおろして油を熱したフライパンで炒める。",
+      "オニオンソースを加え、さらに炒め合わせる。",
+      "ローストビーフの両面を焼いて、オニオンソースと絡めて完成。"
+    ],
+    "prompt": "Close-up shot of a sizzling roast beef with spicy onion sauce. Rich color and smoke effects, a hint of fire and heat.",
+    "filename": "recipe_1782210880.jpg",
+    "date": "2026-06-23 10:36:23",
+    "timestamp": 1782210880,
+    "likes": 0,
+    "views": 267
+  },
+  {
     "id": "recipe_1782197160",
     "category": "サイド",
     "category_ja": "サイド",
