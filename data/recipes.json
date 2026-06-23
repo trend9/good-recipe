@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1782222217",
+    "category": "Side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛さ爆発！",
+    "title_en": "Ultimate Honey Mustard Fried Cutlet: Sweet & Savory Explosion!",
+    "description_ja": "普段はカツ丼を食べるのは当たり前だけど、このレシピで、極厚カツに特別なハニーマスタードソースを絡めて、悪魔的な甘辛さ爆発！ ",
+    "description_en": "Elevate your usual Katsu-Don experience! A unique honey mustard sauce elevates your classic cutlet into a truly decadent treat.",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマスタードソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツにハニーマスタードソースをたっぷり塗る。",
+      "砂糖と醤油を混ぜ合わせて、溶き卵の入ったソースを作る。",
+      "カツをタレで絡めながら、焼き色がつくまで焼く。",
+      "お好みで、ハニーマスタードソースをかける。 "
+    ],
+    "prompt": "Close-up shot of a crispy, golden-brown cutlet with a drizzle of honey mustard sauce. The cutlet is surrounded by steam and the sauce is glistening. The background is black with a slight orange color.",
+    "filename": "recipe_1782222217.jpg",
+    "date": "2026-06-23 13:45:54",
+    "timestamp": 1782222217,
+    "likes": 0,
+    "views": 202
+  },
+  {
     "id": "recipe_1782210880",
     "category": "メインディッシュ",
     "category_ja": "メイン",
