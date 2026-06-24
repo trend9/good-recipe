@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782269014",
+    "category": "sandwich",
+    "category_ja": "サンドイッチ",
+    "title_ja": "極厚カツ × 特製ハニーマスタードの「悪魔の甘辛さ」風サンドウィッチ",
+    "title_en": "Devilish Honey Mustard Sandwich with Thick Cut Pork Cutlet",
+    "description_ja": "極厚カツと特製ハニーマスタードのコラボレーション！甘酸っぱいコクとサクサクした食感のサンドウィッチで、悪魔的な美味しさに酔いしれる。",
+    "description_en": "A devilishly delicious sandwich! Combining the sweet and tangy flavors of thick-cut pork cutlets with a special honey mustard sauce, this is a culinary adventure you won't forget.",
+    "occasion_ja": " parties、ランチ、ディナーなど、特別な日にぴったりな一品！",
+    "occasion_en": " Perfect for gatherings, lunch, or dinner, this unique sandwich is sure to impress your guests! ",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1枚"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レタス",
+        "amount": "1/2個"
+      },
+      {
+        "name": "トマト",
+        "amount": "1/4個"
+      },
+      {
+        "name": "パン",
+        "amount": "1切れ"
+      }
+    ],
+    "steps": [
+      "極厚カツをトングで挟み、特製ハニーマスタードを塗る。",
+      "レタスとトマトを挟む。",
+      "パンに挟み、サンドウィッチにする。",
+      "お好みのソースや condiment を添えてもよい。"
+    ],
+    "prompt": "Close-up image of a devilishly delicious sandwich, with caramelized pork cutlet and the special honey mustard sauce on a white bread background. ",
+    "filename": "recipe_1782269014.jpg",
+    "date": "2026-06-24 02:45:18",
+    "timestamp": 1782269014,
+    "likes": 0,
+    "views": 365
+  },
+  {
     "id": "recipe_1782255981",
     "category": "メイン料理",
     "category_ja": "メイン料理",
