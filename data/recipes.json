@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1782327014",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "とろける卵 × デミグラスハンバーグ：悪魔の甘辛さ！",
+    "title_en": "Devilish Sweet and Spicy: Eggs & Demi-Glace Burger",
+    "description_ja": "濃厚なデミグラスソースととろける半熟卵を組み合わせた、悪魔的な美味しさ！このレシピは、一口食べたら、もう止まらない美味しさに襲われます。",
+    "description_en": "A devilishly delicious combination of creamy demi-glace and melted egg yolk, you won't be able to resist one bite. ",
+    "occasion_ja": "特別な日、友達と食事、家族の会食に最適！",
+    "occasion_en": "Perfect for a special occasion, gathering with friends or family dinners!",
+    "ingredients": [
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "ハンバーグ",
+        "amount": "2個"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "ハンバーグに塩コショウを振る。",
+      "フライパンでハンバーグを両面焼いた後、デミグラスソースを注ぐ。",
+      "卵を溶きほぐし、少しだけ混ぜ合わせる。",
+      "ハンバーグの上に卵を乗せ、パプリカをのせる。",
+      "お好みでチーズとレモン汁をかけて完成。"
+    ],
+    "prompt": "A close-up photo of a half-cooked, juicy hamburger topped with a single, perfectly poached egg yolk and a red pepper. Dramatic and inviting composition.",
+    "filename": "recipe_1782327014.jpg",
+    "date": "2026-06-24 18:52:39",
+    "timestamp": 1782327014,
+    "likes": 0,
+    "views": 152
+  },
+  {
     "id": "recipe_1782317753",
     "category": "丼物",
     "category_ja": "丼物",
