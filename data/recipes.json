@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782317753",
+    "category": "丼物",
+    "category_ja": "丼物",
+    "title_ja": "とろける卵 × 旨辛麻婆豆腐丼：悪魔の甘辛さ！",
+    "title_en": "Spicy Tofu Bowl with Creamy Egg and Chili Sauce",
+    "description_ja": "このレシピは、麻婆豆腐の旨味が口いっぱいに広がる、まるで地獄の扉を開けたような悪魔的な美味しさに包まれた丼飯です。とろける卵と辛口麻婆豆腐の組み合わせで、甘辛さの奥深さを堪能できる一皿に仕上がります。",
+    "description_en": "This recipe delivers a fiery and satisfying bowl with spicy tofu, topped with creamy egg for a truly devilish flavor experience.",
+    "occasion_ja": "辛いものが好きなら、ぜひ！",
+    "occasion_en": "Perfect for those who love spice!",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "麻婆豆腐のタレ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "おろし生姜",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "豆腐を麻婆豆腐のタレと混ぜる。",
+      "フライパンに卵を割りほぐす。",
+      "豆腐を火傷しないよう、弱火で焼いていく。",
+      "卵が溶けたら、唐辛子を混ぜながら炒める。"
+    ],
+    "prompt": "Close-up shot of a creamy white egg and spicy tofu bowl, topped with chili flakes. It features bold colors and steam.",
+    "filename": "recipe_1782317753.jpg",
+    "date": "2026-06-24 16:17:30",
+    "timestamp": 1782317753,
+    "likes": 0,
+    "views": 382
+  },
+  {
     "id": "recipe_1782307004",
     "category": "dessert",
     "category_ja": "デザート",
