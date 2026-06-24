@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1782307004",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘酸っぱさ爆発！",
+    "title_en": "Baked Sweet Potato x Melty Butter Caramel: A Devilish Sweet & Sour Explosion!",
+    "description_ja": "甘酸っぱい焼き芋と、とろけるバターカラメルが絶妙なハーモニーを生み出す、新たな悪魔的な美味しさ。見た目はまるで宝石のような、まるで魔法の料理！",
+    "description_en": "Sweet and tangy baked potatoes harmonized with a melt-in-your-mouth butter caramel create an unforgettable devilish fusion. A feast for the eyes, this dish will take your tastebuds on a magical journey!",
+    "occasion_ja": "特別な日のディナーに、または、夜食として召し上がれ。",
+    "occasion_en": "For special dinners or as a late-night snack.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "カラメル",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "焼き芋を10分程焼きます。",
+      "焼いた芋に、バターと砂糖を加え、溶かす。",
+      "溶けたバターと砂糖を塗った焼き芋に、カラメルソースをかけて、冷やします。",
+      "仕上げに、お好みで、レモン汁などを加えてもよい。"
+    ],
+    "prompt": "Close-up shot of a beautifully decorated baked sweet potato with melted butter caramel drizzle, in the style of anime food art.",
+    "filename": "recipe_1782307004.jpg",
+    "date": "2026-06-24 13:18:23",
+    "timestamp": 1782307004,
+    "likes": 0,
+    "views": 364
+  },
+  {
     "id": "recipe_1782296370",
     "category": "side/snack",
     "category_ja": "サイドディッシュ",
