@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782296370",
+    "category": "side/snack",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘辛さ爆発！",
+    "title_en": "Melting Cheese x Ttaek-Kilbi Chicken: Devilishly Sweet and Spicy Explosion!",
+    "description_ja": "とろけるチーズとタッカルビチキの組み合わせが、まるで悪魔的な甘辛さを実現させた、絶品一品に。 想像以上に美味しい！",
+    "description_en": "Melting cheese and Ttaek-Kilbi chicken, a devilishly sweet & spicy combination. You'll be surprised at how delicious it is!",
+    "occasion_ja": "パーティー、イベント、夜食に最適です。",
+    "occasion_en": "Perfect for parties, events, and as a snack.",
+    "ingredients": [
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "チーズとタッカルビチキンを混ぜる。",
+      "醤油、みりん、砂糖を加え、全体に混ぜる。",
+      "混ぜ合わせたものを、フライパンで焼いて、焦げ目がつくまで焼く。",
+      "お好みでレモン汁やライムの果汁を添えて、完成。"
+    ],
+    "prompt": "A close-up shot of a pan with melted cheese and ttakilbi chicken, surrounded by steam. A vibrant orange color in the background, with smoke rising from the pan.",
+    "filename": "recipe_1782296370.jpg",
+    "date": "2026-06-24 10:21:08",
+    "timestamp": 1782296370,
+    "likes": 0,
+    "views": 158
+  },
+  {
     "id": "recipe_1782283413",
     "category": "side-dish",
     "category_ja": "サイドディッシュ",
