@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782333956",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜 × きな粉もちもちアイス：悪魔の甘酸っぱさ！",
+    "title_en": "Black Honey x Kinako Mochi Ice: Devilishly Sweet and Sour!",
+    "description_ja": "黒蜜の甘さと、もちもちとしたきな粉が、まるで魔法をかけたような、衝撃的な味わいに。一口食べれば、悪魔の笑顔が浮かびます！",
+    "description_en": "A devilishly sweet and sour taste! Black honey's sweetness meets the fluffy kinako ice, creating a magical and addictive sensation. One bite will surely conjure up a smile.",
+    "occasion_ja": "バレンタインデーや、特別な日にぴったりな、特別なデザートです。",
+    "occasion_en": "Perfect for Valentine's Day or any special occasion, this devilishly sweet and sour dessert will surely impress.",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. きな粉を混ぜ、黒蜜を加え、なめらかに混ぜる。",
+      "2. もちもちアイスを、黒蜜ときな粉の生地に、等量で包み込む。",
+      "3. 生クリームを、水溶き片栗粉を加えて溶かす。",
+      "4. 生クリームを、もちもちアイスの中に塗り込み、完成。"
+    ],
+    "prompt": "Close-up shot of a delicious ice cream with a dark caramel drizzle, covered in black powder and kinako powder.",
+    "filename": "recipe_1782333956.jpg",
+    "date": "2026-06-24 20:47:32",
+    "timestamp": 1782333956,
+    "likes": 0,
+    "views": 238
+  },
+  {
     "id": "recipe_1782327014",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
