@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782283413",
+    "category": "side-dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "トマトの鮮やかさ、モッツァレラチーズの濃厚な味わいが融合した、悪魔的な一皿！",
+    "title_en": "A devilishly delicious dish with the vibrant tomato and creamy mozzarella cheese, you'll fall in love!",
+    "description_ja": "完熟トマトの甘さとモッツァレラのクリーミーさ、これぞ「悪魔の甘辛さ」の完成！カリッとした食感がアクセント。",
+    "description_en": "A devilishly delicious dish with the vibrant tomato and creamy mozzarella cheese, you'll fall in love! The crispy texture adds another layer of deliciousness. ",
+    "occasion_ja": "パーティー、おもてなし、特別な日にぴったりな一品！",
+    "occasion_en": "Perfect for parties, gatherings, and special occasions! ",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "10g"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "トマトを1cm角に切る。",
+      "ボウルにモッツァレラチーズとパルメザンチーズを入れ、オリーブオイルと塩を振る。",
+      "トマトをボウルに入れたチーズと混ぜ合わせる。",
+      "熱したフライパンで、チーズのトマトを焼く。"
+    ],
+    "prompt": "A close-up shot of the dish, with a beautiful contrast between the juicy tomato and the melted cheese.",
+    "filename": "recipe_1782283413.jpg",
+    "date": "2026-06-24 06:45:55",
+    "timestamp": 1782283413,
+    "likes": 0,
+    "views": 286
+  },
+  {
     "id": "recipe_1782269014",
     "category": "sandwich",
     "category_ja": "サンドイッチ",
