@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1782339250",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの悪魔的チョコレートケーキ",
+    "title_en": "Banana Caramel Brulee Chocolate Cake - A Devilishly Delicious Dessert",
+    "description_ja": "完熟バナナとキャラメルの組み合わせで、甘酸っぱい悪魔的な味わいをもたらす、チョコレートケーキ。濃厚なキャラメルブリュレの食感と、バナナの甘みが一体となって、まるで魔法をかけたケーキ！",
+    "description_en": "This devilishly delicious chocolate cake combines the sweetness of ripe bananas and caramel. It's a magical combination with a decadent caramel brulee topping for an irresistible experience! ",
+    "occasion_ja": "特別な日に、特別な人にプレゼントしたい一品",
+    "occasion_en": "A special occasion dessert, perfect for gifting to someone special.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "チョコレートケーキミックス",
+        "amount": "1箱"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "バナナを薄切りにして、ボウルに入れて混ぜる。",
+      "キャラメルと砂糖を加えて、よく混ぜる。",
+      "チョコレートケーキミックスとバターを加え、しっかりと混ぜる。",
+      "オーブンを180度に予熱し、ケーキ型に生地を入れて焼く。",
+      "キャラメルブリュレをケーキの上にトッピングして、完成。"
+    ],
+    "prompt": "Close-up shot of a decadent chocolate cake with caramel brulee topping, slices are being prepared for cutting and serving. Dramatic lighting highlighting the rich textures.",
+    "filename": "recipe_1782339250.jpg",
+    "date": "2026-06-24 22:15:49",
+    "timestamp": 1782339250,
+    "likes": 0,
+    "views": 436
+  },
+  {
     "id": "recipe_1782333956",
     "category": "dessert",
     "category_ja": "デザート",
