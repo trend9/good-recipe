@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782345970",
+    "category": "pasta/side",
+    "category_ja": "パスタ/サイドディッシュ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「悪魔の甘辛さ」パスタ",
+    "title_en": "Spicy Smoked Brisket Pasta with Spicy Brown Garlic Sauce",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油が、まるで悪魔が食べたものみたい！意外性のある組み合わせで、誰もが認める美味しいパスタレシピを完成させる。",
+    "description_en": "Smoked brisket and spicy brown garlic sauce give this pasta a devilishly delicious flavor that's sure to be loved. ",
+    "occasion_ja": "週末のディナー、特別な日に。",
+    "occasion_en": "Dinner party or special occasion!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. チャーシューは軽く焼き、表面を焦げ目を付けます。",
+      "2. 鍋にオリーブオイルを入れて弱火で玉ねぎを炒めます。",
+      "3. 濃厚焦がしにんにく醤油を加えて炒めます。",
+      "4. パスタを加え、水気を切ったものを入れ、強火で煮詰めます。"
+    ],
+    "prompt": "A steaming bowl of pasta with smoky char-grilled brisket and a dark sauce against a backdrop of red chili flakes.",
+    "filename": "recipe_1782345970.jpg",
+    "date": "2026-06-25 00:07:43",
+    "timestamp": 1782345970,
+    "likes": 0,
+    "views": 179
+  },
+  {
     "id": "recipe_1782339250",
     "category": "dessert",
     "category_ja": "デザート",
