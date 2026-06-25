@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1782363719",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘酸っぱさ！黒蜜きな粉アイスグラノーラ",
+    "title_en": "Black Honey & Sesame Ice Cream Granola Recipe: Sweet & Sour Twist!",
+    "description_ja": "黒蜜ときな粉が香ばしい、もちもちアイスに、甘酸っぱさに驚き！簡単で特別なデザートレシピだよ。",
+    "description_en": "A sweet and sour twist on the classic ice cream experience with black honey, crunchy sesame seeds, and a touch of magic! Easy recipe for a special dessert.",
+    "occasion_ja": "特別な日に、友達とシェアするデザートにぴったり！",
+    "occasion_en": "Perfect for sharing with friends on any special occasion.",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "きな粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "グラノーラ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "黒蜜ときな粉を混ぜ、もちもちアイスにたっぷり混ぜる。",
+      "グラノーラを混ぜ合わせて、アイスに広げる。",
+      "お好みでトッピングする:  チョコレートやナッツなどを入れても美味しい！",
+      "冷蔵庫で10分程度冷やす。"
+    ],
+    "prompt": "Close-up shot of a plate with black honey and sesame ice cream granola, topped with colorful sprinkles. It's artfully arranged to create an eye-catching visual.",
+    "filename": "recipe_1782363719.jpg",
+    "date": "2026-06-25 05:03:37",
+    "timestamp": 1782363719,
+    "likes": 0,
+    "views": 407
+  },
+  {
     "id": "recipe_1782345970",
     "category": "pasta/side",
     "category_ja": "パスタ/サイドディッシュ",
