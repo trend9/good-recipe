@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782387489",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛さ！チーズケーキ風",
+    "title_en": "Spicy BBQ Beef & Garlic Butter Cheese Cake",
+    "description_ja": "とろけるようなチーズと、炙りチャーシュー、濃厚焦がしにんにく醤油が融合した、まさに悪魔的なチーズケーキ。意外な組み合わせなのに、濃厚さと甘さが絶妙にマッチする、衝撃的な一品！",
+    "description_en": "A cheesy delight with a spicy twist: combining the melt-in-your-mouth cheese, smoky BBQ beef and rich garlic butter for an out of this world experience! ",
+    "occasion_ja": "特別な日にぴったり！友達とシェアするのもおすすめ",
+    "occasion_en": "Perfect for a special occasion, share with friends!",
+    "ingredients": [
+      {
+        "name": "チーズ (とろけるタイプ)",
+        "amount": "100g"
+      },
+      {
+        "name": "炙りチャーシュー (2枚)",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油 (大さじ2)",
+        "amount": "適量"
+      },
+      {
+        "name": "バター (15g)",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム (100ml)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. チーズを器に敷き、炙りチャーシューと濃厚焦がしにんにく醤油を少し加え、チーズが溶けやすいように混ぜる。",
+      "2. 熱したバターでチーズケーキを焼いていく。",
+      "3. 生クリームを混ぜ合わせ、生地を滑らかにする。",
+      "4. 焼き上げたチーズケーキに、生クリームを流し込み、冷蔵庫で冷やして、完成！"
+    ],
+    "prompt": "Close-up image of a cheesy dessert cake with melted cheese, smoky BBQ beef and rich garlic butter, in a beautiful presentation.",
+    "filename": "recipe_1782387489.jpg",
+    "date": "2026-06-25 11:39:57",
+    "timestamp": 1782387489,
+    "likes": 0,
+    "views": 264
+  },
+  {
     "id": "recipe_1782376168",
     "category": "パスタ",
     "category_ja": "パスタ",
