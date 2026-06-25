@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782422916",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔バナナキャラメルブリュレチーズケーキ",
+    "title_en": "Devil Banana Caramel Cheesecake",
+    "description_ja": "完熟バナナの甘酸っぱさとキャラメルの甘さが、濃厚チーズでさらに引き締まる！この悪魔的デザートは、見た目も味も一味違う。",
+    "description_en": "Unleash the devilish sweetness with this unique dessert! Creamy banana, caramel and a luxurious cheesecake blend for an irresistible experience.",
+    "occasion_ja": "特別な日や、自分へのご褒美にぴったり！",
+    "occasion_en": "Perfect for special occasions or a treat for yourself!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "20g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "粉砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを縦に切り、2cmくらいのサイズに切る。",
+      "2. 10cm角の容器にキャラメルを塗り、バナナを乗せる。",
+      "3. チーズと卵を混ぜ、粉砂糖を加えて混ぜる。",
+      "4. 器にチーズ生地を流し込む。キャラメルが表面に流れ出すのを待って、完成"
+    ],
+    "prompt": "A close-up image of the finished dessert, showcasing its decadent layers and golden brown color.",
+    "filename": "recipe_1782422916.jpg",
+    "date": "2026-06-25 21:30:08",
+    "timestamp": 1782422916,
+    "likes": 0,
+    "views": 205
+  },
+  {
     "id": "recipe_1782417152",
     "category": "グラタン/デザート",
     "category_ja": "グラタン/デザート",
