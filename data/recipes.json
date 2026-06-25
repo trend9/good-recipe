@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782376168",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "とろける卵 × デミグラスハンバーグの「悪魔の甘辛さ」パスタ風",
+    "title_en": "Tofu and Demi-Glace Hamburger Pasta with Devilish Sweet & Spicy Flavor",
+    "description_ja": "とろける半熟卵とデミグラスハンバーグを合わせた、悪魔的な甘辛さの新しいパスタアレンジレシピ！ 意外な組み合わせの美味しさに驚きと共に舌鼓を打ちます。",
+    "description_en": "A new pasta-style recipe featuring silky tofu and demi-glace hamburger, resulting in a devilishly sweet & spicy twist on the classic dish. Prepare to be surprised by the unexpected but delicious flavor! ",
+    "occasion_ja": "特別な日の夕食にぴったりな、ちょっと変わったパスタ！",
+    "occasion_en": "A special occasion dinner, perfect for a little bit of change in your pasta routine.",
+    "ingredients": [
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "適量"
+      },
+      {
+        "name": "とろける卵",
+        "amount": "1個"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. デミグラスハンバーグを小さめにカットし、フライパンで焼き上げます。",
+      "2. 卵を溶きほぐし、醤油と砂糖を加え、とろける卵の生地を作りましょう。",
+      "3. パスタを茹でる間、卵の生地をフライパンに入れて、弱火で炒め合わせます。",
+      "4. デミグラスハンバーグ、パスタ、卵の生地を加え、混ぜ合わせます。"
+    ],
+    "prompt": "Close-up shot of a pasta bowl filled with demitasse hamburger, silky tofu, and a creamy sauce. The image is captured against a dark background for a dramatic effect.",
+    "filename": "recipe_1782376168.jpg",
+    "date": "2026-06-25 08:32:39",
+    "timestamp": 1782376168,
+    "likes": 0,
+    "views": 458
+  },
+  {
     "id": "recipe_1782363719",
     "category": "dessert",
     "category_ja": "デザート",
