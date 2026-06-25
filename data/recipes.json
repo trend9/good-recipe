@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782429262",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレ × 濃厚チーズケーキ！悪魔の甘辛さ爆発！",
+    "title_en": "Banana Caramel Brulee Cheesecake Explosion of Sweet and Savory!",
+    "description_ja": "完熟バナナの甘酸っぱさが、濃厚チーズケーキとの意外な組み合わせで、悪魔的な美味しさを実現。カリッとしたキャラメルブリュレとクリーミーなチーズケーキのハーモニーは、まさに衝撃の一杯！",
+    "description_en": "A shockingly delicious fusion of sweet and savory with the tangy, ripe banana and a rich cheese cake. The caramelized brulee topping offers a crispy texture while the creamy cheesecake provides the perfect balance. ",
+    "occasion_ja": "特別な日に、あなただけの特別なデザートを。",
+    "occasion_en": "For a special occasion, enjoy a unique dessert only for you.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "濃厚チーズケーキ",
+        "amount": "適量"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを、ケーキ型に置き、キャラメルブリュレを軽く乗せてから、チーズケーキを乗せる。",
+      "2. 軽くバターとグラニュー糖で、キャラメルブリュレを焦がす。",
+      "3. チーズケーキの上にキャラメルブリュレを載せ、蓋をして焼成する。",
+      "4. 完成したチーズケーキは冷ます。"
+    ],
+    "prompt": "An elegant close-up photo of a cheesecake topped with caramel brulee and banana slices, in a dark background.",
+    "filename": "recipe_1782429262.jpg",
+    "date": "2026-06-25 23:16:16",
+    "timestamp": 1782429262,
+    "likes": 0,
+    "views": 366
+  },
+  {
     "id": "recipe_1782422916",
     "category": "dessert",
     "category_ja": "デザート",
