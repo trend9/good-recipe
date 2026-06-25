@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782396958",
+    "category": "side dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "とろけるチーズ × タッカルビチキン: 悪魔の甘辛さ爆発！",
+    "title_en": "Spicy Korean Gochujang Cheese & Chicken: A Blast of Sweet and Spicy!",
+    "description_ja": "クリーミーなチーズと、辛いタッカルビチキンの組み合わせで、まるで別世界を体験できる、悪魔的な美味しさ。濃厚な甘辛さが脳裏に焼き付けるレシピです。",
+    "description_en": "A truly unique and addictive flavor fusion of creamy cheese and spicy gochujang chicken! This recipe offers a taste adventure unlike anything you've ever experienced. ",
+    "occasion_ja": " parties, barbecues, picnics, gatherings",
+    "occasion_en": "Parties, Barbecues, Picnics, Gatherings",
+    "ingredients": [
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "300g"
+      },
+      {
+        "name": "Gochujang (韓国の唐辛子味噌)",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを一口サイズに切り、チーズを乗せます。",
+      "2. Gochujang、砂糖、水溶き片栗粉を加え、よく混ぜてから、全体に塗り込みます。",
+      "3. フライパンで弱火で加熱し、チーズがとろけるまで加熱します。",
+      "4. 仕上げに、お好みでパクチーや、チリペッパーを添えます。"
+    ],
+    "prompt": "Close-up shot of a sizzling, cheesy chicken with Gochujang sauce in a pan, ready to be served.",
+    "filename": "recipe_1782396958.jpg",
+    "date": "2026-06-25 14:17:38",
+    "timestamp": 1782396958,
+    "likes": 0,
+    "views": 277
+  },
+  {
     "id": "recipe_1782387489",
     "category": "dessert",
     "category_ja": "デザート",
