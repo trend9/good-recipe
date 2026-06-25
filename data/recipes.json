@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1782417152",
+    "category": "グラタン/デザート",
+    "category_ja": "グラタン/デザート",
+    "title_ja": "悪魔の甘辛さ！ 海老 & クリーミーアボカドグラタン",
+    "title_en": "Devilishly Delicious! Creamy Avocado and Smoked Salmon Gratin",
+    "description_ja": "濃厚クリーミーなアボカドと、旨味の深みのある淡水貝の組み合わせが、たまらない極上グラタン。 意外な甘辛さとまろやかな食感が絶妙にマッチする一品だ！",
+    "description_en": "Creamy avocado and smoked salmon with a depth of umami in a decadent gratin. A taste experience that combines unexpected savory notes with a smooth, melt-in-your-mouth texture! ",
+    "occasion_ja": "特別なディナー、または特別な人との時間を演出したいときにおすすめ",
+    "occasion_en": "Perfect for special dinners or to elevate your time with loved ones.",
+    "ingredients": [
+      {
+        "name": "淡水貝",
+        "amount": "100g"
+      },
+      {
+        "name": "A5サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "クリーミーアボカド",
+        "amount": "300g"
+      },
+      {
+        "name": "バター",
+        "amount": "15g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "淡水貝を1cm角にカットし、塩コショウで味付け。\n",
+      "サーモンは薄切りにし、アボカドは皮ごと小さく切っておく。\n",
+      "バターと牛乳を混ぜて、グラタンの鍋に流し込む。\n",
+      "貝、サーモン、アボカドを順に鍋に加え、蓋をして弱火で加熱する。\n"
+    ],
+    "prompt": "Close-up shot of the creamy avocado and salmon gratin with a steamy effect, showcasing the beautiful texture and colors. A modern minimalist style.",
+    "filename": "recipe_1782417152.jpg",
+    "date": "2026-06-25 19:54:26",
+    "timestamp": 1782417152,
+    "likes": 0,
+    "views": 151
+  },
+  {
     "id": "recipe_1782407390",
     "category": "snack",
     "category_ja": "軽食",
