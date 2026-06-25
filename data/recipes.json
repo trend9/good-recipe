@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782407390",
+    "category": "snack",
+    "category_ja": "軽食",
+    "title_ja": "サーモン × アボカドタルタル：悪魔の甘辛さ！鮮明な海の幸と濃厚なアボカドのハーモニー！",
+    "title_en": "Salmon & Avocado Tartare: Devilish sweetness and savory harmony! A masterpiece of the sea and avocado.",
+    "description_ja": "定番のサーモンタルタルに、贅沢なアボカドを加え、その甘さと塩気とのハーモニーを堪能！鮮明な海の幸と濃厚な味わいが、まさに悪魔的な美味しさだ！",
+    "description_en": "Elevate the classic salmon tartar with luxurious avocado for a symphony of sweet and salty flavors! This masterpiece combines the freshness of seafood with the rich taste of avocado - truly an embodiment of devilish deliciousness!",
+    "occasion_ja": "パーティーやちょっとした食事にもぴったり！",
+    "occasion_en": "Perfect for parties or casual gatherings!",
+    "ingredients": [
+      {
+        "name": "サーモン (切り身)",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド (Cubed)",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "少々"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "サーモンは、薄切りにした後、軽く塩コショウで調味する。",
+      "アボカドは、Cubedにしたものを、マヨネーズとレモン汁を混ぜて、味をつける。",
+      "サーモンとアボカドのタルタルを盛り付ける。",
+      "お好みで、醤油を加えて更に味付けもできる。"
+    ],
+    "prompt": "Close up of a stunning salmon and avocado tartare dish with a vibrant, artistic presentation. The creamy avocado is balanced by the smoky, delicious salmon.",
+    "filename": "recipe_1782407390.jpg",
+    "date": "2026-06-25 17:11:47",
+    "timestamp": 1782407390,
+    "likes": 0,
+    "views": 438
+  },
+  {
     "id": "recipe_1782396958",
     "category": "side dish",
     "category_ja": "サイドディッシュ",
