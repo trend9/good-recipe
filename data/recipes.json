@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782479346",
+    "category": "pasta/pasta-sauce",
+    "category_ja": "パスタ / パスタソース",
+    "title_ja": "明太子 × レモンクリーム生パスタの「悪魔」な甘酸っぱさ",
+    "title_en": "Spicy Lemon Cream Pasta - Devilish Sweet and Sour",
+    "description_ja": "明太子とレモンクリームの組み合わせで、今まで味わったことのない「悪魔」的な甘酸っぱさが炸裂！見た目も華やかで、まるで悪魔が作った料理のように、食欲をそそる一皿に仕上がります。",
+    "description_en": "A devilishly delicious twist on the classic lemon cream pasta with a spicy kick! This unique blend of flavors will leave you wanting more. The vibrant presentation is sure to attract the eye.",
+    "occasion_ja": "パーティーや特別な日にもおすすめ！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "20g"
+      },
+      {
+        "name": "レモン",
+        "amount": "1/2個"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 明太子とレモン汁を混ぜ合わせ、全体にレモンの酸味が広がるようにします。",
+      "2. 生パスタを茹でる際に、水を加えて温かい状態に保つと、より柔らかく美味しく仕上がります。",
+      "3. 仕上げは、明太子とレモンクリームを絡めたパスタをバターで炒めます。",
+      "4. 最後に塩コショウで味を調えます。"
+    ],
+    "prompt": "Close-up shot of a plate with devilishly delicious lemon cream pasta made with spicy ingredients.",
+    "filename": "recipe_1782479346.jpg",
+    "date": "2026-06-26 13:10:48",
+    "timestamp": 1782479346,
+    "likes": 0,
+    "views": 201
+  },
+  {
     "id": "recipe_1782469321",
     "category": "パスタ",
     "category_ja": "パスタ",
