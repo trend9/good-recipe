@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782442125",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵 & 麻婆豆腐の「悪魔的な甘辛さ」丼",
+    "title_en": "Spicy Egg and Kung Pao Tofu Bowl (Devilishly Delicious)",
+    "description_ja": "とろける卵と、旨辛麻婆豆腐の組み合わせが、まさに悪魔的な甘辛さを実現！ 意外な組み合わせで、誰もがハマってしまう一品です。",
+    "description_en": "A devilishly delicious bowl combining the irresistible comfort of runny egg with spicy Kung Pao Tofu. Prepare to be amazed by this unexpected combination.",
+    "occasion_ja": "辛いものが食べたい時に、ぜひ試してみたい一品",
+    "occasion_en": "An excellent choice for those who enjoy a spicy kick.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "絹ごし豆腐",
+        "amount": "1丁"
+      },
+      {
+        "name": "中辛の麻婆豆腐のソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ゴマ油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "卵をボウルに入れ、溶き卵と混ぜる。",
+      "豆腐をボウルに入れ、中辛麻婆豆腐のソースを加えて混ぜる。",
+      "ゴマ油を熱したフライパンで、豆腐の麻婆豆腐のソースを炒める。",
+      "卵液に醤油を加え、炒めた豆腐の麻婆豆腐のソースと混ぜ合わせる。"
+    ],
+    "prompt": "Close-up shot of the finished bowl with a sunny egg on top. The inside is a vibrant, red color from the Kung Pao sauce and topped with a runny yolk.",
+    "filename": "recipe_1782442125.jpg",
+    "date": "2026-06-26 02:50:27",
+    "timestamp": 1782442125,
+    "likes": 0,
+    "views": 326
+  },
+  {
     "id": "recipe_1782429262",
     "category": "dessert",
     "category_ja": "デザート",
