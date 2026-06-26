@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1782456701",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "極厚カツ × 特製ハニーマスタードの「甘辛」マッシュポテト",
+    "title_en": "Honey Mustard Mash Potatoes for the Ultimate Thick Cut Steak Experience",
+    "description_ja": "極厚カツに特製ハニーマスタードソースを、マッシュポテトと相性抜群！悪魔的美味しさ満点の逸品",
+    "description_en": "Take your steak experience to another level with our unique honey mustard mash potatoes. A twist you won't forget!",
+    "occasion_ja": "特別な日のディナー、または日常の食卓をより楽しく",
+    "occasion_en": "For special occasions and everyday enjoyment.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタードソース",
+        "amount": "適量"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツを、お好みで塩コショウなどで味付けして焼く。",
+      "特製ハニーマスタードソースを用意し、マッシュポテトに絡める。",
+      "マッシュポテトにバターを加え、溶かしながら混ぜる。",
+      "焼き上がった極厚カツとマッシュポテトを盛り付ける。"
+    ],
+    "prompt": "Close-up of a thick cut steak, with crispy edges, juicy interior, sitting on top of creamy mashed potatoes and drizzled with honey mustard sauce. The background features a rustic wooden table setting.",
+    "filename": "recipe_1782456701.jpg",
+    "date": "2026-06-26 06:53:17",
+    "timestamp": 1782456701,
+    "likes": 0,
+    "views": 158
+  },
+  {
     "id": "recipe_1782442125",
     "category": "丼もの",
     "category_ja": "丼もの",
