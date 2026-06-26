@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782498532",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "ローストビーフ × オニオンソースの「甘辛」マッシュポテト",
+    "title_en": "Roast Beef Mash with Spicy Onion Sauce",
+    "description_ja": "悪魔的な甘辛さ！ローストビーフと特製オニオンソースが融合したマッシュポテトに、チーズをトッピング。一口食べれば、想像を超える美味しさに酔いしれる！",
+    "description_en": "A devilishly delicious mash potato fusion of roast beef and a special onion sauce, topped with cheese. Take one bite and be amazed by the unexpected flavor explosion! ",
+    "occasion_ja": "パーティーや家庭で味わいたい！",
+    "occasion_en": "Perfect for parties or a family gathering!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "4個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ローストビーフを細かく刻んで、ボウルに入れ、じゃがいもと玉ねぎを加え混ぜる。",
+      "じゃがいもや玉ねぎを潰す。",
+      "オニオンソースを加え、全体を混ぜ合わせる。",
+      "マッシュポテトをオーブンで焼けば完成。チーズをトッピングして、召し上がれ。"
+    ],
+    "prompt": "Close-up photo of a serving of the mashed potato with roasted beef and onions, cheese topping. Dramatic lighting with a bokeh effect in the background.",
+    "filename": "recipe_1782498532.jpg",
+    "date": "2026-06-26 18:31:45",
+    "timestamp": 1782498532,
+    "likes": 0,
+    "views": 156
+  },
+  {
     "id": "recipe_1782490375",
     "category": "丼",
     "category_ja": "丼ぶり",
