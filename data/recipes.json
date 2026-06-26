@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782490375",
+    "category": "丼",
+    "category_ja": "丼ぶり",
+    "title_ja": "とろける卵×旨辛麻婆豆腐の「悪魔的な甘辛さ」丼",
+    "title_en": "Devilishly Delicious Egg & Spicy Mao Tofu Bowl",
+    "description_ja": "普段の麻婆豆腐を更に進化させ、とろける卵と甘辛さを一層引き立てる丼ぶり。この悪魔的な美味しさで、日常がもっと楽しくなるはず！",
+    "description_en": "Elevate your typical spicy mapo tofu into a whole new level of deliciousness with this devilishly indulgent bowl featuring creamy egg and a bold, spicy flavor.",
+    "occasion_ja": "特別な日に、日常を少し変えてみる時",
+    "occasion_en": "For those special occasions when you want to elevate your everyday life",
+    "ingredients": [
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "麻婆豆腐の具材を鍋に入れ、水分が減るまで煮詰める。",
+      "溶き卵をボウルに入れた後、塩胡椒で味を調え、フライパンに熱した油で炒める。",
+      "仕上げに卵とごま油を加えて混ぜ合わせる。",
+      "丼に麻婆豆腐を盛り付け、とろける卵とごま油を添える。"
+    ],
+    "prompt": "Close-up shot of a bowl with spicy mapo tofu and runny egg yolk, sizzling on top, over rice. Dramatic lighting and vibrant colors.",
+    "filename": "recipe_1782490375.jpg",
+    "date": "2026-06-26 16:14:40",
+    "timestamp": 1782490375,
+    "likes": 0,
+    "views": 236
+  },
+  {
     "id": "recipe_1782479346",
     "category": "pasta/pasta-sauce",
     "category_ja": "パスタ / パスタソース",
