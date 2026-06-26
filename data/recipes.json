@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1782505931",
+    "category": "side/dessert",
+    "category_ja": "サイド/デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「悪魔的な甘辛」マッシュポテト！",
+    "title_en": "Smoked BBQ Char Siu x Rich Garlic Chili Cheese Mash Potato: An Unholy Yet Delightful Mashup!",
+    "description_ja": "いつものマッシュポテトに新たな次元へ！炙りチャーシューと濃厚焦がしにんにく醤油が相性抜群で、超美味しい悪魔の甘辛マッシュポテト！",
+    "description_en": "Take your mashed potato to the next level! Smoky char siu and rich garlic chili sauce elevate this dish into a unique devilishly delicious mash!",
+    "occasion_ja": "パーティーやディナーなど、特別な日にぴったりな一品！",
+    "occasion_en": "Perfect for parties and dinners, this dish will be sure to impress!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを細かく刻んで、濃厚焦がしにんにく醤油で味付けする。",
+      "2. マッシュポテトとバターを加えてよく混ぜる。",
+      "3. 肉味噌をマッシュポテトに混ぜ込む。",
+      "4. 仕上げに、お好みでパセリやハーブなどを飾る。"
+    ],
+    "prompt": "Close-up of mashed potatoes with smoky char siu pieces and rich garlic chili sauce glaze, sizzling on a plate, background with white table cloth.",
+    "filename": "recipe_1782505931.jpg",
+    "date": "2026-06-26 20:33:26",
+    "timestamp": 1782505931,
+    "likes": 0,
+    "views": 217
+  },
+  {
     "id": "recipe_1782498532",
     "category": "side",
     "category_ja": "サイドディッシュ",
