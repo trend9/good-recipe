@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782532850",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ハニーマヨネーズ × サクサク唐揚げの「悪魔的甘辛」マッシュポテト！",
+    "title_en": "Honey Mayo & Crispy Fried Chicken Mash Potato! - A Devilishly Delicious Twist!",
+    "description_ja": "悪魔的な甘辛さを味わえる、見た目が美しくも意外な美味しさ！サクサク唐揚げとハニーマヨネーズが織りなすマッシュポテトは、食卓を魅了する一品に仕上がります。",
+    "description_en": "A devilishly delicious mash potato experience! Crispy fried chicken and honey mayo come together for a visually stunning yet unexpected taste sensation. This recipe will transform your everyday side dish into an unforgettable delight!",
+    "occasion_ja": "パーティーや、特別な日にぴったりな一品に！",
+    "occasion_en": "Perfect for parties and special occasions.",
+    "ingredients": [
+      {
+        "name": "サクサク唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "300g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. じゃがいもを一口大に切り、水洗いする。",
+      "2. フライパンにごま油を熱し、じゃがいもを炒める。塩コショウで味を調える。",
+      "3. ハニーマヨネーズとバターを加え、混ぜる。",
+      "4. じゃがいもに牛乳を加え、とろみが出たら完成。"
+    ],
+    "prompt": "Close-up shot of a fluffy mashed potato with crispy fried chicken, honey mayo drizzle and a sprinkle of herbs, in a rustic wooden bowl.",
+    "filename": "recipe_1782532850.jpg",
+    "date": "2026-06-27 04:02:33",
+    "timestamp": 1782532850,
+    "likes": 0,
+    "views": 339
+  },
+  {
     "id": "recipe_1782518528",
     "category": "dessert",
     "category_ja": "デザート",
