@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782579992",
+    "category": "side dish/mash-potato",
+    "category_ja": "サイドディッシュ/マッシュポテト",
+    "title_ja": "悪魔的甘辛！ハニーマヨネーズ＆サクサク唐揚げの「マッシュポテト」",
+    "title_en": "Devilish Sweet & Spicy! Honey Mayonnaise & Crispy Chicken Mash Potatoes",
+    "description_ja": "定番の「サクサク唐揚げ」をマッシュポテトにする、悪魔的な甘辛な一品！ ハニーマヨネーズと唐辛子の意外性あふれる組み合わせが、味覚を刺激する！",
+    "description_en": "A devilishly sweet and spicy mash potato recipe! This unique combo of crispy chicken and honey mayo will shock your taste buds. ",
+    "occasion_ja": "パーティーやBBQ、日常使いにも最適な一品！",
+    "occasion_en": "Perfect for parties, BBQs, and everyday use! ",
+    "ingredients": [
+      {
+        "name": "サクサク唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. じゃがいもをみじん切りにし、塩とこしょうで味付け。\n",
+      "2. フライパンに油をひき、じゃがいもを加えて炒める。\n",
+      "3. ハニーマヨネーズと混ぜ合わせたものを加え、よく混ぜる。\n",
+      "4. サクサク唐揚げを加え、全体に混ぜ合わせ完成。"
+    ],
+    "prompt": "Close-up photo of devilish sweet & spicy mash potato with crispy chicken, honey mayo and a sprinkle of salt.",
+    "filename": "recipe_1782579992.jpg",
+    "date": "2026-06-27 17:08:12",
+    "timestamp": 1782579992,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1782573242",
     "category": "side",
     "category_ja": "サイドメニュー",
