@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782601561",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "抹茶×ホワイトチョコ！濃厚マイルドマッシュポテトの悪魔的進化！",
+    "title_en": "A Devilish Twist: Matcha & White Chocolate Indulgent Mash Potato!",
+    "description_ja": "抹茶とホワイトチョコレートの、まるで魔法の組み合わせが生まれるマッシュポテト。甘酸っぱさと濃厚なコクが一体となって、まさに「悪魔的な美味しさ」を体感できる一品！",
+    "description_en": "A devilishly delightful mash potato experience with a twist of matcha and white chocolate.  The unexpected combination creates an indulgent, creamy delight unlike anything you've ever tried before!",
+    "occasion_ja": "パーティーや特別な日に、お酒を合わせるのに最適な一品。",
+    "occasion_en": "Perfect for parties and special occasions, this mash potato elevates your evening meal.",
+    "ingredients": [
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "2大さじ"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "50g"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "じゃがいもを細かく刻む。",
+      "鍋にバターとじゃがいもを加え、弱火で炒める。",
+      "抹茶パウダーと生クリームを加え、混ぜる。",
+      "ホワイトチョコレートを加え、溶かしながら混ぜる。"
+    ],
+    "prompt": "Close-up shot of a bowl of the white chocolate matcha mash potato, looking glossy and creamy.",
+    "filename": "recipe_1782601561.jpg",
+    "date": "2026-06-27 23:07:48",
+    "timestamp": 1782601561,
+    "likes": 0,
+    "views": 463
+  },
+  {
     "id": "recipe_1782597633",
     "category": "side",
     "category_ja": "サイド",
