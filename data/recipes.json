@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782593822",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油ソースで作る！「甘辛・マイルド」チーズマッシュポテト",
+    "title_en": "Smoked Char Siu & Creamy Garlic Chili Cheese Mash Potatoes: A New Level of Sweet and Savory",
+    "description_ja": "とろけるチーズと、濃厚焦がしにんにく醤油の香ばしいマッシュポテトに、炙りチャーシューを加えて、甘辛な味わいをさらに引き立てます。まるで「マイルド」な悪魔的料理が誕生したかのようです！",
+    "description_en": "This recipe blends smoked char siu and creamy garlic chili cheese mash potatoes for a unique sweet and savory flavor profile. It's as if you've unlocked a whole new level of devilish deliciousness! ",
+    "occasion_ja": "パーティーや週末のおやつに、ワインとの相性も抜群！",
+    "occasion_en": "Perfect for parties and weekend snacks. Excellent with wine.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ (モッツァレラ, 生, 適量)",
+        "amount": "適量"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "じゃがいもを茹でる。",
+      "じゃがいもを潰し、チーズと濃厚焦がしにんにく醤油を加えて混ぜる。",
+      "炙りチャーシューを加え、全体に混ぜる。",
+      "牛乳を加え、なめらかになるまで混ぜる。"
+    ],
+    "prompt": "A close-up shot of creamy, smooth mashed potatoes with smoked char siu and melted mozzarella cheese. It's being served in a small bowl, with a smoky aroma and vibrant colors.",
+    "filename": "recipe_1782593822.jpg",
+    "date": "2026-06-27 20:58:45",
+    "timestamp": 1782593822,
+    "likes": 0,
+    "views": 454
+  },
+  {
     "id": "recipe_1782587584",
     "category": "丼物",
     "category_ja": "丼もの",
