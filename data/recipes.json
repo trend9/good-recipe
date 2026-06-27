@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1782597633",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的な旨味爆発！サーモン＆アボカドの「甘辛」マッシュポテト",
+    "title_en": "Devilishly Delicious! Salmon & Avocado Mash with Sweet and Spicy Kick",
+    "description_ja": "濃厚なアボカドと、鮮やかなサーモンが、意外性あふれる「甘辛」マッシュポテトに！ 悪魔的な美味しさをお届けします。",
+    "description_en": "A devilishly delicious mash potato featuring rich avocado and fresh salmon with a unique sweet & spicy kick! Get ready for a taste sensation.",
+    "occasion_ja": "パーティーやおもてなしに！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "サーモン (切り身)",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド (すりおろし)",
+        "amount": "100g"
+      },
+      {
+        "name": "マッシュポテト (調理済み)",
+        "amount": "300g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "サーモンを1cm幅に切ります。",
+      "アボカドと砂糖、酒、醤油を入れ、よく混ぜ合わせます。",
+      "マッシュポテトに加え、全体に混ぜます。",
+      "お好みでハーブやスパイスを加えても美味しくなります。"
+    ],
+    "prompt": "Close-up shot of salmon and avocado mash with red sauce on a plate, garnished with herbs. Grunge texture and dark background.",
+    "filename": "recipe_1782597633.jpg",
+    "date": "2026-06-27 22:04:04",
+    "timestamp": 1782597633,
+    "likes": 0,
+    "views": 284
+  },
+  {
     "id": "recipe_1782593822",
     "category": "side",
     "category_ja": "サイドディッシュ",
