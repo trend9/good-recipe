@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1782559616",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油 の「甘辛・まろやか」マッシュポテト",
+    "title_en": "Smoked Pork Belly & Creamy Garlic Chili Mash Potato: The Sweet and Spicy Delight",
+    "description_ja": "悪魔的美味しさ！炙りチャーシューと濃厚焦がしにんにく醤油が絡む、まろやかなマッシュポテト。甘辛な味付けに、意外性のある味わいが楽しめます。まるで悪魔の舌を魅了する一皿に。",
+    "description_en": "An irresistible fusion of smoky flavor and rich savory notes. This mash potato is crafted with smoked pork belly and creamy garlic chili sauce, bringing a unique balance to the table.",
+    "occasion_ja": "パーティー、ディナーにぴったりな一品",
+    "occasion_en": "Perfect side dish for parties and dinners.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "150g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. じゃがいもをみじん切りにする。",
+      "2. 炙りチャーシューと濃厚焦がしにんにく醤油を加え、混ぜる。",
+      "3. フライパンにバターを入れ、じゃがいもを加えて炒める。",
+      "4. 火を止めて、マッシュポテトの完成！"
+    ],
+    "prompt": "A close-up shot of a warm and inviting bowl of the mash potato, with smoked pork belly visible inside. The rich brown garlic chili sauce is spread evenly, making for an appealing visual appeal.",
+    "filename": "recipe_1782559616.jpg",
+    "date": "2026-06-27 11:28:37",
+    "timestamp": 1782559616,
+    "likes": 0,
+    "views": 218
+  },
+  {
     "id": "recipe_1782552497",
     "category": "dessert",
     "category_ja": "デザート",
