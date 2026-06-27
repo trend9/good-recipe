@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1782573242",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "ローストビーフ × 特製オニオンソースの「甘辛」マッシュポテト！",
+    "title_en": "Roast Beef & Special Onion Sauce Mash Potatoes!",
+    "description_ja": "悪魔的な美味しさを追求した、ローストビーフと特製オニオンソースのマッシュポテト。濃厚な甘辛さが口の中を満たす、至高の食卓体験をお届けします！",
+    "description_en": "Experience the ultimate in culinary delight with this roast beef and special onion sauce mash potatoes, delivering a powerful blend of savory and sweet notes.",
+    "occasion_ja": "パーティー、家族会議、特別な夜に！",
+    "occasion_en": "Perfect for parties, family gatherings, or any special occasion!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "ニンニク",
+        "amount": "2かけ"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ローストビーフを粗く刻んで、玉ねぎとじゃがいもを薄切りにする。",
+      "フライパンにバターを入れ、ニンニクを加えて弱火で炒める。",
+      "玉ねぎとじゃがいもを加え、さらに炒める。",
+      "塩コショウで味を調える。"
+    ],
+    "prompt": "Close-up shot of the mashed potatoes with roast beef chunks, onion sauce drizzled on top. A warm and inviting composition, showcasing a rich culinary experience",
+    "filename": "recipe_1782573242.jpg",
+    "date": "2026-06-27 15:15:35",
+    "timestamp": 1782573242,
+    "likes": 0,
+    "views": 181
+  },
+  {
     "id": "recipe_1782566532",
     "category": "Side",
     "category_ja": "サイド",
