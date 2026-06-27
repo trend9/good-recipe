@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782518528",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜 きな粉もちもちアイス - 悪魔の甘酸っぱさ進化！",
+    "title_en": "Black Honey Matcha Mochi Ice Cream - A Revolutionary Twist in Sweetness!",
+    "description_ja": "黒蜜ときな粉が織りなす、意外性と美味しさを詰め込んだ特別なアイス。もちもち食感と悪魔的な甘酸っぱさが、口いっぱいに広がる！",
+    "description_en": "A revolutionary ice cream with a blend of black honey and kinako, featuring unexpected flavors and a burst of delicious sweetness. Indulge in the delightful combination of melt-in-your-mouth mochi texture and an extraordinary mix of sweet and sour.",
+    "occasion_ja": "特別な日や、夜のおやつにぴったり！",
+    "occasion_en": "Perfect for special occasions or as a late-night treat!",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "もちもちアイスを器に盛り、黒蜜とレモン汁で少し染み込ませる。",
+      "きな粉を軽く振りかけると、さらに風味アップ！",
+      "生クリームを少し加え、なめらかさをプラスする。",
+      "お好みでトッピングしたり、そのままでも美味しい一品が完成。"
+    ],
+    "prompt": "Close-up shot of a beautifully presented ice cream, showcasing the mochi texture and black honey drizzle. A touch of lemon juice shines on top.",
+    "filename": "recipe_1782518528.jpg",
+    "date": "2026-06-27 00:03:48",
+    "timestamp": 1782518528,
+    "likes": 0,
+    "views": 155
+  },
+  {
     "id": "recipe_1782511786",
     "category": "pasta",
     "category_ja": "パスタ",
