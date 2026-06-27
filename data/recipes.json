@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1782552497",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的な甘酸っぱさ！ 海老＆クリーミーアボカドグラタン",
+    "title_en": "Devilishly Delicious! Abalone & Creamy Avocado Gratin",
+    "description_ja": "海藻の香ばしさも、クリーミーなアボカドの甘味が一体となった、今までにない味わいに。とろける卵と、悪魔的な甘酸っぱさを実現！ ",
+    "description_en": "A blend of the savory taste of kelp and the creamy richness of avocado delivers an unforgettable flavor! This recipe features a decadent creamy sauce topped with silky egg, for a truly devilishly delicious experience.",
+    "occasion_ja": "特別な日や、週末のディナーにぴったりな一品",
+    "occasion_en": "A perfect dish for special occasions and weekend dinners.",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "昆布だし",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "殻付きの生え haja",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. アボカドを薄切りにし、マヨネーズで味付けする。",
+      "2. 生クリームと黒蜜を加えて混ぜる。昆布だしで味を調える。",
+      "3. 卵を溶き、グラタン皿に流し込む。",
+      "4. 海藻を飾って完成。"
+    ],
+    "prompt": "A close-up photo of the creamy avocado and abalone gratin, garnished with seaweed for a dramatic effect. The dish should look decadent.",
+    "filename": "recipe_1782552497.jpg",
+    "date": "2026-06-27 09:29:59",
+    "timestamp": 1782552497,
+    "likes": 0,
+    "views": 281
+  },
+  {
     "id": "recipe_1782543366",
     "category": "side",
     "category_ja": "サイド dish",
