@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782587584",
+    "category": "丼物",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵で作る！旨辛麻婆豆腐丼の超進化版！",
+    "title_en": "Upgrade your Pad Thai with Creamy Egg & Spicy Tofu Bowl!",
+    "description_ja": "ふわふわとろとろ卵と、旨辛麻婆豆腐を組み合わせた、見た目が美しい極上のアレンジレシピ。まさに悪魔的な美味しさ! 今回は、簡単で家庭でも再現できるレシピです。",
+    "description_en": "Experience a new level of Pad Thai with this creamy egg and spicy tofu bowl! This unique recipe combines the best of both worlds – silky smooth eggs and flavorful, spicy tofu. You won’t believe how delicious it is!",
+    "occasion_ja": "忙しい日や、特別な日に、簡単に作れる一品",
+    "occasion_en": "Perfect for busy days or special occasions, this recipe can be made easily. ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "豆腐",
+        "amount": "1丁"
+      },
+      {
+        "name": "麻婆豆腐ソース",
+        "amount": "適量"
+      },
+      {
+        "name": "中華粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "卵をふわふわに溶きほぐし、中華粉と混ぜる。",
+      "豆腐を麻婆豆腐ソースで炒める。",
+      "熱した鍋にごま油を入れて、卵と豆腐を加えて炒める。",
+      "お好みでネギや唐辛子を添えて完成。"
+    ],
+    "prompt": "Close up shot of a creamy egg and spicy tofu bowl with colorful vegetables, delicious steam, and vibrant food illustration.",
+    "filename": "recipe_1782587584.jpg",
+    "date": "2026-06-27 19:14:43",
+    "timestamp": 1782587584,
+    "likes": 0,
+    "views": 252
+  },
+  {
     "id": "recipe_1782579992",
     "category": "side dish/mash-potato",
     "category_ja": "サイドディッシュ/マッシュポテト",
