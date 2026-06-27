@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782543366",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "トマトモッツァレラチーズの「悪魔的甘酸っぱさ」マッシュポテト",
+    "title_en": "Tomato Mozzarella Cheese Mash Potatoes: Devilishly Sweet and Tangy",
+    "description_ja": "完熟トマトとモッツァレラの絶妙な甘みと酸味が、マッシュポテトに新たな悪魔的な美味しさを吹き込む！濃厚でクリーミーな味わいは、まさに悪魔的美味しさ。",
+    "description_en": "A devilishly delicious mash potato recipe using ripe tomato and fresh mozzarella cheese. The unique sweet and tangy flavor will surely take your taste buds on a wild ride! ",
+    "occasion_ja": "パーティーやBBQにぴったり！",
+    "occasion_en": "Perfect for parties and BBQ!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バジル",
+        "amount": "お好みで"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1.5"
+      }
+    ],
+    "steps": [
+      "トマトを潰し、ボウルに入れる。",
+      "モッツァレラチーズとバジル（お好みで）を加え混ぜる。",
+      "バターと塩を加え、よく混ぜる。",
+      "マッシュポテトをオーブンで10分ほど焼く。"
+    ],
+    "prompt": "Close-up shot of creamy tomato mozzarella mash potatoes with a sprig of basil, in an oven.",
+    "filename": "recipe_1782543366.jpg",
+    "date": "2026-06-27 06:58:45",
+    "timestamp": 1782543366,
+    "likes": 0,
+    "views": 330
+  },
+  {
     "id": "recipe_1782532850",
     "category": "side",
     "category_ja": "サイド",
