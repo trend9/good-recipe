@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782684053",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「マイルド」マッシュポテト！",
+    "title_en": "Smoked Charsiu & Fiery Roasted Garlic Mash Potatoes! - A Delectable Fusion of Flavours",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を贅沢に使い、マイルドで優しい味わいのマッシュポテトを作ってみませんか？ 意外な組み合わせが美味しい！",
+    "description_en": "Experience the magic of contrasting flavours in a smooth and velvety mash potato. Smoky charsiu and fiery roasted garlic will create an addictive combination you'll never forget.",
+    "occasion_ja": "パーティー、週末の夜ご飯など、誰にでもおすすめ!",
+    "occasion_en": "Perfect for parties, weekend dinners and more! ",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "ニンニク",
+        "amount": "1かけ"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "じゃがいもをボウルに入れ、水切りをします。",
+      "ニンニクをボウルに入れます。",
+      "バターと濃厚焦がしにんにく醤油を加え、混ぜます。",
+      "茹でたじゃがいもをバターと濃厚焦がしにんにく醤油で混ぜ合わせます。"
+    ],
+    "prompt": "Close-up photo of a creamy mash potato dish with smoky charsiu and roasted garlic topping, against a white backdrop. The image should be visually appealing and tempting.",
+    "filename": "recipe_1782684053.jpg",
+    "date": "2026-06-28 22:02:31",
+    "timestamp": 1782684053,
+    "likes": 0,
+    "views": 399
+  },
+  {
     "id": "recipe_1782677467",
     "category": "side",
     "category_ja": "サイドディッシュ",
