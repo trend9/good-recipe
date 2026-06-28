@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782658018",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的海老グラタン：クリーミーなアボカドが溶け込む！",
+    "title_en": "Decadent Crab & Avocado Gratin: Creamy Dreamy Delight!",
+    "description_ja": "一見すると落ち着きのある海の風味とクリーミーなアボカドの組み合わせ。悪魔的な旨味とクリーミーさが融合したグラタンです！",
+    "description_en": "An unexpected harmony of sea flavors and creamy avocado. A decadent gratin that blends the devilishly savory with creamy delight.",
+    "occasion_ja": "特別な日に、友達とシェアしたい一品",
+    "occasion_en": "Perfect for a special occasion or sharing with friends.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "250g"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "グラタンチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. 海老を小さめに切る。アボカドは皮を取り、中身をなめらかに潰す。",
+      "2. 混ぜ合わせたチーズと小麦粉を加え、牛乳を加える。",
+      "3. 海老とアボカドのグラタンに、混ぜ合わせたチーズの生地を注ぎ入れる。",
+      "4. 180度に予熱したオーブンで15分焼く。焼き上がり後、お好みでハーブやパセリなどを入れて完成。"
+    ],
+    "prompt": "Close-up shot of a creamy and decadent crab & avocado gratin, with a slightly browned crust. Garnished with fresh herbs.",
+    "filename": "recipe_1782658018.jpg",
+    "date": "2026-06-28 14:49:42",
+    "timestamp": 1782658018,
+    "likes": 0,
+    "views": 235
+  },
+  {
     "id": "recipe_1782648936",
     "category": "side",
     "category_ja": "サイド",
