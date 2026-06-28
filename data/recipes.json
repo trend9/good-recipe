@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782648936",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的な旨味！ローストビーフ × 特製オニオンソースの「甘辛」マッシュポテト！",
+    "title_en": "Devilishly Delicious! Roasted Beef & Spicy Onion Sauce Mashed Potato!",
+    "description_ja": "濃厚なローストビーフの旨味が、特製オニオンソースとマッチした「甘辛」マッシュポテトに昇華！一口食べれば、悪魔が憑依するほど、食欲をそそる一品",
+    "description_en": "A devilishly delicious mash potato featuring a blend of rich roasted beef and a spicy onion sauce for an explosion of flavor! A taste that will send you straight to the underworld!",
+    "occasion_ja": "パーティー、ディナー、お酒のつまみに最適！",
+    "occasion_en": "Perfect for parties, dinners, or as appetizers with drinks!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "150g"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "3個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "ローストビーフを1cm角の大きさにカットし、塩こしょうで味付けする。",
+      "じゃがいもは一口大に切り、バターと牛乳を加えて弱火でじっくり煮る。",
+      "特製オニオンソースを加え、全体が溶け込むように混ぜる。",
+      "ローストビーフを混ぜ込んだマッシュポテトに加え、全体を混ぜる。"
+    ],
+    "prompt": "Close-up photo of a plate with mashed potatoes topped with diced roasted beef and red onion sauce, glowing from the warmth.",
+    "filename": "recipe_1782648936.jpg",
+    "date": "2026-06-28 12:17:18",
+    "timestamp": 1782648936,
+    "likes": 0,
+    "views": 288
+  },
+  {
     "id": "recipe_1782641290",
     "category": "side",
     "category_ja": "サイド",
