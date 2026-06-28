@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782630036",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "バナナキャラメルブリュレマッシュポテト",
+    "title_en": "Banana Caramel Brulee Mash Potato",
+    "description_ja": "完熟バナナの甘さとキャラメルブリュレの香ばしさが、クリーミーなマッシュポテトに融合！悪魔的な甘さとコクが楽しめる一品です。",
+    "description_en": "Experience the tantalizing fusion of banana's sweetness and caramel brulee's aroma in this creamy mash potato. A truly wickedly delicious dish with both sweet and savory notes.",
+    "occasion_ja": "パーティー、おもてなし、特別な日にぴったり",
+    "occasion_en": "Perfect for parties, welcoming guests, or special occasions",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "400g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "バナナを潰し、牛乳とキャラメルソースを加えて混ぜる。",
+      "じゃがいもを細かく切り、鍋にバターと混ぜて弱火で炒める。",
+      "牛乳とキャラメルソースの混合物をじゃがいもの鍋に加え、沸騰したら弱火で10分煮込む。",
+      "マッシュポテトを加え、全体が滑らかになったら完成。"
+    ],
+    "prompt": "Close-up shot of a bowl of banana caramel brulee mash potato with steam rising. It has a warm, inviting color and looks soft and creamy.",
+    "filename": "recipe_1782630036.jpg",
+    "date": "2026-06-28 07:02:17",
+    "timestamp": 1782630036,
+    "likes": 0,
+    "views": 259
+  },
+  {
     "id": "recipe_1782615215",
     "category": "side",
     "category_ja": "サイドディッシュ",
