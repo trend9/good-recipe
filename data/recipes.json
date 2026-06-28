@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1782615215",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘辛マッシュポテト",
+    "title_en": "Tofu & Spicy Korean Gochujang Cheese Mash Potatoes: Devilishly Delicious!",
+    "description_ja": "チーズとタッカルビチンの意外性あふれる組み合わせで、悪魔的な甘辛なマッシュポテトを生み出す！まるで魔物に憑依したような、濃厚でクリーミーな味わいをお楽しみください。",
+    "description_en": "Experience a devilishly delicious mash with the unexpected fusion of creamy cheese and spicy gochujang chicken! This rich, cheesy mash will leave you craving for more.",
+    "occasion_ja": "パーティー、BBQなど、お酒と一緒に。",
+    "occasion_en": "Perfect side dish for parties, BBQ or gatherings. ",
+    "ingredients": [
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "3個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "ゴマ油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ゴマ粉",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "じゃがいもを細切りにし、玉ねぎを薄くスライスして、ボウルに入れます。",
+      "鍋にゴマ油を入れ、弱火で温めます。",
+      "ゴマ粉を加え、混ぜ合わせます。",
+      "チーズとタッカルビチンの混合を混ぜ合わせ、全体を均等に混ぜます。"
+    ],
+    "prompt": "Close-up shot of a bowl of creamy, cheesy mashed potatoes with pieces of chicken and gochujang sauce drizzled on top. The cheese is melting and the potato color shows a lovely golden hue.",
+    "filename": "recipe_1782615215.jpg",
+    "date": "2026-06-28 02:55:16",
+    "timestamp": 1782615215,
+    "likes": 0,
+    "views": 317
+  },
+  {
     "id": "recipe_1782601561",
     "category": "side",
     "category_ja": "サイドディッシュ",
