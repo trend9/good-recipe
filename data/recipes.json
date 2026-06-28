@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782641290",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ローストビーフ × 特製オニオンソースの「甘辛」マッシュポテト！悪魔的な旨味！",
+    "title_en": "Roast Beef & Special Onion Sauce Mashed Potatoes! Devilishly Delicious Umami!",
+    "description_ja": "濃厚なローストビーフの旨味が、特製オニオンソースで引き立つ！甘辛マッシュポテトは、まるで悪魔が作ったような味わい！",
+    "description_en": "Devilish flavors! A twist on classic mashed potatoes with a blend of tender roast beef and our special onion sauce. This unique mash is sure to delight your taste buds!",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "ニンニク",
+        "amount": "2かけ"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "ローストビーフを細かく刻んで、玉ねぎとニンニクを加え、バターで炒める。",
+      "牛乳を加え、煮詰める。",
+      "火を止めて、塩コショウで味を調える。",
+      "マッシュポテトに混ぜる。"
+    ],
+    "prompt": "Close-up photo of a bowl of mashed potatoes with roast beef and onion sauce, steaming hot. The texture looks smooth and fluffy.",
+    "filename": "recipe_1782641290.jpg",
+    "date": "2026-06-28 10:11:36",
+    "timestamp": 1782641290,
+    "likes": 0,
+    "views": 158
+  },
+  {
     "id": "recipe_1782630036",
     "category": "side",
     "category_ja": "サイド",
