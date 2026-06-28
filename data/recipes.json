@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782677467",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "ローストビーフ × 特製オニオンソースの「甘辛」マッシュポテト！ × 濃厚クリーミーチーズグラタン！",
+    "title_en": "Roasted Beef x Spicy Onion Sauce Mash Potatoes! - Creamy Cheese Gratin Twist!",
+    "description_ja": "一見すると平凡な組み合わせだけど、意外な美味しさの爆発。濃厚クリーミーチーズとローストビーフの旨味が絡み合う「甘辛」マッシュポテトに、チーズグラタンでさらに魅惑的な一品を完成させていく。",
+    "description_en": "Unexpectedly delicious! A classic combination gets an exciting twist with creamy cheese gratin. This mash potato is packed with rich, sweet and savory flavors, while adding a satisfying creaminess from the grated cheese on top.",
+    "occasion_ja": "パーティーやディナーに最適！",
+    "occasion_en": "Perfect for parties or dinner!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "150g"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚クリーミーチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "グラタン粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "ローストビーフは一口サイズにカットして、特製オニオンソースで味付けします。",
+      "マッシュポテトを準備し、濃厚クリーミーチーズと混ぜます。",
+      "熱したグラタン皿に、マッシュポテトとローストビーフの組み合わせを盛り付けます。",
+      "グラタンをチーズで包み、オーブンで15分焼きます。"
+    ],
+    "prompt": "A close-up photo of a creamy cheese gratin with embedded roasted beef and onion sauce mashed potatoes, surrounded by an elegant golden crust. The image should evoke an enticing and inviting vibe.",
+    "filename": "recipe_1782677467.jpg",
+    "date": "2026-06-28 20:12:54",
+    "timestamp": 1782677467,
+    "likes": 0,
+    "views": 386
+  },
+  {
     "id": "recipe_1782669774",
     "category": "side",
     "category_ja": "サイドメニュー",
