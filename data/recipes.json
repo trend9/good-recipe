@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1782669774",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "ローストビーフ × 特製オニオンソースの「甘辛」マッシュポテト：悪魔の旨味！",
+    "title_en": "Roast Beef with Special Onion Sauce Mash Potato: A Devilish Taste Explosion!",
+    "description_ja": "一見すると平凡なマッシュポテト、しかし、悪魔的な旨味が爆発する！ ローストビーフと特製オニオンソースのマイルドで甘辛い風味を存分に味わえる、特別な一品に仕上がります。",
+    "description_en": "Transform your mashed potatoes into a devilishly delicious treat! This recipe blends the savory goodness of roast beef with a special onion sauce for an explosive, unique flavor experience. Perfect for those who want to elevate their mashed potato game.",
+    "occasion_ja": "パーティー、おもてなしに最適！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "300g"
+      },
+      {
+        "name": "にんにく",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "ローストビーフを細く切って、特製オニオンソースと混ぜる。",
+      "じゃがいもを皮付きのまま、小さめに切っておく。",
+      "にんにくは薄切りにする。",
+      "鍋にバターを入れ、にんにくを加え炒める。",
+      "じゃがいもを加えて炒め、水を加え、弱火で約10分煮込む。",
+      "マイルドな甘辛マッシュポテトの完成。"
+    ],
+    "prompt": "A close-up shot of a steaming bowl of mashed potatoes with roast beef and special onion sauce, evoking a devilish appearance",
+    "filename": "recipe_1782669774.jpg",
+    "date": "2026-06-28 18:04:37",
+    "timestamp": 1782669774,
+    "likes": 0,
+    "views": 177
+  },
+  {
     "id": "recipe_1782662847",
     "category": "side",
     "category_ja": "サイドディッシュ",
