@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782687953",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔的海老＆アボカドグラタン：クリーミーな旨味と甘酸っぱさのハーモニー！",
+    "title_en": "Devilish Lobster & Avocado Gratin: Creamy Flavor Harmony of Tangy Goodness!",
+    "description_ja": "「悪魔的な旨味」を追求した、クリーミーなアボカドが溶け込んだ贅沢な海老グラタン。意外な組み合わせの「甘酸っぱさ」が食欲をそそる一品です！",
+    "description_en": "A devilishly delicious lobster and avocado gratin, featuring a creamy texture of avocados that melt in your mouth. The unexpected combination of tangy flavors is sure to tantalize your taste buds! ",
+    "occasion_ja": "特別なディナーに、または贅沢な夜食に。",
+    "occasion_en": "A special dinner or a luxurious night snack.",
+    "ingredients": [
+      {
+        "name": "冷凍のハモ",
+        "amount": "1個"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. ハモは皮をむき、1cm幅の薄切りにする。",
+      "2. アボカドは皮をむき、種を取り除いた後、食感を保ちつつ大きめの塊状に切る。",
+      "3. フライパンにごま油をひき、塩コショウで薄めたレモン汁を加えて混ぜる。",
+      "4. ハモとアボカドの塊をフライパンに入れて、両面を焼き色が付くまで焼く。バターを加えて、全体を混ぜ合わせる。"
+    ],
+    "prompt": "A close-up shot of a lobster and avocado gratin with a buttery, creamy texture. The dish is in front of a white background.",
+    "filename": "recipe_1782687953.jpg",
+    "date": "2026-06-28 23:07:33",
+    "timestamp": 1782687953,
+    "likes": 0,
+    "views": 333
+  },
+  {
     "id": "recipe_1782684053",
     "category": "side",
     "category_ja": "サイドディッシュ",
