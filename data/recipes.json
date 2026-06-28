@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782662847",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "ガーリックバター＆ぷりぷり海老のスパイシーピラフ！",
+    "title_en": "Spicy Shrimp & Garlic Butter Rice with a Kick!",
+    "description_ja": "ガーリックバターとぷりぷりの海老が、スパイシーな味付けで最高のピラフに！見た目も食欲をそそる一品。\nまるで悪魔が作ったかのような美味しさとインパクトのある味わいが楽しめる、一皿で魅せるレシピです。",
+    "description_en": "A spicy shrimp and garlic butter rice dish that's sure to be a showstopper! Its vibrant look, coupled with a devilishly delicious taste, will have your guests asking for more. ",
+    "occasion_ja": "パーティーや特別な日にぴったりな一品",
+    "occasion_en": "Perfect for parties and special occasions.",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "ガーリック",
+        "amount": "適量"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. ぷりぷり海老を一口サイズに切る。\n",
+      "2. フライパンにバターとガーリックを入れて中火で熱し、香りが立ってきたら海老を加える。\n",
+      "3. 砂糖大さじ1を混ぜながら、塩コショウを振るようにして炒め、ご飯を加える。\n",
+      "4. 水溶き片栗粉を加え、ご飯が滑らかになるまで炒め、しょうゆで味を引き締める。"
+    ],
+    "prompt": "A close-up shot of the finished dish, showing the shrimp and garlic butter rice with a spicy kick.",
+    "filename": "recipe_1782662847.jpg",
+    "date": "2026-06-28 16:09:04",
+    "timestamp": 1782662847,
+    "likes": 0,
+    "views": 382
+  },
+  {
     "id": "recipe_1782658018",
     "category": "side",
     "category_ja": "サイド",
