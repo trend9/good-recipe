@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782701619",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子 × レモンクリーム生パスタ：悪魔の甘酸っぱさ！",
+    "title_en": "Spicy Takoyaki Lemon Cream Pasta: A Delicious Twist!",
+    "description_ja": "悪魔的な美味しさに、爽やかなレモンクリームが合わさる、一味違う明太子パスタ。見た目も鮮やかで、きっと誰もが虜になるはず！",
+    "description_en": "Spicy takoyaki with a bright lemon cream sauce! A twist on the classic pasta. This dish will be as beautiful as it tastes!",
+    "occasion_ja": "特別な夜に、ちょっと贅沢な一品が欲しいとき!",
+    "occasion_en": "For a special evening, something fancy to enjoy!",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "50g"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "100g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "明太子をボウルに入れ、混ぜ合わせる。",
+      "パスタを茹でる。",
+      "茹でたパスタと明太子、レモン汁、牛乳、バターを加え、よく混ぜる。",
+      "器に盛り付け、お好みでパセリやレモンを添える。"
+    ],
+    "prompt": "Close-up shot of a bright, colorful lemon cream pasta dish with a generous sprinkle of parsley and lemon wedges. The texture should be creamy, the noodles should be visible. A single fork is lifted to reveal a bit of the filling.",
+    "filename": "recipe_1782701619.jpg",
+    "date": "2026-06-29 02:55:23",
+    "timestamp": 1782701619,
+    "likes": 0,
+    "views": 389
+  },
+  {
     "id": "recipe_1782687953",
     "category": "グラタン",
     "category_ja": "グラタン",
