@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782736104",
+    "category": "side",
+    "category_ja": "サイド dishes",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔の甘酸っぱさ！",
+    "title_en": "Creamy Cheese Sauce & Crunchy Potato: The Devil's Sweet and Sour Delight!",
+    "description_ja": "とろけるチーズとサクサクポテトが、クリーミーなソースで絡み合う。意外な組み合わせなのに、めちゃくちゃ美味しい！悪魔的な甘酸っぱさとクリーミーな旨味で、満足感が爆発します。",
+    "description_en": "A creamy cheese sauce and crunchy potato, the devil's sweet & sour delight! A surprising combination that brings out a crazy level of deliciousness. This dish delivers the satisfyingly complex combination of creamy tanginess with savory crunch.",
+    "occasion_ja": "パーティーや、お酒と相性抜群！",
+    "occasion_en": "Perfect for parties, perfect pairing with your favorite alcohol.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "適量"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "じゃがいもを厚めに切る。",
+      "じゃがいもは油で揚げる。",
+      "じゃがいもにマヨネーズとクリーミーチーズソースをかける。",
+      "パプリカを添えて、完成！"
+    ],
+    "prompt": "Close up shot of a plate with golden-fried potato sticks, covered in creamy cheese sauce and topped with colorful paprika. A burst of visual appeal with an exciting mix of textures.",
+    "filename": "recipe_1782736104.jpg",
+    "date": "2026-06-29 12:30:13",
+    "timestamp": 1782736104,
+    "likes": 0,
+    "views": 154
+  },
+  {
     "id": "recipe_1782718060",
     "category": "丼",
     "category_ja": "丼もの",
