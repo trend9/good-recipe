@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782718060",
+    "category": "丼",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵と旨辛麻婆豆腐の丼 - 悪魔の甘酸っぱさ！",
+    "title_en": "Fluffy Egg and Spicy Kung Pao Chicken Bowl - Devilish Sweet & Sour Delight!",
+    "description_ja": " ふわふわ卵と、濃厚な旨辛麻婆豆腐が、ご飯の上に乗っかる。甘酸っぱいアクセントも加わり、悪魔的な美味しさ！",
+    "description_en": "Fluffy eggs meet spicy Kung Pao Chicken in a bowl of deliciousness. Sweet & sour touches create a devilishly satisfying experience!",
+    "occasion_ja": "晩ご飯や、特別な日のランチにぴったり！",
+    "occasion_en": "Perfect for dinner or special lunch! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐の具材",
+        "amount": "適量"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "小さじ2"
+      }
+    ],
+    "steps": [
+      "ご飯を炊きます。",
+      "卵はゆでる。(沸騰した水に塩を入れると、殻が綺麗に剥きやすいです。) ",
+      "フライパンに油をひき、卵を炒めます。",
+      "麻婆豆腐の具材を加えて混ぜ合わせます。醤油とみりんを加えて味を調えます。"
+    ],
+    "prompt": "Close-up photo of a bowl with fluffy egg and spicy Kung Pao Chicken filling. Vibrant colors, steam, and delicious presentation.",
+    "filename": "recipe_1782718060.jpg",
+    "date": "2026-06-29 07:29:23",
+    "timestamp": 1782718060,
+    "likes": 0,
+    "views": 216
+  },
+  {
     "id": "recipe_1782701619",
     "category": "pasta",
     "category_ja": "パスタ",
