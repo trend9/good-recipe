@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782759795",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔のハンバーグ卵サラダ：とろける半熟卵とデミグラスソースの衝撃！",
+    "title_en": "Shock! Devil's Hamburger Egg Salad with Creamy and Decadent Sauce!",
+    "description_ja": "とろける半熟卵と濃厚なデミグラスソースを合わせた、まさに悪魔的な美味しさ！見た目も鮮やかなサラダは、普段の食卓に新たな風を吹き込む絶品一品。",
+    "description_en": "A shockingly delicious salad that combines creamy, decadent scrambled eggs with rich demi-glace sauce! The vibrant salad is a perfect addition to your everyday table.",
+    "occasion_ja": " parties/dinner gatherings / brunches / casual lunches",
+    "occasion_en": "Parties / Dinner Gatherings / Brunches / Casual Lunches",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ハンバーグを1cm角にカットします。",
+      "卵を半熟状態に焼き、塩コショウで味付けします。",
+      "ハンバーグの表面にデミグラスソースを塗り、卵とマヨネーズを添えます。",
+      "サラダを盛り付けます。"
+    ],
+    "prompt": "A close-up shot of a halved devil's hamburger egg salad, with its creamy yolk oozing out. A side dish on a wooden table.",
+    "filename": "recipe_1782759795.jpg",
+    "date": "2026-06-29 19:04:55",
+    "timestamp": 1782759795,
+    "likes": 0,
+    "views": 436
+  },
+  {
     "id": "recipe_1782751067",
     "category": "dessert/side",
     "category_ja": "デザート / サイドディッシュ",
