@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1782805756",
+    "category": "side dish/main course",
+    "category_ja": "サイドdish/メイン料理",
+    "title_ja": "悪魔の卵デミハンバーグ：とろける半熟卵に、濃厚デミソースが絡む衝撃！",
+    "title_en": "Devil's Egg Demi-Hamburg: Exploding with Creamy Eggs and rich Demi-Sauce!",
+    "description_ja": "とろける半熟卵と濃厚デミグラスソースが絡み合う、悪魔的な美味しさのレシピ！家庭で簡単に作れる、衝撃的な一品をぜひお試しあれ！",
+    "description_en": "A devilishly delicious recipe featuring a creamy scrambled egg and rich demi-glace sauce. Easy to make at home, this will blow your mind! ",
+    "occasion_ja": "週末の夕食に最適！/",
+    "occasion_en": "Perfect for dinner on the weekends! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "ハンバーグ",
+        "amount": "100g"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "小さじ3"
+      },
+      {
+        "name": "塩胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "卵は、半熟に仕上げます。",
+      "ハンバーグを焼きます。デミグラスソースを加えて煮詰めます。",
+      "卵を溶き、ハンバーグの表面を包みます。",
+      "完成したら、お好みでハーブやスパイスを盛り付けてください。"
+    ],
+    "prompt": "Close-up photo of a Devil's Egg Demi-Hamburg dish with sizzling half-cooked egg and juicy demi-glace sauce.  Vibrant colors, focus on the texture and appeal.",
+    "filename": "recipe_1782805756.jpg",
+    "date": "2026-06-30 07:50:54",
+    "timestamp": 1782805756,
+    "likes": 0,
+    "views": 307
+  },
+  {
     "id": "recipe_1782791123",
     "category": "side",
     "category_ja": "サイドディッシュ",
