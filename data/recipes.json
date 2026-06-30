@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782845678",
+    "category": "side dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「甘辛」マッシュポテト！",
+    "title_en": "Spicy Mashed Potatoes with Char Siu and Garlic-Ginger Sauce!",
+    "description_ja": "濃厚な焦がしにんにく醤油と炙りチャーシューで作る、悪魔的な甘辛マッシュポテト。一口食べれば、食欲をそそる、超絶美味しさ！",
+    "description_en": "A spicy mash potato with char siu and garlic-ginger sauce, giving a devilishly addictive taste experience.",
+    "occasion_ja": "パーティーやBBQに最適！食欲をそそる一品が完成します。",
+    "occasion_en": "Perfect for parties and BBQ! This devilishly delicious side dish will elevate your meal.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "じゃがいもを1cm角に切る。",
+      "ボウルに入れたじゃがいもに濃厚焦がしにんにく醤油、塩コショウを加え混ぜる。",
+      "フライパンでバターと炙りチャーシューを加え、火が通ったら、じゃがいもと炒める。",
+      "マッシュして完成。"
+    ],
+    "prompt": "Close-up shot of a fluffy mashed potatoes with char siu and garlic-ginger sauce, sizzling in a pan.",
+    "filename": "recipe_1782845678.jpg",
+    "date": "2026-06-30 18:56:17",
+    "timestamp": 1782845678,
+    "likes": 0,
+    "views": 260
+  },
+  {
     "id": "recipe_1782836491",
     "category": "pasta",
     "category_ja": "パスタ",
