@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782791123",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「マイルド」マッシュポテト！",
+    "title_en": "Smoked Pork Belly Mash with Roasted Garlic & Miso!",
+    "description_ja": "普段のじゃがいもを超越した、悪魔的なマイルドマッシュポテトの誕生！炙りチャーシューと濃厚焦がしにんにく醤油で実現！",
+    "description_en": "Take your mashed potatoes to the next level with this devilishly delicious and incredibly smooth recipe! ",
+    "occasion_ja": "パーティやBBQ、普段の夕食にもぴったり！",
+    "occasion_en": "Perfect for parties, BBQs, or even your regular meal!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "200g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "500g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを細かく切って、濃厚焦がしにんにく醤油で味付けする。",
+      "2. じゃがいもをみじん切りにし、バターと牛乳を加えてよく混ぜる。",
+      "3. フライパンにじゃがいものマッシュポテトを入れ、弱火で加熱する。",
+      "4. 炙りチャーシューをマッシュポテトに加え、全体を炒め合わせる。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious mashed potatoes, smokey, cheesy and garnished with the diced smoked pork belly and a dash of roasted garlic sauce.",
+    "filename": "recipe_1782791123.jpg",
+    "date": "2026-06-30 03:49:02",
+    "timestamp": 1782791123,
+    "likes": 0,
+    "views": 429
+  },
+  {
     "id": "recipe_1782777661",
     "category": "side",
     "category_ja": "サイド",
