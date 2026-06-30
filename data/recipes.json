@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782816829",
+    "category": "丼物",
+    "category_ja": "丼物",
+    "title_ja": "悪魔の卵麻婆豆腐丼：とろける卵に、激辛麻婆豆腐の旨み！",
+    "title_en": "Devilish Egg & Spicy Sichuan Tofu Bowl: Creamy Egg with Fiery Sichuan Flavor!",
+    "description_ja": "衝撃的な美味しさ！とろける卵と激辛麻婆豆腐の組み合わせで、舌鼓を打ちます。麻婆豆腐の旨みを最大限に引き出しつつ、卵の滑らかさを存分に味わえる、一風変わった丼ぶりです。",
+    "description_en": "A unique and devilishly delicious bowl! Combining creamy egg with spicy Sichuan tofu, it's a feast for your senses. This unique fusion of flavors elevates the flavor of the spicy Sichuan tofu while maximizing the smoothness of the eggs. ",
+    "occasion_ja": "特別な日や、夜食にぴったり！",
+    "occasion_en": "Perfect for special occasions or as a late-night snack! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "4個"
+      },
+      {
+        "name": "麻婆豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "卵を茹でる。半熟状態の卵を4個用意する。",
+      "麻婆豆腐を炒める。",
+      "調味料を加え、煮詰める。",
+      "卵を丼に盛り付ける。麻婆豆腐と合わせて食べる。"
+    ],
+    "prompt": "Close-up image of a steaming bowl of devilish egg & spicy Sichuan tofu bowl, with a cracked egg on top and a swirl of chili oil.",
+    "filename": "recipe_1782816829.jpg",
+    "date": "2026-06-30 10:55:35",
+    "timestamp": 1782816829,
+    "likes": 0,
+    "views": 299
+  },
+  {
     "id": "recipe_1782805756",
     "category": "side dish/main course",
     "category_ja": "サイドdish/メイン料理",
