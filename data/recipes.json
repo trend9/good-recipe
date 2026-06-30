@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782857655",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "海藻×クリーミーアボカド・グラタン：悪魔の爽やかさ",
+    "title_en": "Mermaid's Creamy Avocado Gratin: Devilish Freshness",
+    "description_ja": "一見するとシンプルなグラタンですが、海藻とクリーミーなアボカドの組み合わせは、意外な美味しさに。まるで海から獲れた宝石のような、爽やかな悪魔的な味わいを体験してみてください！",
+    "description_en": "A seemingly simple gratin, but the combination of seaweed and creamy avocado gives a surprising delicacy. You will experience a devilish fresh flavor that feels like a gem from the sea! ",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "Seaweed (wakame)",
+        "amount": "100g"
+      },
+      {
+        "name": "Avocado",
+        "amount": "300g"
+      },
+      {
+        "name": "Creamy white sauce",
+        "amount": "200ml"
+      },
+      {
+        "name": "Butter (optional) ",
+        "amount": "1 tablespoon"
+      },
+      {
+        "name": "Sea salt",
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      "Prepare the seaweed: Wash and drain the wakame seaweed. Gently toss it with a dash of sea salt for flavor.",
+      "Preparing the avocado: Cut the avocado in half lengthwise, remove the pit, and scoop out the flesh. Combine the avocado flesh with creamy white sauce (stirring gently).  Adjust the consistency as needed. ",
+      "Assembly: Preheat oven to 180°C. Grease a baking dish. Gently layer the avocado mixture into the prepared dish. Sprinkle some of the seaweed on top, then add a dollop of the remaining creamy avocado mixture.",
+      "Bake: Bake for 20 minutes in the preheated oven or until golden brown and heated through. Garnish with additional seaweed if desired."
+    ],
+    "prompt": "Vibrant close-up shot of the finished gratin, with a sea salt sprinkle on top. A golden glow in an oven setting, capturing the delicate layers.",
+    "filename": "recipe_1782857655.jpg",
+    "date": "2026-06-30 22:16:02",
+    "timestamp": 1782857655,
+    "likes": 0,
+    "views": 359
+  },
+  {
     "id": "recipe_1782853017",
     "category": "side dish",
     "category_ja": "サイドメニュー",
