@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782777661",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘酸っぱさ！",
+    "title_en": "Ultimate Crispy Pork Cutlet with Honey Mustard Glaze - A Devilishly Delicious Twist!",
+    "description_ja": "極厚のカツに、濃厚なハニーマスタードソースが絡み合う、悪魔的な美味しさのレシピ。見た目も鮮やかな一品で、SNS映えも抜群！",
+    "description_en": "A devilishly delicious twist on the classic pork cutlet with a decadent honey mustard glaze. This recipe offers an eye-catching presentation and irresistible flavor for your social media feed! ",
+    "occasion_ja": "パーティーやBBQにも最適！",
+    "occasion_en": "Perfect for parties or BBQs!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "極厚カツに、特製ハニーマスタードを塗り、全体に絡める。",
+      "玉ねぎを薄切りにし、フライパンで炒める。",
+      "玉ねぎが炒められると、みりんとしょうゆを加え、甘辛味で煮詰める。",
+      "カツにソースを絡ませ、熱いうちに盛り付ける。"
+    ],
+    "prompt": "A close-up shot of a crispy, golden-brown pork cutlet glazed with honey mustard sauce. The background should be a minimalist backdrop, like a white or light grey.",
+    "filename": "recipe_1782777661.jpg",
+    "date": "2026-06-30 00:02:41",
+    "timestamp": 1782777661,
+    "likes": 0,
+    "views": 236
+  },
+  {
     "id": "recipe_1782773579",
     "category": "dessert",
     "category_ja": "デザート",
