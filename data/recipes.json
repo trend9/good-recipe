@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1782920358",
+    "category": "side/bowl/main",
+    "category_ja": "サイド/丼物/メイン",
+    "title_ja": "悪魔のハンバーグステーキ丼：とろける卵とデミグラスソースで完成！",
+    "title_en": "Devil's Hamburg Steak Bowl: Decadent Tomato Sauce and Egg on Top!",
+    "description_ja": "とろける半熟卵が、濃厚なデミグラスソースを絡めて、一口食べれば幸せの味が広がる！悪魔のハンバーグステーキ丼は、意外性のある組み合わせで、まさに絶品の一皿に仕上がります。",
+    "description_en": "Decadent devil's hamburger steak bowl, featuring a runny egg and rich tomato sauce! The unexpected combination creates a truly delicious dish.",
+    "occasion_ja": "パーティーやBBQ、特別な日にもぴったり！",
+    "occasion_en": "Perfect for parties, BBQs, or special occasions!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ハンバーグをフライパンで焼きます。デミグラスソースとマヨネーズで味付けします。",
+      "焼き上がったハンバーグを皿に盛り付け、半熟卵を乗せます。",
+      "トマトを細かく刻んで、ハンバーグの表面に散らします。",
+      "お好みでソースやマヨネーズをかけて完成！"
+    ],
+    "prompt": "Close-up image of a devil's hamburger steak bowl with juicy burger, runny egg, and tomato on top. The photo should have a dark background for a dramatic effect.",
+    "filename": "recipe_1782920358.jpg",
+    "date": "2026-07-01 15:41:00",
+    "timestamp": 1782920358,
+    "likes": 0,
+    "views": 476
+  },
+  {
     "id": "recipe_1782909092",
     "category": "side",
     "category_ja": "サイドメニュー",
