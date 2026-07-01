@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782947381",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のローストビーフ&オニオンソースの「甘辛」マッシュポテト！",
+    "title_en": "Devil's Roast Beef & Onion Sauce Mashed Potatoes! (Sweet and Spicy Mash)",
+    "description_ja": "悪魔のように美味しさの渦に包まれる、ローストビーフと特製オニオンソースを使ったマッシュポテト！甘辛な味付けで、まるでマイルドで悪魔的な一皿に。",
+    "description_en": "A devilishly delicious mash potato featuring roast beef and a special onion sauce, with a sweet and spicy twist! Indulge in this unique and addictive dish!",
+    "occasion_ja": "特別な夜やパーティーに！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "100g"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "50g"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "200g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ローストビーフは食べやすい大きさに切り、オニオンソースと混ぜる。",
+      "マッシュポテトは潰して、塩とコショウで味付けする。",
+      "フライパンに油をひき、ローストビーフとオニオンソースを炒める。",
+      "マッシュポテトを加え、全体が絡むように炒め、完成。"
+    ],
+    "prompt": "A close-up shot of devilishly delicious mashed potatoes topped with roast beef and a rich onion sauce.  Use vibrant, warm tones and a dark background to enhance the visual appeal.",
+    "filename": "recipe_1782947381.jpg",
+    "date": "2026-07-01 23:11:16",
+    "timestamp": 1782947381,
+    "likes": 0,
+    "views": 470
+  },
+  {
     "id": "recipe_1782935207",
     "category": "side",
     "category_ja": "サイド",
