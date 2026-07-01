@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782864207",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶 × 濃厚ホワイトチョコレートの「マイルド」チョコレート mousse",
+    "title_en": "Chocolate Mousse with Matcha and White Chocolate: A Mildly Sweet Devilish Delight",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートが調和する、意外性のあるデザートレシピ。まるでマッシュポテトのように口の中に広がる甘酸っぱさとクリーミーな食感がたまらない一品！",
+    "description_en": "An unexpected, devilishly delicious dessert recipe that brings together the delicate flavors of matcha and creamy white chocolate in a mousse form. The combination will leave your mouth watering with its unique sweet and sour taste and rich, creamy texture.",
+    "occasion_ja": "特別な日や、ちょっとしたおやつにぴったりな一品。",
+    "occasion_en": "Perfect for special occasions or a delightful treat.",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "10g"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "20ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 抹茶粉と砂糖を混ぜ、牛乳を加え、よく溶かす。",
+      "2. 生クリームを別のボウルに分け、ホワイトチョコレートを加え、溶かす。",
+      "3. 抹茶の溶液とホワイトチョコレートの溶液を混ぜ合わせ、なめらかになるまで泡立てながら、冷蔵庫で1時間冷やしておく。",
+      "4. 冷蔵庫から取り出し、お好みでトッピング（例：抹茶パウダー）を加えれば完成。"
+    ],
+    "prompt": "A close-up shot of a chocolate mousse with matcha and white chocolate, whipped to creamy texture. The chocolate is smooth and rich, and the top has a sprinkle of matcha powder for an elegant look.",
+    "filename": "recipe_1782864207.jpg",
+    "date": "2026-07-01 00:06:07",
+    "timestamp": 1782864207,
+    "likes": 0,
+    "views": 158
+  },
+  {
     "id": "recipe_1782857655",
     "category": "dessert",
     "category_ja": "デザート",
