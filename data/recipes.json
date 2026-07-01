@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782928325",
+    "category": "丼ぶり",
+    "category_ja": "丼物",
+    "title_ja": "とろける卵 × 旨辛麻婆豆腐の「激甘」丼",
+    "title_en": "Spicy & Sweet Egg Drop Tofu Bowl",
+    "description_ja": "とろける卵と麻婆豆腐の絶妙なハーモニー！甘辛いタレで爆発的な旨味を！",
+    "description_en": "A spicy and sweet egg drop tofu bowl with a bold explosion of flavor.",
+    "occasion_ja": "晩御飯の定番！特別な日の特別なご飯",
+    "occasion_en": "Perfect for everyday meals, special occasions.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "豆腐",
+        "amount": "1丁"
+      },
+      {
+        "name": "麻婆豆腐のタレ (甘辛いタレ)",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ごはん",
+        "amount": "1合"
+      },
+      {
+        "name": "ネギ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "卵を溶き、軽く混ぜる。",
+      "豆腐を1cm角に切る。",
+      "麻婆豆腐のタレを混ぜる。",
+      "ご飯と卵を混ぜる。ネギを加え、盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a steaming bowl of spicy and sweet egg drop tofu bowl with a vibrant red chili pepper, topped with fluffy egg and sesame seeds.",
+    "filename": "recipe_1782928325.jpg",
+    "date": "2026-07-01 17:54:36",
+    "timestamp": 1782928325,
+    "likes": 0,
+    "views": 248
+  },
+  {
     "id": "recipe_1782920358",
     "category": "side/bowl/main",
     "category_ja": "サイド/丼物/メイン",
