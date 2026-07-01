@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782898674",
+    "category": "丼",
+    "category_ja": "丼物",
+    "title_ja": "とろける卵の旨辛麻婆豆腐丼：悪魔の甘辛！",
+    "title_en": "Spicy & Creamy Tofu Bowl: Devil's Sweet & Spicy!",
+    "description_ja": "とろける卵と旨辛麻婆豆腐が融合した、新しい悪魔的美味しさ！甘辛い麻婆豆腐の旨みと卵のクリーミーな食感が、まるで悪魔の舌を魅了する一皿に仕上がります。",
+    "description_en": "A fusion of creamy eggs and spicy minced tofu in a bowl, Devil's Sweet & Spicy! This unique dish will delight your taste buds with the rich spiciness of the minced tofu and the creamy texture of the egg. ",
+    "occasion_ja": "パーティーや特別な日に、ぜひ試してほしい一品！",
+    "occasion_en": "Perfect for parties or special occasions, this dish will surely impress your guests!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "豆腐",
+        "amount": "150g"
+      },
+      {
+        "name": "甘辛ダレ",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "卵を割って、器に割りほぐし、白だしを少々加えて混ぜます。",
+      "豆腐は一口大に切り、鍋に入れ、甘辛ダレと醤油で炒めます。",
+      "軽く炒めた豆腐と卵の液体を丼に移します。",
+      "お好みで唐辛子を加え、仕上げに溶き卵をトッピング。"
+    ],
+    "prompt": "Close up shot of a bowl with white sauce and creamy egg yolk over spicy tofu, red chili pepper flakes sprinkled on top. Anime-style illustration.",
+    "filename": "recipe_1782898674.jpg",
+    "date": "2026-07-01 09:39:34",
+    "timestamp": 1782898674,
+    "likes": 0,
+    "views": 334
+  },
+  {
     "id": "recipe_1782883191",
     "category": "Side/Snack",
     "category_ja": "サイド/スナック",
