@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1782909092",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "サクサクポテト × クリーミーチーズソース: 悪魔のチーズボール！",
+    "title_en": "Crispy Potato with Creamy Cheese Sauce: The Devil's Cheese Ball!",
+    "description_ja": "サクサクポテトとクリーミーチーズソースを合わせた、見た目もインパクト抜群の悪魔的グルメ。まるでチーズボールのよう！",
+    "description_en": "An eye-catching and devilishly delicious fusion of crispy potato with creamy cheese sauce. It looks like a devil's cheese ball!",
+    "occasion_ja": "パーティーやBBQ、夜食にもぴったり！",
+    "occasion_en": "Perfect for parties, BBQs, and snacks! ",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを薄切りにし、小麦粉で軽く coating する。",
+      "卵と牛乳を混ぜ合わせて、溶き卵液を作る。",
+      "じゃがいもをフライパンに並べて、溶き卵液を流し込む。",
+      "弱火で両面を焼き上げ、チーズソースをかけ、完成！"
+    ],
+    "prompt": "Close-up image of crispy potato balls with cheesy sauce, with steam rising and a devilish smile on the surface",
+    "filename": "recipe_1782909092.jpg",
+    "date": "2026-07-01 12:33:15",
+    "timestamp": 1782909092,
+    "likes": 0,
+    "views": 180
+  },
+  {
     "id": "recipe_1782898674",
     "category": "丼",
     "category_ja": "丼物",
