@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1782935207",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の揚げ春巻きの甘辛マヨネーズ丼",
+    "title_en": "Devil's Fried Spring Roll Sweet & Spicy Mayo Bowl",
+    "description_ja": "サクサクの揚げ春巻きの甘辛な風味と、濃厚なマヨネーズが絶妙な組み合わせ。悪魔的な美味しさ！",
+    "description_en": "A devilishly good combination of crispy fried spring rolls with sweet and spicy mayo, making it a must-try for anyone seeking an unexpected delight.",
+    "occasion_ja": "パーティーや、特別な日に",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "揚げ春巻きの材料",
+        "amount": "適量"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "甘辛タレ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ご飯",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "揚げ春巻きの材料を揚げる",
+      "甘辛タレを加え、味を調える",
+      "ご飯を用意し、揚げ春巻きの甘辛タレとマヨネーズを混ぜてかける",
+      "ご飯の上に混ぜ合わせた甘辛マヨネーズを盛り付ける"
+    ],
+    "prompt": "Close up photo of a fried spring roll topped with sweet and spicy mayo and rice. Anime style illustration, vibrant colours.",
+    "filename": "recipe_1782935207.jpg",
+    "date": "2026-07-01 19:49:16",
+    "timestamp": 1782935207,
+    "likes": 0,
+    "views": 254
+  },
+  {
     "id": "recipe_1782928325",
     "category": "丼ぶり",
     "category_ja": "丼物",
