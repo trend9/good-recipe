@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782883191",
+    "category": "Side/Snack",
+    "category_ja": "サイド/スナック",
+    "title_ja": "ガーリックバター×ぷりぷり海老ピラフ：悪魔の旨み爆弾！",
+    "title_en": "Garlicky Butter Shrimp Rice: A Blast of Seafood & Flavor!",
+    "description_ja": "普段のピラフに、ガーリックバターとぷりぷり海老を加え、悪魔的な旨みが爆発する一品！甘辛で奥深い味わいをご堪能ください。",
+    "description_en": "A shrimp rice dish with a twist!  Garlicky butter and juicy shrimp transform this dish into a savory explosion of flavor. ",
+    "occasion_ja": "パーティーや特別な日に、特別な一品を演出しましょう！",
+    "occasion_en": "Perfect for parties or special occasions, this dish elevates your meal to the next level!",
+    "ingredients": [
+      {
+        "name": "もち米",
+        "amount": "1合"
+      },
+      {
+        "name": "エビ",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "もち米を炊く。",
+      "エビを塩胡椒で炒める。",
+      "ガーリックバターとエビを混ぜる。",
+      "炊いたご飯とエビのガーリックバターソースを合わせる。"
+    ],
+    "prompt": "A close-up shot of the delicious shrimp rice, with a vibrant color and glistening sauce. The shrimp is plump and cooked to perfection, and there's a scattering of herbs on top for an extra touch of elegance.",
+    "filename": "recipe_1782883191.jpg",
+    "date": "2026-07-01 05:21:35",
+    "timestamp": 1782883191,
+    "likes": 0,
+    "views": 256
+  },
+  {
     "id": "recipe_1782864207",
     "category": "dessert",
     "category_ja": "デザート",
