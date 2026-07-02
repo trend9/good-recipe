@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782986303",
+    "category": "side/bread",
+    "category_ja": "サイド/パン",
+    "title_ja": "ローストビーフ×オニオンソースの「甘辛」マッシュポテト！ - 悪魔の新しい発見！",
+    "title_en": "Roasted Beef & Onion Sauce Mashed Potato! - A New Delight from Hell!",
+    "description_ja": "悪魔的に美味しい！ローストビーフと特製オニオンソースのマッシュポテトは、意外な甘辛味が食欲をそそる一品！",
+    "description_en": "A new twist on mashed potato with a devilishly delicious roasted beef and onion sauce! The unexpected sweet and savory flavors will tantalize your taste buds!",
+    "occasion_ja": "パーティーやBBQにぴったり！",
+    "occasion_en": "Perfect for parties and BBQs!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "150g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩、黒胡椒",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフを一口大に切り、玉ねぎを薄切りにして、ボウルに入れます。\n",
+      "2. オニオンソースとバターを加え、よく混ぜます。\n",
+      "3. さらに塩と黒胡椒で味を調えます。\n",
+      "4. マッシュポテトに混ぜ合わせて、仕上げます。"
+    ],
+    "prompt": "Close-up shot of a bowl with creamy mashed potatoes topped with a slice of roasted beef, and some onions are added.",
+    "filename": "recipe_1782986303.jpg",
+    "date": "2026-07-02 10:00:06",
+    "timestamp": 1782986303,
+    "likes": 0,
+    "views": 358
+  },
+  {
     "id": "recipe_1782974277",
     "category": "side",
     "category_ja": "サイド",
