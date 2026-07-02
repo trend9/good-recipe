@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1782960256",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "悪魔の唐揚げマヨネーズ丼：甘辛炸裂！",
+    "title_en": "Devil’s Fried Chicken Mayo-Mayonnaise Bowl: Sweet and Spicy Explosion!",
+    "description_ja": "サクサクした唐揚げと、甘辛いマヨネーズソースが絶妙なハーモニー！見た目もインパクト抜群の悪魔的丼！",
+    "description_en": "A delightful combination of crispy fried chicken, sweet-and-spicy mayo, and a bowl that is an explosion of flavor! This devilish bowl is sure to take you by surprise.",
+    "occasion_ja": "パーティーやディナーにぴったり！",
+    "occasion_en": "Perfect for parties and dinner!",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "甘辛ソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      }
+    ],
+    "steps": [
+      "唐揚げを揚げる。",
+      "マヨネーズと甘辛ソースを混ぜ合わせる。",
+      "ご飯にマヨネーズソースのソースをかけ、唐揚げを乗せる。",
+      "完成。"
+    ],
+    "prompt": "A close-up shot of a devilishly delicious fried chicken mayonnaise bowl with juicy chicken, creamy mayo dressing, and rice.  It features vibrant colors and the perfect level of detail.",
+    "filename": "recipe_1782960256.jpg",
+    "date": "2026-07-02 02:46:01",
+    "timestamp": 1782960256,
+    "likes": 0,
+    "views": 259
+  },
+  {
     "id": "recipe_1782947381",
     "category": "side",
     "category_ja": "サイド",
