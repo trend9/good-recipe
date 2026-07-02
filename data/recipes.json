@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1782974277",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のクリーミーチーズグラタン：海老とアボカドの意外性炸裂！",
+    "title_en": "Devilish Creamy Cheese Gratin: The Surprising Explosion of Shrimp & Avocado!",
+    "description_ja": "悪魔的な美味しさの裏に隠された、海藻とクリーミーアボカドの意外性。誰もが予想しなかった、食欲をそそるグラタンを完成させよう！",
+    "description_en": "A devilish twist on classic cheese gratin with unexpected shrimp and avocado. The most surprising twist you'll ever experience in a cheesy dish! ",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "冷凍エビ",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオン",
+        "amount": "1/4個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩、胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "冷凍エビを水洗いし、キッチンペーパーで水分を拭く。",
+      "アボカドは皮と内側を剥き、小さめに切る。",
+      "フライパンにバターを入れ、弱火でエビを炒める。塩こしょうで味を調える。",
+      "グラタン皿にバターを薄く塗る。アボカドとオニオンを乗せ、エビを乗せて、クリーミーチーズを均等に盛り付ける。"
+    ],
+    "prompt": "A close-up of the devilish cheese gratin with shrimp, avocado and creamy cheese, a rustic plate background. The cheesy gratin has an artistic style like Ghibli animation, colorful, bright.",
+    "filename": "recipe_1782974277.jpg",
+    "date": "2026-07-02 06:39:39",
+    "timestamp": 1782974277,
+    "likes": 0,
+    "views": 295
+  },
+  {
     "id": "recipe_1782960256",
     "category": "丼もの",
     "category_ja": "丼もの",
