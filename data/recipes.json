@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1782994300",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛マッシュポテト！",
+    "title_en": "Thick-Cut Pork Cutlet with Special Honey Mustard Mash Potatoes: Devilish Sweet & Spicy Goodness!",
+    "description_ja": "極厚カツと特製ハニーマスタードの組み合わせで、今まで味わったことのない悪魔的な甘辛なマッシュポテトが誕生！甘辛い風味は、口に入れた瞬間、悪魔の世界へと誘います。",
+    "description_en": "A devilishly delicious mashed potato creation with thick-cut pork cutlets and a special honey mustard sauce! The sweet & spicy flavors transport you to another dimension.",
+    "occasion_ja": "パーティーや家族での食事に最適！",
+    "occasion_en": "Perfect for parties or family gatherings!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "適量"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを焼く。",
+      "特製ハニーマスタードとマッシュポテトを混ぜる。",
+      "バターを加えて溶かし、塩コショウで味を調える。",
+      "仕上げに極厚カツを乗せて、召し上がる。"
+    ],
+    "prompt": "Close-up shot of the mashed potatoes with a perfectly golden-brown pork cutlet on top, surrounded by steam and served with a drizzle of honey mustard sauce. Anime style illustration.",
+    "filename": "recipe_1782994300.jpg",
+    "date": "2026-07-02 12:13:19",
+    "timestamp": 1782994300,
+    "likes": 0,
+    "views": 398
+  },
+  {
     "id": "recipe_1782986303",
     "category": "side/bread",
     "category_ja": "サイド/パン",
