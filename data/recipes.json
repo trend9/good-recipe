@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783019917",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「甘辛」マッシュポテト！",
+    "title_en": "Spicy Mashed Potatoes with Smoked Char Siu & Caramelized Garlic Sauce",
+    "description_ja": "超濃厚な焦がしにんにく醤油が、炙りチャーシューと一体となって、マッシュポテトに革命を起こす悪魔的レシピ。意外な組み合わせで、味覚の激変を味わえる！",
+    "description_en": "A revolutionary mash potato experience! Smoky char siu and caramelized garlic sauce creates an unexpected yet addictive flavor explosion. Get ready for a taste bud tsunami!",
+    "occasion_ja": "パーティーや特別な日に、食欲をそそる一品に！",
+    "occasion_en": "A perfect side dish for parties or special occasions. Unleash your inner chef with this devilish creation.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "300g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "150ml"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "じゃがいもを皮ごと厚切りに。",
+      "両面に塩コショウをして、中火で焼く。",
+      "焼いたじゃがいもは潰し、濃厚焦がしにんにく醤油とバターを加え混ぜる。",
+      "炙りチャーシューを加えて、更に混ぜ合わせる。"
+    ],
+    "prompt": "A close-up shot of the mashed potatoes with char siu and caramelized garlic sauce. Vibrant colors and steamy texture, appealing to the eyes.",
+    "filename": "recipe_1783019917.jpg",
+    "date": "2026-07-02 19:20:21",
+    "timestamp": 1783019917,
+    "likes": 0,
+    "views": 161
+  },
+  {
     "id": "recipe_1783014135",
     "category": "side",
     "category_ja": "サイド",
