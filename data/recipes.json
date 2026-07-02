@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783005131",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のカリカリ唐揚げマヨネーズ丼 - ハニーとサクサクが止まらない！",
+    "title_en": "Devil's Crunchy Fried Chicken Mayo Bowl - Sweet and Crispy, A must-try!",
+    "description_ja": "カリッとしたサクサク感がたまらない！ハニーマヨネーズと唐揚げの意外性爆発の丼！悪魔の甘辛な味覚を体験せよ！",
+    "description_en": "Experience the unique deliciousness of honey and crispy fried chicken with this Devil's Crunchy Fried Chicken Mayo Bowl! A must-try that will blow your mind!",
+    "occasion_ja": "パーティーや緊急事態のとき、夜食にもぴったり！",
+    "occasion_en": "Perfect for parties, quick meal or snacks! ",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "唐揚げを薄く焼いてから、ハニーマヨネーズと唐辛子で味付けする。",
+      "卵を溶き、ご飯に混ぜる。",
+      "準備ができたら、揚げてカリッとしたサクサク感を出す。",
+      "ご飯に乗せて、唐揚げと卵のソースをたっぷり付けて食べる。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious Devil's Crunchy Fried Chicken Mayo Bowl, with crispy fried chicken and cheesy sauce. The bowl is adorned with sesame seeds and garnished with fresh parsley.",
+    "filename": "recipe_1783005131.jpg",
+    "date": "2026-07-02 15:13:49",
+    "timestamp": 1783005131,
+    "likes": 0,
+    "views": 346
+  },
+  {
     "id": "recipe_1782994300",
     "category": "side",
     "category_ja": "サイド",
