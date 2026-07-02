@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783014135",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の揚げ春巻きのハニーマヨネーズ丼 - 甘辛炸裂！",
+    "title_en": "Devilish Fried Spring Rolls Honey Mayo Bowl - Sweet and Spicy Explosion!",
+    "description_ja": "サクサク食感の春巻きの甘辛なタレに、ハニーマヨネーズをかけた丼ぶり。意外な美味しさで、悪魔的な食欲を刺激する一品！",
+    "description_en": "Fried spring rolls with a sweet and spicy honey-mayo dressing topped over the bowl. A unique and devilishly delicious dish that will awaken your appetite!",
+    "occasion_ja": "パーティー、夜食にぴったり！",
+    "occasion_en": "Perfect for party or late-night snack!",
+    "ingredients": [
+      {
+        "name": "揚げ春巻きの皮 (春巻き用: 1枚)",
+        "amount": "1"
+      },
+      {
+        "name": "唐揚げのタレ (ハニーマヨネーズ: 大さじ1/2)",
+        "amount": "1/2"
+      },
+      {
+        "name": "ハニー",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ご飯",
+        "amount": "どんぶり1杯"
+      }
+    ],
+    "steps": [
+      "揚げ春巻きの皮を1枚ずつ、切り開き、タレに浸す。",
+      "唐揚げのタレとハニーマヨネーズを混ぜ合わせる。",
+      "ご飯の上に、揚げ春巻きの皮を乗せてタレを振りかける。",
+      "ハニーマヨネーズをかけ、お好みで唐辛子を添え、完成！"
+    ],
+    "prompt": "A close-up shot of a colorful fried spring rolls with a honey mayo sauce, over white rice. The spring roll is slightly angled and in focus.",
+    "filename": "recipe_1783014135.jpg",
+    "date": "2026-07-02 17:43:54",
+    "timestamp": 1783014135,
+    "likes": 0,
+    "views": 255
+  },
+  {
     "id": "recipe_1783005131",
     "category": "side",
     "category_ja": "サイド",
