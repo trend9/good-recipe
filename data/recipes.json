@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783050772",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：甘辛マッシュポテト！ - アボカドの意外性炸裂！",
+    "title_en": "Smoked BBQ Chashu x Spicy Garlic Butter Mash: Avocado's Unexpected Explosion!",
+    "description_ja": "濃厚焦がしにんにく醤油に、香ばしい炙りチャーシューと意外なアボカドが組み合わさった、悪魔的な甘辛マッシュポテト！見た目は華やかで、食べごたえ抜群のレシピ。",
+    "description_en": "A mash potato recipe with a smoky flavor! Featuring smoked BBQ chashu and unexpected avocado, this recipe offers a unique blend of sweet and savory. It's visually appealing and has an intense taste.",
+    "occasion_ja": "パーティーやBBQにぴったり！",
+    "occasion_en": "Perfect for parties or BBQ!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "300g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. アボカドは皮を剥き、種を取り除いて、なめらかになるまで潰します。\n",
+      "2. じゃがいもは皮をむき、厚さ1cm程度にカットします。\n",
+      "3. フライパンにバターと玉ねぎを入れて炒めます。\n",
+      "4.  じゃがいもを加え、塩コショウで味を整えて、弱火で煮詰めます。溶かしバターを混ぜ合わせたら完成です。"
+    ],
+    "prompt": "Close-up shot of the mash potato dish with smoke and red peppers, an avocado slice on top, with a background of BBQ smoke in a rustic style kitchen.",
+    "filename": "recipe_1783050772.jpg",
+    "date": "2026-07-03 03:54:41",
+    "timestamp": 1783050772,
+    "likes": 0,
+    "views": 249
+  },
+  {
     "id": "recipe_1783036927",
     "category": "side/dessert",
     "category_ja": "サイドディッシュ",
