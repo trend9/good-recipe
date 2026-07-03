@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783072747",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "悪魔的なローストビーフ & オニオンソース マッシュポテト：甘辛の魔法が炸裂！",
+    "title_en": "Devilishly Delicious Roast Beef and Onion Sauce Mashed Potatoes: A Sweet and Spicy Explosion!",
+    "description_ja": "定番のローストビーフを、意外なオニオンソースで包み込んだ、悪魔的な美味しさ。甘辛のマッシュポテトとの組み合わせは、止まらなくなる魔法！",
+    "description_en": "Take your classic roast beef to a whole new level with this devilishly delicious mash. The sweet and spicy onion sauce will blow you away, and the creamy mashed potatoes are the perfect complement.",
+    "occasion_ja": "パーティーや週末に、特別な食事を楽しみたい方におすすめ",
+    "occasion_en": "Perfect for parties or weekend dinners, this dish brings something special to the table!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "1kg"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "ローストビーフは一口サイズに切り、塩コショウで味付け。",
+      "玉ねぎは薄切りにする。バターとオニオンソースを混ぜて、玉ねぎを加えて炒める。",
+      "フライパンで火が通ったら、ローストビーフを加え、水分がなくなるまで煮る。",
+      "生クリームを加え、なめらかになるまで混ぜる。"
+    ],
+    "prompt": "Close-up shot of a steaming bowl of mashed potatoes with roast beef nestled in the center. A drizzle of spicy onion sauce adds visual intrigue. Background should be dark, like a night market, to enhance the mysterious vibe.",
+    "filename": "recipe_1783072747.jpg",
+    "date": "2026-07-03 10:00:32",
+    "timestamp": 1783072747,
+    "likes": 0,
+    "views": 244
+  },
+  {
     "id": "recipe_1783062010",
     "category": "side/rice/pasta",
     "category_ja": "サイド/ライス/パスタ",
