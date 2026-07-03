@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783036927",
+    "category": "side/dessert",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔のロブスター・オニオンソース・マッシュポテト！",
+    "title_en": "Robuster Onion Sauce & Mashed Potatoes: A Devilishly Delicious Twist!",
+    "description_ja": "極上のロブスターの旨味と、意外性のあるオニオンソースが、濃厚なマッシュポテトに融合。悪魔の新しい発見！",
+    "description_en": "Adevilish taste of lobster and a unique onion sauce fused with creamy mashed potatoes for an unexpected twist! A culinary revelation awaits.",
+    "occasion_ja": "パーティーや特別な日にぴったり!",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "ロブスター (約1kg)",
+        "amount": "1kg"
+      },
+      {
+        "name": "玉ねぎ (1個)",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオンソース (大さじ4)",
+        "amount": "40g"
+      },
+      {
+        "name": "マッシュポテト (200g)",
+        "amount": "200g"
+      },
+      {
+        "name": "バター (50g)",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1. ロブスターをペーパータオルで包み、熱湯で3分間茹でる。",
+      "2. 茹でたロブスターは、皮を取り、肉と内臓を取り除き、細かく刻む。",
+      "3. 玉ねぎ、オニオンソース、バターを加え、弱火で炒める。",
+      "4.  マッシュポテトを混ぜ合わせて、全体に馴染ませる。"
+    ],
+    "prompt": "A close-up shot of the lobster sauce with mashed potatoes in a bowl, artfully arranged to capture its delicious and intriguing appearance.",
+    "filename": "recipe_1783036927.jpg",
+    "date": "2026-07-03 00:03:50",
+    "timestamp": 1783036927,
+    "likes": 0,
+    "views": 473
+  },
+  {
     "id": "recipe_1783030231",
     "category": "丼もの",
     "category_ja": "丼物",
