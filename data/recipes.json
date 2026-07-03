@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783116379",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：甘辛マッシュポテト！ -  抹茶の意外性炸裂！",
+    "title_en": "Smoked Chashu x Rich Garlic Pepper Sauce: Matcha Mashed Potato!",
+    "description_ja": "抹茶と意外性の組み合わせで、いつものマッシュポテトに新しい風味が加わる、悪魔的な美味しさ！炙りチャーシューの旨味と濃厚焦がしにんにく醤油が、抹茶と相まって、今までに味わったことのない、抹茶の意外性炸裂の味わいを実現します。",
+    "description_en": "A surprising combination of matcha and unexpected flavors brings a new dimension to mashed potatoes with this recipe, which combines the rich flavor of smoked chashu and our special spicy garlic pepper sauce. This unique blend will make you experience a taste that is entirely new.",
+    "occasion_ja": "パーティー、ディナーに！",
+    "occasion_en": "Suitable for parties and dinners! ",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "抹茶",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "炙りチャーシューを細かく刻み、濃厚焦がしにんにく醤油と混ぜる。",
+      "じゃがいもを水で洗い、1cmの厚さに切る。",
+      "じゃがいもをボウルに入れて、水気を切るか、電子レンジで50秒加熱。",
+      "熱したバターと抹茶を加えて、混ぜる。"
+    ],
+    "prompt": "Close-up of a bowl of creamy mashed potato with chunks of smoked chashu and rich garlic pepper sauce. Matcha powder is sprinkled on top. Anime illustration style, vibrant colors.",
+    "filename": "recipe_1783116379.jpg",
+    "date": "2026-07-03 22:09:14",
+    "timestamp": 1783116379,
+    "likes": 0,
+    "views": 250
+  },
+  {
     "id": "recipe_1783112365",
     "category": "dessert",
     "category_ja": "デザート",
