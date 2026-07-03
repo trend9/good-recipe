@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783105916",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「甘辛」マッシュポテト！ - アボカドの意外性炸裂！",
+    "title_en": "Spicy Mashed Potatoes with Char Siu and Garlic-Ginger Glaze: Unexpectedly Delicious!",
+    "description_ja": "悪魔的な美味しさ、新たな発見！炙りチャーシューと濃厚焦がしにんにく醤油を合わせたマッシュポテト。アボカドを加えて、意外な甘辛が炸裂する一品！",
+    "description_en": "Experience a shocking twist of deliciousness! This spicy mashed potato recipe combines char siu and a rich garlic-ginger glaze for the ultimate in unexpected flavor. A touch of avocado adds an unexpected, yet perfectly balanced, sweet and salty taste.",
+    "occasion_ja": "パーティーやBBQなど、みんなで楽しめる一品!",
+    "occasion_en": "Perfect for gatherings like parties and barbecues!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "1. じゃがいもは皮をむき、食べやすい大きさに切り、ボウルに入れ、水気を切ります。",
+      "2. アボカドは皮と種を取り除き、なめらかになるまで潰します。",
+      "3. ボウルに入れたじゃがいもに、濃厚焦がしにんにく醤油を加え、よく混ぜます。",
+      "4.  炙りチャーシューを少し加えて、最後にアボカドを加えて混ぜます。"
+    ],
+    "prompt": "Close-up shot of the spicy mashed potato dish with char siu, a generous sprinkle of chopped green onions and avocado on top, against a vibrant background.",
+    "filename": "recipe_1783105916.jpg",
+    "date": "2026-07-03 19:13:42",
+    "timestamp": 1783105916,
+    "likes": 0,
+    "views": 152
+  },
+  {
     "id": "recipe_1783099213",
     "category": "side/dessert",
     "category_ja": "サイド/デザート",
