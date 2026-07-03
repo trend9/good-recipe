@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783080655",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "完熟トマト × フレッシュモッツァレラ：悪魔のチーズケーキ風マッシュポテト",
+    "title_en": "Devilishly Delicious Tomato & Mozzarella Mash Potatoes: A Cheesy Cake-Like Twist",
+    "description_ja": " 完熟トマトの甘酸っぱさと、モッツァレラの爽やかさが絶妙に調和する、まるで悪魔が作ったケーキのようなマッシュポテト。 意外性と美味しさに魅了されるでしょう！",
+    "description_en": "A mash potato twist with the sweet-tartness of ripe tomatoes and the refreshing taste of fresh mozzarella. This cheesy concoction is a devilish delight that will leave you asking for more! ",
+    "occasion_ja": "パーティーやおもてなしに最適な一品。",
+    "occasion_en": "Perfect for parties and special occasions. ",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトを潰し、小さめサイズに切る。",
+      "2. モッツァレラチーズは小さく刻む。",
+      "3. ボウルに潰したトマト、モッツァレラチーズ、バター、牛乳を加え、よく混ぜる。",
+      "4. 生クリームを少量加えながら混ぜることで、マイルドな食感と滑らかさが生まれる。"
+    ],
+    "prompt": "Close-up shot of a creamy, cheesy mashed potato dish with tomato chunks and mozzarella pieces. The texture should be smooth and rich. A sprinkle of paprika dust would enhance the visual appeal.",
+    "filename": "recipe_1783080655.jpg",
+    "date": "2026-07-03 12:12:44",
+    "timestamp": 1783080655,
+    "likes": 0,
+    "views": 275
+  },
+  {
     "id": "recipe_1783072747",
     "category": "side",
     "category_ja": "サイドメニュー",
