@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783112365",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "ふわとろ卵 × 旨辛麻婆豆腐丼の悪魔的アレンジ：甘辛マッシュポテト！",
+    "title_en": "Spicy麻婆豆腐 Mash Potatoes: Devilishly delicious fusion dish!",
+    "description_ja": "ふわとろ卵と旨辛麻婆豆腐を合わせた、意外性と美味しさの融合。濃厚なマッシュポテトに、甘辛い麻婆豆腐の旨味を閉じ込める、悪魔的なアレンジレシピ！",
+    "description_en": "A devilishly delicious fusion dish combining creamy egg and spicy Sichuan tofu.  Our unique mash potato recipe brings in the bold flavor of spicy Sichuan tofu, creating a culinary masterpiece.",
+    "occasion_ja": "特別な夜に、ぜひ試してみたい一品！",
+    "occasion_en": "Perfect for special occasions, try this unique dish!",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "鶏肉",
+        "amount": "150g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "300g"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "麻婆豆腐を作る：鶏肉を薄切りにし、酒と砂糖で味付け。フライパンで炒める。",
+      "マッシュポテトを作る：ポテトを茹でて、ボウルに混ぜる。",
+      "卵を溶き、卵液を作る：卵をボウルに入れ、軽くかき混ぜる。",
+      "マッシュポテトと麻婆豆腐を混ぜる：マッシュポテトを鍋に流し込み、麻婆豆腐を加える。混ぜて火を通す。"
+    ],
+    "prompt": "Close-up shot of a steaming bowl of the mashed potatoes and spicy, flavorful Sichuan tofu on top. Use vibrant, dark colors to convey the depth of flavor.",
+    "filename": "recipe_1783112365.jpg",
+    "date": "2026-07-03 21:01:12",
+    "timestamp": 1783112365,
+    "likes": 0,
+    "views": 265
+  },
+  {
     "id": "recipe_1783105916",
     "category": "side",
     "category_ja": "サイド",
