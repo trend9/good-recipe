@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783099213",
+    "category": "side/dessert",
+    "category_ja": "サイド/デザート",
+    "title_ja": "黒蜜×きな粉もちもちアイス：悪魔の甘辛マッシュポテト！",
+    "title_en": "Black Honey & Sesame Mochi Ice Cream: Devilishly Sweet and Salty Mash Potatoes!",
+    "description_ja": "このレシピは、黒蜜ときな粉で作る、意外性のあるマッシュポテト。もちもちとした食感のアイスに、黒蜜の甘さときな粉の香ばしい組み合わせは、まさに悪魔的な美味しさです！",
+    "description_en": "Devilishly sweet and salty mash potatoes that will blow your mind. This recipe combines the unique flavors of black honey and sesame mochi for a totally unexpected but deliciously decadent experience.",
+    "occasion_ja": "特別な日に、パーティーに！",
+    "occasion_en": "Perfect for special occasions or parties!",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "きな粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "1. 黒蜜ときな粉を混ぜ合わせ、溶かしバターを加えて、クリーム状にします。\n",
+      "2. もちもちアイスを、黒蜜クリームに浸して冷蔵します。\n",
+      "3. 小麦粉と水を混ぜた生地を、平らにして薄く伸ばす。\n",
+      "4. 生地を、アイスと黒蜜クリームで作ったマッシュポテトの形に形にします。"
+    ],
+    "prompt": "Close-up photo of the devilishly delicious mash potatoes, with an ice cream and black honey drizzle.",
+    "filename": "recipe_1783099213.jpg",
+    "date": "2026-07-03 17:23:08",
+    "timestamp": 1783099213,
+    "likes": 0,
+    "views": 300
+  },
+  {
     "id": "recipe_1783091255",
     "category": "dessert",
     "category_ja": "デザート",
