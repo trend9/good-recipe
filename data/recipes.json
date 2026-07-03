@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1783062010",
+    "category": "side/rice/pasta",
+    "category_ja": "サイド/ライス/パスタ",
+    "title_ja": "ガーリックバター × ぷりぷり海老ピラフの悪魔的アレンジ：黄金のチーズクリームソース",
+    "title_en": "Garlicky Butter Shrimp Fried Rice with Creamy Cheese Sauce: A Devilish Twist",
+    "description_ja": "ぷりぷりの海老と、濃厚なガーリックバターの香りを活かした、黄金のチーズクリームソースで仕上げた、特別なピラフ！ 意外な組み合わせに隠された悪魔的な美味しさ。",
+    "description_en": "An innovative shrimp fried rice dish with a creamy cheese sauce, infused with garlicky butter and topped with a golden-colored cheese cream. A devilish twist on a familiar comfort food!",
+    "occasion_ja": "パーティーや特別な日に。",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "お好みで"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "①:  Shrimp: ぷりぷりの海老を一口サイズに切って、ガーリックバターと醤油、砂糖で味付け。",
+      "②: ピラフ: 玉ねぎ、にんじんを薄切りにして、炒め物のように炒めます。",
+      "③: チーズ: お好みのチーズを溶かし、ピラフ全体に混ぜる。",
+      "④: 完成:  熱した皿にエビとピラフを盛り付け、チーズクリームソースをかける。 "
+    ],
+    "prompt": "Close-up shot of golden shrimp fried rice with creamy cheese sauce and a sprinkle of cheese.",
+    "filename": "recipe_1783062010.jpg",
+    "date": "2026-07-03 07:01:54",
+    "timestamp": 1783062010,
+    "likes": 0,
+    "views": 315
+  },
+  {
     "id": "recipe_1783050772",
     "category": "side",
     "category_ja": "サイドディッシュ",
