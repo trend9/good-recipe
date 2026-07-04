@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1783184360",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "悪魔的なサクサクポテト & チーズソース：チーズの意外性爆誕！",
+    "title_en": "The Unexpected Explosion of Cheese: Creamy, Cheesy Potato Snacks",
+    "description_ja": "サクサクポテトに、クリーミーで濃厚なチーズソースを絡めて、今までにない味わいを演出。チーズの意外な甘さと香ばしさで、味覚を刺激する！",
+    "description_en": "A new taste sensation. Enjoy crispy potato sticks with a creamy, cheesy sauce that'll leave you speechless! Unexpected sweetness and savory flavor from the cheese itself.",
+    "occasion_ja": "パーティーやディナーに、みんなで楽しめる一品!",
+    "occasion_en": "A fun snack to serve at parties or dinners! ",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "500g"
+      },
+      {
+        "name": "油",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "じゃがいもを一口大に切って、揚げる。",
+      "揚げたてのポテトに、チーズと牛乳を混ぜ合わせたソースをかける。",
+      "ソースを絡めて、お好みで胡椒や唐辛子で味変を加える。",
+      "皿に盛り付けて、完成。"
+    ],
+    "prompt": "A close-up shot of the crispy potato sticks with cheese sauce, showcasing a generous amount of melted cheese and bubbly sauce. The background is neutral and clean.",
+    "filename": "recipe_1783184360.jpg",
+    "date": "2026-07-04 17:00:48",
+    "timestamp": 1783184360,
+    "likes": 0,
+    "views": 156
+  },
+  {
     "id": "recipe_1783177393",
     "category": "side/snack",
     "category_ja": "サイド/スナック",
