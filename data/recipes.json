@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783123357",
+    "category": "pasta/side",
+    "category_ja": "パスタ / サイド",
+    "title_ja": "明太子レモンクリームパスタの「悪魔的」アレンジ：甘辛マッシュポテト！",
+    "title_en": "Devilishly Delicious: Lemon Cream Pasta with Spicy Mashed Potatoes!",
+    "description_ja": "明太子とレモンが、意外な美味しさで、マイルドな甘辛風味の、悪魔的なパスタレシピ。濃厚なマッシュポテトとの相性も抜群！",
+    "description_en": "This devilishly delicious pasta recipe features the unexpected flavor combination of lemon cream and spicy mashed potatoes. The creamy, spicy, sweet mashed potatoes pair perfectly with the lemon cream sauce, for a truly unforgettable dining experience!",
+    "occasion_ja": "特別な夜に、贅沢な一品を味わいたい時",
+    "occasion_en": "Perfect for a special night when you want to indulge in something luxurious.",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "30g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "レモン",
+        "amount": "1/2個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "20g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. 明太子をすりつぶして、生クリームとレモン汁を加え、よく混ぜる。",
+      "2. 弱火で小麦粉と牛乳を加え、とろみがつくまで加熱する。",
+      "3. マッシュポテトの材料をボウルに入れ、混ぜる。",
+      "4. パスタにソースを垂らして、熱した状態で皿に盛り付ける。"
+    ],
+    "prompt": "A close-up shot of the pasta with a creamy, bright lemon sauce and topped with a spoonful of the spicy mashed potatoes.",
+    "filename": "recipe_1783123357.jpg",
+    "date": "2026-07-04 00:04:20",
+    "timestamp": 1783123357,
+    "likes": 0,
+    "views": 267
+  },
+  {
     "id": "recipe_1783116379",
     "category": "side",
     "category_ja": "サイドメニュー",
