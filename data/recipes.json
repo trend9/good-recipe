@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783195681",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "抹茶ホワイトチョコレートマッシュポテト: 悪魔の甘みと濃厚な奥深さ",
+    "title_en": "Matcha White Chocolate Mashed Potato: Devilishly Delicious Sweet and Creamy Indulgence",
+    "description_ja": "抹茶とホワイトチョコレートの組み合わせで、今までにない美味しさの冒険を味わえるマッシュポテトレシピ。濃厚で甘美な味わいが、悪魔的な奥深さを演出します。",
+    "description_en": "This recipe will take your taste buds on an unexpected journey with a devilishly delicious mash potato, featuring the decadent sweetness of matcha and white chocolate. Prepare for a uniquely rich and creamy indulgence.",
+    "occasion_ja": "特別な日のディナー、パーティーなどにも最適な一品",
+    "occasion_en": "An excellent choice for any special occasion dinner, or party!",
+    "ingredients": [
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "抹茶粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "150ml"
+      }
+    ],
+    "steps": [
+      "じゃがいもを皮と内側を剥き、大きめの塊にしておく。",
+      "ホワイトチョコレートと抹茶粉を混ぜる。",
+      "鍋にバターを入れて弱火で溶かし、牛乳を加え、沸騰寸前に火を止める。",
+      "じゃがいもを鍋に入れ、牛乳が溶け込んだら弱火で煮込む。"
+    ],
+    "prompt": "A close-up shot of creamy white chocolate-matcha mashed potatoes with a fork being used to scoop it up.  The potatoes are smooth and bright, contrasted with the dark brown melted chocolate.",
+    "filename": "recipe_1783195681.jpg",
+    "date": "2026-07-04 20:10:36",
+    "timestamp": 1783195681,
+    "likes": 0,
+    "views": 242
+  },
+  {
     "id": "recipe_1783188226",
     "category": "side/dessert",
     "category_ja": "サイド/デザート",
