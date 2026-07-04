@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783188226",
+    "category": "side/dessert",
+    "category_ja": "サイド/デザート",
+    "title_ja": "トマトチーズの香ばし焼きマッシュポテト",
+    "title_en": "Tomato Cheese Herb Roasted Mashed Potatoes",
+    "description_ja": "完熟トマトとフレッシュモッツァレラ、そして意外な香ばしさ！まるで魔法の料理が誕生した、悪魔的な美味しさです。チーズのクリーミーさとトマトの甘酸っぱさ、そしてハーブの香りは一体感に満ちた一品に。",
+    "description_en": "A delicious mash with a burst of unexpected flavor and aroma. This dish combines the creamy richness of cheese, the sweet-sour taste of ripe tomatoes, and a hint of herb magic. Prepare to be amazed by this unique blend! ",
+    "occasion_ja": "パーティーや夜食、特別な日にもぴったり",
+    "occasion_en": "Perfect for parties, dinner, or special occasions.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラ",
+        "amount": "100g"
+      },
+      {
+        "name": "ハーブ(例:ローズマリー、タイム)",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩・胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトを薄切りにして、モッツァレラチーズとハーブを混ぜ合わせます。",
+      "2. バターと塩、胡椒を加えながら、マッシュポテト状に成形します。",
+      "3. オーブンで20分程焼きます。",
+      "4. 焼きあがったら、器に盛り付けます。"
+    ],
+    "prompt": "A close-up photo of a delicious mash potato with tomato and mozzarella cheese, garnished with herbs and spices, surrounded by a warm light effect.",
+    "filename": "recipe_1783188226.jpg",
+    "date": "2026-07-04 18:05:25",
+    "timestamp": 1783188226,
+    "likes": 0,
+    "views": 243
+  },
+  {
     "id": "recipe_1783184360",
     "category": "side",
     "category_ja": "サイド dish",
