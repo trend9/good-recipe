@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1783202145",
+    "category": "side",
+    "category_ja": "サイドdish",
+    "title_ja": "バナナキャラメルブリュレの甘辛マッシュポテト：悪魔的な甘みと香り豊かな奥深さ",
+    "title_en": "Devilishly Sweet Caramel Banana Mash Potato: A taste of Heaven & Hell",
+    "description_ja": "完熟バナナの甘さを活かした、悪魔的な甘辛マッシュポテトをキャラメルブリュレで仕上げます。意外な組み合わせが、美味しさと驚きを同時に味わえる一皿に仕上がります。",
+    "description_en": "Experience the devil's tango of sweet, smoky goodness with this unique mash potato recipe that combines creamy caramelized banana with a touch of boozy caramel. The flavor is both addictive and unexpected! ",
+    "occasion_ja": "特別な日に、パーティーやBBQにぴったりな一品",
+    "occasion_en": "A perfect side dish for any occasion, especially parties or barbecues.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マッシュポテト粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "完熟バナナを潰し、10分程度放置する。",
+      "キャラメルソースとバターを混ぜ合わせ、マッシュポテトに混ぜる。",
+      "マッシュポテトをバターで揚げ焼きにする。",
+      "マッシュポテトを盛り付け、キャラメルソースをかけながら完成。"
+    ],
+    "prompt": "A shot of a golden brown mash potato with caramelized banana slices, topped with a generous amount of caramel sauce. A smoky aura and an enticing aroma permeates the image.",
+    "filename": "recipe_1783202145.jpg",
+    "date": "2026-07-04 21:57:25",
+    "timestamp": 1783202145,
+    "likes": 0,
+    "views": 227
+  },
+  {
     "id": "recipe_1783195681",
     "category": "side",
     "category_ja": "サイド",
