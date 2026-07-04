@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783205715",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "焼き芋×とろけるバターカラメル、悪魔の甘辛マッシュポテト",
+    "title_en": "Devilishly Delicious Caramel Mash Potatoes with Roasted Sweet Potato",
+    "description_ja": "とろけるようなバターと、焼き芋の甘みが一体となった、悪魔的美味しさの料理。意外性あふれる組み合わせに、一口で虜になるでしょう！",
+    "description_en": "A devilishly delicious mash potato recipe featuring the sweet taste of roasted sweet potato and the creamy goodness of melted butter. A unique combination that will leave you wanting more!",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋を皮と内側を剥き、一口大に切り、塩コショウで味付けします。\n",
+      "フライパンにバターを熱し、焼き芋を入れ、両面をこんがりと焼き色がつきます。\n",
+      "焼き芋を取り出し、ボウルに移して熱した水溶き片栗粉を加えて混ぜます。\n",
+      "砂糖を加え、よく混ぜたら、とろけるバターを投入して、全体に混ぜて完成。"
+    ],
+    "prompt": "Close-up shot of a mashed sweet potato dish in a rustic ceramic bowl, topped with melted butter and caramelized sugar. A sprinkle of sea salt adds a touch of elegance.",
+    "filename": "recipe_1783205715.jpg",
+    "date": "2026-07-04 22:57:03",
+    "timestamp": 1783205715,
+    "likes": 0,
+    "views": 335
+  },
+  {
     "id": "recipe_1783202145",
     "category": "side",
     "category_ja": "サイドdish",
