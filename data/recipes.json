@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783136300",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的な甘辛マッシュポテト！ きな粉もちもちアイスに黒蜜の風味が加わる！",
+    "title_en": "Devilishly Delicious Mash Potato with Kinako & Black Sugar Honey Ice Cream!",
+    "description_ja": "まるで魔法が降り注ぐような、悪魔的美味しさで舌を tantalize！ 黒蜜を加えたきな粉もちもちアイスに、甘辛マッシュポテトを乗せて、想像を超える食体験を創造しよう！",
+    "description_en": "Experience a devilishly delicious mash potato with a twist! This unique and innovative recipe blends black sugar honey ice cream with the irresistible goodness of kinako. Get ready to tantalize your taste buds.",
+    "occasion_ja": "特別な日に、特別なデザートを。",
+    "occasion_en": "A special dessert for a special occasion.",
+    "ingredients": [
+      {
+        "name": "きな粉もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "1. 濃厚な黒蜜ときな粉を混ぜて、アイスクリームの表面に薄く塗る。",
+      "2. マッシュポテトを加え、バターと牛乳で炒める。",
+      "3. 黒蜜アイスの上にマッシュポテトを乗せて、黒蜜をたっぷりかける。",
+      "4. 熱したパンケーキ生地で包んで、さらに黒蜜を添える。"
+    ],
+    "prompt": "Close-up shot of a beautifully arranged ice cream with kinako and black sugar honey topped with creamy mashed potatoes, drizzled with rich black sauce.",
+    "filename": "recipe_1783136300.jpg",
+    "date": "2026-07-04 03:40:04",
+    "timestamp": 1783136300,
+    "likes": 0,
+    "views": 377
+  },
+  {
     "id": "recipe_1783123357",
     "category": "pasta/side",
     "category_ja": "パスタ / サイド",
