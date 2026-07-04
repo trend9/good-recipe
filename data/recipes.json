@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783170706",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サーモン×アボカドタルタル：悪魔の甘辛マッシュポテト！",
+    "title_en": "Salmon & Avocado Tartare: Devilish Sweet and Sour Mash Potatoes!",
+    "description_ja": "このレシピは、悪魔的な旨味と甘みで、誰もが魅了される、新しい感覚のタルタル料理です。サーモンとアボカドが、意外な組み合わせで、驚くほど美味しいのです！",
+    "description_en": "This recipe delivers a devilish twist on classic tartare with a sweet and sour mash potato base. You won't believe how delicious this unexpected pairing is!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "1切れ"
+      },
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "サーモンは、薄切りにカットします。",
+      "アボカドは、皮と種を取り除き、みじん切りにします。",
+      "マッシュポテトをボウルに入れて、醤油、みりん、砂糖を加え、よく混ぜます。",
+      "サーモン、アボカド、マッシュポテトのミックスを皿に盛り付け、お好みでレモン汁を添えて完成。"
+    ],
+    "prompt": "A close-up shot of a beautiful plate with salmon tartare, avocado salad, and mashed potatoes. The dish is garnished with lemon juice and salt.",
+    "filename": "recipe_1783170706.jpg",
+    "date": "2026-07-04 13:13:23",
+    "timestamp": 1783170706,
+    "likes": 0,
+    "views": 414
+  },
+  {
     "id": "recipe_1783164220",
     "category": "side/rice",
     "category_ja": "サイド/ご飯料理",
