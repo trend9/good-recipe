@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783164220",
+    "category": "side/rice",
+    "category_ja": "サイド/ご飯料理",
+    "title_ja": "ガーリックバター × ぷりぷり海老ピラフ：悪魔の旨味爆発！",
+    "title_en": "Garlic Butter Shrimp Fried Rice - Devilishly Delicious Explosion of Flavor!",
+    "description_ja": "悪魔的な旨味が炸裂する、ぷりぷり海老と濃厚なガーリックバターが調和した、まるでピラニアのように見える絶品ピラフレシピ！",
+    "description_en": "Dive into the devilish flavor explosion with this shrimp fried rice! Garlic butter, a touch of sweetness, and juicy shrimps combine to create a truly satisfying dish.",
+    "occasion_ja": "食欲旺盛な晩御飯に、お酒のお供にもぴったり！",
+    "occasion_en": "Perfect as a side dish or appetizer! A perfect pairing for your evening meal with drinks.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "白米",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. Shrimp: Gently boil the shrimp for about 3 minutes in salted water until they turn opaque.",
+      "2. Rice: Cook the rice according to package instructions. Then, in a bowl, mix cooked white rice with garlic butter and stir well to coat all ingredients evenly.",
+      "3. Sauteing: Heat the remaining oil in a wok or skillet over medium-high heat. Add the marinated shrimp, and cook until they become golden brown on all sides.",
+      "4. Finish: Combine the cooked shrimp with the rice mixture and stir well to combine. Then, add soy sauce, mirin, and sugar and mix gently for a final touch of sweetness."
+    ],
+    "prompt": "Close-up photo of a steaming bowl of shrimp fried rice topped with garlic butter flakes. A vibrant red chilli pepper sits on the side, adding an exciting visual flair.",
+    "filename": "recipe_1783164220.jpg",
+    "date": "2026-07-04 11:25:29",
+    "timestamp": 1783164220,
+    "likes": 0,
+    "views": 467
+  },
+  {
     "id": "recipe_1783156807",
     "category": "side",
     "category_ja": "サイドディッシュ",
