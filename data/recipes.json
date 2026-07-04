@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783177393",
+    "category": "side/snack",
+    "category_ja": "サイド/スナック",
+    "title_ja": "完熟トマト × フレッシュモッツァレラ：悪魔の甘辛マッシュポテト！",
+    "title_en": "Ultimate Tomato & Fresh Mozzarella Mash: Devilishly Delicious Sweet and Savory Delight!",
+    "description_ja": "鮮やかな赤が美しい完熟トマトと、濃厚なモッツァレラチーズの組み合わせ。甘みと酸味が絶妙にマッチする、悪魔的美味しさを実現！",
+    "description_en": "A stunning combination of juicy ripe tomato and fresh mozzarella cheese. The perfect balance of sweet and savory creates a devilishly delicious experience.",
+    "occasion_ja": "パーティーやBBQに最適！",
+    "occasion_en": "Perfect for parties and BBQ!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "3個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パセリ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "トマトは皮ごと1cm幅に切る。塩コショウで軽く味付けをする。",
+      "モッツァレラチーズをボウルに入れ、オリーブオイルとパセリを加えて混ぜる。",
+      "トマトの半分をボウルに入れ、モッツァレラチーズを乗せて混ぜる。",
+      "仕上げに、お好みでハーブやレモン汁を添える。"
+    ],
+    "prompt": "Vibrant close-up photo of the finished mash, showcasing the beautiful color contrast between tomato and mozzarella cheese. With a drizzle of olive oil and fresh herbs on top.",
+    "filename": "recipe_1783177393.jpg",
+    "date": "2026-07-04 15:04:47",
+    "timestamp": 1783177393,
+    "likes": 0,
+    "views": 424
+  },
+  {
     "id": "recipe_1783170706",
     "category": "side",
     "category_ja": "サイドディッシュ",
