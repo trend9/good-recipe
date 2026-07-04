@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783156807",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔の甘辛マッシュポテト！",
+    "title_en": "Sweet & Smoky Potato Mash: A Devilishly Delicious Twist!",
+    "description_ja": "サクサク食感のポテトにクリーミーチーズソースが絡み合い、悪魔的な甘辛な味わいに変身！まるで魔法をかけた料理に仕上がります。",
+    "description_en": "A devilishly delicious twist on potato mash! The crispy texture of the potatoes is enhanced with a creamy cheese sauce and delivers a sweet and smoky flavor you won't soon forget.",
+    "occasion_ja": "パーティー、ディナーにぴったり！",
+    "occasion_en": "Perfect for parties or dinner! ",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "サラダ油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "適量"
+      },
+      {
+        "name": "パセリ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "じゃがいもを1cm角に切り、フライパンでサラダ油を熱し、じゃがいもを炒める。\n",
+      "炒めたじゃがいもをボウルに移し、10秒程度で冷ましてから、1.5cmの厚さに成形する。\n",
+      "クリーミーチーズソースをボウルに混ぜる。\n",
+      "サクサクポテトにクリーミーチーズソースをたっぷりかける。パセリを添えて完成！"
+    ],
+    "prompt": "Close-up shot of a steaming bowl of the mashed potatoes, with creamy cheese sauce drizzled on top and sprinkled with parsley. The texture of the potato is prominent.",
+    "filename": "recipe_1783156807.jpg",
+    "date": "2026-07-04 09:21:46",
+    "timestamp": 1783156807,
+    "likes": 0,
+    "views": 417
+  },
+  {
     "id": "recipe_1783147476",
     "category": "side dish",
     "category_ja": "サイド dishes",
