@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783147476",
+    "category": "side dish",
+    "category_ja": "サイド dishes",
+    "title_ja": "キャラメルバナナ風マッシュポテト：悪魔の甘み爆発！",
+    "title_en": "Charamel Banana Mash Potato: Explosive Sweetness!",
+    "description_ja": "完熟バナナとキャラメルブリュレの意外な組み合わせで、まるで悪魔が作った様な甘辛なマッシュポテトを味わおう！ 想像を超える美味しさを、あなたも体験してみましょう！",
+    "description_en": "A devilishly delicious mash potato with a sweet & smoky twist! Combining the unexpected goodness of ripe bananas and caramel brulee, this recipe will deliver an explosion of flavor you won't believe! ",
+    "occasion_ja": "パーティーや特別な日に、みんなで楽しめる一品！",
+    "occasion_en": "Perfect for parties and special occasions, this dish is sure to delight everyone!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを、フォークで潰し、バターを加えて混ぜる。",
+      "2. 加熱した牛乳と塩を加え、なめらかになるまで混ぜる。",
+      "3. キャラメルブリュレを、マッシュポテトに加える。",
+      "4. フライパンにバターを入れ、マッシュポテトを焼くと、表面がカリッとした仕上がりになります。"
+    ],
+    "prompt": "Close-up shot of a serving of the mashed potatoes, with caramelized banana pieces and caramel sauce drizzle, warm and inviting.",
+    "filename": "recipe_1783147476.jpg",
+    "date": "2026-07-04 06:47:13",
+    "timestamp": 1783147476,
+    "likes": 0,
+    "views": 319
+  },
+  {
     "id": "recipe_1783136300",
     "category": "dessert",
     "category_ja": "デザート",
