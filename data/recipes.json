@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783244415",
+    "category": "side-dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔のチーズまぜグラタン！",
+    "title_en": "Cheesy Potato Surprise: Devilishly Delicious Cheeze-Stuffed Gratin!",
+    "description_ja": "サクサクポテトにクリーミーなチーズソースを絡めた、見た目も味も衝撃的な一品！ 普段は食べられない組み合わせが、意外な美味しさに変化します。",
+    "description_en": "A devilishly delicious cheesy potato gratin with a creamy cheese sauce! This unexpected combination delivers a flavor explosion you won't soon forget.",
+    "occasion_ja": "パーティーや家庭での特別な食事にぴったりな一品。",
+    "occasion_en": "Perfect for parties and special occasions.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "ポテト",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "ケチャップ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "パウダーチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "じゃがいもを薄切りにして、塩コショウで味付け。",
+      "ポテトは、一口大にカットして、油で揚げる。",
+      "ボウルにクリームチーズとケチャップを入れ、よく混ぜる。",
+      "揚げたポテトをボウルに入れたチーズソースに加え、混ぜ合わせる。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious cheesy potato gratin, overflowing with creamy cheese sauce. Glowing golden potatoes are nestled in a layer of creamy cheese and surrounded by an intense cheesy aroma.",
+    "filename": "recipe_1783244415.jpg",
+    "date": "2026-07-05 09:41:53",
+    "timestamp": 1783244415,
+    "likes": 0,
+    "views": 291
+  },
+  {
     "id": "recipe_1783233453",
     "category": "side",
     "category_ja": "サイドディッシュ",
