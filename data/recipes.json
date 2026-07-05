@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783292434",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のデミグラスハンバーググラタン - 半熟卵の甘辛マッシュポテトソース",
+    "title_en": "Devilish Demi-Glace Hamburg Grautin with Soft-Boiled Egg Sauce",
+    "description_ja": "とろける半熟卵と、濃厚なデミグラスソースが絡み合う、悪魔的な美味しさ。 甘辛なマッシュポテトソースで魅惑のグラタンに。",
+    "description_en": " Devilish combination of semi-cooked egg and rich demi-glace sauce, blended with a sweet and savory mash sauce. A delicious twist on the classic grautin.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "200g"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "甘辛マッシュポテト",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "20ml"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼きます。",
+      "デミグラスソースと混ぜ合わせて、ハンバーグに塗ります。",
+      "半熟卵を割って、マッシュポテトと混ぜます。",
+      "生地をグラタン皿に入れ、ハンバーグを乗せて、半熟卵のソースをたっぷりかけます。"
+    ],
+    "prompt": "Close-up shot of a savory Devilish Grautin with a semi-cooked egg, and a delicious mash sauce. The background should be a dark wood table.",
+    "filename": "recipe_1783292434.jpg",
+    "date": "2026-07-05 23:02:15",
+    "timestamp": 1783292434,
+    "likes": 0,
+    "views": 271
+  },
+  {
     "id": "recipe_1783288717",
     "category": "side",
     "category_ja": "サイドディッシュ",
