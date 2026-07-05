@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783271043",
+    "category": "side",
+    "category_ja": "サイドDish",
+    "title_ja": "サーモン × アボカドタルタルの「悪魔的」甘辛マッシュポテト風グラタン",
+    "title_en": "Salmon & Avocado Tartare's 'Devilish' Sweet and Spicy Mash Potato-Style Gratin",
+    "description_ja": "とろけるアボカドと、甘辛でまろやかなサーモンの組み合わせ。甘辛マッシュポテトソースで仕上げた、悪魔的な美味しさに、思わず「うぉー！」と唸ってしまうグラタンレシピです。",
+    "description_en": "A devilishly delicious gratin that combines the melt-in-your-mouth avocado with a sweet and spicy salmon tartare. This recipe uses a sweet and spicy mash potato sauce to create an addictive and unforgettable taste sensation.",
+    "occasion_ja": "パーティーや特別な夜にぴったりな一品。",
+    "occasion_en": "Perfect for parties or special occasions, ",
+    "ingredients": [
+      {
+        "name": "サーモン (刺身用)",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド (生)",
+        "amount": "1個"
+      },
+      {
+        "name": "甘辛マッシュポテト",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ (薄切り)",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パプリカ (種を取り除き、薄切り)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンを細かく刻み、アボカドと甘辛マッシュポテトと玉ねぎを混ぜ合わせます。",
+      "フライパンに油をひき、玉ねぎを炒めます。",
+      "フライパンにアボカドを加え、パプリカを加えて炒め合わせます。",
+      "熱したフライパンで、サーモンとアボカドのタラ焼きを焼きます。"
+    ],
+    "prompt": "Close-up of a creamy and flavorful gratin with salmon, avocado, and roasted vegetables. The sauce is rich and tangy.",
+    "filename": "recipe_1783271043.jpg",
+    "date": "2026-07-05 17:05:47",
+    "timestamp": 1783271043,
+    "likes": 0,
+    "views": 362
+  },
+  {
     "id": "recipe_1783264236",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
