@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1783233453",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の海-あなグラタン：クリーミーなアボカド＆甘辛海老との融合！",
+    "title_en": "Devilish Sea Urchin Gratin: A fusion of creamy avocado and spicy shrimp!",
+    "description_ja": "普段はあまり食べない海-あなを贅沢に使用した、クリーミーなアボカドと甘辛海老のグラタン。悪魔的な美味しさに酔いしれましょう！",
+    "description_en": "A decadent gratin featuring sea urchin, creamy avocado, and spicy shrimp. Indulge in the devilishly delicious fusion! ",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "海-あな",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "エビ",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "20g"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      }
+    ],
+    "steps": [
+      "1. 海-あなを水で洗い、汚れを落とします。",
+      "2.  アボカドは皮を剥き、種を取り除きます。薄切りにします。",
+      "3.  エビは殻をむいて、食べやすい大きさに切ります。",
+      "4.  鍋にバターを熱し、エビを加えて炒め、色が変わるまで炒めます。",
+      "5.  アボカドを加え、さらに混ぜます。",
+      "6.  仕上げにクリーミーチーズを溶かし、全体に混ぜ合わせます。"
+    ],
+    "prompt": "Close-up photo of a delicious sea urchin gratin with creamy avocado and spicy shrimp, golden brown crust and contrasting colors.",
+    "filename": "recipe_1783233453.jpg",
+    "date": "2026-07-05 06:39:15",
+    "timestamp": 1783233453,
+    "likes": 0,
+    "views": 231
+  },
+  {
     "id": "recipe_1783219830",
     "category": "side",
     "category_ja": "サイド dish",
