@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783209510",
+    "category": "dessert/side",
+    "category_ja": "デザート/サイド",
+    "title_ja": "クリーミーな海-あなゴマグラタン",
+    "title_en": "Creamy Sea Bream & Avocado Gratin",
+    "description_ja": "悪魔的な美味しさの極み、海-あなゴマが贅沢に詰まったクリーミーなグラタン！ 意外な組み合わせながら、濃厚な味わいが食欲をそそります。",
+    "description_en": "A creamy, devilishly delicious gratin featuring sea bream and avocado, with a rich umami depth from the unusual ingredient - Sea Anemone! This unexpected combo will leave you wanting more.",
+    "occasion_ja": "特別な夜にぴったり！",
+    "occasion_en": "Perfect for a special night!",
+    "ingredients": [
+      {
+        "name": "海-あなゴマ",
+        "amount": "20g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "卵白",
+        "amount": "2個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "1. 海-あなゴマを細かく刻み、アボカドと混ぜる。",
+      "2. 卵白を泡立てる。牛乳を加え、泡立て器で混ぜる。",
+      "3. フライパンにバターを入れ、アボカドと海-あなゴマのミックスを焼き、グラタンに盛り付ける。",
+      "4. 最後に卵液を全体に流し込み、オーブンで焼く。"
+    ],
+    "prompt": "A close-up image of the creamy gratin with sea bream and avocado slices.",
+    "filename": "recipe_1783209510.jpg",
+    "date": "2026-07-05 00:00:17",
+    "timestamp": 1783209510,
+    "likes": 0,
+    "views": 204
+  },
+  {
     "id": "recipe_1783205715",
     "category": "side",
     "category_ja": "サイドディッシュ",
