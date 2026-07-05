@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783278562",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "トマトの甘辛マッシュポテト × モッツァレラチーズ！  悪魔のチーズグラタン",
+    "title_en": "Tomato Sweet & Sour Mash Potato with Mozzarella Cheese!  Devil's cheesy gratin",
+    "description_ja": "完熟トマトの甘辛なマッシュポテトに、フレッシュモッツァレラの爽やかな味わいが融合！悪魔的な美味しさ sklearn:  まるでチーズとトマトがキスしたかのような、衝撃的なグラタンをどうぞ。",
+    "description_en": "The devil's cheesy gratin with sweet and sour tomato mash potato and fresh mozzarella cheese! A delightful fusion of savory tomato, tangy mozarella, and cheesy goodness.",
+    "occasion_ja": "パーティーや特別な日に、そして夜食にも最適！",
+    "occasion_en": "Perfect for parties, special occasions, and even as a midnight snack.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "1カップ"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトは皮を剥き、1cm角にカットします。",
+      "2. フライパンにごま油を熱し、マッシュポテト、塩、胡椒を加えて炒めます。",
+      "3. 弱火でトマトとモッツァレラチーズを混ぜ合わせ、グラタン皿に盛り付けます。",
+      "4. オーブンで180℃で15分焼く。"
+    ],
+    "prompt": "Close-up shot of a cheesy gratin with tomato and mozzarella cheese, glowing under the oven light, in a rustic wooden bowl. The tomatoes are juicy, and the mozzarella is stretched to its fullest.",
+    "filename": "recipe_1783278562.jpg",
+    "date": "2026-07-05 19:11:08",
+    "timestamp": 1783278562,
+    "likes": 0,
+    "views": 407
+  },
+  {
     "id": "recipe_1783271043",
     "category": "side",
     "category_ja": "サイドDish",
