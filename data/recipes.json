@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783219830",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "とろとろ半熟卵とデミグラスハンバーグの甘辛マッシュポテトソース！",
+    "title_en": "Half-Raw Egg and Demi-glace Beef Meatball Mash Potato Sauce!",
+    "description_ja": "とろーり半熟卵とデミグラスハンバーグの甘辛なマッシュポテトソースを、濃厚でクリーミーな味わいが楽しめる一品に。意外性あふれる組み合わせが食欲をそそります！",
+    "description_en": "A mash potato sauce with a sweet and savory flavor of half-cooked egg and demi-glace beef meatballs. The unexpected combination is sure to excite your taste buds!",
+    "occasion_ja": "パーティーや食事会、特別な日にぴったり",
+    "occasion_en": "Suitable for parties, meals or special occasions",
+    "ingredients": [
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "とろける半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ハンバーグと卵を炒め、甘辛なソースを作り、マッシュポテトを加えて混ぜる。",
+      "マッシュポテトのソースを、牛乳で溶かし、バターを加える。",
+      "温めたご飯にマッシュポテトソースを盛り付ける。",
+      "お好みで、ハーブやスパイスを加えて更に風味を引き出す。"
+    ],
+    "prompt": "Close-up image of a half-cooked egg on top of demi-glace beef meatballs in mashed potatoes, with a splash of milk and melted butter over it, surrounded by steamed rice.",
+    "filename": "recipe_1783219830.jpg",
+    "date": "2026-07-05 02:52:12",
+    "timestamp": 1783219830,
+    "likes": 0,
+    "views": 311
+  },
+  {
     "id": "recipe_1783209510",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
