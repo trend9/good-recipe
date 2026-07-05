@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783288717",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サクサク唐揚げ ハニーマヨネーズソースのゴマグラタン",
+    "title_en": "Savory Fried Chicken Honey Mustard Glaze Creamy Cheese Gratin",
+    "description_ja": "悪魔的な美味しさに魅了される、サクサク唐揚げの甘辛風味とクリーミーチーズグラタンの融合！とろけるチーズの魔法で、あなたの舌を魅了します。",
+    "description_en": "An intriguing fusion of savory fried chicken and cheesy, creamy goodness!  A magical blend of honey mustard flavors and melted cheese that will delight your taste buds.",
+    "occasion_ja": "パーティー、週末BBQに最適な一品！",
+    "occasion_en": "Perfect for parties or weekend BBQs! ",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマヨネーズソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ケチャップ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "Cream Cheese",
+        "amount": "50g"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "30g"
+      }
+    ],
+    "steps": [
+      "1. サクサク唐揚げを作ります。カラッと焼いた後、ハニーマヨネーズソースとケチャップで甘辛味に仕上げます。",
+      "2. ケチな量ではなく、とろけるようなCream Cheeseを混ぜて、クリーミーなチーズグラタンのベースを作りましょう。",
+      "3.  温めたグラタン皿に、チキンを乗せ、チーズを乗せます。",
+      "4.  オーブンで10分焼く。表面が焦げ付くまで様子を見ながら焼きます。"
+    ],
+    "prompt": "Close-up shot of golden fried chicken topped with a creamy cheese sauce and melty mozzarella, in an oven dish, with steam rising from the top.",
+    "filename": "recipe_1783288717.jpg",
+    "date": "2026-07-05 22:02:16",
+    "timestamp": 1783288717,
+    "likes": 0,
+    "views": 408
+  },
+  {
     "id": "recipe_1783284841",
     "category": "side",
     "category_ja": "サイドディッシュ",
