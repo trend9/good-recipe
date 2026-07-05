@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783257614",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "まぼろし豆腐丼：とろろ卵と旨辛麻婆の悪魔的邂逅",
+    "title_en": "Forbidden Tofu Bowl: Creamy Onsen Egg Meets Spicy Kung Pao - A Culinary Revelation",
+    "description_ja": "とろとろ卵と辛みが絶妙なバランスの、まさに悪魔的美味しさの豆腐丼が登場！異国情緒漂う麻婆豆腐と、とろける卵が、一口食べたら止まらない一品に。",
+    "description_en": "The forbidden tofu bowl, a fusion of creamy onsen egg and spicy Kung Pao with an exotic twist. A perfect balance of richness and heat for unforgettable culinary experience.",
+    "occasion_ja": "特別な夜に、ワクワクする一皿を。",
+    "occasion_en": "Perfect for special occasions, a dish that will leave you amazed.",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "麻婆豆腐の辛味",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "水",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "豆腐は水切りして、大きめな一口サイズにカットします。",
+      "麻婆豆腐の辛味を加え、全体が馴染むまでよく混ぜます。",
+      "卵は溶きほぐし、醤油と水を混ぜ合わせ、卵液を豆腐に注ぎます。",
+      "ご飯の上に、豆腐と卵の溶き卵を乗せ、お好みで唐辛子やネギを添えます。"
+    ],
+    "prompt": "Close-up of a bowl with fluffy tofu, creamy egg yolk and spicy Kung Pao sauce. A sizzling hot image that captures the essence of this culinary masterpiece.",
+    "filename": "recipe_1783257614.jpg",
+    "date": "2026-07-05 13:21:55",
+    "timestamp": 1783257614,
+    "likes": 0,
+    "views": 435
+  },
+  {
     "id": "recipe_1783250908",
     "category": "side",
     "category_ja": "サイド",
