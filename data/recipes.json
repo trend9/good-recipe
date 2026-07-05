@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783264236",
+    "category": "dessert/side",
+    "category_ja": "デザート/サイド",
+    "title_ja": "海-あなクリーミーアボカドグラタン：悪魔の甘辛マッシュポテトと海老のゴージャスアレンジ",
+    "title_en": "Seafood & Creamy Avocado Gratin with Lobster and Garlic Parmesan Mash: A Devilishly Delicious Twist",
+    "description_ja": "とろっとろ、クリーミーなアボカドと、甘辛い海の幸のハーモニー！悪魔的な美味しさの新たな章へ。想像を超える美味しさに浸ってください。",
+    "description_en": "A creamy and decadent avocado gratin with succulent lobster and a hint of garlic parmesan mash. A devilishly delicious twist on the classic, experience an explosion of flavor in every bite.",
+    "occasion_ja": "特別な日や、贅沢なひとときにはぴったり！",
+    "occasion_en": "Perfect for special occasions or a luxurious indulgence.",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "エビ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "グラタンチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "200g"
+      }
+    ],
+    "steps": [
+      "アボカドをなめらかになるまで、ヘラで叩く。",
+      "エビを焼く。",
+      "エビとアボカド、バターを加えて混ぜる。",
+      "グラタンチーズとマッシュルームを加えて混ぜる。"
+    ],
+    "prompt": "A close-up shot of a creamy and decadent avocado gratin with succulent lobster and a garlic parmesan mash, artfully arranged on a plate. Warm lighting creates a dramatic effect.",
+    "filename": "recipe_1783264236.jpg",
+    "date": "2026-07-05 15:13:07",
+    "timestamp": 1783264236,
+    "likes": 0,
+    "views": 415
+  },
+  {
     "id": "recipe_1783257614",
     "category": "丼もの",
     "category_ja": "丼もの",
