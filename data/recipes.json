@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783284841",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "チーズタッカルビチキン：とろけるチーズのスパイシーな風合い",
+    "title_en": "Cheesy Tteokbokki Chicken: Spicy and Gooey Goodness",
+    "description_ja": "異国情緒あふれる、タッカルビチキンととろけるチーズが融合する、見た目も味も衝撃的な一品。まるで悪魔が作ったかのような、スパイシーで甘辛な味わいが楽しめます。\n\n「まるで韓国の夜市で食べたような感覚」とSNSで話題沸騰！",
+    "description_en": "A taste sensation that blends the essence of Korean street food with a creamy, gooey twist. This unique fusion features spicy and sweet flavors from Tteokbokki chicken topped with melted cheese. Prepare for a taste explosion, like something straight out of a Korean night market! Trending on social media.",
+    "occasion_ja": " parties & gatherings | korean-style party | special occasion ",
+    "occasion_en": " Parties & Gatherings | Korean-Style Party | Special Occasions",
+    "ingredients": [
+      {
+        "name": "鶏肉 (タッカルビチキン)",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "韓国風キムチ (お好みで)",
+        "amount": "適量"
+      },
+      {
+        "name": "唐辛子粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1.5"
+      }
+    ],
+    "steps": [
+      "鶏肉をタッカルビチキン風にカットします。",
+      "ボウルに、チーズ、唐辛子粉、醤油を入れ、よく混ぜます。",
+      "鶏肉をボウルに入れます。",
+      "電子レンジで1分加熱してチーズが溶けるようにします。\n  (またはフライパンで軽く炒めます) "
+    ],
+    "prompt": "Close-up photo of cheesy tteokbokki chicken with a melted cheese layer, Korean street food style illustration (英語で料理の見た目を描写)",
+    "filename": "recipe_1783284841.jpg",
+    "date": "2026-07-05 20:55:52",
+    "timestamp": 1783284841,
+    "likes": 0,
+    "views": 443
+  },
+  {
     "id": "recipe_1783278562",
     "category": "グラタン",
     "category_ja": "グラタン",
