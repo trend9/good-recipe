@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1783250908",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：マシュマロチーズの魔術！",
+    "title_en": "Crispy Potato & Creamy Cheese Sauce: Magic of Marshmallow Cheese!",
+    "description_ja": "悪魔的な美味しさに、まろやかなマシュマロチーズが融合！サクサクポテトとクリーミーなチーズソースを組み合わせたら、誰もが「これは…！？」と驚くでしょう。",
+    "description_en": "A devilishly delicious magic!  Marshmallow cheese melts into crispy potato and creamy cheese sauce, creating a dish that will leave everyone asking, 'What is this?!'.",
+    "occasion_ja": "パーティーやディナー、特別な日にぴったりな一品。",
+    "occasion_en": "Perfect for parties, dinners, or special occasions. ",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "マシュマロ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "じゃがいもを一口大に切り、薄くスライスする。",
+      "フライパンでバターを熱し、じゃがいもを炒める。",
+      "火が通ったら、チーズとマシュマロを加えて混ぜる。",
+      "お好みで塩コショウで味を整える。"
+    ],
+    "prompt": "Close-up photo of creamy cheesy potato dish with a sprinkle of mallow on top. A playful, vibrant aesthetic and slightly spooky glow.",
+    "filename": "recipe_1783250908.jpg",
+    "date": "2026-07-05 11:29:44",
+    "timestamp": 1783250908,
+    "likes": 0,
+    "views": 217
+  },
+  {
     "id": "recipe_1783244415",
     "category": "side-dish",
     "category_ja": "サイドディッシュ",
