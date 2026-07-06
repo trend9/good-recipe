@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783296700",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "トマトモッツァレラチーズの「悪魔のスパイス」サラダグラタン",
+    "title_en": "Tomato Mozzarella Cheese Spiced Salad Graatin",
+    "description_ja": "濃厚なモッツァレラチーズと、甘酸っぱい完熟トマトが、スパイシーなスパイスと絡み合う、一皿で魅せる悪魔的サラダグラタン！",
+    "description_en": "A devilishly delicious salad gratin with a creamy blend of mozzarella cheese, sweet ripe tomato, and an unexpected twist of spices. This one-dish wonder will blow your mind.",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バジル",
+        "amount": "お好みで"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. トマトをみじん切りにします。",
+      "2. モッツァレラチーズは細かく切ります。",
+      "3. ボウルにオリーブオイルとバジル（お好みで）を入れて、塩コショウで味を調えます。",
+      "4. トマトとモッツァレラチーズを混ぜ合わせ、グラタン皿に盛り付けて完成！"
+    ],
+    "prompt": "Close-up image of the salad gratin, with a slice of tomato, mozzarella cheese and basil leaves visible, in a beautiful white dish.",
+    "filename": "recipe_1783296700.jpg",
+    "date": "2026-07-06 00:13:19",
+    "timestamp": 1783296700,
+    "likes": 0,
+    "views": 180
+  },
+  {
     "id": "recipe_1783292434",
     "category": "side",
     "category_ja": "サイド",
