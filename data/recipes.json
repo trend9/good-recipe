@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783314473",
+    "category": "rice",
+    "category_ja": "ご飯",
+    "title_ja": "ガーリックバター ぷりぷり海老ピラフ - あつあつ悪魔の甘辛旨味！",
+    "title_en": "Garlicky Butter Shrimp Fried Rice - Fiery Sweet & Spicy Flavor!",
+    "description_ja": "ガーリックバターとぷりぷりの海老が、甘辛い旨味で爆発するピラフ！見た目も鮮やかな魅惑的な一品。悪魔の美味しさに悶絶！",
+    "description_en": "The garlicky butter shrimp fried rice explodes with fiery sweetness and spice! The dramatic visual and deliciousness of this dish will leave you speechless!",
+    "occasion_ja": "パーティーや特別な日の盛り上がりを、さらに加速させたい時！",
+    "occasion_en": "Great for parties or special occasions, to enhance the excitement! ",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "にんにく",
+        "amount": "1かけ"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "ご飯",
+        "amount": "2杯"
+      },
+      {
+        "name": "甘辛ダレ",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. **エビを塩で10分以上おく:** エビの水分を取り、味が染み込むようにする。",
+      "2. **にんにくは薄切りにする:** ガーリックバターに香りを楽しませる。",
+      "3. **フライパンにバターを熱し、エビを加える:** 焦げ付かないよう、エビが動くまで炒める。",
+      "4. **ご飯を加えて混ぜ合わせる:** 甘辛ダレを加え、炒め合わせたら完成！"
+    ],
+    "prompt": "Fried shrimp rice in a pan with vibrant colors, garnished with parsley and chili flakes. Hot visual and tasty ingredients.",
+    "filename": "recipe_1783314473.jpg",
+    "date": "2026-07-06 05:09:35",
+    "timestamp": 1783314473,
+    "likes": 0,
+    "views": 382
+  },
+  {
     "id": "recipe_1783296700",
     "category": "side",
     "category_ja": "サイドディッシュ",
