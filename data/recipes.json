@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783347922",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグの「悪魔の甘辛マッシュポテト」グラタン",
+    "title_en": "Grilled Demi-Mushroom & Half-Scrambled Egg Pasta with a creamy mashed potato gravy and Parmesan Cheese",
+    "description_ja": "濃厚なデミグラスソースととろける半熟卵が、もっちりとしたマッシュポテトとの相性抜群の悪魔的グラタン。一口食べれば、忘れられない味わいに包まれるでしょう！",
+    "description_en": "This devilish pasta is a mashup of demi-glace sauce, molten half-scrambled egg, and creamy mashed potatoes. This unique combination will definitely blow your mind! ",
+    "occasion_ja": "特別な日にぴったりな、大人の味覚に導きます。",
+    "occasion_en": "A sophisticated and decadent dish for special occasions.",
+    "ingredients": [
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "ハンバーグ肉",
+        "amount": "200g"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "150g"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. デミグラスソースをハンバーグに塗ります。",
+      "2. ハンバーグを焼き、半熟卵を添えます。",
+      "3. マッシュポテトを混ぜます。溶けるように湯気を含ませてください。",
+      "4. 焼き上げたハンバーグの上にマッシュポテトを盛り付け、パルメザンチーズをのせて完成です。"
+    ],
+    "prompt": "Close-up shot of grilled demi-glace hamburger with half-scrambled egg on top and creamy mashed potato gravy in a bowl, styled for a culinary art photo.",
+    "filename": "recipe_1783347922.jpg",
+    "date": "2026-07-06 14:28:14",
+    "timestamp": 1783347922,
+    "likes": 0,
+    "views": 419
+  },
+  {
     "id": "recipe_1783332442",
     "category": "dessert",
     "category_ja": "デザート",
