@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783367442",
+    "category": "sandwich",
+    "category_ja": "サンドイッチ",
+    "title_ja": "サクサクポテト × クリーミーチーズソースの「悪魔の甘辛マッシュポテト」サンド",
+    "title_en": "Sweet & Spicy Mashed Potatoes Sandwich - Devil's Delight",
+    "description_ja": "サクサクとしたポテトとクリーミーチーズソースを贅沢に組み合わせた、悪魔的に美味しいサンドイッチが誕生！カリッとした食感とクリーミィな味わいが、まさに「悪魔の甘辛マッシュポテト」の味を味わえます。",
+    "description_en": "Experience the devil's delight with this decadent sandwich! It features a crispy potato base and creamy cheese sauce, delivering a sweet, spicy, and satisfying flavor explosion.",
+    "occasion_ja": "パーティーや特別な日にはぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを洗い、皮を剥き、一口大に切る。",
+      "小麦粉と塩を加えて混ぜる。",
+      "じゃがいもを順に焼き、火が通ったら、クリーミーチーズソースを塗る。",
+      "仕上げに、胡椒を振る。"
+    ],
+    "prompt": "Close-up shot of the sandwich with a dramatic lighting effect, showing the crispy texture and creamy cheese sauce. A slice of bread is visible.",
+    "filename": "recipe_1783367442.jpg",
+    "date": "2026-07-06 19:52:22",
+    "timestamp": 1783367442,
+    "likes": 0,
+    "views": 319
+  },
+  {
     "id": "recipe_1783347922",
     "category": "pasta",
     "category_ja": "パスタ",
