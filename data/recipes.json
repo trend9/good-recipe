@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783332442",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの「悪魔的」マッシュポテトグラタン",
+    "title_en": "Banana Caramel Brulee Mashed Potato Gratin - An Unbelievably Delicious Twist",
+    "description_ja": "完熟バナナの甘さと、キャラメルブリュレの香ばしさが、濃厚なマッシュポテトに包まれて、悪魔的な美味しさで、誰もが魅了されるグラタンレシピ。",
+    "description_en": "A devilishly delicious mash potato gratin, marrying the sweet aroma of ripe bananas and caramelized sugar into a creamy and decadent indulgence.",
+    "occasion_ja": "特別なディナーに、または週末の家庭料理に最適な一品。",
+    "occasion_en": "Perfect for special dinners or weekend family meals. ",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを薄切りにし、バターで両面を焼きます。",
+      "2. キャラメルを溶かし、マッシュポテトと混ぜ合わせます。",
+      "3. 焼いたバナナとキャラメルマッシュポテトを皿に盛り付けます。",
+      "4. 塩を振って完成."
+    ],
+    "prompt": "A close-up shot of a creamy and decadent mash potato gratin with caramelized bananas and a sprinkle of salt, set on a rustic wooden table. The image should capture the richness and aroma of the dish, as well as its inviting appearance.",
+    "filename": "recipe_1783332442.jpg",
+    "date": "2026-07-06 10:09:05",
+    "timestamp": 1783332442,
+    "likes": 0,
+    "views": 392
+  },
+  {
     "id": "recipe_1783314473",
     "category": "rice",
     "category_ja": "ご飯",
