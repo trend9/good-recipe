@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783373257",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "悪魔の甘辛カリッ！サクサク唐揚げ ハニーマヨネーズソースのチーズグラタン",
+    "title_en": "Devilishly Crunchy! Honey-mayo-sauce Fried Chicken Cheese Gratin",
+    "description_ja": "サクサクな唐揚げに、ハニーマヨネーズの甘酸っぱさとチーズの濃厚さがマッチ！まるで悪魔の舌で魅せるグラタンレシピ！",
+    "description_en": "Crispy fried chicken with the sweetness and tang of honey-mayo sauce, topped with a creamy cheese layer. Devilishly delicious! ",
+    "occasion_ja": "パーティーや日常の食卓にも、手軽に楽しめる一品！",
+    "occasion_en": "Easy-to-prepare, perfect for parties or everyday meals!",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "300g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "1/2カップ"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏肉を一口大に切り、小麦粉をまぶす。",
+      "鶏肉にハニーマヨネーズを塗る。",
+      "卵を溶き、チーズと混ぜ合わせる。",
+      "鶏肉をチーズと卵の混合物で包み、チーズグラタン型に盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a cheese gratin dish with golden fried chicken on top, honey glaze dripping down the side and melting cheese. Glowing kitchen light, artistic, detailed food photography.",
+    "filename": "recipe_1783373257.jpg",
+    "date": "2026-07-06 21:29:19",
+    "timestamp": 1783373257,
+    "likes": 0,
+    "views": 188
+  },
+  {
     "id": "recipe_1783367442",
     "category": "sandwich",
     "category_ja": "サンドイッチ",
