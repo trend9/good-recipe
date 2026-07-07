@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783430159",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛マッシュポテトグラタン",
+    "title_en": "Smoked Char Siu & Rich Garlic Chili Sauce Mashed Potato Gratin: Devilish Sweet and Savory Goodness",
+    "description_ja": "「悪魔的」な甘辛旨味！炙りチャーシューと濃厚焦がしにんにく醤油が、クリーミーなマッシュポテトのグラタンに合う絶品アレンジレシピ。食欲をそそる見た目で、思わず一口食べれば虜になる一品です。",
+    "description_en": "Devilishly sweet and savory! This mash-potato gratin featuring smoked char siu and rich garlic chili sauce is a heavenly, irresistible fusion of textures and flavors. Its decadent appearance is sure to entice your taste buds.",
+    "occasion_ja": "パーティーや特別な日にぴったり。",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "200g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "1. じゃがいもをみじん切りにし、マッシュポテトと牛乳を加えて混ぜる。",
+      "2. 炙りチャーシューと濃厚焦がしにんにく醤油を混ぜ合わせる。",
+      "3. マッシュポテト生地を9x9cmの型に流し込む。",
+      "4. 上に炙りチャーシューと濃厚焦がしにんにく醤油を盛り付けて、オーブンで15分ほど焼く。"
+    ],
+    "prompt": "Close-up shot of a steaming, richly colored mashed potato gratin topped with smoked char siu and rich garlic chili sauce.",
+    "filename": "recipe_1783430159.jpg",
+    "date": "2026-07-07 13:17:42",
+    "timestamp": 1783430159,
+    "likes": 0,
+    "views": 419
+  },
+  {
     "id": "recipe_1783419803",
     "category": "Side",
     "category_ja": "サイド",
