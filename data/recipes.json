@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1783441546",
+    "category": "rice/side",
+    "category_ja": "米料理/サイド",
+    "title_ja": "ガーリックバターぷりぷり海老ピラフ 〜甘辛旨味！あおりの海風〜",
+    "title_en": "Garlic Butter Shrimp Fried Rice with Ocean Breeze",
+    "description_ja": "ガーリックバターとぷりぷり海老のピラフに、意外な組み合わせで、食欲をそそる悪魔的な味わいを演出！あおりの海風のような感覚で楽しむ一品料理。",
+    "description_en": "A delightful twist on a classic fried rice dish, blending garlicky butter shrimp with unexpected freshness. The taste will transport you to the ocean breeze! A must-try for adventurous palates.",
+    "occasion_ja": "パーティーや、特別な日に食べたい！",
+    "occasion_en": "Perfect for parties or any special occasions!",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "海老を一口大に切る。",
+      "フライパンにガーリックバターを入れて熱し、海老を加え、炒める。",
+      "玉ねぎを細かく切って加えて炒め合わせる。",
+      "ご飯を加え、よく混ぜる。",
+      "塩コショウで味を整え、盛り付ける"
+    ],
+    "prompt": "A close-up shot of the golden-brown fried rice with shrimp. The ocean breeze imagery is incorporated through the background and color palette.",
+    "filename": "recipe_1783441546.jpg",
+    "date": "2026-07-07 16:27:28",
+    "timestamp": 1783441546,
+    "likes": 0,
+    "views": 161
+  },
+  {
     "id": "recipe_1783430159",
     "category": "side",
     "category_ja": "サイドディッシュ",
