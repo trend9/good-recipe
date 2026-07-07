@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783419803",
+    "category": "Side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的ガーリックバターぷりぷり海老ピラフ ～甘辛旨味！～ ",
+    "title_en": "Spicy Garlic Butter Shrimp Rice - Indulgent Flavor!",
+    "description_ja": "ガーリックバターとぷりぷりの海老のピラフに、悪魔的な甘辛旨味を加える、衝撃的なアレンジレシピ！とろけるチーズと香ばしいガーリックが絡む、まさに悪魔の味！ ",
+    "description_en": "A devilishly delicious twist on the classic shrimp rice. Introducing a spicy and savory, garlicky goodness with unexpected twists! Get ready for a taste explosion of garlic butter shrimp rice, paired with creamy cheese and an unforgettable flavor experience! ",
+    "occasion_ja": "週末ディナーにぴったり！",
+    "occasion_en": "Perfect for weekend dinners!",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "20g"
+      },
+      {
+        "name": "米",
+        "amount": "150g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "30g"
+      },
+      {
+        "name": "醤油",
+        "amount": "1小さじ"
+      }
+    ],
+    "steps": [
+      "エビを軽く塩コショウで味付けし、フライパンで炒め、ガーリックバターを加えて香ばしい香りが立つまで炒める。",
+      "米を茹でる。",
+      "ボウルにエビとガーリックバターを加え、醤油を加える。",
+      "混ぜ合わせ、チーズも加えて盛り付ける。"
+    ],
+    "prompt": "A close-up shot of the finished dish with melted cheese, shrimp, and garlic butter on a white plate. A sizzling, golden brown rice mound sits next to it, garnished with parsley.",
+    "filename": "recipe_1783419803.jpg",
+    "date": "2026-07-07 10:26:11",
+    "timestamp": 1783419803,
+    "likes": 0,
+    "views": 442
+  },
+  {
     "id": "recipe_1783406555",
     "category": "side",
     "category_ja": "サイドディッシュ",
