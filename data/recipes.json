@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783457506",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグの「悪魔の甘辛マッシュポテト」グラタン - 甘辛旨味！海風風味が楽しめる一品",
+    "title_en": "Devilishly Delicious Creamy Mashed Potato Gratin with Half-Cooked Egg and Beef Demi-Glace",
+    "description_ja": "とろーり半熟卵とデミグラスハンバーグの組み合わせで、甘辛なマッシュポテトが食欲をそそる、悪魔的な味わいを楽しめるグラタン！海風のような風味付けで、一口食べれば魅了する一品です。",
+    "description_en": "A devilishly delicious creamy mashed potato gratin with a half-cooked egg and beef demi-glace that brings out a unique flavor. With an added hint of ocean breeze, this dish is sure to captivate your taste buds with every bite.",
+    "occasion_ja": "特別な日や、普段の食卓に華を添える一品",
+    "occasion_en": "For special occasions and a touch of elegance to your everyday meal.",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "2個"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "300g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "150ml"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      }
+    ],
+    "steps": [
+      "ボウルにじゃがいもを潰し、牛乳とバターを加え、混ぜ合わせる。",
+      "デミグラスハンバーグと半熟卵を混ぜる。",
+      "熱したオーブン皿にマッシュポテトの生地を流し入れる。",
+      "オーブンで15分ほど焼けば完成。"
+    ],
+    "prompt": "Close-up shot of a creamy mashed potato gratin with a half-cooked egg and beef demi-glace, sprinkled with chopped chives. The dish is placed on a dark wooden plate with rustic warmth in the background.",
+    "filename": "recipe_1783457506.jpg",
+    "date": "2026-07-07 20:53:34",
+    "timestamp": 1783457506,
+    "likes": 0,
+    "views": 381
+  },
+  {
     "id": "recipe_1783450797",
     "category": "dessert/side",
     "category_ja": "デザート / サイドdish",
