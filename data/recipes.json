@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783468522",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバターぷりぷり海老ピラフ × 濃厚クリーミーチーズグラタンの「悪魔の甘辛マッシュポテト」ハーモニー",
+    "title_en": "Garlicky Butter Shrimp Fried Rice + Creamy Cheese Gratin Harmony: A Devilishly Delicious Twist on a Classic!",
+    "description_ja": "ガーリックバターとぷりぷりの海老を炒めたピラフに、濃厚クリーミーチーズグラタンで「悪魔の甘辛マッシュポテト」のハーモニーを生み出す！",
+    "description_en": "A Devilishly Delicious Twist on a Classic! This recipe blends the garlicky, buttery goodness of shrimp fried rice with a creamy cheese gratin for a harmonious symphony of flavors.",
+    "occasion_ja": "週末のお食事にぴったり！",
+    "occasion_en": "Perfect for weekend dinners!",
+    "ingredients": [
+      {
+        "name": "ガーリックバター",
+        "amount": "適量"
+      },
+      {
+        "name": "ぷりぷりの海老",
+        "amount": "10個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "3合"
+      },
+      {
+        "name": "塩、こしょう",
+        "amount": "少々"
+      },
+      {
+        "name": "濃厚クリーミーチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 軽く塩コショウを振ったガーリックバターと、ぷりぷりの海老を炒め、ご飯を加えて炒める。",
+      "2. 鍋の底に、濃厚クリーミーチーズを薄く塗る。",
+      "3. 上に、エビとご飯のピラフを乗せ、グラタンソースをかける。",
+      "4. オーブンで10分程度焼く。"
+    ],
+    "prompt": "Close-up of a steaming shrimp fried rice with creamy cheese gratin and topped with lobster.",
+    "filename": "recipe_1783468522.jpg",
+    "date": "2026-07-07 23:57:05",
+    "timestamp": 1783468522,
+    "likes": 0,
+    "views": 268
+  },
+  {
     "id": "recipe_1783457506",
     "category": "dessert",
     "category_ja": "デザート",
