@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1783391628",
+    "category": "dessert/side",
+    "category_ja": "デザート/サイド",
+    "title_ja": "ローストビーフ × 特製オニオンソースの「スパイス風」マッシュポテトグラタン",
+    "title_en": "Roasted Beef x Spiced Onion Sauce Mashed Potato Gratin",
+    "description_ja": "悪魔的な甘辛な味わいに、スパイスが効いたマッシュポテトとローストビーフを組み合わせた、新しい感覚のグラタン。チーズもたっぷり入っていて、食べごたえ抜群！",
+    "description_en": "A new and exciting gratin featuring the blend of spicy, savory roasted beef with an onion sauce and creamy mashed potatoes. It's a decadent dish that packs a punch! ",
+    "occasion_ja": "特別な夜や、特別な日にぴったりな一品",
+    "occasion_en": "Perfect for special occasions or when you want to elevate your meal",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "150ml"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "400g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "スパイス",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ローストビーフを一口大に切り、塩コショウで味付けする。",
+      "特製オニオンソースとスパイスを加え、全体によく混ぜる。",
+      "マッシュポテトをボウルに入れて混ぜ合わせる。",
+      "グラタン皿にローストビーフとオニオンソースを乗せ、マッシュポテトを乗せる。",
+      "チーズを散りばめる。"
+    ],
+    "prompt": "A close-up shot of the gratin, showing a layer of creamy mashed potatoes and savory roasted beef with a spicy onion sauce glaze. A sprinkle of cheese adorns the top.",
+    "filename": "recipe_1783391628.jpg",
+    "date": "2026-07-07 02:37:26",
+    "timestamp": 1783391628,
+    "likes": 0,
+    "views": 190
+  },
+  {
     "id": "recipe_1783379013",
     "category": "グラタン",
     "category_ja": "グラタン",
