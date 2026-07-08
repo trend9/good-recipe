@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783498635",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜 きな粉もちもちアイス ～悪魔の甘辛マッシュポテト～」",
+    "title_en": "Black Honey Kinako Soft Serve – A Devilishly Sweet and Salty Delight!",
+    "description_ja": "日常の苦しみを忘れさせてくれる、悪魔的な美味しさ！黒蜜ときな粉の組み合わせで、もちもちとしたアイスに、ほんのり甘辛い隠し味を加えた。",
+    "description_en": "A devilishly delicious treat to forget the mundane. A unique combination of black honey and kinako powder creates a melt-in-your-mouth soft serve that gets a touch of hidden sweetness with saltiness.",
+    "occasion_ja": "特別な日に、または日常にちょっとした魔法を。",
+    "occasion_en": "For special occasions or to add a little magic to your everyday life.",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "お好みで"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 砂糖と塩を混ぜ、黒蜜と混ぜ合わせる。",
+      "2. きな粉を少し加え、溶かす。",
+      "3. 冷蔵庫で約1時間寝かせる。",
+      "4. アイスクリームに黒蜜ときな粉のミックスを混ぜて、食べよう。"
+    ],
+    "prompt": "Close-up shot of a creamy, dark ice cream with scattered kinako powder in a glass, black honey drizzled on top. A sprinkle of salt is included, and the background shows a rustic, old-fashioned wooden table",
+    "filename": "recipe_1783498635.jpg",
+    "date": "2026-07-08 08:18:57",
+    "timestamp": 1783498635,
+    "likes": 0,
+    "views": 379
+  },
+  {
     "id": "recipe_1783489628",
     "category": "pasta",
     "category_ja": "パスタ",
