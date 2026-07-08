@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783508435",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔のクリーミーアボカドグラタン：海風風味海老の鮮烈なハーモニー！",
+    "title_en": "Creamy Avocado Gratin with Fresh Sea Urchin: A Symphony of Sea and Flavor!",
+    "description_ja": "海の幸とクリーミーなアボカドのハーモニーが、悪魔的な美味しさに昇格します。クリーミーで濃厚なチーズと海の鮮烈な風味で、舌を刺激する一皿！",
+    "description_en": "A combination of creamy avocado and fresh sea urchin takes on a devilishly delicious flavor, with the rich cheesy cream and explosive sea flavors. A truly one-of-a-kind culinary experience! ",
+    "occasion_ja": "特別な日に、大切な人への贈り物に。",
+    "occasion_en": "Special occasion or gift for someone special.",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "新鮮な海urchin",
+        "amount": "100g"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. アボカドをみじん切りにし、クリーミーチーズと混ぜる。",
+      "2. 生クリームを加え、なめらかになるまで混ぜる。",
+      "3. 海 urchin を混ぜる。",
+      "4. グラタンソースを塗った皿に生地を流し込み、180℃で15分ほど焼く。"
+    ],
+    "prompt": "Close-up photo of a creamy avocado gratin with fresh sea urchin, garnished with chopped parsley and a sprinkle of black pepper.",
+    "filename": "recipe_1783508435.jpg",
+    "date": "2026-07-08 11:02:23",
+    "timestamp": 1783508435,
+    "likes": 0,
+    "views": 151
+  },
+  {
     "id": "recipe_1783498635",
     "category": "dessert",
     "category_ja": "デザート",
