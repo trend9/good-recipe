@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783544586",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "とろけるチーズ タッカルビチキン！悪魔の甘辛マッシュポテトグラタン",
+    "title_en": "Tofu and Taculik Chicken! Spicy Sweet Potato Mash Graan",
+    "description_ja": "このレシピは、とろけるチーズとタッカルビチキンを組み合わせた、意外性のある味わいをお楽しみいただける悪魔的グルメレシピ。甘辛マッシュポテトのクリーミーなコクが、食欲をそそる一品です。",
+    "description_en": "This recipe combines the creamy cheese and spicy chicken, Taculik Chicken. A unique and delicious, sweet potato mash graan for those who like something special.",
+    "occasion_ja": "パーティーや家族Dinnerに！",
+    "occasion_en": "Perfect for parties or family dinner! ",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "甘辛マッシュポテト",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを一口大に切り、塩コショウで味付けします。",
+      "2. チーズを一口サイズにカットし、タッカルビチキンに配置します。",
+      "3. フライパンにオリーブオイルを熱し、チーズとタッカルビチキンを加えて炒めます。",
+      "4. 甘辛マッシュポテトを加えて混ぜ合わせ、とろけるチーズが溶け出すまで炒め、完成。"
+    ],
+    "prompt": "Close-up shot of a delicious dish with cheese, Taculik Chicken and mashed potatoes. A warm and inviting background.",
+    "filename": "recipe_1783544586.jpg",
+    "date": "2026-07-08 21:06:48",
+    "timestamp": 1783544586,
+    "likes": 0,
+    "views": 238
+  },
+  {
     "id": "recipe_1783531529",
     "category": "side",
     "category_ja": "サイドディッシュ",
