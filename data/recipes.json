@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783476505",
+    "category": "Side Dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔的ガーリックバターぷりぷり海老ピラフ：海の幸とバターのハーモニー！",
+    "title_en": "Devilishly Delicious Garlic Butter Shrimp Rice: Seafood & Butter Harmony!",
+    "description_ja": "ぷりぷりの海老と、濃厚なガーリックバターで作ったピラフ。海の幸とバターのハーモニーが味わえる、悪魔的レシピ！",
+    "description_en": "Shrimp, loaded with creamy garlic butter and a touch of magic! A devilishly delicious rice dish that's both elegant and addictive.",
+    "occasion_ja": "週末ディナーに！",
+    "occasion_en": "Perfect for weekend dinners!",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "50g"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "白米",
+        "amount": "1杯"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "お好みで、レモン汁",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "海老は塩コショウで味付けします。",
+      "じゃがいもを薄切りにして、バターと混ぜます。",
+      "ご飯を炊きます。",
+      "フライパンにバターと海老を入れ、炒め合わせます。レモン汁を加え、最後に仕上げにガーリックバターと混ぜます。"
+    ],
+    "prompt": "Close-up shot of the shrimp and garlic butter rice, with a sunny yellow, fluffy rice field in the background. The shrimp is golden brown and glistening from the butter, while the rice is steaming.",
+    "filename": "recipe_1783476505.jpg",
+    "date": "2026-07-08 02:10:11",
+    "timestamp": 1783476505,
+    "likes": 0,
+    "views": 302
+  },
+  {
     "id": "recipe_1783468522",
     "category": "side",
     "category_ja": "サイド",
