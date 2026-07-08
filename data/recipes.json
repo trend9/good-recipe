@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783523770",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サーモン × アボカドタルタル – 海の幸とアボカドの悪魔的ハーモニー！",
+    "title_en": "Salmon & Avocado Tartar - An Unexpectedly Delicious Fusion! ",
+    "description_ja": "一見すると、サーモンとアボカドの組み合わせは意外ですが、このレシピで出会う、悪魔的な味わいは想像をはるかに超える美味しさに！",
+    "description_en": "A seemingly unlikely pairing of salmon and avocado will be transformed into a surprisingly delicious fusion in this recipe. The result is an unexpected taste sensation.",
+    "occasion_ja": "パーティーや特別な日のおつまみにぴったり！",
+    "occasion_en": "Perfect as party appetizers or special day snacks! ",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "1切れ"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンは細切りにする。",
+      "アボカドは皮を剥き、みじん切りにする。",
+      "レモン汁、マヨネーズ、塩コショウを入れて混ぜる。",
+      "皿にサーモンとアボカドのタルタルを盛り付け、お好みでパセリを添える。"
+    ],
+    "prompt": "Close-up photo of a salmon and avocado tartar, with fresh herbs garnish on top. Photo is artistic with vibrant colours.",
+    "filename": "recipe_1783523770.jpg",
+    "date": "2026-07-08 15:17:52",
+    "timestamp": 1783523770,
+    "likes": 0,
+    "views": 241
+  },
+  {
     "id": "recipe_1783513496",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
