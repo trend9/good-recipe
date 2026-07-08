@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783531529",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "完熟トマト × フレッシュモッツァレラ：悪魔のチーズグラタン",
+    "title_en": "Tomato and Fresh Mozzarella Grilled Cheese Gravitational Pull",
+    "description_ja": "完熟トマトの甘酸っぱさが、フレッシュモッツァレラのクリーミーな味わいに、絶妙にマッチする、悪魔的な美味しさのチーズグラタンレシピ！一口食べたら、今までと違う世界へ旅立つはず。",
+    "description_en": "A devilishly delicious grilled cheese gratin where the sweet and tangy tomato flavor compliments the creamy fresh mozzarella. A taste explosion you won't forget.",
+    "occasion_ja": "パーティーや特別な日のディナーに最適！",
+    "occasion_en": "Perfect for a special dinner party or occasion!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトは皮をむき、半分に切り、トマトの内部を空洞にしておく。",
+      "2. フレッシュモッツァレラチーズは厚く切っておく。",
+      "3. フライパンを弱火で熱し、バターを加え、小麦粉を溶かしながら混ぜる。",
+      "4. トマトを入れ、チーズの間に挟む。弱火で1分間、チーズが溶けてトマト全体に火を通す。"
+    ],
+    "prompt": "Close-up photo of the grilled cheese gratin with tomatoes and mozzarella cheese, slightly smoked, vibrant colors, delicious aroma.",
+    "filename": "recipe_1783531529.jpg",
+    "date": "2026-07-08 17:27:13",
+    "timestamp": 1783531529,
+    "likes": 0,
+    "views": 472
+  },
+  {
     "id": "recipe_1783523770",
     "category": "side",
     "category_ja": "サイドディッシュ",
