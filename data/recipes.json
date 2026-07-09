@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783555609",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレ × 濃厚チーズマッシュポテトグラタン: デザートとマッシュポテトのハーモニー！",
+    "title_en": "Banana Caramel Brulee & Creamy Mashed Potato Gratin: A Dessert and Mash Potato Harmony!",
+    "description_ja": "甘味と塩気、そして濃厚なチーズのハーモニー。 完熟バナナの香りとキャラメルブリュレの甘さで、口の中で幸せが爆発する一皿。",
+    "description_en": "A delightful harmony of sweet, salty, and creamy. Enjoy the magic combination of caramelized banana and decadent mashed potatoes with a rich, cheesy flavor that will leave you wanting more.",
+    "occasion_ja": "特別なディナーや、週末の家族Mealに最適な一品。",
+    "occasion_en": "Perfect for special dinners or family meal gatherings on the weekends.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1本"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナをキャラメルでコーティングし、焼き目をつけます。\n",
+      "2. マッシュポテトとバターを加えて混ぜ合わせ、チーズを混ぜ込みます。\n",
+      "3. 焼き上がったバナナをマッシュポテトグラタンに盛り付けます。\n",
+      "4. さらに、濃厚チーズをのせて、オーブンで15分焼きます。"
+    ],
+    "prompt": "A close-up shot of a baked potato gratin with caramelized banana slices, topped with melted cheese and sprinkled with cinnamon. The whole dish is steaming from the oven.",
+    "filename": "recipe_1783555609.jpg",
+    "date": "2026-07-09 00:10:44",
+    "timestamp": 1783555609,
+    "likes": 0,
+    "views": 421
+  },
+  {
     "id": "recipe_1783548928",
     "category": "side",
     "category_ja": "サイド Dish",
