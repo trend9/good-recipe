@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1783572451",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔の海風アボカドグラタン",
+    "title_en": "Devil's Sea Breeze Avocado Gratin",
+    "description_ja": "クリーミーなアボカドと、意外な食材との組み合わせが、まるで海を思わせる、悪魔的な美味しさに。 濃厚なチーズで仕上げたこのグラタンは、まさに一皿で海の幸と甘辛な味わいが融合した驚きのハーモニー！",
+    "description_en": "A creamy avocado and an unexpected ingredient combination, evokes the ocean with a devilishly good taste. This gratin with a rich cheese finish brings together a fusion of ocean flavors in every bite.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "生鮭",
+        "amount": "100g"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "20g"
+      }
+    ],
+    "steps": [
+      "アボカドは、半分に切り、種を取り除く。",
+      "牛乳とチーズを混ぜる。",
+      "生鮭を細かく刻んで加える。",
+      "アボカドをグラタン皿に敷き詰める。",
+      "チーズと生クリームを混ぜて、アボカドの上に塗り、パルメザンチーズを振りかける。"
+    ],
+    "prompt": "Close-up shot of a decadent, creamy avocado gratin with salmon and cheese on top, artfully presented in an elegant dining setting. Dramatic lighting and a sprinkle of parmesan cheese.",
+    "filename": "recipe_1783572451.jpg",
+    "date": "2026-07-09 04:49:12",
+    "timestamp": 1783572451,
+    "likes": 0,
+    "views": 385
+  },
+  {
     "id": "recipe_1783555609",
     "category": "dessert",
     "category_ja": "デザート",
