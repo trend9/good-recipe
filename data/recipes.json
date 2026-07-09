@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1783631949",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：マッシュポテトの悪魔的ハーモニー！",
+    "title_en": "Smoked Pork Belly & Spicy Garlic Parmesan Mash: An Unforgettable Twist!",
+    "description_ja": "濃厚な焦がしにんにく醤油と炙りチャーシューを組み合わせ、マッシュポテトの甘辛な味が止まらない！ 意外な組み合わせに、衝撃的な美味しさで魅了するレシピ。",
+    "description_en": "Smoked pork belly meets rich spicy garlic parmesan mashed potatoes in this unexpected yet utterly delicious twist! A fusion of flavors that will leave your taste buds begging for more.",
+    "occasion_ja": "パーティーやBBQに最適な一品。",
+    "occasion_en": "Perfect side dish for any gathering, from parties to BBQs.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1kg"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "じゃがいもを細かく切る。",
+      "鍋にバターと牛乳を入れ、弱火で加熱する。",
+      "じゃがいもを加えて混ぜる。",
+      "塩胡椒で味を調える。",
+      "炙りチャーシューを混ぜ込む。"
+    ],
+    "prompt": "A close-up shot of the mashed potatoes with smoky, meaty textures of the beef on top. The creamy mashed potatoes is beautifully textured and rich.",
+    "filename": "recipe_1783631949.jpg",
+    "date": "2026-07-09 21:20:53",
+    "timestamp": 1783631949,
+    "likes": 0,
+    "views": 251
+  },
+  {
     "id": "recipe_1783625495",
     "category": "pasta",
     "category_ja": "パスタ",
