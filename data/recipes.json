@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783617543",
+    "category": "side",
+    "category_ja": "サイド Dish",
+    "title_ja": "抹茶ホワイトチョコ マッシュポテトグラタン - 悪魔の甘辛マッシュポテトグラタンに、抹茶の癒しを加えた新アレンジ",
+    "title_en": "Matcha White Chocolate Mashed Potato Gratin - A New Twist on Devilish Sweet & Spicy Mashed Potatoes",
+    "description_ja": "濃厚ホワイトチョコと抹茶の組み合わせで、悪魔的甘辛マッシュポテトグラタンに新しい一面を！クリーミーなマッシュポテトに、抹茶の香りと濃厚ホワイトチョコの味わいが絶妙なハーモニーが実現します。",
+    "description_en": "A new twist on Devilish Sweet & Spicy Mashed Potatoes with a combination of rich white chocolate and matcha powder! The creamy mashed potatoes get elevated with a unique blend of matcha’s soothing aroma and the decadent richness of white chocolate, creating an exquisite harmony. ",
+    "occasion_ja": "特別な日や、日常の食卓をちょっと変えたいとき",
+    "occasion_en": "Perfect for special occasions or when you want to add a little excitement to your everyday meals.",
+    "ingredients": [
+      {
+        "name": "ホワイトチョコ",
+        "amount": "200g"
+      },
+      {
+        "name": "抹茶粉",
+        "amount": "10g"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "400g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "1. マッシュポテトを牛乳と砂糖で混ぜる。なめらかになったら、ホワイトチョコと抹茶粉を加えて混ぜる。",
+      "2. グラタン皿にマッシュポテトの生地を入れて、400℃に予熱したオーブンで30分焼く。",
+      "3. 焼き上がったグラタンを冷ます。",
+      "4. 抹茶ホワイトチョコマッシュポテトグラタンは、お好みのトッピングを加えても美味しくいただけます。"
+    ],
+    "prompt": "Close-up shot of a creamy, delicious Matcha White Chocolate Mashed Potato Gratin with a sprinkle of matcha powder on top. A warm and inviting look.",
+    "filename": "recipe_1783617543.jpg",
+    "date": "2026-07-09 17:20:55",
+    "timestamp": 1783617543,
+    "likes": 0,
+    "views": 446
+  },
+  {
     "id": "recipe_1783608302",
     "category": "グラタン",
     "category_ja": "グラタン",
