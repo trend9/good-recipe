@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783720691",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × トロけるバターカラメル：悪魔の甘辛マッシュポテトグラタン (新感覚！) ",
+    "title_en": "Sweet Potato & Melty Butter Caramel: The New Generation of Devilish Sweet Potatoes",
+    "description_ja": "悪魔の美味しさを追求！甘辛でとろけるバターカルメルの魔法を焼き芋に織り込む。一口食べたら、もう一皿欲しくなる魔法のグラタンだ！ ",
+    "description_en": "Experience a new level of devilish deliciousness! Our decadent sweet potato & melty butter caramel is baked into a masterpiece. This unique dish will leave you wanting more.",
+    "occasion_ja": "パーティーや特別な日にぴったりな一品",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "水",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "焼き芋を洗って、薄切りにする。",
+      "ボウルにバター、砂糖、塩コショウを加え、溶かす。",
+      "焼き芋と溶けたバターカルメルの液体を混ぜ合わせる。",
+      "焼き芋グラタンの皿に生地を流し込み、オーブンで15分焼く。"
+    ],
+    "prompt": "Close-up shot of a golden-brown sweet potato and caramel mixture in a dish, with steam rising from the top. A dramatic, artsy style illustration.",
+    "filename": "recipe_1783720691.jpg",
+    "date": "2026-07-10 21:59:56",
+    "timestamp": 1783720691,
+    "likes": 0,
+    "views": 415
+  },
+  {
     "id": "recipe_1783714848",
     "category": "グラタン",
     "category_ja": "グラタン",
