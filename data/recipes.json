@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783650432",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のローストビーフとオニオンソースのグラタン - 甘辛な爆発力！",
+    "title_en": "Devilish Roast Beef and Onion Sauce Gratin: Explosive Sweet & Spicy Flavor Explosion!",
+    "description_ja": "普段のローストビーフとは一線を画す、甘辛で激辛な味わいが楽しめる新しいアレンジレシピ。濃厚なオニオンソースとローストビーフの組み合わせは、食欲をそそる一品です。",
+    "description_en": "A new take on roast beef with a sweet and spicy kick! The rich onion sauce and the intense roast beef will create an irresistible flavor. ",
+    "occasion_ja": "パーティーや特別な日にぴったりな一品",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1/4個"
+      }
+    ],
+    "steps": [
+      "ローストビーフを一口サイズにカット。",
+      "玉ねぎは薄切りにする。オニオンソースと砂糖、酒を加えて混ぜ合わせる。",
+      "鍋に玉ねぎの溶き卵とパプリカを加え、弱火で加熱。",
+      "ローストビーフと玉ねぎのソースを鍋に注ぎ、グラタン皿に盛り付ける。"
+    ],
+    "prompt": "Close-up image of a gratin with roast beef, onions, and a rich sauce. The dish is baked to a golden brown and filled with a vibrant color.",
+    "filename": "recipe_1783650432.jpg",
+    "date": "2026-07-10 02:28:55",
+    "timestamp": 1783650432,
+    "likes": 0,
+    "views": 471
+  },
+  {
     "id": "recipe_1783638540",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
