@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783727843",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のハニーマヨ唐揚げグラタン",
+    "title_en": "Devilish Honey Mayo Chicken Katsu & Cheese Grated",
+    "description_ja": "悪魔的な美味しさ！サクサクとクリーミーな味わいが融合する、揚げた鶏肉をチーズで包んだグラタン。 Honey mayoとカリッとした唐揚げとの相性は抜群！",
+    "description_en": "A devilishly delicious combination of crispy fried chicken and cheesy heaven! The savory umami flavor will transport you to another realm.",
+    "occasion_ja": "パーティー、ディナー、ランチなど、どんなシーンにも合う！",
+    "occasion_en": "Perfect for parties, dinners, or lunch, this dish will surely be a hit!",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      },
+      {
+        "name": "パン粉",
+        "amount": "100g"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏肉を塩コショウで味付けし、小麦粉で包む。",
+      "パン粉を混ぜたハニーマヨネーズでコーティングし、180度に予熱したオーブンで20分焼く。",
+      "チーズと鶏肉を挟み、グラタンの型に詰め、さらにチーズを乗せる。",
+      "オーブンで20分焼く。表面が焦げ付いたら完成。"
+    ],
+    "prompt": "Close-up shot of the devilish chicken and cheese gratin. A mix of crispy chicken, melty cheese sauce and a hint of smoky flavor. The cheesy goodness is oozing out.",
+    "filename": "recipe_1783727843.jpg",
+    "date": "2026-07-10 23:59:03",
+    "timestamp": 1783727843,
+    "likes": 0,
+    "views": 339
+  },
+  {
     "id": "recipe_1783720691",
     "category": "dessert",
     "category_ja": "デザート",
