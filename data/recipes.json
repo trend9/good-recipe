@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783700666",
+    "category": "side/dessert/sweet",
+    "category_ja": "サイド/デザート/甘味",
+    "title_ja": "焼き芋 × トロけるバターカラメル：悪魔の甘辛マッシュポテトグラタン",
+    "title_en": "Baked Sweet Potato x Melted Butter Caramel: Devilishly Sweet & Savory Mashed Potato Gratin",
+    "description_ja": "とろけるバターカラメルに、焼き芋の甘さが混ざり合う、悪魔的な美味しさのグラタンが誕生！甘辛な味付けで、口に入れた瞬間、まるで天国の味を味わえるはず。",
+    "description_en": "A devilishly sweet and savory mashed potato gratin with a rich caramel topping. The combination of the baked sweet potatoes' sweetness and the buttery, melt-in-your-mouth caramel creates an unforgettable taste experience.",
+    "occasion_ja": "パーティーや特別な日のディナーにぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1kg"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "20g"
+      },
+      {
+        "name": "シナモン",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "食塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋をカットし、食べやすく丸め、バターを加えて炒めます。",
+      "砂糖とシナモンを加え、甘辛い味付けを付けます。",
+      "焼き芋に溶けたバターとシナモンの味が染みて、とろけるバターカラメル仕上げになります。",
+      "盛り付けをして完成です。"
+    ],
+    "prompt": "close-up of a creamy mashed potato gratin with melted butter caramel topping, warm lighting and soft focus effect, anime illustration style",
+    "filename": "recipe_1783700666.jpg",
+    "date": "2026-07-10 16:27:54",
+    "timestamp": 1783700666,
+    "likes": 0,
+    "views": 460
+  },
+  {
     "id": "recipe_1783688988",
     "category": "side",
     "category_ja": "サイド dish",
