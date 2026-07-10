@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1783714848",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔の絶品グラタン (サクサクポテトとクリーミーチーズの最強コンビ！)",
+    "title_en": "Sizzling Potato & Creamy Cheese Sauce: The Devil's Deliciously Decadent Gratin",
+    "description_ja": "一口食べれば、サクサクとした食感とクリーミーなチーズソースが一体となって、まるで悪魔が作った料理？！ 予想外の組み合わせが、最高の味を生み出す！",
+    "description_en": "This devilishly delicious gratin will blow your mind! The combination of crispy potato and creamy cheese sauce, is an unexpected but irresistible pairing that creates a masterpiece.",
+    "occasion_ja": "パーティー、特別な日に、みんなで楽しめる！",
+    "occasion_en": "For parties, special occasions, and family gatherings!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "300g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "牛乳",
+        "amount": "20ml"
+      }
+    ],
+    "steps": [
+      "じゃがいもを大きめな塊に切り、一口大に切る。",
+      "フライパンにバターを入れて弱火で熱し、じゃがいもを炒める。",
+      "塩コショウで味を調え、牛乳を加えて混ぜる。",
+      "チーズを混ぜ込み、全体を軽く混ぜる。",
+      "オーブントースターで10分ほど焼く。"
+    ],
+    "prompt": "Close-up shot of a sizzling gratin with gooey cheese and crispy potato, looking intensely delicious.",
+    "filename": "recipe_1783714848.jpg",
+    "date": "2026-07-10 20:23:22",
+    "timestamp": 1783714848,
+    "likes": 0,
+    "views": 299
+  },
+  {
     "id": "recipe_1783707694",
     "category": "side",
     "category_ja": "サイド",
