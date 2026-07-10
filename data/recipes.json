@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783688988",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "悪魔の海風海老グラタン：クリーミーなアボカドと、海の風味が止まらない！",
+    "title_en": "Devilish Sea-Wind Shrimp Gratin: Creamy Avocado and the Ocean's Flavor is Unstoppable!",
+    "description_ja": "衝撃的な組み合わせ！クリーミーなアボカドソースと、塩気の効いた海風の風味で、海老の旨みが炸裂するグラタン！",
+    "description_en": "An incredible combination! The creamy avocado sauce and the salty ocean flavor explode with shrimp's umami in this gratin.",
+    "occasion_ja": "パーティーや特別な日に。",
+    "occasion_en": "Perfect for a party or special occasion.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. 海老は、塩コショウで味を調え、180℃のオーブンで15分焼く。",
+      "2. アボカドは、ボウルに軽く水気を切り、軽く叩き、バターを加えて混ぜる。",
+      "3. 1. お皿にグラタンソースを盛り、2. のアボカドソースを乗せる。",
+      "4. オーブンで15分焼く。"
+    ],
+    "prompt": "Close-up of the finished dish with a dramatic lighting effect, rich and creamy texture, seafood-inspired art style.",
+    "filename": "recipe_1783688988.jpg",
+    "date": "2026-07-10 13:11:30",
+    "timestamp": 1783688988,
+    "likes": 0,
+    "views": 420
+  },
+  {
     "id": "recipe_1783678832",
     "category": "side dish / dessert",
     "category_ja": "サイドディッシュ / デザート",
