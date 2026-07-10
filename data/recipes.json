@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783665635",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔的海老アボカドグラタン：クリーミーな甘辛ソースが爆発！",
+    "title_en": "Creamy Garlic Abalone & Avocado Gratin: Exploding Sweet and Salty Flavor!",
+    "description_ja": "海藻とクリーミーなアボカドのハーモニーを、甘辛い醤油で仕上げた、悪魔的美味しさを放つグラタン！",
+    "description_en": "A creamy and savory gratin featuring garlic abalone, avocado, a sweet and salty sauce. Prepare for an explosion of flavor!",
+    "occasion_ja": "パーティーや家族で楽しめる一品！",
+    "occasion_en": "An excellent side dish for parties or family gatherings.",
+    "ingredients": [
+      {
+        "name": " abalone (seafood) ",
+        "amount": "200g"
+      },
+      {
+        "name": " avocado (ripe) ",
+        "amount": "300g"
+      },
+      {
+        "name": " cream cheese (full fat) ",
+        "amount": "150g"
+      },
+      {
+        "name": " mayonnaise ",
+        "amount": "1 tbsp"
+      },
+      {
+        "name": " soy sauce ",
+        "amount": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Abalone and avocado, thinly sliced, are added to a bowl.",
+      "Cream cheese is blended with mayonnaise and soy sauce for the filling.",
+      "The mixture is spread evenly over abalone slices. The mixture is then baked in a preheated oven at 180 degrees Celsius for 20 minutes.",
+      "This is an easy yet delicious gratin that you can make even on busy days."
+    ],
+    "prompt": "Close-up photo of creamy garlic abalone and avocado gratin with smoky aroma, a slice of bread beside it, studio setting. ",
+    "filename": "recipe_1783665635.jpg",
+    "date": "2026-07-10 06:42:17",
+    "timestamp": 1783665635,
+    "likes": 0,
+    "views": 219
+  },
+  {
     "id": "recipe_1783650432",
     "category": "side",
     "category_ja": "サイド",
