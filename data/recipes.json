@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783678832",
+    "category": "side dish / dessert",
+    "category_ja": "サイドディッシュ / デザート",
+    "title_ja": "完熟トマト × フレッシュモッツァレラ：悪魔のチーズグラタン！",
+    "title_en": "Devilish Cheese Gratin with Fresh Mozzarella & Tomatoes!",
+    "description_ja": "完熟トマトの甘酸っぱさと、モッツァレラのクリーミーな味わいが、絶妙なハーモニーを奏でる、悪魔的なチーズグラタン！",
+    "description_en": "A devilish cheese gratin made with the sweet and tangy tomatoes, balanced perfectly by fresh mozzarella, for a heavenly treat! ",
+    "occasion_ja": "パーティーや特別な夜に！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトの皮と内側に油を塗って、400度に予熱したオーブンで20分焼きます。",
+      "2. 焼いたトマトは冷ましてから、モッツァレラチーズを細かく砕きます。",
+      "3.  牛乳とオニオンソースを加えて溶かしながら、チーズ生地を作る。",
+      "4. トマトにチーズ生地を塗り、オーブンで20分焼きます。"
+    ],
+    "prompt": "Close-up shot of a cheesy gratin, with bright red tomatoes and gooey mozzarella.",
+    "filename": "recipe_1783678832.jpg",
+    "date": "2026-07-10 10:22:13",
+    "timestamp": 1783678832,
+    "likes": 0,
+    "views": 451
+  },
+  {
     "id": "recipe_1783665635",
     "category": "side",
     "category_ja": "サイドディッシュ",
