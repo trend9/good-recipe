@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783771079",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "ローストビーフ×特製オニオンソースの「悪魔の甘辛マッシュポテト」グラタン",
+    "title_en": "Roast Beef & Special Onion Sauce Mashed Potatoes Gravy",
+    "description_ja": "「悪魔の甘辛マッシュポテト」に、ローストビーフと特製オニオンソースを組み合わせた、見た目も鮮やかなグラタン。とろける食感と甘辛な味わいが、まるで地獄の banquet を味わえる、まさに魅惑的な一品！",
+    "description_en": "A mashed potato gravy featuring the irresistible combination of roast beef and a special onion sauce, beautifully presented. Indulge in the decadent flavors of this heavenly dish with melt-in-your-mouth tenderness and a sweet and savory taste. ",
+    "occasion_ja": "パーティーや特別な日にぴったりな一品",
+    "occasion_en": "Great for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "ローストビーフと特製オニオンソースを混ぜる。",
+      "じゃがいも、玉ねぎを細かく切り、ボウルに入れた。",
+      "ボウルにバターを入れ、じゃがいも、玉ねぎを加え、全体をよく混ぜる。",
+      "グラタン皿に、ローストビーフとオニオンソースのミックスを盛り付け、オーブンで焼成する。"
+    ],
+    "prompt": "A close-up photo of the mashed potatoes gravy dish, with a roast beef on top and special onion sauce poured around it. Vibrant colors and contrasting textures",
+    "filename": "recipe_1783771079.jpg",
+    "date": "2026-07-11 11:58:55",
+    "timestamp": 1783771079,
+    "likes": 0,
+    "views": 461
+  },
+  {
     "id": "recipe_1783767701",
     "category": "dessert",
     "category_ja": "デザート",
