@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1783788722",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろけるチーズ×タッカルビチキン：悪魔の甘辛パフェ",
+    "title_en": "Tofu Cheese & Tteokbokki Paella: An Inferno of Deliciousness",
+    "description_ja": "とろけるチーズとタッカルビチキの意外性ある組み合わせを、パフェにアレンジ！濃厚な甘辛パウダーで、まるで悪魔が作ったデザートのような味を堪能しよう。",
+    "description_en": "A unique fusion of melted cheese and tteokbokki, transformed into a delicious dessert! The spicy, sweet and creamy blend will make your taste buds sing.",
+    "occasion_ja": "特別な日や、ちょっと贅沢な夜にぴったりなデザート",
+    "occasion_en": "Perfect for a special occasion or when you want a little indulgence.",
+    "ingredients": [
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "パウダーソース（甘辛なスパイスと塩、胡椒で作る）",
+        "amount": "適量"
+      },
+      {
+        "name": "パフェカップ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "チーズをパフェカップに敷き詰める。",
+      "タッカルビチキンをカットしてパフェカップの表面に盛り付ける。",
+      "甘辛なパウダーソースを混ぜて、チーズとチキンに広げる。",
+      "お好みでハーブや乾燥ローズマリーなどでデコレーション。"
+    ],
+    "prompt": "Close-up photo of a creamy, decadent dessert with melted cheese and tteokbokki pieces arranged artfully in a porcelain serving dish. A few sprigs of fresh herbs and a drizzle of sauce add visual appeal.",
+    "filename": "recipe_1783788722.jpg",
+    "date": "2026-07-11 16:53:44",
+    "timestamp": 1783788722,
+    "likes": 0,
+    "views": 451
+  },
+  {
     "id": "recipe_1783785041",
     "category": "dessert",
     "category_ja": "デザート",
