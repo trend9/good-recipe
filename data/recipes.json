@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783785041",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "海藻×クリーミーアボカドの「悪魔のクリーミーグラタン」",
+    "title_en": "Seaweed & Creamy Avocado “Devil’s Creamy Gravy”",
+    "description_ja": "海藻とクリーミーアボカドが絶妙な組み合わせ！濃厚でクリーミーなグラタンは、まるで海の恵みを感じる悪魔的な美味しさ。 ",
+    "description_en": "A devilishly delicious combination of seaweed and creamy avocado! This creamy gravy gratin is a must-try, with its deep, decadent richness reminiscent of the ocean's bounty.",
+    "occasion_ja": "特別な日にぴったりな悪魔のクリーミーグラタン。",
+    "occasion_en": "The perfect devilish creamy gratin for special occasions. ",
+    "ingredients": [
+      {
+        "name": "海藻 (100g)",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド (1個)",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ (50g)",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳 (200ml)",
+        "amount": "200ml"
+      },
+      {
+        "name": "バター (20g)",
+        "amount": "20g"
+      }
+    ],
+    "steps": [
+      "1. 海藻を細かく刻んで、ボウルに入れ、15分程度水気を切る。",
+      "2. アボカドをみじん切りにする。",
+      "3. ボウルにクリームチーズと牛乳を加え、よく混ぜる。",
+      "4. 海藻とアボカドをグラタン皿に盛り、クリーミーチーズのソースをかけ、バターをまぶして焼く。"
+    ],
+    "prompt": "Close-up shot of the creamy gravatn, with seaweed and avocado in a beautifully plated dish.",
+    "filename": "recipe_1783785041.jpg",
+    "date": "2026-07-11 15:52:27",
+    "timestamp": 1783785041,
+    "likes": 0,
+    "views": 338
+  },
+  {
     "id": "recipe_1783781400",
     "category": "dessert",
     "category_ja": "デザート",
