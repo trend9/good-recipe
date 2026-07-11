@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783735522",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔のサーモンタルト - アボカドタルタルの衝撃！",
+    "title_en": "Devil's Salmon Tart: Avocado Tartare Shock!",
+    "description_ja": "見た目も味も、まるで悪魔が作ったような、斬新で美味しいサーモンタルト。アボカドとレモンの爽やかな風味と、サーモンの香ばしい旨味が、最高のハーモニーを奏でる！",
+    "description_en": "This Devil's Salmon Tart offers an outrageous taste sensation. A beautiful and unique creation with a twist of lemon, the savory salmon pairs perfectly with the refreshing avocado, creating a harmony that will leave you wanting more!",
+    "occasion_ja": "特別な日やパーティーにぴったりな一品。",
+    "occasion_en": "A perfect dessert for special occasions and parties. ",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "タルト生地",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンは、薄切りにして塩コショウで味をつけ、レモン汁を少々加えます。",
+      "アボカドは、皮を剥き、細かく刻みます。",
+      "タルト生地を焼きます。",
+      "サーモンとアボカドのタルト生地に、レモン汁を添え、オーブンで10分ほど焼くことで完成。"
+    ],
+    "prompt": "Close-up photo of the devil's salmon tart, with a flaky crust and juicy salmon slices. The avocado tartar is laid on top and decorated with lemon zest.",
+    "filename": "recipe_1783735522.jpg",
+    "date": "2026-07-11 02:07:05",
+    "timestamp": 1783735522,
+    "likes": 0,
+    "views": 179
+  },
+  {
     "id": "recipe_1783727843",
     "category": "side",
     "category_ja": "サイド",
