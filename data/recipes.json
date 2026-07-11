@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783761815",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔のハニーマヨ唐揚げグラタン: サクサクと甘辛な衝撃の味",
+    "title_en": "Honey-Mayo Fried Chicken Gravy: A Crunch and Sweet Explosion of Flavor",
+    "description_ja": "サクサクとした唐揚げに、甘いハニーマヨネーズが絡み合う、悪魔的な味わいのグラタン。見た目もインパクト抜群！",
+    "description_en": "A decadent twist on the classic fried chicken gravy, this dish features crispy fried chicken in a honey-mayo sauce. It’s an explosion of savory and sweet flavors! Its unique presentation is sure to attract attention.",
+    "occasion_ja": "パーティーや特別な日の食事にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "鶏むね肉",
+        "amount": "250g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "こしょう",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏むね肉を一口大に切り、小麦粉をまぶす。",
+      "卵を1個ほど溶き、塩とこしょうで味を調える。",
+      "揚げる前に、10分ほど休ませる。",
+      "フライパンに油をひき、鶏むね肉を焼く。ハニーマヨネーズを加えて、とろけるまで焼く。"
+    ],
+    "prompt": "Close-up shot of a plate of honey-mayo fried chicken gravy with crispy chicken and the sauce, featuring vibrant colors and tantalizing textures.",
+    "filename": "recipe_1783761815.jpg",
+    "date": "2026-07-11 09:25:20",
+    "timestamp": 1783761815,
+    "likes": 0,
+    "views": 250
+  },
+  {
     "id": "recipe_1783748203",
     "category": "side",
     "category_ja": "サイド",
