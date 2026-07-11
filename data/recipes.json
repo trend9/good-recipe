@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783781400",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメル brûlée グラタン（悪魔の甘辛）",
+    "title_en": "Banana Caramel Brulee Gratin (Devil's Sweet and Spicy)",
+    "description_ja": "完熟バナナとキャラメルブリュレが、濃厚な甘さと塩気のコントラストで魅了する、悪魔的な美味しさ！サクサクのグラタン生地に、とろけるキャラメルソースとバナナの甘みが一体となる、一粒で満足できる絶品デザートグラタン。",
+    "description_en": "A devilishly delicious dessert gratin with a sweet and spicy contrast from ripe bananas and caramel. It's a combination of the crunchy gratin base, a decadent caramel sauce and banana sweetness that will leave you wanting more. This one-bite treat is sure to satisfy your craving!",
+    "occasion_ja": "特別な日や、ちょっとした贅沢に。",
+    "occasion_en": "Special occasions or a little indulgence.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "3個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "グラタン粉",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. 3個の完熟バナナを、裏返して皮を剥き、薄切りにする。",
+      "2. オーブンを180度に予熱する。キャラメルとバターを加熱し、グラタン粉で固めた生地を作る。",
+      "3. グラタン生地にバナナを交互に詰めて、キャラメルソースをかけ、牛乳を加えて混ぜる。",
+      "4. 180度のオーブンで15分焼く。焼きあがったら、キャラメルソースとバナナの甘みを楽しめる。 "
+    ],
+    "prompt": "Close-up photo of a warm, caramelized banana gratin with gooey caramel sauce and a sprinkle of cinnamon on top. The gratin is nestled in a small baking dish, and the steam rising adds to the visual appeal.",
+    "filename": "recipe_1783781400.jpg",
+    "date": "2026-07-11 14:52:41",
+    "timestamp": 1783781400,
+    "likes": 0,
+    "views": 279
+  },
+  {
     "id": "recipe_1783771079",
     "category": "side",
     "category_ja": "サイドディッシュ",
