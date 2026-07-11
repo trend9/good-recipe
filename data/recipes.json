@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783792420",
+    "category": "Side Dish/Rice",
+    "category_ja": "サイドディッシュ/ご飯料理",
+    "title_ja": "ガーリックバター×ぷりぷり海老の「悪魔の黄金ピラフ」",
+    "title_en": "Garlic Butter & Shrimp's 'Golden Pot Rice' (Devilish Flavor)",
+    "description_ja": "ぷりぷりの海老と、贅沢なガーリックバターの組み合わせで、まるで黄金のピラフが誕生したかのようです。甘辛に仕上げた、悪魔のような美味しさをお届けします。",
+    "description_en": "A devilishly delicious golden rice with plump shrimp and luxurious garlic butter. An irresistible flavor that makes you wonder if you are in heaven or hell.",
+    "occasion_ja": "パーティーや特別な日に、贅沢に味わいたい一品",
+    "occasion_en": "Perfect for parties and special occasions where you want to indulge in something truly special.",
+    "ingredients": [
+      {
+        "name": "ぷりぷりの海老 (100g)",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター (50g)",
+        "amount": "50g"
+      },
+      {
+        "name": "ご飯 (300g)",
+        "amount": "300g"
+      },
+      {
+        "name": "塩コショウ (適量)",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パプリカ (1個)",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. 好きな大きさに切ります。",
+      "2. ボウルにご飯とガーリックバターを入れ、塩コショウで味を調えます。",
+      "3. ピラッと盛り付けます。",
+      "4. パプリカを添えれば完成！"
+    ],
+    "prompt": "A close-up shot of golden rice with shrimp and garlic butter, looking inviting and delicious. The shrimp is plump and juicy, the rice is fluffy and golden.",
+    "filename": "recipe_1783792420.jpg",
+    "date": "2026-07-11 17:55:20",
+    "timestamp": 1783792420,
+    "likes": 0,
+    "views": 437
+  },
+  {
     "id": "recipe_1783788722",
     "category": "dessert",
     "category_ja": "デザート",
