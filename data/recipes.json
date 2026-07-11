@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783806383",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔の甘辛チーズ焼き",
+    "title_en": "Baked Sweet Potato with Creamy Butter Caramel: Devilishly Sweet and Spicy Cheese Cake",
+    "description_ja": "焼き芋と、とろけるようなバターカラメルの組み合わせは意外な美味しさ！このレシピを参考に、特別な夜に焼き芋の美味しさを引き立てる悪魔的なチーズ焼きを作ってみませんか？",
+    "description_en": "Unexpectedly delicious combination of baked sweet potato and creamy butter caramel! This recipe will help you make a unique devilishly sweet and spicy cheese cake for a special night.",
+    "occasion_ja": "特別な夜にぴったりな悪魔的スイーツ",
+    "occasion_en": "Devilish dessert for special occasions",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "チーズ",
+        "amount": "10g"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "焼き芋を直径約5cmに切る。",
+      "バターと砂糖を混ぜる。",
+      "チーズを加え、溶けたら焼き芋に乗せる。",
+      "水溶き片栗粉を水で混ぜて、焼き芋全体を包む。"
+    ],
+    "prompt": "Close-up photo of a baked sweet potato with creamy butter caramel, cheese melt, and water starch coating, vibrant colors, anime illustration style.",
+    "filename": "recipe_1783806383.jpg",
+    "date": "2026-07-11 21:49:06",
+    "timestamp": 1783806383,
+    "likes": 0,
+    "views": 398
+  },
+  {
     "id": "recipe_1783800243",
     "category": "dessert",
     "category_ja": "デザート",
