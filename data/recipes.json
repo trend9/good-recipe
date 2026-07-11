@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783767701",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコレートクランブルケーキ：悪魔の甘みと衝撃的な食感",
+    "title_en": "抹茶 White Chocolate Crumble Cake: A shockingly delightful mix of creamy indulgence and crumbly crunch.",
+    "description_ja": "濃厚なホワイトチョコレートと抹茶の組み合わせは、普段食べ慣れない美味しさ！クランブルケーキの層が、口に広がる抹茶の甘さと、ホワイトチョコレートのクリーミーな味わいが絶妙。悪魔的においしい一品に仕上がります！",
+    "description_en": "The fusion of rich white chocolate and matcha creates a surprisingly delicious experience! The crumble topping adds both a delightful crunch and depth to the creamy, indulgent cake. You’ll be blown away by this devilishly good dessert.",
+    "occasion_ja": "特別な日や、特別な人へ贈り物にぴったり！",
+    "occasion_en": "Perfect for special occasions or gifting a loved one!",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "10g"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "クランブルケーキミックス (お好みで抹茶を加える)",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1.  抹茶パウダーとホワイトチョコレートを混ぜ、なめらかになるまでよく混ぜる。",
+      "2.  バターを加え、クランブルケーキミックスを加えて混ぜる。",
+      "3.  生クリームで生地を包み込み、冷蔵庫で冷やす。",
+      "4.  焼いたケーキに生クリームを添えて、抹茶ホワイトチョコレートのクランブルケーキの悪魔的美味しさをお楽しみください。"
+    ],
+    "prompt": "Close-up shot of a decadent, crumbly white chocolate cake with green matcha swirls and rich cream frosting, with an anime-style illustration background.",
+    "filename": "recipe_1783767701.jpg",
+    "date": "2026-07-11 11:03:30",
+    "timestamp": 1783767701,
+    "likes": 0,
+    "views": 324
+  },
+  {
     "id": "recipe_1783761815",
     "category": "グラタン",
     "category_ja": "グラタン",
