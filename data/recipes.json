@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783796069",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろけるチーズ×タッカルビチキン：スパイシーチーズパフェの衝撃！",
+    "title_en": "Spicy Cheese & Tacucabi Chicken: A Spicy and Creamy Cheese Surprise!",
+    "description_ja": "濃厚なチーズと、タッカルビチキンで作る、爽やかで意外性のあるデザート。スパイシーな味わいが口の中に広がる、まさに悪魔の美味しさ！",
+    "description_en": "A spicy and refreshing dessert featuring creamy cheese and taccubai chicken. The unexpected combination of spices will surely surprise your taste buds.",
+    "occasion_ja": "特別な日や、ちょっとしたデザートに最適！",
+    "occasion_en": "Perfect for special occasions and a little treat!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "300g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バジル",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを、一口大にカットする。",
+      "とろけるチーズと、生クリームを混ぜる。砂糖を加えて味を調える。",
+      "タッカルビチキンを、容器に入れ、チーズミルクの層を作る。",
+      "バジルを、お好みで飾り付ける。"
+    ],
+    "prompt": "A close-up photo of the finished dish with a sprinkle of fresh basil, showcasing the creamy texture and contrasting colors of the cheese sauce and taccubai chicken.",
+    "filename": "recipe_1783796069.jpg",
+    "date": "2026-07-11 18:57:01",
+    "timestamp": 1783796069,
+    "likes": 0,
+    "views": 179
+  },
+  {
     "id": "recipe_1783792420",
     "category": "Side Dish/Rice",
     "category_ja": "サイドディッシュ/ご飯料理",
