@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1783800243",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔の黄金パフェ",
+    "title_en": "Sweet Potato & Cheese Cream: Devilish Golden Parfait",
+    "description_ja": "とろけるようなチーズソースとサクサクポテトのコントラストが、まるで悪魔が作った黄金パフェを味わえる！ 意外な組み合わせだけど、絶対にハマる美味しさ！",
+    "description_en": "A devilishly sweet and creamy potato parfait with a touch of cheesy goodness. A surprising and delicious flavor combination you'll never forget! ",
+    "occasion_ja": "特別な日や、普段からちょっと贅沢な気分がしたいときにおすすめ！",
+    "occasion_en": "A perfect dessert choice for special occasions or when you crave a little extra indulgence.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを皮ごと1cm厚さに切る。",
+      "鍋に牛乳を加え、弱火で温める。",
+      "温めた牛乳に塩と黒胡椒を加え、混ぜる。",
+      "ポテトを湯煎して水分を飛ばし、両面を軽く焼く。",
+      "なめらかになるまで生クリームを加え混ぜる。"
+    ],
+    "prompt": "Close-up image of a golden parfait with fluffy potato, creamy cheese sauce and garnishes. Dramatic lighting for a more impactful feel.",
+    "filename": "recipe_1783800243.jpg",
+    "date": "2026-07-11 20:05:42",
+    "timestamp": 1783800243,
+    "likes": 0,
+    "views": 169
+  },
+  {
     "id": "recipe_1783796069",
     "category": "dessert",
     "category_ja": "デザート",
