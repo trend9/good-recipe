@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1783748203",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の半熟卵ハンバーググラタン - デミグラス＆とろーり半熟卵の激変！",
+    "title_en": "Devilish Semi-Soft Egg Meatball Gratin with Demi-Glace Sauce",
+    "description_ja": "とろーり半熟卵とデミグラスソースが絡み合う、悪魔的な美味しさ満載のグラタン。家庭でも簡単に作れる一品です！",
+    "description_en": "A devilishly good gratin featuring a decadent combination of semi-soft egg and demi-glace sauce, this recipe is easy to recreate at home!",
+    "occasion_ja": "パーティーや特別な日の食事にぴったり",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "150g"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "200ml"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "溶き卵",
+        "amount": "1個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "ハンバーグの生地を準備。",
+      "溶き卵と小麦粉を加え、半熟卵で包み込む。",
+      "デミグラスソースと半熟卵を混ぜる。",
+      "グラタン皿にハンバーグを敷き詰め、ソースを乗せる。",
+      "180℃に予熱したオーブンで30分焼く。"
+    ],
+    "prompt": "Close-up image of a devilishly delicious Devilish Semi-Soft Egg Meatball Gratin with Demi-Glace Sauce.",
+    "filename": "recipe_1783748203.jpg",
+    "date": "2026-07-11 05:38:29",
+    "timestamp": 1783748203,
+    "likes": 0,
+    "views": 160
+  },
+  {
     "id": "recipe_1783735522",
     "category": "dessert",
     "category_ja": "デザート",
