@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783813831",
+    "category": "pasta",
+    "category_ja": "パスタ料理",
+    "title_ja": "完熟トマトの「悪魔の甘辛チーズ」ピラフ",
+    "title_en": "Devilishly Sweet and Savory Tomato & Mozzarella Pasta",
+    "description_ja": "完熟トマトとモッツァレラチーズが織りなす、甘辛でクリーミーなピラフ。見た目も鮮やかで、一口食べると悪魔的な美味しさに、誰もが虜になるでしょう！",
+    "description_en": "A devilishly sweet and savory tomato & mozzarella pasta. This dish is a beauty to behold, with its vibrant colors, and the delicious creamy flavors will leave you wanting more! ",
+    "occasion_ja": "特別な日に、特別な人への贈り物に最適な一品。",
+    "occasion_en": "Perfect for special occasions, and as a gift to someone special.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "パプリカ(赤) ",
+        "amount": "1個"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトを小さく切り、鍋にオリーブオイルとニンニクを入れ炒め、弱火でじっくり煮詰める。",
+      "2. パプリカを加え、さらに煮詰める。",
+      "3. 生クリームとモッツァレラチーズを混ぜて、トマトソースと合わせる。",
+      "4. ピラフに仕上げる。"
+    ],
+    "prompt": "A close-up photo of a creamy and savory tomato pasta dish with mozzarella cheese, red pepper flakes, and fresh herbs on top.",
+    "filename": "recipe_1783813831.jpg",
+    "date": "2026-07-11 23:52:16",
+    "timestamp": 1783813831,
+    "likes": 0,
+    "views": 387
+  },
+  {
     "id": "recipe_1783806383",
     "category": "dessert",
     "category_ja": "デザート",
