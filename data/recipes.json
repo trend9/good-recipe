@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783886858",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "ガーリックバター×ぷりぷり海老 ピラフの悪魔的「マッシュルーム風」パフェ",
+    "title_en": "Garlicky Butter Shrimp Fried Rice Paella with Spicy Mushroom and Creamy Cheese Twist",
+    "description_ja": "ぷりぷりの海老と香ばしいガーリックバターがたっぷり入ったピラフの、悪魔的な風味をさらに引き立てるパフェ！濃厚なクリームチーズのまろやかな甘酸っぱさが、意外性で食欲をそそります。 ",
+    "description_en": "A paella of shrimp and garlicky butter with a spicy mushroom twist, topped with creamy cheese for an unexpected and delicious dessert. Rich, smooth creaminess balances out the bold flavor of our unique ingredients.",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Great for special occasions or parties!",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "10g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "淡白なクリームチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリック",
+        "amount": "1個"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1/2個"
+      }
+    ],
+    "steps": [
+      "1. ピラフの具材を炒め、ガーリックバターを加えて香ばしさをプラス。",
+      "2. 生クリームと淡白なクリームチーズを混ぜ合わせ、なめらかになるまで混ぜる。",
+      "3. パプリカ、エビ、ガーリックバターを加え、しっかりと混ぜる。",
+      "4. 上に盛り付け、パプリカの赤い色、エビの鮮やかさにアクセントをプラス。"
+    ],
+    "prompt": "A close-up shot of a paella-style dessert with beautiful, vibrant colors. A creamy and spicy dish with delicate shrimp, a generous helping of cheese, and colorful peppers. The texture should be inviting and visually appealing.",
+    "filename": "recipe_1783886858.jpg",
+    "date": "2026-07-12 20:09:26",
+    "timestamp": 1783886858,
+    "likes": 0,
+    "views": 378
+  },
+  {
     "id": "recipe_1783882734",
     "category": "dessert",
     "category_ja": "デザート",
