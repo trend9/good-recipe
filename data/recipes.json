@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783867972",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコレートの「スパイシーサクサク」パフェ",
+    "title_en": "Spiced Savor Crunch Pan Cake: Matcha White Chocolate & Chili Lime",
+    "description_ja": "抹茶とホワイトチョコレートの組み合わせが、スパイシーなアクセントでさらに美味しさを引き立たせる、見た目を華やかに仕上げたパフェレシピ。想像以上に美味しい！",
+    "description_en": "A decadent matcha and white chocolate combination gets a spicy twist for an unexpected yet delicious pan-cake dessert. Get ready to be surprised!",
+    "occasion_ja": "特別な日に、普段使いにもぴったりな一品。",
+    "occasion_en": "Perfect for any occasion, this unique dish can also be enjoyed as part of your everyday routine.",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "150g"
+      },
+      {
+        "name": "ココナッツミルク",
+        "amount": "1カップ"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "赤Chiliペッパー",
+        "amount": "小さじ1/4"
+      }
+    ],
+    "steps": [
+      "1.  ホワイトチョコレートを鍋に入れ、ココナッツミルクを加えて溶かす。",
+      "2.  抹茶パウダーと塩コショウを混ぜ、溶かしながら加える。",
+      "3.  赤Chiliペッパーを加えて、かき混ぜる。",
+      "4.  溶かしたチョコレートの液体を、熱して柔らかくしたサクサク生地の上に流し込む。"
+    ],
+    "prompt": "Close-up shot of a pan cake with matcha and white chocolate glaze, topped with chili powder and garnished with whipped cream.",
+    "filename": "recipe_1783867972.jpg",
+    "date": "2026-07-12 14:55:31",
+    "timestamp": 1783867972,
+    "likes": 0,
+    "views": 411
+  },
+  {
     "id": "recipe_1783861693",
     "category": "dessert",
     "category_ja": "デザート",
