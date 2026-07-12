@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783835591",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろり半熟卵 × デミグラスハンバーグの「悪魔の甘辛グラタン」",
+    "title_en": "Devilish Sweet & Spicy Goulash Gratin with Melted Egg",
+    "description_ja": "とろける半熟卵と濃厚なデミグラスハンバーグが、クリーミーで甘いグラタンに！ Unexpected but absolutely delicious! ",
+    "description_en": "A devilishly sweet and spicy gratin with creamy, decadent mashed potatoes topped with a melting egg yolk. An unexpected but utterly delicious fusion of flavors.",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "適量"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "ハンバーグをデミグラスソースで味付けし、フライパンで焼きます。",
+      "牛乳と溶かしたチーズを加え、なめらかになるまで混ぜ合わせます。",
+      "焼いたハンバーグとチーズソースを、ボウルに盛り付けます。",
+      "半熟卵を溶き、お好みでチーズソースをかけ、グラタンを完成させます。"
+    ],
+    "prompt": "A close-up shot of the creamy, cheesy gratin with a partially melted egg yolk on top, evoking a sense of warmth and elegance. A sprinkle of fresh herbs would enhance the visual appeal.",
+    "filename": "recipe_1783835591.jpg",
+    "date": "2026-07-12 05:54:49",
+    "timestamp": 1783835591,
+    "likes": 0,
+    "views": 447
+  },
+  {
     "id": "recipe_1783813831",
     "category": "pasta",
     "category_ja": "パスタ料理",
