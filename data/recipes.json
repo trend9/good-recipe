@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783879035",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコレート × トロける卵「スパイシーサクサク」パフェ",
+    "title_en": "Spicy Saku-saku Matcha White Chocolate Cheesecake (with Eggs)",
+    "description_ja": "濃厚なホワイトチョコレートと、抹茶の甘さが絶妙に融合した、スパイシーサクサク食感のパフェ。とろける卵で更に悪魔的な美味しさを実現！",
+    "description_en": "A decadent matcha white chocolate cheesecake with a spicy, crispy texture. Egg yolk adds an extra layer of deliciousness!",
+    "occasion_ja": "特別な日や、日常で贅沢 indulgence を求める人におすすめ！",
+    "occasion_en": "The perfect dessert for special occasions or those who crave a luxurious indulgence in daily life.",
+    "ingredients": [
+      {
+        "name": "抹茶ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "生卵",
+        "amount": "2個"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "バター",
+        "amount": "30g"
+      },
+      {
+        "name": "シナモン",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      "1. 卵をボウルに入れ、砂糖とシナモンを加え、泡立て器で混ぜ合わせる。",
+      "2. ミキサーで抹茶ホワイトチョコレートとバターを加え、なめらかになるまで混ぜる。",
+      "3. 卵のボウルに、抹茶ホワイトチョコレートの生地を加え、混ぜる。",
+      "4. パフェ皿に生地を流し込む。表面を粗く砕いたナッツなどで飾る。"
+    ],
+    "prompt": "Close-up photo of the finished Matcha White Chocolate Cheesecake with a sprinkle of crushed nuts on top, glossy and decadent.",
+    "filename": "recipe_1783879035.jpg",
+    "date": "2026-07-12 17:58:56",
+    "timestamp": 1783879035,
+    "likes": 0,
+    "views": 230
+  },
+  {
     "id": "recipe_1783875262",
     "category": "丼もの",
     "category_ja": "丼物",
