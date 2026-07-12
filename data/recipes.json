@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783882734",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘辛バナナマッシュルームパフェ",
+    "title_en": "Devilishly Sweet Banana Mushroom Parfait",
+    "description_ja": "完熟バナナの甘さとキャラメルブリュレの香ばしさを、クリーミーなマッシュルームソースで包み込む！ 意外な組み合わせで、悪魔のような美味しさを引き出します。 ",
+    "description_en": "A devilishly sweet banana and caramel mushroom parfait, wrapped in a creamy mushroom sauce. An unexpected combination that will deliver an incredibly delicious surprise.",
+    "occasion_ja": "特別な日のデザートにぴったり!",
+    "occasion_en": "Perfect for special occasion dessert! ",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "1. マッシュルームは細切りにする。バターと牛乳を加えて煮詰める。\n",
+      "2. 弱火で溶き卵を加え、マッシュルームのソースを絡める。\n",
+      "3. 完熟バナナをカットし、キャラメルブリュレを乗せる。\n",
+      "4. マッシュルームソースを全体に広げる。"
+    ],
+    "prompt": "Close-up photo of a devilishly sweet banana mushroom parfait, topped with caramelized sugar and surrounded by soft whipped cream.",
+    "filename": "recipe_1783882734.jpg",
+    "date": "2026-07-12 19:00:33",
+    "timestamp": 1783882734,
+    "likes": 0,
+    "views": 193
+  },
+  {
     "id": "recipe_1783879035",
     "category": "dessert",
     "category_ja": "デザート",
