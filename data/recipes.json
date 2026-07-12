@@ -1,5 +1,62 @@
 [
   {
+    "id": "recipe_1783861693",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の黄金ピラフ ×ガーリックバター風味エビの「マッシュルームのスパイシーパフェ」",
+    "title_en": "Spicy Mushroom and Garlic Butter Shrimp Paella Recipe",
+    "description_ja": "ぷりぷりの海老と、まるでマッシュルームのスパイシーな風味が漂う悪魔の黄金ピラフ！ガーリックバターで香ばしさをプラスした、見た目も斬新でインパクト抜群の、新感覚パフェレシピが登場！",
+    "description_en": "An innovative and exciting new-generation paella recipe featuring shrimp, a spicy mushroom flavour that explodes on your taste buds! We've added garlicky buttery notes to the dish for an extra dimension of flavor. ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "1個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/4個"
+      },
+      {
+        "name": "にんにく",
+        "amount": "2かけ"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "スパイス（例: ハーブ、パプリカパウダー等）",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. マッシュルームは薄切りにして、にんにくはすりおろす。玉ねぎはみじん切りにする。",
+      "2. フライパンにオリーブオイルを熱し、マッシュルームと玉ねぎ、ニンニクを入れ炒める。",
+      "3. スパイスを加え、エビと塩コショウで味を整える。",
+      "4. パフェカップに盛り付け、ガーリックバターを乗せて完成。"
+    ],
+    "prompt": "A vibrant and colorful paella dish, garnished with a generous amount of garlicky butter and shrimp. The top layer is dotted with a fluffy cloud of mushroom.",
+    "filename": "recipe_1783861693.jpg",
+    "date": "2026-07-12 13:10:00",
+    "timestamp": 1783861693,
+    "likes": 0,
+    "views": 179
+  },
+  {
     "id": "recipe_1783857359",
     "category": "dessert",
     "category_ja": "デザート",
