@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783843727",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋×とろけるバター caramelの「悪魔の甘辛チーズケーキ」",
+    "title_en": "Devilish Sweet and Spicy Caramel Cheese Cake with Baked Potato",
+    "description_ja": "焼き芋の甘辛い香りを活かした、とろけるバター caramelチーズケーキ。まるで悪魔が作った、想像を超える美味しさ！",
+    "description_en": "A devilishly sweet and spicy caramel cheese cake. This is a delicious cheesecake with a burnt potato flavor. Imagine the taste of the devil's creation.",
+    "occasion_ja": "特別な日や、特別な人に贈る一品に。",
+    "occasion_en": "A perfect gift for a special person on a special day.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "とろけるバター",
+        "amount": "100g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋を半分にカットし、表面を軽く焼きます。",
+      "焼き芋の内部に溶けるバターと砂糖を加え、ゆっくり火にかけてチーズを加えます。",
+      "とろけるバターとチーズが溶け、焼き芋に浸透した caramel を混ぜ合わせます。",
+      "ケーキ型に生地を入れた後、オーブンで15分焼きます。"
+    ],
+    "prompt": "Close-up image of a devilishly delicious cheesecake with a baked potato top, dark background. Creamy and sweet dessert.",
+    "filename": "recipe_1783843727.jpg",
+    "date": "2026-07-12 08:10:22",
+    "timestamp": 1783843727,
+    "likes": 0,
+    "views": 478
+  },
+  {
     "id": "recipe_1783835591",
     "category": "side",
     "category_ja": "サイド",
