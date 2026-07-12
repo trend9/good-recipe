@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1783851868",
+    "category": "dessert/side",
+    "category_ja": "デザート/サイドディッシュ",
+    "title_ja": "悪魔の黄金タルタル",
+    "title_en": "Golden Salmon Avocado Tartare",
+    "description_ja": "濃厚なアボカドと、旨みが詰まったサーモンが、タルタルソースで包まれた、超絶美味！見た目も鮮やかな悪魔の料理です。",
+    "description_en": "Deconstructed, decadent salmon tartare with creamy avocado and tangy-sweet dressing. Visually stunning and amazingly delicious, this is a recipe you'll want to eat again and again.",
+    "occasion_ja": "特別な日に、あるいは日常の食卓にもぴったりな悪魔的スイーツ",
+    "occasion_en": "A decadent, devilish dessert for special occasions or any day.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン",
+        "amount": "1/2個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "オーツ麦粉",
+        "amount": "小さじ2"
+      }
+    ],
+    "steps": [
+      "サーモンを薄切りにして、塩コショウで味付けする。",
+      "アボカドは皮と種を取り除き、ざく切りにする。",
+      "レモン汁、醤油、砂糖、オーツ麦粉を混ぜ合わせ、タルタルソースを作る。",
+      "サーモンとアボカドを盛り付け、タルタルソースをかけたら完成。"
+    ],
+    "prompt": "A beautiful close-up shot of a golden salmon tartare, with a vibrant avocado spread and a swirl of creamy dressing.",
+    "filename": "recipe_1783851868.jpg",
+    "date": "2026-07-12 10:28:01",
+    "timestamp": 1783851868,
+    "likes": 0,
+    "views": 339
+  },
+  {
     "id": "recipe_1783843727",
     "category": "dessert",
     "category_ja": "デザート",
