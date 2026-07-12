@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783875262",
+    "category": "丼もの",
+    "category_ja": "丼物",
+    "title_ja": "とろける卵×キムチ麻婆豆腐丼：悪魔の甘辛パフェ風",
+    "title_en": "Spicy Kimchi Tofu Bowl with Creamy Egg: Devilish Spicy Pan-fried Ramen",
+    "description_ja": "一見普通のキムチ麻婆豆腐丼だけど、ふわとろ卵と合わせれば、悪魔的な美味しさを実現！甘辛なタレが食欲をそそる。",
+    "description_en": "A twist on the classic Korean Kimchi Tofu Bowl with a creamy egg topping! Indulge in this devilishly spicy pan-fried ramen experience.",
+    "occasion_ja": "食欲旺盛な晩御飯に最適！",
+    "occasion_en": "Perfect for a fulfilling meal on a busy night!",
+    "ingredients": [
+      {
+        "name": "キムチ麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "2杯"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "キムチ麻婆豆腐とご飯を混ぜる。",
+      "卵を溶き、砂糖と醤油で味を調える。",
+      "溶き卵をご飯とキムチ麻婆豆腐に加え、よく混ぜる。",
+      "フライパンで弱火で加熱し、卵がとろけるまで炒め合わせる。"
+    ],
+    "prompt": "A close-up shot of a sizzling pan with the Kimchi tofu bowl, showing the fluffy egg on top and a tantalizing aroma.",
+    "filename": "recipe_1783875262.jpg",
+    "date": "2026-07-12 16:55:11",
+    "timestamp": 1783875262,
+    "likes": 0,
+    "views": 392
+  },
+  {
     "id": "recipe_1783867972",
     "category": "dessert",
     "category_ja": "デザート",
