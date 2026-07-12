@@ -1,5 +1,48 @@
 [
   {
+    "id": "recipe_1783892656",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「スパイシーマッシュルーム」パフェ",
+    "title_en": "Spicy Mushroom Mousse Parfait with Smoked Char Siu & Creamy Roasted Garlic Sauce",
+    "description_ja": "まるで悪魔の舌を刺激する、炙りチャーシューと濃厚焦がしにんにく醤油が主役！マイルドな味わいのスパイシーなパフェに、とろけるチーズがアクセントに。",
+    "description_en": "A devilishly delicious parfait featuring smoked char siu and creamy roasted garlic sauce, a rich and spicy experience with a smooth melt-in-your-mouth touch of cheese.",
+    "occasion_ja": "特別な日、または夜のおやつにぴったりな一品",
+    "occasion_en": "Perfect for special occasions or late night dessert treat",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1切れ"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "1個"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. マッシュルームを薄切りにし、炙りチャーシューは一口サイズに切る。\n2. 濃厚焦がしにんにく醤油とマッシュルームを混ぜて、全体を包むように、とろけるチーズを塗る。\n3. 100mlの牛乳で溶かし、溶かしながら混ぜる。\n4. パフェカップに、チーズの溶けだした液体を注ぐ。",
+      "**Tip**: パフェカップに直接入れると固くなるので、ラップで包んで少し冷やしてから入れてください。"
+    ],
+    "prompt": "A close-up photo of a fluffy and colorful parfait. The top layer features creamy cheese sauce with roasted mushrooms, smoked char siu cubes, and garlic flavor in the background.",
+    "filename": "recipe_1783892656.jpg",
+    "date": "2026-07-12 21:48:08",
+    "timestamp": 1783892656,
+    "likes": 0,
+    "views": 240
+  },
+  {
     "id": "recipe_1783886858",
     "category": "dessert",
     "category_ja": "デザート",
