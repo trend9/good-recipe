@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783938060",
+    "category": "メインディッシュ/サイド",
+    "category_ja": "メインディッシュ/サイド",
+    "title_ja": "ローストビーフ × 特製オニオンソース: オニオンの悪魔的な旨みと甘さのハーモニー！",
+    "title_en": "Roast Beef x Spicy Onion Sauce: A symphony of savory and sweet from onions!",
+    "description_ja": "普段はシンプルに味わえるローストビーフを、意外な組み合わせで激変！特製オニオンソースと相性の良い、極上の悪魔的甘辛な味わいが楽しめる。SNS映えも抜群のレシピです！",
+    "description_en": "Transform a classic roast beef into an unexpected masterpiece with this spicy onion sauce twist! This recipe delivers an incredible, savory-sweet symphony in every bite. Perfect for sharing on social media.",
+    "occasion_ja": "特別な日にはもちろん、日常で気軽に味わえる、悪魔的美味しさの定番レシピです。",
+    "occasion_en": "This unique recipe is perfect for special occasions and everyday indulgence, unleashing a symphony of savory-sweet flavors.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ローストビーフをフライパンで両面焼き、完成。",
+      "玉ねぎは薄切りにして、オリーブオイルと塩コショウで味付けし、炒め合わせる。",
+      "特製オニオンソースを加え、よく混ぜる。",
+      "ローストビーフに特製オニオンソースをたっぷり塗って、完成！"
+    ],
+    "prompt": "A close-up shot of a beautifully grilled roast beef with a vibrant, spicy onion sauce drizzled on top. The background features warm tones with a playful and whimsical aesthetic.",
+    "filename": "recipe_1783938060.jpg",
+    "date": "2026-07-13 10:22:45",
+    "timestamp": 1783938060,
+    "likes": 0,
+    "views": 208
+  },
+  {
     "id": "recipe_1783923147",
     "category": "dessert",
     "category_ja": "デザート",
