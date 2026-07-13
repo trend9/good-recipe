@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783979594",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグ：悪魔の甘辛パフェ",
+    "title_en": "Tofu and Demi-glace Burger: Devilishly Sweet & Spicy Pancake",
+    "description_ja": "とろける半熟卵とデミグラスソースの組み合わせで、悪魔的な甘辛な味わいが楽しめる一皿。まるでパフェのような見た目と、濃厚な風味は間違いなし！ ",
+    "description_en": "A devilish blend of creamy, semi-soft egg and demi-glace sauce in a pancake form. This dish delivers a unique flavor profile with sweet and spicy notes.",
+    "occasion_ja": "特別な日のディナーや、友達とのお聚りにもぴったりな一品",
+    "occasion_en": "Perfect for special dinners or gatherings with friends.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "3個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "ハンバーグ肉",
+        "amount": "150g"
+      },
+      {
+        "name": "パウダーチーズ",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "お好みで砂糖少々",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "卵をボウルに入れ、砂糖と混ぜる。",
+      "フライパンに油をひき、溶き卵を流し込む。",
+      "中火で加熱し、卵が半熟になったら、ソースを加えて混ぜる。",
+      "ハンバーグ肉を薄く焼き、パウダーチーズとお好みで砂糖少々を加え、全体に絡める。"
+    ],
+    "prompt": "Close-up shot of a fluffy pancake topped with demi-glace sauce, juicy beef patty, and melted eggs, in the style of anime.",
+    "filename": "recipe_1783979594.jpg",
+    "date": "2026-07-13 21:54:56",
+    "timestamp": 1783979594,
+    "likes": 0,
+    "views": 211
+  },
+  {
     "id": "recipe_1783973439",
     "category": "dessert",
     "category_ja": "デザート",
