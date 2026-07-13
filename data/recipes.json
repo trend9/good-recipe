@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783960089",
+    "category": "料理 / 揚げ物",
+    "category_ja": "揚げ物",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：甘辛スパイシーの悪魔的炸裂！",
+    "title_en": "Ultra Thick Cutlet x Special Honey Mustard: Sweet, Spicy Explosion!",
+    "description_ja": "極厚カツに、特製ハニーマスタードで、甘辛いスパイシーなハーモニーが炸裂する一皿。見た目もインパクト大で、一度食べたら忘れられない一品を創造します！",
+    "description_en": "A devilishly delicious explosion of flavors! Our ultra-thick cutlet meets a special honey mustard sauce for a unique taste experience. This dish is sure to make a lasting impression with its incredible visual appeal and explosive flavor.",
+    "occasion_ja": "飲み会、パーティー、友人との食事など、インパクトのある一品を希望される方へ。",
+    "occasion_en": "For gatherings, parties, or dinners with friends. This dish will surely make a memorable impression.",
+    "ingredients": [
+      {
+        "name": "極厚カツ (2枚)",
+        "amount": "2"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "適量"
+      },
+      {
+        "name": "溶き卵 (1個)",
+        "amount": "1個"
+      },
+      {
+        "name": "片栗粉 (大さじ3)",
+        "amount": "3"
+      },
+      {
+        "name": "油 (適量)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを溶き卵と片栗粉でコーティングし、油で揚げます。",
+      "特製ハニーマスタードを適量混ぜ合わせ、カットした極厚カツに塗ります。",
+      "揚げられた極厚カツを皿に盛り付け、お好みでハニーマスタードを添えましょう。",
+      "一口サイズにカットして、ハニーマスタードと絡ませながら味わってみましょう。"
+    ],
+    "prompt": "Close up shot of a plate with ultra-thick cutlet coated with special honey mustard sauce, glistening on the surface. The cutlet is golden brown and crisp.",
+    "filename": "recipe_1783960089.jpg",
+    "date": "2026-07-13 16:29:54",
+    "timestamp": 1783960089,
+    "likes": 0,
+    "views": 383
+  },
+  {
     "id": "recipe_1783938060",
     "category": "メインディッシュ/サイド",
     "category_ja": "メインディッシュ/サイド",
