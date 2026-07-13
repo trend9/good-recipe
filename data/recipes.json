@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783967462",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナのキャラメル brûlée 悪魔のパフェ",
+    "title_en": "Banana Caramel Brûlée Devil's Dessert",
+    "description_ja": "完熟バナナの甘さとキャラメルブリュレの香ばしさが、悪魔的な美味しさに昇華！このレシピは、SNS映えする見た目も楽しめる、特別なデザートです。",
+    "description_en": "A devilishly delicious dessert that combines the sweetness of ripe bananas with the caramel brûlée. This recipe is not only visually appealing, but it's also a unique and unforgettable treat.",
+    "occasion_ja": "特別な日に、友達とシェアするのにぴったり！",
+    "occasion_en": "Perfect for sharing with friends on special occasions!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵白",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "粉砂糖",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "バナナを薄くスライスして、1枚ずつキャラメルでコーティングします。",
+      "バターと卵白を混ぜて、溶き卵を生地に混ぜます。",
+      "焼いたバナナを卵焼きのように形を整え、バターを塗った上に載せます。",
+      "オーブンで20分焼く。表面がカリッとしたキャラメルブリュレが出来上がったら、冷まします。"
+    ],
+    "prompt": "Close-up shot of a banana caramel brûlée dessert, with caramelized sugar topping and a golden brown finish. The fruit is beautifully arranged in a plate.",
+    "filename": "recipe_1783967462.jpg",
+    "date": "2026-07-13 18:33:32",
+    "timestamp": 1783967462,
+    "likes": 0,
+    "views": 346
+  },
+  {
     "id": "recipe_1783960089",
     "category": "料理 / 揚げ物",
     "category_ja": "揚げ物",
