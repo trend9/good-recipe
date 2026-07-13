@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783973439",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "完熟トマト × フレッシュモッツァレラ: 悪魔の甘酸っぱいパフェ",
+    "title_en": "Forbidden Fusion: Tomato & Mozzarella Panna Cotta",
+    "description_ja": "鮮やかな赤と白、まるで悪魔のドレスのように見える、このパフェは、完熟トマトの甘酸っぱさとモッツァレラのクリーミーな味わいが絶妙に調和。見た目も味も魅惑的な一品をぜひお試しください！",
+    "description_en": "The forbidden fusion of ripe tomatoes and fresh mozzarella, creating a visually arresting panna cotta. This dish offers a stunning balance of sweet and tangy flavors with a creamy texture, promising an unforgettable taste experience!",
+    "occasion_ja": "特別な日にぴったりな、優雅で魅惑的なデザート",
+    "occasion_en": "Perfect dessert for special occasions, offering elegance and allure in every bite.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "パウダー状のレモン汁",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. 1個の完熟トマトを、軽く水洗いし、薄切りにする。",
+      "2.  モッツァレラチーズは、ボウルに出し、軽く混ぜる。",
+      "3. 牛乳、砂糖とレモン汁を加え、泡立て器で混ぜ合わせる。",
+      "4. トマトを、牛乳の入ったボウルに入れ、全体に混ぜる。冷ましてから冷蔵保存する。"
+    ],
+    "prompt": "Close-up shot of a panna cotta with red and white tomato slices, topped with fresh mozzarella, in a bowl.",
+    "filename": "recipe_1783973439.jpg",
+    "date": "2026-07-13 20:12:05",
+    "timestamp": 1783973439,
+    "likes": 0,
+    "views": 152
+  },
+  {
     "id": "recipe_1783967462",
     "category": "dessert",
     "category_ja": "デザート",
