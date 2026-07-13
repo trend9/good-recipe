@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783923147",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × トロけるバターカラメル！悪魔の甘辛パフェ風",
+    "title_en": "Devilishly Delicious: Baked sweet potato & buttery caramel topping! A sweet and spicy twist on a classic.",
+    "description_ja": "焼き芋に、とろけるバターと甘いカラメルソースを合わせた、悪魔的な甘辛パフェ。意外な組み合わせが絶妙で、一口食べればもう止まらない！",
+    "description_en": "A devilishly delicious combination of roasted sweet potato and a buttery, caramel-like topping. This unexpected pairing will tantalize your taste buds and leave you wanting more!",
+    "occasion_ja": " parties/dinner party/potluck/celebration",
+    "occasion_en": "parties, dinner parties, potlucks, celebrations",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "シナモン",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "焼き芋を軽く焼いて、表面にシナモンを振りかける。",
+      "ボウルにバターと砂糖を入れ、溶かし、水溶き片栗粉を加えて混ぜる。",
+      "焼き芋にバターと砂糖のソースを塗る。",
+      "カラメルソースを焼き芋全体に塗る。"
+    ],
+    "prompt": "Close-up shot of a beautifully caramelized baked sweet potato with a rich butter caramel sauce, showcasing its enticing look.",
+    "filename": "recipe_1783923147.jpg",
+    "date": "2026-07-13 06:14:08",
+    "timestamp": 1783923147,
+    "likes": 0,
+    "views": 174
+  },
+  {
     "id": "recipe_1783908632",
     "category": "dessert",
     "category_ja": "デザート",
