@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1783983150",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋の悪魔的バターチーズケーキ風パフェ",
+    "title_en": "Devilish Butter Cheese Cake Pastry Pan-Cake",
+    "description_ja": "とろけるバターカラメルソースと、焼き芋の甘辛さが絶妙なハーモニー！まるでチーズケーキのような濃厚な味わいに仕上がります。悪魔的な美味しさをお楽しみください。",
+    "description_en": "A devilishly delicious and creamy cake with a buttery caramel sauce and sweet roasted potato. It offers a rich, cheesy taste in every bite.",
+    "occasion_ja": "特別な日に、ちょっと贅沢なデザートに！",
+    "occasion_en": "Perfect for special occasions or a decadent treat!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cm角の大きさにカットします。",
+      "ボウルにバターとカラメルソースを加え、混ぜ合わせます。",
+      "チーズをボウルに入れます。生クリームを加え、なめらかになるまで混ぜます。",
+      "焼き芋をバターチーズソースで包んで、パフェ皿に乗せます。 "
+    ],
+    "prompt": "Close-up shot of a devilishly beautiful cake with caramel glaze and fluffy roasted potato slices. A hint of cheese can be seen in the background. ",
+    "filename": "recipe_1783983150.jpg",
+    "date": "2026-07-13 22:53:24",
+    "timestamp": 1783983150,
+    "likes": 0,
+    "views": 384
+  },
+  {
     "id": "recipe_1783979594",
     "category": "dessert",
     "category_ja": "デザート",
