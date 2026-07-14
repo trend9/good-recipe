@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784062565",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマトとモッツァレラの悪魔的チーズケーキ風パフェ",
+    "title_en": "Tomato & Mozzarella Devil's Cheese Cake Pastry-Dessert",
+    "description_ja": "完熟トマトの甘酸っぱさとモッツァレラのクリーミーな味わいが、まるでチーズケーキを食べているような、まさに悪魔的な美味しさに満ちたパフェレシピ！",
+    "description_en": "A devilish dessert that combines the sweet and tangy flavor of ripe tomato with the creamy goodness of mozzarella cheese, like a cake in your mouth!",
+    "occasion_ja": "パーティーや特別な日に最適なデザートです。",
+    "occasion_en": "Perfect dessert for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ4"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトを薄切りにする。",
+      "2. モッツァレラチーズを細かく刻んで、別のボウルに入れ、生クリームとバターを加えて混ぜる。",
+      "3. ボウルに刻んだトマト、チーズクリームを盛り付ける。",
+      "4. 上に砂糖を少々振って仕上げる。"
+    ],
+    "prompt": "Close-up shot of a devilish cheese cake dessert, featuring a slice with the tomato and mozzarella mixture. A decadent texture and vibrant color scheme. (英語で料理の見た目を描写)",
+    "filename": "recipe_1784062565.jpg",
+    "date": "2026-07-14 20:59:58",
+    "timestamp": 1784062565,
+    "likes": 0,
+    "views": 161
+  },
+  {
     "id": "recipe_1784056307",
     "category": "dessert",
     "category_ja": "デザート",
