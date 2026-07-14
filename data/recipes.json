@@ -1,5 +1,53 @@
 [
   {
+    "id": "recipe_1783994167",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグの「スパイシーな甘辛」パフェ",
+    "title_en": "Semi-Soft Egg & Demi-glace Ham Burger Spicy Panna Cotta",
+    "description_ja": "とろーり半熟卵とデミグラスハンバーグを、意外なスパイシーな甘辛ソースで包んだ、衝撃的なパフェ。まるで悪魔の舌に魅了される一皿！",
+    "description_en": "A shockingly delicious pan-cotta with semi-soft egg and demi-glace burger, enveloped in a spicy sweet sauce. A taste bud adventure you won't forget! ",
+    "occasion_ja": "特別なディナーや、友達とのおやつにぴったり",
+    "occasion_en": "Perfect for a special dinner or dessert with friends!",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "2個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "小さじ2"
+      }
+    ],
+    "steps": [
+      "1. Demi-glace burger patties are cooked and allow to cool slightly. 2. For the pan-cotta, combine fresh cream, sugar, soy sauce, and mirin in a bowl. Stir until dissolved.",
+      "3. Fill a mold with about one half of the mixture and press into shape. Refrigerate for 30 minutes before serving.",
+      "4. While the pan-cotta is chilling, prepare a semi-soft egg by cooking it to your preferred doneness. Arrange on top of the pan-cotta. Serve and enjoy!"
+    ],
+    "prompt": "A close-up image of the pan-cotta with a half-cooked soft-boiled egg on top, showing its unique shape and texture in a dramatic way with a slightly red color from demi-glace. A touch of spice is suggested through a hint of pepper or paprika on the edge.",
+    "filename": "recipe_1783994167.jpg",
+    "date": "2026-07-14 01:58:59",
+    "timestamp": 1783994167,
+    "likes": 0,
+    "views": 323
+  },
+  {
     "id": "recipe_1783986622",
     "category": "dessert",
     "category_ja": "デザート",
