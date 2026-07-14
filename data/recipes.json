@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784035276",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × 濃厚とろけるバターチーズケーキ風パフェ",
+    "title_en": "Rich molten butter cheese cake-inspired pudding with roasted sweet potato",
+    "description_ja": "悪魔的な甘さとクリーミーなチーズのハーモニー！焼き芋を贅沢に使い、とろけるバターチーズケーキ風に仕上げた、まさに魔法の味わいを体験できるパフェが誕生！",
+    "description_en": "A decadent fusion of sweet and creamy, with a rich molten butter cheese cake-inspired flavour. This masterpiece features roasted sweet potato for a luxurious touch! ",
+    "occasion_ja": "特別な日にぴったりな、魅惑的なパフェ",
+    "occasion_en": "Perfect dessert for special occasions.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "チーズ (とろけるタイプ)",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cm角に切る。",
+      "バターとチーズを混ぜる。",
+      "生クリームを加え、なめらかになるまで混ぜる。",
+      "焼き芋を溶かし、混ぜ合わせたら、パフェ皿に盛り付ける。"
+    ],
+    "prompt": "An anime illustration of the fluffy, molten cheese cake-style pudding topped with roasted sweet potato slices. The background is dark and elegant.",
+    "filename": "recipe_1784035276.jpg",
+    "date": "2026-07-14 13:24:48",
+    "timestamp": 1784035276,
+    "likes": 0,
+    "views": 359
+  },
+  {
     "id": "recipe_1784022825",
     "category": "dessert",
     "category_ja": "デザート",
