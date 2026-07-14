@@ -1,5 +1,48 @@
 [
   {
+    "id": "recipe_1784069676",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶 × 濃厚ホワイトチョコレートの「悪魔の甘辛」パフェ",
+    "title_en": "Matcha X White Chocolate 'Devilishly Sweet' Parfait",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートが織りなす、意外性と美味しさが同時に味わえる悪魔的なパフェ。クリーミーで濃厚な味わいながら、抹茶の爽やかさとホワイトチョコレートの甘さが絶妙に調和！",
+    "description_en": "A devilishly sweet matcha and white chocolate parfait that offers a unique blend of surprising flavors. The creamy, decadent texture is balanced with the refreshing mint flavor of matcha and the sweet indulgence of white chocolate.",
+    "occasion_ja": "特別な日、またはちょっとしたデザートとして、ぜひ試してみてください。",
+    "occasion_en": "This parfait is perfect for special occasions or a little treat. ",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "抹茶アイス",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 抹茶パウダーと濃厚ホワイトチョコレートを混ぜ、なめらかになるまで混ぜ合わせる。\n2. 生クリームと水を加え、泡立て器で泡立てる。\n3. 抹茶アイスをパフェカップに盛り、ホワイトチョコレートペーストを軽く垂らして、抹茶の香りと白 chocolate の風味を楽しもう！\n4. パフェが完成！",
+      "Enjoy the devilishly sweet matcha and white chocolate parfait! "
+    ],
+    "prompt": "Close-up photo of a matcha and white chocolate parfait, with swirls and ice cream decorations. Vibrant colors and elegant presentation.",
+    "filename": "recipe_1784069676.jpg",
+    "date": "2026-07-14 22:57:28",
+    "timestamp": 1784069676,
+    "likes": 0,
+    "views": 384
+  },
+  {
     "id": "recipe_1784066161",
     "category": "dessert",
     "category_ja": "デザート",
