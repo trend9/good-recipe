@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784012973",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテト × クリーミーチーズソース　悪魔の甘辛パフェ",
+    "title_en": "Crispy Potato & Creamy Cheese Sauce - Devil's Spicy Sweet Pan",
+    "description_ja": "サクサク食感とクリーミーなチーズが、悪魔的な美味しさに昇華！ 意外な組み合わせで衝撃的においしいパフェを、ぜひご堪能あれ。",
+    "description_en": "Crispy potato and creamy cheese sauce, a devilishly delicious fusion! A surprising combination for an incredibly flavorful dessert. Enjoy this unique creation!",
+    "occasion_ja": "特別な日に、自分へのご褒美に！",
+    "occasion_en": "Perfect for a special occasion or as a self-reward treat! ",
+    "ingredients": [
+      {
+        "name": "サクサクポテト",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "50ml"
+      },
+      {
+        "name": "お好みで: ハチミツ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "お好みで: ジンジャーパウダー",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "お好みで: パプリカ粉",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. サクサクポテトを薄くスライスする。",
+      "2. フライパンにバターを溶かし、サクサクポテトを両面焼 hingga 金目になるまで炒める。",
+      "3. チーズソースとお好みでハチミツとジンジャーパウダーを加え、よく混ぜる。",
+      "4. 最後にお好みでパプリカ粉をまぶして、完成。"
+    ],
+    "prompt": "Close-up image of a devilishly delicious pan dessert, with crispy potato pieces and creamy cheese sauce poured onto the surface.",
+    "filename": "recipe_1784012973.jpg",
+    "date": "2026-07-14 07:11:13",
+    "timestamp": 1784012973,
+    "likes": 0,
+    "views": 246
+  },
+  {
     "id": "recipe_1784004567",
     "category": "dessert",
     "category_ja": "デザート",
