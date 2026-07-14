@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784004567",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘辛バター caramel パフェ",
+    "title_en": "Devilishly Spicy Caramel Butter Panna Cotta",
+    "description_ja": "焼き芋の甘さと、とろけるバターカラメルの組み合わせで、まるで悪魔が作ったようなスイーツ。一口食べたら、舌が踊りたくなる一皿に仕上がります！",
+    "description_en": "A devilishly good combination of sweet baked potato and melting butter caramel that will have your taste buds dancing! ",
+    "occasion_ja": "特別な日に、または日常のデザートに最適な一品。",
+    "occasion_en": "Perfect for special occasions or a delicious treat any day.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "Butter",
+        "amount": "30g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "20g"
+      },
+      {
+        "name": "水",
+        "amount": "10ml"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "焼き芋を一口サイズにカットします。",
+      "バターと砂糖を混ぜ合わせます。",
+      "フライパンでバターと砂糖を溶かし、焼き芋を絡めます。",
+      "カラメルソースを加えて溶かし、バター caramel を完成させます。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious, creamy caramel dessert, with burnt edges and gooey sweetness.",
+    "filename": "recipe_1784004567.jpg",
+    "date": "2026-07-14 04:51:06",
+    "timestamp": 1784004567,
+    "likes": 0,
+    "views": 449
+  },
+  {
     "id": "recipe_1783994167",
     "category": "dessert",
     "category_ja": "デザート",
