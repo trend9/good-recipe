@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784072902",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテト × クリーミーチーズソースの「マイルドな甘辛」パフェ",
+    "title_en": "Mildly Sweet & Savory Potato Cheese Ball Parfaits",
+    "description_ja": "サクサク食感のポテトにクリーミーチーズソースを絡める、マイルドで意外性のあるパフェ。まるで魔法がかかったような、悪魔的な甘辛さ。",
+    "description_en": "A unique and delightful twist on the classic potato cheese ball, combining the savory crunch of potato with creamy cheese sauce. This mild sweet & savory potato cheese ball parfait will take your taste buds to a whole new level! ",
+    "occasion_ja": "特別な日に、おやつにぴったりな一品",
+    "occasion_en": "Perfect for special occasions, or just as a delicious after-dinner treat.",
+    "ingredients": [
+      {
+        "name": "サクサクポテト",
+        "amount": "適量"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "適宜"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "お好みで"
+      },
+      {
+        "name": "白 chocolate フレーク (optional)",
+        "amount": "お好みで"
+      },
+      {
+        "name": "クリームシロップ (optional)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. サクサクポテトを少し小さめにカットします。",
+      "2. フライパンにバターを溶かし、ポテトを加え、中火で両面を焦げ付かせます。",
+      "3. 一度揚げたポテトを盛り付ける容器へ。",
+      "4. クリーミーチーズソース、抹茶パウダー、白 chocolate フレーク (optional) 、クリームシロップ (optional) を混ぜ合わせ、ポテトにつけます。"
+    ],
+    "prompt": "A beautiful close-up image of the parfaits with a white background, showcasing the layers of potato and cheese sauce. Incorporate some aesthetic flourishes such as sprinkles or a drop of cream.",
+    "filename": "recipe_1784072902.jpg",
+    "date": "2026-07-14 23:51:57",
+    "timestamp": 1784072902,
+    "likes": 0,
+    "views": 160
+  },
+  {
     "id": "recipe_1784069676",
     "category": "dessert",
     "category_ja": "デザート",
