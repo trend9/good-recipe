@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784066161",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の旨味！海藻＆クリーミーアボカドグラタンの甘辛パフェ",
+    "title_en": "Decadent Umami! Seaweed & Creamy Avocado Gratin Sweet & Sour Parfait",
+    "description_ja": "悪魔的な甘辛な味わいが、濃厚クリーミーアボカドのグラタンと、海藻の旨味で新たな美味しさ！驚くほど美味しいパフェを是非体験",
+    "description_en": "A decadent sweet and sour parfait with creamy avocado gratin, rich seaweed flavor and an umami explosion! Experience a new level of deliciousness.",
+    "occasion_ja": "特別な日のデザートに！友達とシェアしたい一品です",
+    "occasion_en": "Perfect dessert for special occasions, share with your friends!",
+    "ingredients": [
+      {
+        "name": "海藻 (乾燥海藻):",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "クリーミーアボカドグラタン (卵焼き):",
+        "amount": "1個"
+      },
+      {
+        "name": "アボカド: ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "砂糖: ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩: ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. アボカドを薄切りにし、熱したフライパンで炒めます。",
+      "2. 海藻を軽く水で戻し、ボウルに入れ、砂糖と塩で味付けします。",
+      "3. 卵焼きを加え、全体を混ぜます。",
+      "4. パフェカップに盛り付け、お好みでナッツやフルーツを添えてください。"
+    ],
+    "prompt": "Close up image of a parfait with seaweed and creamy avocado gratin on top, served in a glass parfait dish, decorated with fresh herbs, and a sprinkle of salt.",
+    "filename": "recipe_1784066161.jpg",
+    "date": "2026-07-14 21:57:47",
+    "timestamp": 1784066161,
+    "likes": 0,
+    "views": 224
+  },
+  {
     "id": "recipe_1784062565",
     "category": "dessert",
     "category_ja": "デザート",
