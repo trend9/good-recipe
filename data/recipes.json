@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784056307",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サーモン × アボカドタルタル パフェ (悪魔の甘辛パフェ × 2)",
+    "title_en": "Salmon Avocado Tartare Mousse Panna Cotta (Devilishly Sweet & Spicy)",
+    "description_ja": "サクサク食感とクリーミーな食感を組み合わせ、サーモンの旨みを最大限に引き出す悪魔的なデザートレシピ。甘酸っぱさと辛さの意外な組み合わせが食欲をそそる！",
+    "description_en": "This devilishly good dessert blends a crunchy, airy texture with creamy mousse for a show-stopping flavor experience. The unexpected combo of sweet & spicy will definitely tantalize your taste buds!",
+    "occasion_ja": "特別な日、パーティー、ちょっとした贅沢なデザートに！",
+    "occasion_en": "Perfect for special occasions, parties, or a fancy dessert indulgence.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1/2個"
+      },
+      {
+        "name": "タマネギ",
+        "amount": "1/4個"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "サーモンを細かく刻む。",
+      "アボカドとタマネギ、塩コショウで味付けして、すり潰す。",
+      "生クリームを加え、なめらかになるまで混ぜる。",
+      "サーモンとアボカドのタネが溶け込んだ後、パルメザンチーズを絡めながら、冷まして完成。"
+    ],
+    "prompt": "A close-up photo of a beautiful dessert with salmon and avocado mousse, garnished with black pepper.",
+    "filename": "recipe_1784056307.jpg",
+    "date": "2026-07-14 19:13:30",
+    "timestamp": 1784056307,
+    "likes": 0,
+    "views": 256
+  },
+  {
     "id": "recipe_1784048974",
     "category": "dessert",
     "category_ja": "デザート",
