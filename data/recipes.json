@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784048974",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔の甘辛パフェ (ポテトとチーズの組み合わせを再解釈) ",
+    "title_en": "Sizzling Potato + Creamy Cheese Sauce: Devilish Sweet & Spicy Panna Cotta",
+    "description_ja": "サクサクポテトの食感を活かし、クリーミーチーズソースで濃厚な味わいを表現。悪魔的な甘辛パフェを完成させます。",
+    "description_en": "Explores the contrast between crispy potato and creamy cheese sauce, creating a devilishly sweet & spicy panna cotta. ",
+    "occasion_ja": "特別な日に、優雅なひとときを演出するのにぴったりです。",
+    "occasion_en": "Perfect for special occasions and creating a luxurious experience.",
+    "ingredients": [
+      {
+        "name": "サクサクポテト",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "パンプコーン",
+        "amount": "2個"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. サクサクポテトを、お好みで砕く。",
+      "2. パンプコーンを、熱湯で軽く茹でる。",
+      "3. フライパンに、クリーミーチーズソースと砂糖を入れ、弱火で煮詰める。塩で味を調える。",
+      "4. サクサクポテトとパンプコーンを、クリーミーチーズソースの溶液に、混ぜる。冷まして、悪魔の甘辛パフェを作ろう！"
+    ],
+    "prompt": "Close-up shot of a devilish sweet and spicy panna cotta with a crispy potato texture. A burst of creamy cheese sauce oozing over the top, with the soft panko crumbles surrounding it.",
+    "filename": "recipe_1784048974.jpg",
+    "date": "2026-07-14 17:11:15",
+    "timestamp": 1784048974,
+    "likes": 0,
+    "views": 433
+  },
+  {
     "id": "recipe_1784035276",
     "category": "dessert",
     "category_ja": "デザート",
