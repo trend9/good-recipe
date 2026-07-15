@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784152521",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろける卵 × 旨辛麻婆豆腐の「悪魔な甘辛」パフェ",
+    "title_en": "Tofurky Egg & Spicy Mapo Tofu: The Devil's Sweet & Spicy Pan-Cake",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の組み合わせ、悪魔的な甘辛さに、ふわふわのパンケーキで包み込む！ 想像をはるかに超える、まさに「悪魔」の味覚を体験できるパフェをご用意しました。",
+    "description_en": "This devilishly delicious pancake fusion combines the creamy texture of tofu and egg with spicy mapo sauce. It's a surprising yet addictive flavor experience that transcends normal expectations.",
+    "occasion_ja": "特別な日や夜食にぴったり！",
+    "occasion_en": "Perfect for special occasions and late-night snacks! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "4個"
+      },
+      {
+        "name": "豆腐",
+        "amount": "250g"
+      },
+      {
+        "name": "マイルドな甘辛ソース",
+        "amount": "適量"
+      },
+      {
+        "name": "パンケーキミックス",
+        "amount": "1袋"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "豆腐を細かく刻んで、マイルドな甘辛ソースで味付けします。",
+      "卵を溶き、パンケーキミックスと混ぜ合わせます。",
+      "フライパンで卵を焼きます。",
+      "フライパンに豆腐とマイルドな甘辛ソースを入れて、ゆっくりと加熱します。パンケーキの生地を加えて、仕上げにマヨネーズを添えましょう。"
+    ],
+    "prompt": "Close-up shot of a pan cake with creamy egg filling, adorned with spicy mapo tofu and a drizzle of sweet and savory sauce. The background should be soft light, reminiscent of traditional Japanese dessert aesthetics.",
+    "filename": "recipe_1784152521.jpg",
+    "date": "2026-07-15 21:57:07",
+    "timestamp": 1784152521,
+    "likes": 0,
+    "views": 470
+  },
+  {
     "id": "recipe_1784142205",
     "category": "dessert",
     "category_ja": "デザート",
