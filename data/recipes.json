@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784090937",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "海藻 & アボカドCreamyチーズグラタン パフェ",
+    "title_en": "Seafood & Avocado Creamy Cheese Gratin Parfait",
+    "description_ja": "一見すると予想外の組み合わせが、悪魔的な甘辛な味わいへと昇華！ 海藻とクリーミーアボカドのグラタンの美味しさをそのままパフェにした、新たな美味しさをお届けします。",
+    "description_en": "An unexpected but delicious twist on a classic, this seafood and avocado creamy cheese gratin parfait combines the savory notes of seaweed and creaminess of avocado into a new flavor dimension. ",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "海藻 (乾燥)",
+        "amount": "適量"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "卵黄",
+        "amount": "1個"
+      },
+      {
+        "name": "小麦粉 (薄力粉)",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "150ml"
+      }
+    ],
+    "steps": [
+      "1. アボカドは石づきを取って、薄切りにします。",
+      "2.  海藻は軽く水気を取り、小さめのサイズにカットします。",
+      "3. 卵黄を混ぜてクリーミーチーズと牛乳で溶かし、小麦粉を加えて滑らかになるまで混ぜます。",
+      "4. アボカドと海藻を順に、クリーミーチーズソースの層を積み重ねて完成させます。"
+    ],
+    "prompt": "Close-up image of a creamy cheese gratin parfait with seaweed and avocado on top, decorated in a beautiful way with a drizzle of sauce. The background should be neutral.",
+    "filename": "recipe_1784090937.jpg",
+    "date": "2026-07-15 04:50:42",
+    "timestamp": 1784090937,
+    "likes": 0,
+    "views": 223
+  },
+  {
     "id": "recipe_1784080424",
     "category": "dessert",
     "category_ja": "デザート",
