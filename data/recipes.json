@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784114851",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「悪魔な甘辛」チーズケーキパフェ",
+    "title_en": "Spicy & Smoky Cheesy Cheesecake Panna Cotta with Char Siu and Garlic Pepper Sauce",
+    "description_ja": "とろけるようなチーズケーキに、炙りチャーシューと濃厚焦がしにんにく醤油を合わせた、悪魔的な甘辛パフェが誕生！ 意外な組み合わせの美味しさと、まるで「悪魔の舌」をも納得させる美味しさをお届けします。",
+    "description_en": "A cheesecake with a smoky, spicy flavor. A blend of char siu and garlic pepper sauce elevates the dessert to another level. It’s an unexpected but absolutely delicious taste adventure for your palate.",
+    "occasion_ja": "特別な日に、あるいは普段の夜食にぴったりな一品。",
+    "occasion_en": "Perfect for special occasions or a comforting evening treat.",
+    "ingredients": [
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "バニラエッセンス",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "チーズ (プロセスチーズ)",
+        "amount": "150g"
+      },
+      {
+        "name": "炙りチャーシュー (適量)",
+        "amount": "お好み"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油 (適量)",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 生クリームとバニラエッセンスを混ぜ、冷蔵庫で冷やします。\n    ",
+      "2. 練り込んだチーズを加え、混ぜます。\n    ",
+      "3. 濃厚焦がしにんにく醤油を混ぜて、表面に広げます。\n    ",
+      "4. 生クリームとチーズのミックスを平らな皿に盛り付け、炙りチャーシューを添えます。\n    "
+    ],
+    "prompt": "Close-up shot of a cheesecake pan with a smoky, spicy glaze and char siu on top.",
+    "filename": "recipe_1784114851.jpg",
+    "date": "2026-07-15 11:30:18",
+    "timestamp": 1784114851,
+    "likes": 0,
+    "views": 207
+  },
+  {
     "id": "recipe_1784099545",
     "category": "dessert",
     "category_ja": "デザート",
