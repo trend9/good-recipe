@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784080424",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛パフェ (新アレンジ)",
+    "title_en": "Smoked Charsiu & Spicy Garlic Sauce: Devilish Sweet and Sour Parfait",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油で、今まで味わったことのない悪魔的美味しさの新しいパフェ！甘辛に痺れる一品に、チーズを合わせた衝撃的な組み合わせで、味覚に新たな次元へ旅立つ！",
+    "description_en": "A devilishly delicious new parfait with a smoky charsiu and a rich, spicy garlic sauce, where you'll experience the flavor of your life! An explosion of contrasting flavors with the cheesy twist will take your taste buds on an unforgettable journey!",
+    "occasion_ja": "特別な日にはぴったり！友達とのディナーや誕生日会にも最適な一品",
+    "occasion_en": "Perfect for special occasions! Ideal for dinner with friends or birthdays.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "お好みで"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューと濃厚焦がしにんにく醤油を混ぜ合わせる。",
+      "2. 生クリームを器に流し込み、チーズを乗せる。",
+      "3. パフェのカップに抹茶パウダーを少し加え、表面を滑らかにする。",
+      "4. 炙りチャーシューと濃厚焦がしにんにく醤油のパフェを盛り付け、お好みでソースをかける。"
+    ],
+    "prompt": "Close-up of a parfait with smoked charsiu, rich garlic sauce, creamy cheese and green matcha powder sprinkle. The cream is swirling in the bowl.",
+    "filename": "recipe_1784080424.jpg",
+    "date": "2026-07-15 01:55:32",
+    "timestamp": 1784080424,
+    "likes": 0,
+    "views": 216
+  },
+  {
     "id": "recipe_1784072902",
     "category": "dessert",
     "category_ja": "デザート",
