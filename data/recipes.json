@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784129138",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘辛！ 海老のクリーミーアボカドグラタンパフェ",
+    "title_en": "Devilishly delicious! Creamy Avocado Salmon Gratin soufflé",
+    "description_ja": "海藻の風味とクリーミーなアボカドが、とろける食感のグラタン。悪魔的な美味しさに、あなたを魅了します！ そして、極上のふわふわパフェで、悪魔的な甘辛の世界が広がります。",
+    "description_en": "A unique twist on the classic gratin, with creamy avocado and a savory salmon filling. This decadent dish transforms into a fluffy soufflé, taking you on a journey through devilishly delicious flavors.",
+    "occasion_ja": "特別な日や、特別な夜に！",
+    "occasion_en": "A perfect treat for special occasions and evenings.",
+    "ingredients": [
+      {
+        "name": "海藻",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "鮭",
+        "amount": "200g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "パウダーチーズ",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 海藻と鮭を混ぜ、牛乳を加えて、グラタンの材料を準備。",
+      "2. アボカドをみじん切りにし、卵を溶き、牛乳を加えて混ぜ合わせ、クリーミーなグラタンソースを作ります。",
+      "3. パウンド型で生地を盛り、10分程度寝かせます。",
+      "4. オーブンで180度に予熱し、15分ほど焼きます。パフェの完成。"
+    ],
+    "prompt": "Close-up photo of creamy avocado salmon gratin soufflé with a dramatic cloud shape. Glowing cheese and fresh seafood textures are prominent in the image, capturing the decadent feel.",
+    "filename": "recipe_1784129138.jpg",
+    "date": "2026-07-15 15:28:28",
+    "timestamp": 1784129138,
+    "likes": 0,
+    "views": 442
+  },
+  {
     "id": "recipe_1784121897",
     "category": "dessert",
     "category_ja": "デザート",
