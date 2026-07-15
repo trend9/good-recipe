@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784121897",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろける卵 × デミグラスハンバーグ：悪魔の甘辛パフェ",
+    "title_en": "Devilish Delicate: Creamy Egg & Demi-Glace Beef Steak Melt",
+    "description_ja": "とろける半熟卵と、濃厚なデミグラスソースで包まれた、悪魔的な甘辛なパフェ。意外性のある組み合わせが、まるで悪魔が作った味の世界へ飛び込むでしょう！",
+    "description_en": "A devilishly decadent dessert featuring a creamy, melt-in-your-mouth egg and rich demi-glace beef steak in a sweet and savory sauce. A surprising combination for an experience straight from the underworld.",
+    "occasion_ja": "特別な日や、普段からちょっと贅沢な気分を味わいたい時におすすめ",
+    "occasion_en": "Perfect for special occasions or when you want a little indulgence in your daily life.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "ハンバーグ",
+        "amount": "250g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "卵を半熟状態にする。",
+      "ハンバーグを焼く。デミグラスソースを混ぜて、ハンバーグに絡める。",
+      "フライパンにバターを流し込み、卵を乗せる。",
+      "蓋をして弱火で5分程度焼く。"
+    ],
+    "prompt": "Close-up photo of a sizzling steak melting in buttery sauce with a perfectly cooked egg on top, steam rising. Vibrant colors and soft focus.",
+    "filename": "recipe_1784121897.jpg",
+    "date": "2026-07-15 13:28:52",
+    "timestamp": 1784121897,
+    "likes": 0,
+    "views": 397
+  },
+  {
     "id": "recipe_1784114851",
     "category": "dessert",
     "category_ja": "デザート",
