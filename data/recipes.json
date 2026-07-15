@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784135553",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "ガーリックバター×ぷりぷりの海老ピラフの、贅沢な悪魔パフェ",
+    "title_en": "Lobster Risotto Parfaits with Garlicky Butter",
+    "description_ja": "ぷりぷりの海老とガーリックバターの濃厚な旨味が楽しめる、まるで高級パフェのような、悪魔的な美味しさのレシピ。家庭でも簡単に作れる。",
+    "description_en": "A decadent and devilishly delicious parfait experience with a luxurious lobster risotto base. This recipe is easy to make at home, for you to enjoy the ultimate taste of lobster comfort food. ",
+    "occasion_ja": "特別な日や、贅沢な時間を演出したい時におすすめ。",
+    "occasion_en": "Perfect for special occasions or when you want to indulge in luxurious moments.",
+    "ingredients": [
+      {
+        "name": "生Lobster (ぷりぷりの海老)",
+        "amount": "150g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "10g"
+      },
+      {
+        "name": "risotto rice (イタリアンタイプ)",
+        "amount": "200g"
+      },
+      {
+        "name": "牛乳 (3%)",
+        "amount": "50ml"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 生Lobsterを水で洗い、殻をむいて、海老の身を細かく刻む。",
+      "2. risotto riceに牛乳を加え、弱火で3分ほど煮込む。塩コショウで味付けする。",
+      "3. 生Lobsterをフライパンで炒め、ガーリックバターを加える。",
+      "4. スプーンで混ぜながら, パルメザンチーズを少量加えて、仕上げに盛り付ける。"
+    ],
+    "prompt": "Close up shot of a lobster risotto parfait with melted cheese on top. The dish should have an elegant and decadent look.",
+    "filename": "recipe_1784135553.jpg",
+    "date": "2026-07-15 17:14:26",
+    "timestamp": 1784135553,
+    "likes": 0,
+    "views": 184
+  },
+  {
     "id": "recipe_1784129138",
     "category": "dessert",
     "category_ja": "デザート",
