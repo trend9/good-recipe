@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784156145",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘辛パフェ",
+    "title_en": "Sweet Potato × Butter Caramel: Devilish Sweet & Salty Dessert",
+    "description_ja": "焼き芋の甘さと、とろけるバターカラメルの塩気と甘さのハーモニーが、悪魔的な美味しさに昇格する！ 意外な組み合わせで、誰もが「これは一体何？！」と驚く魅惑的なパフェだ。",
+    "description_en": "A devilishly sweet and salty dessert with a combination of the sweetness of baked potatoes and the richness of butter caramel, creating an irresistible taste experience. This unexpected pairing will leave you saying 'What is this?'.",
+    "occasion_ja": "特別な日のディナーに、または特別な日に特別な人へのプレゼントに！",
+    "occasion_en": "Perfect for a special dinner or as a unique gift on a special occasion.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "焼き芋を大きめの一口サイズに切り、10分間程度、電子レンジで加熱する。",
+      "加熱した焼き芋をボウルに入れて、バターとカラメルソースを加えて混ぜる。",
+      "生クリームを加えながらよく混ぜ合わせる。",
+      "パフェ皿に盛り付け、お好みで黒蜜をかけて完成。"
+    ],
+    "prompt": "A close-up shot of the dessert, featuring a fluffy baked potato in the center with melted butter and caramel sauce. It has rich colors and a smooth texture that captures the eye.",
+    "filename": "recipe_1784156145.jpg",
+    "date": "2026-07-15 22:57:25",
+    "timestamp": 1784156145,
+    "likes": 0,
+    "views": 424
+  },
+  {
     "id": "recipe_1784152521",
     "category": "dessert",
     "category_ja": "デザート",
