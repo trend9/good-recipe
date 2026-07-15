@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784142205",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛！チーズケーキパフェ",
+    "title_en": "Devilishly Delicious! Char Siu & Spicy Garlic Cheese Cake Parfait",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を、甘酸っぱいチーズで包んだ、悪魔的な甘辛なスイーツ。まるで「地獄の食べ物」を食べているかのような、衝撃的美味しさです！",
+    "description_en": "A devilishly delicious twist on a classic cheesecake, this parfait combines the rich umami of char siu and spicy garlic sauce with creamy cheese for an unforgettable flavor experience! Like you're eating straight from hell itself.",
+    "occasion_ja": "特別な日に、自分へのご褒美にぴったり！",
+    "occasion_en": "Perfect for a special occasion or a reward to yourself!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "チーズ(とろけるタイプ)",
+        "amount": "適量"
+      },
+      {
+        "name": "パフェカップ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. 生クリームと濃厚焦がしにんにく醤油を混ぜ合わせ、溶かしながらチーズを混ぜ込む。",
+      "2. パフェカップに、炙りチャーシューと濃厚焦がしにんにく醤油を盛り付け、生クリームを飾る。",
+      "3. 溶けたチーズの表面に、仕上げのチーズを乗せる。",
+      "4. 冷蔵庫で10分ほど冷やして完成。"
+    ],
+    "prompt": "Close-up shot of a parfait with char siu, spicy garlic sauce, and creamy cheese in the shape of an elegant spiral. The surface is decorated with melted cheese.",
+    "filename": "recipe_1784142205.jpg",
+    "date": "2026-07-15 19:05:09",
+    "timestamp": 1784142205,
+    "likes": 0,
+    "views": 464
+  },
+  {
     "id": "recipe_1784135553",
     "category": "dessert",
     "category_ja": "デザート",
