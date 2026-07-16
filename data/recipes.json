@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784239665",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘辛パフェ",
+    "title_en": "Roasted Sweet Potato x Bursting Caramel: Devilishly Sweet & Salty Dessert",
+    "description_ja": "焼き芋の甘さと、とろけるバターカラメルのコクを組み合わせた、見た目も味もインパクト抜群の悪魔的デザートレシピ！ ",
+    "description_en": "A devilishly delicious dessert recipe combining the sweetness of roasted sweet potatoes with a bursting caramel for an irresistible treat.",
+    "occasion_ja": "特別な夜に、友達とシェアできる、そして大人も子供も楽しめる、悪魔的デザートレシピ",
+    "occasion_en": "Perfect for special occasions, this dessert is a fun and delicious treat for both adults and children.",
+    "ingredients": [
+      {
+        "name": "焼き芋 (2個)",
+        "amount": "2"
+      },
+      {
+        "name": "バター (100g)",
+        "amount": "100"
+      },
+      {
+        "name": "砂糖 (大さじ3)",
+        "amount": "3"
+      },
+      {
+        "name": "水 (大さじ1)",
+        "amount": "1"
+      },
+      {
+        "name": "溶かしバター (適量)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "焼き芋を60度で約15分蒸す。",
+      "バターと砂糖を混ぜ、水を加え溶かす。",
+      "溶かしたバターと砂糖の液体を焼き芋に塗る。",
+      "溶かしバターで仕上げてください。"
+    ],
+    "prompt": "Close-up of the sweet potato dessert with a golden caramel sauce drizzled on top, soft smoke effect.  An artistic rendering style.",
+    "filename": "recipe_1784239665.jpg",
+    "date": "2026-07-16 22:09:00",
+    "timestamp": 1784239665,
+    "likes": 0,
+    "views": 322
+  },
+  {
     "id": "recipe_1784235685",
     "category": "dessert",
     "category_ja": "デザート",
