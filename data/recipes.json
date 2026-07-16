@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784246200",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグ パフェ",
+    "title_en": "Semi-Soft Egg & Demi-Glace Hamburger Panna Cotta",
+    "description_ja": "とろける半熟卵と、濃厚デミグラスソースで作る、悪魔的なパフェ。意外な組み合わせが美味しい！\n見た目も華やかで、SNS映え間違いなし！",
+    "description_en": "This decadent pan-na cotta combines a semi-soft egg with rich demi-glace sauce, bringing a unique yet unexpected deliciousness. Visually striking and Instagram worthy.",
+    "occasion_ja": "特別な日に、特別なデザートを召し上がろう！",
+    "occasion_en": "For special occasions or an indulgent treat.",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "パフェ皿",
+        "amount": "1枚"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "卵は半熟の状態にする。",
+      "半熟卵とデミグラスソースを、パフェ皿に盛り付ける。",
+      "生クリームを加え、なめらかになるまで混ぜる。",
+      "砂糖を加えて味を整え、パフェ皿に盛り付け完成。"
+    ],
+    "prompt": "A close-up shot of a panna cotta dish with a semi-soft egg and demi-glace sauce, topped with meringue. A dramatic lighting effect with smoke from the top of the dish.",
+    "filename": "recipe_1784246200.jpg",
+    "date": "2026-07-16 23:58:23",
+    "timestamp": 1784246200,
+    "likes": 0,
+    "views": 364
+  },
+  {
     "id": "recipe_1784239665",
     "category": "dessert",
     "category_ja": "デザート",
