@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784189070",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "ハニーマヨネーズ×サクサク唐揚げの悪魔パフェ",
+    "title_en": "Honey Mayo & Crispy Chicken Devil's Paradise Parfait",
+    "description_ja": "サクサク唐揚げにハニーマヨネーズの甘酸っぱさが絡み、口どけの良い、悪魔的な美味しさ！一口食べたら止まらない一品です。",
+    "description_en": "A devilishly delicious parfait! Crispy chicken meets sweet honey mayo for an irresistible, mouthwatering experience.",
+    "occasion_ja": "特別な日に、友達との夜、または自分だけの贅沢な時間",
+    "occasion_en": "Special occasion, party with friends or a luxurious self-indulgent moment",
+    "ingredients": [
+      {
+        "name": "サクサク唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パフェカップ",
+        "amount": "1個"
+      },
+      {
+        "name": "ココナッツミルク",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "蜂蜜",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. サクサク唐揚げをパフェカップに盛り付ける。",
+      "2. ハニーマヨネーズとレモン汁を混ぜ、全体に振りかける。",
+      "3. ココナッツミルクを少しずつ加え、パフェカップ全体に湿らせた後、全体を軽く盛り付ける。",
+      "4. 仕上げに蜂蜜を薄く散らし、お好みで黒胡椒を振る。"
+    ],
+    "prompt": "A close-up image of the parfait, with a golden brown crispy chicken and sweet honey mayo drizzle on top, surrounded by fluffy coconut milk foam.",
+    "filename": "recipe_1784189070.jpg",
+    "date": "2026-07-16 08:07:03",
+    "timestamp": 1784189070,
+    "likes": 0,
+    "views": 267
+  },
+  {
     "id": "recipe_1784180132",
     "category": "side/dessert",
     "category_ja": "サイド/デザート",
