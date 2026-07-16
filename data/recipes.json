@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784213799",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔の甘辛パフェ",
+    "title_en": "Samosas & Cheese Sauce: A Deliciously Devilish Panoramic Dessert",
+    "description_ja": "サクサクポテトとクリーミーチーズソースの組み合わせが、悪魔的美味しさ！見た目も鮮やかで、まるで絵画のようなパフェ。家庭で簡単に作れる特別なデザートレシピです。",
+    "description_en": "A devilishly delicious combination of crispy potato and creamy cheese sauce in a panoramic dessert form. This recipe is easy to make at home, and makes for a special treat.",
+    "occasion_ja": "特別な日に、おもてなしに、または、ちょっと贅沢な自分へのご褒美に！",
+    "occasion_en": "For a special occasion, as a guest treat or for a little indulgence in yourself!",
+    "ingredients": [
+      {
+        "name": "サクサクポテト",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "1カップ"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. サクサクポテトを、お好みで薄くカットします。",
+      "2. フライパンにごま油を熱し、サクサクポテトを炒めます。塩で味付けをします。",
+      "3. クリームチーズ、砂糖、塩を加えて混ぜます。",
+      "4. 1.と2.の食材を盛り付け、デザートに仕上げます。"
+    ],
+    "prompt": "A panoramic dessert image with a delicious cream cheese sauce and crispy potatoes, with a dramatic focus on color.",
+    "filename": "recipe_1784213799.jpg",
+    "date": "2026-07-16 14:59:10",
+    "timestamp": 1784213799,
+    "likes": 0,
+    "views": 154
+  },
+  {
     "id": "recipe_1784204386",
     "category": "dessert",
     "category_ja": "デザート",
