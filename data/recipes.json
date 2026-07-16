@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1784235685",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サーモン × 抹茶チーズタルト: 悪魔の甘辛パフェ",
+    "title_en": "Salmon & Matcha Cheesecake Tart: Devilish Sweet & Savory Dessert",
+    "description_ja": "一見シンプルに見えるけど、一口食べたら悪魔的な美味しさ explodes！ サーモンと抹茶チーズの意外な組み合わせが、絶妙なハーモニーを生み出す、誰もが笑顔になれる魅惑的なデザートレシピ。 ぜひ試してみてね！",
+    "description_en": "A surprisingly delicious dessert that will blow your mind! The unlikely combination of salmon and matcha cheesecake creates a harmonious, devilishly good taste. This recipe is guaranteed to bring smiles to everyone.",
+    "occasion_ja": "特別な日や、ちょっとしたおやつに最適な一品。",
+    "occasion_en": "Perfect for special occasions or a delicious snack.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "抹茶チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "サーモンは小さめな一口サイズに切る。",
+      "抹茶チーズをボールに入れ、ボウルで泡立て器で混ぜる。",
+      "小麦粉と卵を混ぜて生地を作る。",
+      "生地をタルト型に流し込む。",
+      "サーモンをタルトの上にのせて焼成。"
+    ],
+    "prompt": "Close-up shot of a delicate green matcha cheesecake tart with salmon pieces, looking enticing and ready to be enjoyed.",
+    "filename": "recipe_1784235685.jpg",
+    "date": "2026-07-16 21:02:41",
+    "timestamp": 1784235685,
+    "likes": 0,
+    "views": 452
+  },
+  {
     "id": "recipe_1784232011",
     "category": "dessert",
     "category_ja": "デザート",
