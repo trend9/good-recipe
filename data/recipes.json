@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784232011",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス！悪魔の甘辛パフェに昇華！",
+    "title_en": "Black Honey Kinako Mochi Ice Cream! Devilish Sweet & Salty Flavor!",
+    "description_ja": "黒蜜ときな粉の組み合わせが、もちもち食感のアイスに最高のハーモニーを生み出す！悪魔的な味わいが楽しめるパフェレシピ。",
+    "description_en": "A devilishly delightful fusion of black honey and kinako creates a rich, chewy ice cream that elevates the classic treat! This recipe delivers an explosion of savory-sweet flavor.",
+    "occasion_ja": "特別な日に、友達とのディナーなどにも最適な一品！",
+    "occasion_en": "Perfect for special occasions or sharing with friends! ",
+    "ingredients": [
+      {
+        "name": "もちもちアイス (材料)",
+        "amount": "1個"
+      },
+      {
+        "name": "黒蜜 (材料)",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "きな粉 (材料)",
+        "amount": "適量"
+      },
+      {
+        "name": "バター (材料)",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "もちもちアイスを、黒蜜ときな粉で混ぜる。",
+      "溶かしたバターを加えて混ぜる。",
+      "アイスにバターを溶かしながら混ぜる。",
+      "パフェの型にアイスを盛り付け、お好みで黒蜜ときな粉をトッピングする。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious black honey kinako ice cream parfait. A perfect balance of sweet and salty flavors, topped with delicate sprinkles.",
+    "filename": "recipe_1784232011.jpg",
+    "date": "2026-07-16 20:01:26",
+    "timestamp": 1784232011,
+    "likes": 0,
+    "views": 298
+  },
+  {
     "id": "recipe_1784218603",
     "category": "dessert",
     "category_ja": "デザート",
