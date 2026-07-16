@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784199329",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サーモン × アボカドタルタル: 悪魔パフェ",
+    "title_en": "Salmon & Avocado Tartare Panna Cotta: Devilish Delights",
+    "description_ja": "悪魔的な美味しさ！サーモンとアボカドのタルタルを、なめらかなパなんコッタで包み込んだ、まさに悪魔のパフェ。見た目も鮮やかで、一口食べたら舌を刺激する一品です！",
+    "description_en": "Devilishly Delicious! A panna cotta fusion of salmon and avocado tartare, a unique and decadent treat that's sure to ignite your senses. ",
+    "occasion_ja": "特別な日や、特別な時間にもぴったりな一品を演出。",
+    "occasion_en": "A decadent dessert for special occasions.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "適量"
+      },
+      {
+        "name": "アボカド",
+        "amount": "適量"
+      },
+      {
+        "name": "パなんコッタ",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "少々"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンとアボカドを、軽く刻み、レモン汁、塩、黒胡椒で和える。",
+      "パなんコッタの鍋に水を入れて加熱し、温める。",
+      "混ぜ合わせる。",
+      "盛り付けて完成。"
+    ],
+    "prompt": "Close-up view of a devilishly delicious panna cotta with salmon and avocado tartare on top. A vibrant, artistic image inspired by Ghibli's animation style.",
+    "filename": "recipe_1784199329.jpg",
+    "date": "2026-07-16 10:58:59",
+    "timestamp": 1784199329,
+    "likes": 0,
+    "views": 262
+  },
+  {
     "id": "recipe_1784189070",
     "category": "dessert",
     "category_ja": "デザート",
