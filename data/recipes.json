@@ -1,5 +1,42 @@
 [
   {
+    "id": "recipe_1784180132",
+    "category": "side/dessert",
+    "category_ja": "サイド/デザート",
+    "title_ja": "サクサクポテト × チーズソース：悪魔の甘辛パフェ",
+    "title_en": "Samosas & Cheese: A devilishly delicious sweet and savory twist!",
+    "description_ja": "定番のポテトチップスを、クリーミーチーズソースと相性抜群！サクサク食感と濃厚なチーズが一体となった、まさに悪魔的な美味しさ！",
+    "description_en": "Transform your favorite potato chips into a decadent treat! The perfect balance of crispy texture and creamy cheese creates a devilishly delicious combination!",
+    "occasion_ja": "パーティーや映画鑑賞に最適な、特別な一品",
+    "occasion_en": "Perfect for parties or movie nights, this special treat is sure to impress.",
+    "ingredients": [
+      {
+        "name": "ポテトチップス (200g)",
+        "amount": "適量"
+      },
+      {
+        "name": "クリーミーチーズソース (150ml)",
+        "amount": "適量"
+      },
+      {
+        "name": "マヨネーズ (10g)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ポテトチップスを準備。",
+      "フライパンにマヨネーズとクリーミーチーズソースを混ぜ、温める。",
+      "熱したフライパンでポテトチップスを軽く焼いて、チーズソースが染み込むように入れる。",
+      "お好みで、さらにチーズソースをかけて完成。"
+    ],
+    "prompt": "Close-up image of a pan with sizzling potato chips coated in creamy cheese sauce. The cheese is melted and bubbling, giving off an irresistible aroma. A sprinkle of salt could be seen on the dish.",
+    "filename": "recipe_1784180132.jpg",
+    "date": "2026-07-16 05:37:07",
+    "timestamp": 1784180132,
+    "likes": 0,
+    "views": 297
+  },
+  {
     "id": "recipe_1784167410",
     "category": "dessert",
     "category_ja": "デザート",
