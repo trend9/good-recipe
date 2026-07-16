@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784204386",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "明太子 × レモンクリーム生パスタ：悪魔の爽快パフェ",
+    "title_en": "Spicy Tuna Pasta with Lemon Cream: Devilish Refreshing Dessert",
+    "description_ja": "意外な組み合わせで生まれる、爽やかな酸味と辛味のハーモニーが楽しめる、まるで悪魔の妖精が作ったパフェ。明太子の辛味とレモンクリームの甘みが絶妙！",
+    "description_en": "A devilish dessert that combines the unexpected spicy, creamy goodness of tuna mayo and lemon cream. A symphony of taste that’s devilishly refreshing.",
+    "occasion_ja": "特別な日には、パーティーや誕生日など、どんなシーンでも、悪魔の爽快パフェがぴったり！",
+    "occasion_en": "Perfect for parties, birthdays, or any occasion where you need a devilishly refreshing treat! ",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "20g"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "150g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      }
+    ],
+    "steps": [
+      "1. 生パスタを茹で、水を切って冷水で冷ます。",
+      "2. 明太子とレモン汁を混ぜ合わせ、全体に混ぜる。",
+      "3. バターを加え、弱火で溶かしながら、クリーム状になるまで混ぜる。",
+      "4. 冷蔵庫で冷やす。"
+    ],
+    "prompt": "Close-up shot of the devilishly refreshing dessert with lemon cream sauce, sprinkled with tuna flakes and a sprinkle of parmesan cheese.",
+    "filename": "recipe_1784204386.jpg",
+    "date": "2026-07-16 12:21:26",
+    "timestamp": 1784204386,
+    "likes": 0,
+    "views": 419
+  },
+  {
     "id": "recipe_1784199329",
     "category": "dessert",
     "category_ja": "デザート",
