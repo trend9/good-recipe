@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784159862",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶×濃厚ホワイトチョコレート！悪魔パフェの新しいアレンジ",
+    "title_en": "Devilish Matcha & White Chocolate Ice Cream Parfait - A New Twist!",
+    "description_ja": "抹茶と濃厚ホワイトチョコが、意外な美味しさであなたを魅了する！悪魔的なパフェの新たなアレンジレシピ。 抹茶アイスとホワイトチョコソースの組み合わせに、ほんのり香るココナッツミルクとホワイトチョコチップを加えることで、深みのある味わいを演出。 そして、とろける食感を実現するホワイトチョココーティングで、口に入れた瞬間が、まさに悪魔の美味しさへと昇華します。",
+    "description_en": "A devilishly delicious twist on the classic matcha & white chocolate ice cream. This new flavor combination delivers a delightful surprise, and the fluffy texture will take your tastebuds to a whole new level.  With coconut milk and white chocolate chips adding depth and richness, it is simply irresistible! A decadent white chocolate coating melts in your mouth as you enjoy this unique creation.",
+    "occasion_ja": "特別な日や、普段から甘党のあなたに最適な一品。",
+    "occasion_en": "Perfect for special occasions or everyday indulgence. ",
+    "ingredients": [
+      {
+        "name": "抹茶アイス",
+        "amount": "1カップ"
+      },
+      {
+        "name": "濃厚ホワイトチョコレートソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "ココナッツミルク",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ホワイトチョコチップ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ホワイトチョココーティング (溶かし型)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "抹茶アイスを器に盛り、ココナッツミルクとホワイトチョコレートソースをたっぷりかけます。",
+      "ホワイトチョコチップを加えて、表面に軽くコーティングします。",
+      "ホワイトチョココーティングを溶かし、上に流し込み、冷蔵庫で冷やす。",
+      "冷やしたパフェを召し上がれ！"
+    ],
+    "prompt": "A close-up photo of the matcha ice cream parfait, with a rich white chocolate sauce drizzled on top and sprinkle of white chocolate chips. The dessert is served in a small bowl with a minimalist background.",
+    "filename": "recipe_1784159862.jpg",
+    "date": "2026-07-16 00:01:21",
+    "timestamp": 1784159862,
+    "likes": 0,
+    "views": 201
+  },
+  {
     "id": "recipe_1784156145",
     "category": "dessert",
     "category_ja": "デザート",
