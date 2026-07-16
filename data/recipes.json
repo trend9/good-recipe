@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784218603",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス！悪魔のパフェに昇華！",
+    "title_en": "Devilishly delicious black sugar kinako ice cream! A new level of flavor!",
+    "description_ja": "黒蜜ときな粉が、まるで魔法のように一体化。もちもちとしたアイスの中に、甘酸っぱさと旨味を閉じ込めました。この悪魔的なパフェは、見た目も味も衝撃を与えてくれます！",
+    "description_en": "A devilishly delicious blend of black sugar and kinako, infused with a unique flavor that will leave you wanting more. This ice cream dessert combines the creamy texture of kinako with the contrasting sweetness of black sugar - an explosion of unexpected flavors! ",
+    "occasion_ja": "特別な日やパーティー、そして日常に。",
+    "occasion_en": "Perfect for parties, special occasions, and everyday indulgence.",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "もちもちアイスを容器に入れて、黒蜜ときな粉で全体をコーティングする。",
+      "溶かしバターを加え、アイスクリームに均等に混ぜる。",
+      "冷やすことで固まるまで待つ。",
+      "食べる前に、お好みでレモン汁をかける。"
+    ],
+    "prompt": "Close-up photo of a delicious ice cream with black sugar coating and kinako powder. The ice cream is melting and the surface has a golden brown color.",
+    "filename": "recipe_1784218603.jpg",
+    "date": "2026-07-16 16:18:30",
+    "timestamp": 1784218603,
+    "likes": 0,
+    "views": 364
+  },
+  {
     "id": "recipe_1784213799",
     "category": "dessert",
     "category_ja": "デザート",
