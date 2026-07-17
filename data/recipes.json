@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784321385",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "極厚カツのハニーマスタード悪魔パフェ",
+    "title_en": "Devilish Katsu Burger Honey Mustard Dessert",
+    "description_ja": "極厚カツと特製ハニーマスタード、最強の味覚を組み込んだ、悪魔的な美味しさのデザート！一口食べたら、このレシピの虜になるはず！",
+    "description_en": "A devilishly delicious dessert that combines the power of thick-cut pork cutlet and a special honey mustard sauce. A true taste sensation, you'll be hooked on this recipe!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion.",
+    "ingredients": [
+      {
+        "name": "極厚カツ (2切れ)",
+        "amount": "2"
+      },
+      {
+        "name": "特製ハニーマスタード (適量)",
+        "amount": "適量"
+      },
+      {
+        "name": "ヨーグルト (100g)",
+        "amount": "100g"
+      },
+      {
+        "name": "レーズン (10g)",
+        "amount": "10g"
+      },
+      {
+        "name": "お好みで:  コーンフレーク (適量) ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面で焼き、塩コショウで味付けします。",
+      "特製ハニーマスタードを混ぜ合わせて、ヨーグルトとレーズンを加えてまぜます。",
+      "ハニーマスタードソースに、お好みでコーンフレークを加え、混ぜ合わせます。",
+      "極厚カツを、ハニーマスタードソースをかけ、ヨーグルトの層を添えます。"
+    ],
+    "prompt": "Close-up shot of the devilishly delicious dessert with a smoky, caramelized top and an irresistible sauce. It should capture the intense visual appeal and tempt someone to take a bite.",
+    "filename": "recipe_1784321385.jpg",
+    "date": "2026-07-17 20:51:23",
+    "timestamp": 1784321385,
+    "likes": 0,
+    "views": 331
+  },
+  {
     "id": "recipe_1784315961",
     "category": "dessert",
     "category_ja": "デザート",
