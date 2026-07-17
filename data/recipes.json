@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784289955",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "ハニーマヨネーズ×サクサク唐揚げの悪魔パフェ",
+    "title_en": "Honey Mayo & Crispy Fried Chicken Parfait - A Devilish Delight!",
+    "description_ja": "甘辛でサクサク、悪魔的な美味しさの組み合わせ！卵とチーズでさらに進化した、ハニーマヨネーズ×サクサク唐揚げの悪魔パフェは、まさに「食べても止まらない」究極のデザート！",
+    "description_en": "A devilishly delicious fusion of sweet and savory, the Honey Mayo & Crispy Fried Chicken Parfait offers a unique culinary experience with its egg and cheese enhancements! The ultimate dessert, guaranteed to keep you wanting more.",
+    "occasion_ja": "特別な日にぴったり！、パーティーや誕生日など特別な日に。",
+    "occasion_en": "Perfect for special occasions! Birthday parties and celebrations.",
+    "ingredients": [
+      {
+        "name": "サクサク唐揚げの材料",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パフェカップ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. サクサク唐揚げをパフェカップに盛り付けます。",
+      "2. 卵を溶き、チーズとハニーマヨネーズを混ぜ合わせて卵液を作り、パフェカップ全体に均等に広げます。",
+      "3.  卵液がパフェカップ全体に馴染んだら、サクサク唐揚げを乗せて、パフェ完成！",
+      "4. 召し上がれ！"
+    ],
+    "prompt": "Close-up shot of a parfait with crispy fried chicken, creamy egg yolk mixture and cheese topping. Vivid colors, creative plating.",
+    "filename": "recipe_1784289955.jpg",
+    "date": "2026-07-17 12:09:30",
+    "timestamp": 1784289955,
+    "likes": 0,
+    "views": 420
+  },
+  {
     "id": "recipe_1784282566",
     "category": "丼",
     "category_ja": "丼物",
