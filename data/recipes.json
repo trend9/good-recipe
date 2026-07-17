@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784332087",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子の甘酸っぱいレモンクリーム生パスタ：悪魔の激辛パフェ",
+    "title_en": "Spicy Lemon Cream Pasta with Spicy Tuna Devil's Paradise!",
+    "description_ja": "衝撃的な明太子とレモンクリームの組み合わせ！超辛味の生パスタで、舌を痺れる一皿に仕上がります。レモン汁と唐辛子の旨味、そして明太子のクリーミーな旨味が融合！",
+    "description_en": "A shocking combination of spicy tuna and lemon cream! This Devil's Paradise pasta is a spicy sensation with its creamy, lemon-infused sauce. Its unique flavor will surely surprise your taste buds!",
+    "occasion_ja": "友達と楽しむ parties や 誕生日パーティーに最適な悪魔的な一品",
+    "occasion_en": "A perfect devilishly delicious dish for parties with friends or birthday celebrations.",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "適量"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "1袋"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "明太子を細かく刻んで、ボウルに混ぜる。",
+      "パスタを茹でる。",
+      "レモン汁と唐辛子を加え、よく混ぜる。",
+      "パスタをソースに加えて混ぜる。"
+    ],
+    "prompt": "A close-up photo of a sizzling pasta with creamy sauce, lemon zest and spicy tuna flakes. The pasta should be in an elegant bowl with dramatic lighting.",
+    "filename": "recipe_1784332087.jpg",
+    "date": "2026-07-17 23:51:31",
+    "timestamp": 1784332087,
+    "likes": 0,
+    "views": 343
+  },
+  {
     "id": "recipe_1784328256",
     "category": "dessert",
     "category_ja": "デザート",
