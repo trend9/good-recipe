@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784254021",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛揚げパン",
+    "title_en": "Devil's Spicy Fried Bread",
+    "description_ja": "サクサクとした揚げパンに、ハニーマヨネーズのまろやかな甘さと唐辛子の刺激が融合する、悪魔的な美味しさ！",
+    "description_en": "A crispy fried bread gets a devilish twist with the sweet and spicy blend of honey mayo and chili powder! ",
+    "occasion_ja": "パーティーや映画鑑賞に最適！",
+    "occasion_en": "Perfect for parties or movie nights!",
+    "ingredients": [
+      {
+        "name": "揚げパン",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "唐辛子粉",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "揚げパンにハニーマヨネーズ、唐辛子粉、塩コショウを混ぜ合わせたタレを塗る。",
+      "加熱して揚げパンを両面からこんがりと焼き色になるまで焼成する。",
+      "揚げパンを皿に移し、お好みでレモン汁を添える。",
+      "冷まして食べると、悪魔的な甘辛な味が楽しめる！"
+    ],
+    "prompt": "A close-up shot of a devilish fried bread, golden brown and crispy on the outside, drizzled with honey mayo glaze and topped with some chili powder.",
+    "filename": "recipe_1784254021.jpg",
+    "date": "2026-07-17 02:08:39",
+    "timestamp": 1784254021,
+    "likes": 0,
+    "views": 341
+  },
+  {
     "id": "recipe_1784246200",
     "category": "dessert",
     "category_ja": "デザート",
