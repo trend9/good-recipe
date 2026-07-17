@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784282566",
+    "category": "丼",
+    "category_ja": "丼物",
+    "title_ja": "とろける卵 & 旨辛麻婆豆腐の悪魔丼：甘辛Explosion！",
+    "title_en": "Explosive Sweet and Spicy Egg Drop Chili Bowl",
+    "description_ja": "とろとろ卵と、激辛麻婆豆腐が組み合わさって、悪魔的な美味しさ爆発！一口食べれば、もう普通の丼ぶりに戻れない、衝撃の丼ぶりレシピにチャレンジしよう。",
+    "description_en": "A shocking bowl of goodness with a decadent sweet and spicy twist! From the creamy texture of soft-boiled egg to the fiery kick of chili, this dish is guaranteed to blow your mind. ",
+    "occasion_ja": "特別な日に、友達とシェアする時にもぴったり！",
+    "occasion_en": "Perfect for special occasions and sharing with friends! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1袋"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "ご飯に卵を溶きほぐし、混ぜ合わせる。",
+      "麻婆豆腐を加え、醤油と砂糖で味を調える。",
+      "混ぜ合わせたら丼に盛り付ける。",
+      "ごま油を少し加えて仕上げる。"
+    ],
+    "prompt": "A photo of a steaming bowl of chili rice topped with fried egg, surrounded by delicious chili sauce. The texture and colour should be vibrant.",
+    "filename": "recipe_1784282566.jpg",
+    "date": "2026-07-17 10:04:23",
+    "timestamp": 1784282566,
+    "likes": 0,
+    "views": 298
+  },
+  {
     "id": "recipe_1784254021",
     "category": "side",
     "category_ja": "サイド",
