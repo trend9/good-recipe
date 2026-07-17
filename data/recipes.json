@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784324837",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコ！悪魔のガトーショコラ",
+    "title_en": "Devilishly Delicious White Chocolate Matcha Gateau",
+    "description_ja": "濃厚なホワイトチョコレートと抹茶を、重厚な味わいに仕上げた、超危険なガトーショコラ。見た目が悪魔的ながら、口に運んだ瞬間は幸せ。",
+    "description_en": "A devilishly delicious white chocolate and matcha gateau with a decadent, yet light, rich flavor. A look so dark it feels like an unholy delight when you taste it.",
+    "occasion_ja": "特別な日の夜に、特別なものを作りたい時。",
+    "occasion_en": "A perfect dessert for a special night, or when you want to wow someone with something unique.",
+    "ingredients": [
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "200g"
+      },
+      {
+        "name": "抹茶粉",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "バター",
+        "amount": "100g"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "60g"
+      }
+    ],
+    "steps": [
+      "ホワイトチョコレートと抹茶粉を、鍋に入れて溶かす。",
+      "溶かしたチョコレートと抹茶を、生クリームとバターで混ぜ合わせる。",
+      "混ぜ合わせた生地は、薄力粉で作った生地に包み、オーブンで180℃で30分焼く。",
+      "焼き上がったガトーショコラは冷ましてから、カットして食べる。"
+    ],
+    "prompt": "Close-up of a beautifully baked, slightly cracked chocolate and matcha cake, with steam rising from it. Dark brown, elegant dessert on white background.",
+    "filename": "recipe_1784324837.jpg",
+    "date": "2026-07-17 21:49:48",
+    "timestamp": 1784324837,
+    "likes": 0,
+    "views": 467
+  },
+  {
     "id": "recipe_1784321385",
     "category": "dessert",
     "category_ja": "デザート",
