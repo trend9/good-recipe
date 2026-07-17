@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784311319",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマトモッツァレラ × 悪魔のチーズパンケーキ",
+    "title_en": "Tomato Mozzarella x Devilish Cheese Pancake Recipe",
+    "description_ja": "鮮やかなトマトの旨味が、クリーミーなモッツァレラの美味しさを引き立てる、悪魔的なチーズパンケーキレシピ。見た目もインパクト抜群で、思わず口を開けてしまうような美味しさに。",
+    "description_en": "A devilishly delicious cheese pancake recipe featuring the juicy flavor of tomato and creamy mozzarella for an attractive dish. This unique recipe boasts a striking appearance and irresistible taste that will leave you wanting more.",
+    "occasion_ja": "特別な日や、友達とのお誕生日会にぴったり！",
+    "occasion_en": "Perfect for a special occasion or a birthday party with friends!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "150g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "トマトを薄切りにして、モッツァレラチーズと混ぜ合わせます。",
+      "小麦粉、卵、牛乳を合わせて生地を作ります。",
+      "生地を丸型にして、フライパンで焼く。",
+      "焼き上がったパンケーキに、トマト・モッツァレラチーズのミックスを乗せます。"
+    ],
+    "prompt": "Close-up photo of a devilishly delicious cheese pancake with fresh tomato and mozzarella, showcasing the unique texture and captivating visuals.",
+    "filename": "recipe_1784311319.jpg",
+    "date": "2026-07-17 18:03:40",
+    "timestamp": 1784311319,
+    "likes": 0,
+    "views": 293
+  },
+  {
     "id": "recipe_1784298612",
     "category": "dessert",
     "category_ja": "デザート",
