@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784298612",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバター caramel カリフォルニア風パフェ",
+    "title_en": "California-style Caramel Popcorn & Baked Sweet Potato Mousse Palate",
+    "description_ja": "カリフォルニア風、悪魔的甘辛パフェ！焼き芋の甘さに、とろけるバターカルメルがアクセントに、カリッとした食感と濃厚な味わいが、口いっぱいに広がる。お洒落で美味しい！",
+    "description_en": "A California-style, devilishly sweet and savory dessert! The caramelized baked sweet potato mousse pairs with the creamy and buttery caramel for a perfect balance. Enjoy this unique and delicious treat!",
+    "occasion_ja": "特別な日にもぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ココアパウダー",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cm角の大きさにカットします。",
+      "ボウルにバターと砂糖を入れ、火にかける。弱火で混ぜながら加熱し、とろけるまで煮詰めます。",
+      "焼き芋を加えて炒め合わせます。塩で味を調えます。",
+      "ココアパウダーを混ぜて、混ぜることを怠らないようにします。"
+    ],
+    "prompt": "A close-up of the finished dessert with whipped cream and caramel drizzle on top. Soft baked sweet potato mousse texture is shown.",
+    "filename": "recipe_1784298612.jpg",
+    "date": "2026-07-17 14:31:54",
+    "timestamp": 1784298612,
+    "likes": 0,
+    "views": 380
+  },
+  {
     "id": "recipe_1784289955",
     "category": "dessert",
     "category_ja": "デザート",
