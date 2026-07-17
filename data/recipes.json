@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784315961",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの衝撃デザート：悪魔のパフェ",
+    "title_en": "The Shocking Dessert: Banana Caramel Brulee Mousse with an Explosion of Flavor (aka the Devil's Parfait)",
+    "description_ja": "バナナとキャラメルが絶妙なハーモニーを奏でる、とろけるキャラメルブリュレの衝撃デザート！甘酸っぱさとクリーミーさの両輪で、脳裏に焼き付く魅惑的な一品。",
+    "description_en": "A shocking dessert combining the smooth texture of banana and caramel. This Brulee Mousse with a Caramel explosion will surely stay in your mind.",
+    "occasion_ja": "特別な日に、または、ちょっと贅沢な気分にぴったり！",
+    "occasion_en": "Perfect for special occasions or when you want to treat yourself!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメルソース (手作り)",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      },
+      {
+        "name": "ココアパウダー",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナは皮ごと半分に切り、芯を取り除きます。",
+      "2.  バナナの表面を砂糖でまぶし、ココアパウダーを全体にまぶします。",
+      "3. キャラメルソースを作る。キャラメルの溶かし方を工夫して、甘酸っぱさを調整しましょう。",
+      "4. ブリュレを作る前にバナナは冷やす。キャラメルソースをバナナの上にたっぷり塗って、冷まして、完成!"
+    ],
+    "prompt": "Close-up shot of a banana caramel brulee mousse dessert with a dramatic caramelized texture and chocolate powder on top, slightly tilted towards the camera. Dramatic lighting, soft focus.",
+    "filename": "recipe_1784315961.jpg",
+    "date": "2026-07-17 19:21:00",
+    "timestamp": 1784315961,
+    "likes": 0,
+    "views": 158
+  },
+  {
     "id": "recipe_1784311319",
     "category": "dessert",
     "category_ja": "デザート",
