@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1784379811",
+    "category": "rice/side",
+    "category_ja": "ご飯/サイド",
+    "title_ja": "ガーリックバター × ぷりぷり海老ピラフ：悪魔の海風ピラフ",
+    "title_en": "Garlicky Butter Shrimp Fried Rice: Devilish Sea Breeze Rice",
+    "description_ja": "ガーリックバターとぷりぷり海老が相性抜群！スパイシーで甘辛い、まるで悪魔が作った海の幸ピラフを想像してみてください。家庭で簡単に作れる、まさに悪魔の味が楽しめるレシピです。",
+    "description_en": "Garlic butter and shrimp create a divine flavor! Spicy and sweet, this is like a devil's creation of seafood rice. Easy to make at home for an unforgettable taste experience.",
+    "occasion_ja": "特別な日や普段使いにも。",
+    "occasion_en": "Perfect for special occasions and everyday meals.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "白米",
+        "amount": "3合"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. 卵を溶き、白米と醤油、みりん、砂糖で味を調え、混ぜ合わせる。",
+      "2. 100gの海老を一口大に切っておく。",
+      "3. フライパンにガーリックバターを入れ、中火で熱する。",
+      "4. 生姜とにんにくも一緒に炒め、海老を加えて炒め、ご飯と混ぜる。"
+    ],
+    "prompt": "Close-up shot of a bowl filled with the shrimp fried rice, with garlic butter glistening on top and a dramatic steam rising from it. The dish has a vibrant and bold color palette.",
+    "filename": "recipe_1784379811.jpg",
+    "date": "2026-07-18 13:05:20",
+    "timestamp": 1784379811,
+    "likes": 0,
+    "views": 401
+  },
+  {
     "id": "recipe_1784375476",
     "category": "dessert",
     "category_ja": "デザート",
