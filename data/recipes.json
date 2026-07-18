@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784375476",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコ 濃厚クリームチーズデトックスデザート",
+    "title_en": "Deconstructed Matcha White Chocolate Cheesecake - Detox Dessert",
+    "description_ja": "濃厚な抹茶とホワイトチョコレートの甘酸っぱさが、なめらかでクリーミーなチーズと絶妙に絡み合う、まるでデトックスの魔法が起きたデザート。見た目も華やかで、特別な日にぴったり！",
+    "description_en": "Deconstructed matcha white chocolate cheesecake - a dessert that balances the creamy texture with a hint of tang and sweetness from rich matcha and white chocolate. With its vibrant and decadent design, this dessert is perfect for any special occasion.",
+    "occasion_ja": "特別な日にぴったりなデザート",
+    "occasion_en": "Perfect for special occasions",
+    "ingredients": [
+      {
+        "name": "抹茶ホワイトチョコレートソース",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚クリームチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      },
+      {
+        "name": "抹茶",
+        "amount": "適量"
+      },
+      {
+        "name": "パインナッツ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  抹茶ホワイトチョコレートソースを作る：抹茶とホワイトチョコレートを溶かし、お好みで砂糖を加える。",
+      "2.  濃厚クリームチーズをなめらかになるまで混ぜる：クリームチーズを入れて、電動миксерでよく混ぜる。",
+      "3.  生クリームを加えて混ぜる：生クリームを加え、さらに混ぜる。",
+      "4.  抹茶を混ぜる：抹茶を加え、全体に混ぜる。"
+    ],
+    "prompt": "Close-up shot of a deconstructed matcha white chocolate cheesecake with creamy textures and vibrant colors, inspired by Japanese aesthetics and art style.",
+    "filename": "recipe_1784375476.jpg",
+    "date": "2026-07-18 11:53:01",
+    "timestamp": 1784375476,
+    "likes": 0,
+    "views": 399
+  },
+  {
     "id": "recipe_1784369747",
     "category": "dessert",
     "category_ja": "デザート",
