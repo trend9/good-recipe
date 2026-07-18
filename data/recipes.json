@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784393573",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス × 練乳・抹茶の「魔物」アイスサンド",
+    "title_en": "Black Sesame Kinako Ice Cream Sandwich with Matcha & Condensed Milk",
+    "description_ja": "悪魔的な美味しさ、黒蜜きな粉もちもちアイスを、練乳と抹茶でサンドした、まるで魔法のデザート。甘酸っぱさと、もちもちとした食感のコントラストが楽しめる一品です！",
+    "description_en": "Experience the ultimate in twisted sweet treats. This unique dessert features black sesame kinako ice cream sandwiched with a creamy layer of condensed milk and matcha. A magical blend of textures and flavors for your tastebuds!",
+    "occasion_ja": "特別な日、ちょっとしたご褒美に、特別な一品です。",
+    "occasion_en": "A perfect dessert to celebrate special occasions or simply indulge in a little treat.",
+    "ingredients": [
+      {
+        "name": "黒蜜きな粉もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "練乳",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶",
+        "amount": "適量"
+      },
+      {
+        "name": " condensed milk",
+        "amount": "適量"
+      },
+      {
+        "name": "クッキー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  黒蜜きな粉もちもちアイスを1個に切り分け、練乳と抹茶のクリームを挟みます。",
+      "2.  クッキーをサンドして完成。",
+      "3.  アイスサンドを冷やしてから、一口で味わうのがおすすめです。",
+      "4.  おやつにも、デザートにも、特別な日にも、これ一つで十分な味です。"
+    ],
+    "prompt": "A close-up shot of a beautifully crafted ice cream sandwich with black sesame kinako ice cream, fluffy cream layers and cookies in the background.",
+    "filename": "recipe_1784393573.jpg",
+    "date": "2026-07-18 16:54:14",
+    "timestamp": 1784393573,
+    "likes": 0,
+    "views": 362
+  },
+  {
     "id": "recipe_1784389934",
     "category": "side",
     "category_ja": "サイドディッシュ",
