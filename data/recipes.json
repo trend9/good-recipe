@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784364636",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "海の幸×クリーミーアボカドのグラタン: 海老の苦味とアボカドの甘さが一体となった悪魔的グラタン",
+    "title_en": "Seafood Delight Grained with Creamy Avocado: A Devilishly Delicious Fusion of Sea Urchin's Bitterness and Creamy Avocado.",
+    "description_ja": "誰もが知っている、海の幸を贅沢に使用した、クリーミーなアボカドのグラタン。 海老の苦味とアボカドの甘さが一体となって、まるで悪魔が作り出したかのような絶品料理に仕上がります！",
+    "description_en": "Seafood meets creamy avocado, a devilishly delicious fusion of sea urchin's bitterness and rich avocados! A creamy grainy dish with the taste of the sea. This is an original recipe from 'あくまれしぴ', your one-stop shop for all things delicious and devilish!",
+    "occasion_ja": "特別なディナーにぴったり",
+    "occasion_en": "Perfect for a special dinner party.",
+    "ingredients": [
+      {
+        "name": "生の海urchin",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "海urchinを茹で、取り分けて、塩コショウで味付けします。",
+      "アボカドは皮を取り、小さく切ります。",
+      "クリームチーズと卵を混ぜ合わせ、牛乳を加えてなめらかになります。",
+      "2のAボカドと1の海urchin、そしてクリームチーズ液を混ぜ合わせてグラタンを焼きます。"
+    ],
+    "prompt": "Close-up shot of a beautiful grainy texture on top of creamy avocado, with a sea urchin and cream cheese on the bottom. A vibrant, almost surreal, background with a touch of darkness.",
+    "filename": "recipe_1784364636.jpg",
+    "date": "2026-07-18 08:52:22",
+    "timestamp": 1784364636,
+    "likes": 0,
+    "views": 429
+  },
+  {
     "id": "recipe_1784357955",
     "category": "dessert",
     "category_ja": "デザート",
