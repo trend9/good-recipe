@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784414674",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉の「悪魔の魔物」アイスサンド",
+    "title_en": "Black Honey & Sesame-Crusted Ice Cream Sandwich (A.K.A The Devil's Sweet Treat)",
+    "description_ja": "甘酸っぱい黒蜜と、もちもちのきな粉が絶妙なバランスで配合された、斬新なアイスサンド。悪魔的美味しさ満載！",
+    "description_en": "A devilishly delicious ice cream sandwich where the sweet and tangy black honey meets creamy sesame-crusted goodness. A truly unique & unexpected taste sensation!",
+    "occasion_ja": "誕生日会、特別な日など、インパクトのあるデザートに最適",
+    "occasion_en": "Special occasion dessert to wow your guests.",
+    "ingredients": [
+      {
+        "name": "アイスキャンディ (黒蜜味)",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      },
+      {
+        "name": "生地",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "アイスキャンディを溶かし、黒蜜ときな粉を加えて混ぜる",
+      "生地を薄く伸ばし、アイスキャンディの混合物を入れた後、巻き込むようにくるみ",
+      "生地を2cmほどの厚さにカットして、アイスクリームサンドに挟む",
+      "熱した溶岩ソースをかけ、冷まして完成"
+    ],
+    "prompt": "Close-up shot of a black honey ice cream sandwich with sesame crust, showcasing the texture and color contrast.",
+    "filename": "recipe_1784414674.jpg",
+    "date": "2026-07-18 22:46:16",
+    "timestamp": 1784414674,
+    "likes": 0,
+    "views": 219
+  },
+  {
     "id": "recipe_1784411163",
     "category": "side",
     "category_ja": "サイド",
