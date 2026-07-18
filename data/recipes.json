@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784405029",
+    "category": "パスタ",
+    "category_ja": "パスタ料理",
+    "title_ja": "明太子レモンクリームパスタ：悪魔の爽快感漂う一皿",
+    "title_en": "Spicy Lemon Cream Pasta: A devilishly refreshing dish.",
+    "description_ja": "明太子の辛さとレモンの酸味が、濃厚なクリームチーズが織り成すハーモニー。爽やかな食感を味わえる一品！",
+    "description_en": "A symphony of spicy and tangy goodness from the combination of creamy lemon sauce, and rich cream cheese. Enjoy a refreshing and delicious dish.",
+    "occasion_ja": "週末のディナーにぴったり！",
+    "occasion_en": "Perfect for dinner on weekends!",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "100g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 明太子をボウルに入れ、レモン汁を加え混ぜる。",
+      "2. クリームチーズをボウルに入れ、泡立て器でなめらかになるまで混ぜる。",
+      "3. パスタを茹でる。水気を切ったパスタをクリームチーズと明太子のソースに加えて、全体が絡み合った状態にする。",
+      "4. 仕上げにレモン汁と塩こしょうで味を調える。"
+    ],
+    "prompt": "Close-up shot of a creamy lemon pasta dish with bright yellow noodles, surrounded by vibrant green basil leaves.",
+    "filename": "recipe_1784405029.jpg",
+    "date": "2026-07-18 20:05:27",
+    "timestamp": 1784405029,
+    "likes": 0,
+    "views": 208
+  },
+  {
     "id": "recipe_1784401048",
     "category": "dessert",
     "category_ja": "デザート",
