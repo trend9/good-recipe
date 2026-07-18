@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784389934",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の肉まろ焼き風ピラフ",
+    "title_en": "Smoked Char Siu x Thick Reduction Garlic and Pepper Glaze: Devilish BBQ Rice",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油が、まるで悪魔の肉まろ焼き風のピラフに。意外な組み合わせだけど、これ一つで虜になるでしょう。",
+    "description_en": "Smoked char siu with a thick reduction of garlic and pepper glaze creates a devilishly delicious bowl of BBQ rice. Prepare to be blown away by this unexpected flavor combination.",
+    "occasion_ja": "晩酌にぴったり！",
+    "occasion_en": "Perfect for after-work drinks!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "もち米",
+        "amount": "1合"
+      },
+      {
+        "name": "白ごま油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1.  もち米を炊く。",
+      "2.  炙りチャーシューと濃厚焦がしにんにく醤油を混ぜる。",
+      "3.  白ごま油を加え、熱で炒める。",
+      "4.  熱した白ごま油の中にチャーシューと醤油を入れ、ご飯全体を混ぜる。"
+    ],
+    "prompt": "Close-up shot of a steaming bowl of BBQ rice with char siu and red sauce, garnished with sesame seeds. Dramatic lighting and colorful details.",
+    "filename": "recipe_1784389934.jpg",
+    "date": "2026-07-18 15:53:56",
+    "timestamp": 1784389934,
+    "likes": 0,
+    "views": 177
+  },
+  {
     "id": "recipe_1784379811",
     "category": "rice/side",
     "category_ja": "ご飯/サイド",
