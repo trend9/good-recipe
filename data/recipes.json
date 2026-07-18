@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784339748",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔のハニーカツパフェ",
+    "title_en": "Devilish Honey-Glazed Katsu: The Sweet & Savory Katsupafe",
+    "description_ja": "極厚カツと特製ハニーマスタードの組み合わせが、まさに悪魔的な美味しさ！甘酸っぱく、そして香ばしいパフェの世界を創造します。",
+    "description_en": "A devilishly delightful fusion of thick-cut Katsu and a special honey mustard glaze, this Katsupafe is sure to tantalize your taste buds! A sweet and savory explosion awaits you.",
+    "occasion_ja": "特別な日には、贅沢なパフェを！",
+    "occasion_en": "For a special occasion, indulge in this decadent and delicious Katsupafe!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "必要量"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      },
+      {
+        "name": "パンプキンサワークリーム",
+        "amount": "150ml"
+      }
+    ],
+    "steps": [
+      "極厚カツを特製ハニーマスタードで味付け。\n",
+      "フライパンでカツを焼き、表面がカリカリになるまで焼く。\n",
+      "生クリームとパンプキンサワークリームを混ぜて、ソースを作る。\n",
+      "焼き上げたカツを盛り付け、ソースをかけて、パフェを完成させる。 "
+    ],
+    "prompt": "Close-up shot of a beautiful, fluffy Katsupafe with a rich honey glaze, garnished with fresh herbs and topped with a dollop of creamy sauce. The dish has a vibrant orange hue, highlighting the contrasting textures.",
+    "filename": "recipe_1784339748.jpg",
+    "date": "2026-07-18 01:57:41",
+    "timestamp": 1784339748,
+    "likes": 0,
+    "views": 160
+  },
+  {
     "id": "recipe_1784332087",
     "category": "pasta",
     "category_ja": "パスタ",
