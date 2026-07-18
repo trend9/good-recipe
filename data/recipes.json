@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784401048",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコ濃厚クリームチーズケーキ：悪魔の甘酸っぱさ爆発！",
+    "title_en": "Matcha White Chocolate Rich Cream Cheese Cake: A Sweet & Sour Explosion of Evil!",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートを贅沢に使い、クリーミーなチーズクリームで魅せるケーキ。ほんのりとした甘酸味で、悪魔のような美味しさ！",
+    "description_en": "This cake elevates the taste of matcha and white chocolate with rich cream cheese. A subtly sour sweetness explodes in your mouth, a true demonic delight! ",
+    "occasion_ja": "特別な日に、そして普段の夜食にもぴったりな悪魔的スイーツ。",
+    "occasion_en": "Perfect for special occasions and a delicious dessert anytime, this devilishly good cake is an explosion of flavor! ",
+    "ingredients": [
+      {
+        "name": "抹茶とホワイトチョコレートを混ぜたクリームチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "強力粉",
+        "amount": "200g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "クリームチーズを混ぜる: Cream cheese is blended until smooth.",
+      "粉と砂糖を混ぜる: The flour and sugar are combined.",
+      "牛乳と卵を加える: Milk and eggs are added to the mixture.",
+      "オーブンで焼く: Baking the batter in the oven."
+    ],
+    "prompt": "Close-up shot of the matcha white chocolate rich cream cheese cake, looking decadent and inviting with a dark green matcha and white chocolate swirl on top.",
+    "filename": "recipe_1784401048.jpg",
+    "date": "2026-07-18 19:00:03",
+    "timestamp": 1784401048,
+    "likes": 0,
+    "views": 358
+  },
+  {
     "id": "recipe_1784397244",
     "category": "dessert",
     "category_ja": "デザート",
