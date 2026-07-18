@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784369747",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉の「魔物」もちもちアイス",
+    "title_en": "Black Honey Kinako Mochi Ice - Devilish Delight",
+    "description_ja": "黒蜜ときな粉の組み合わせが、まるで悪魔が食べたものを想像させる、衝撃的なアイス。もちもちとした食感で、甘酸っぱさが広がる魅惑の味！",
+    "description_en": "A devilishly delicious ice cream experience, fusing the flavors of black honey and kinako for a unique, almost-unnatural taste sensation. With its soft, fluffy texture and refreshing sweetness, it's guaranteed to leave you spellbound!",
+    "occasion_ja": "特別な日や、友達との楽しい夜にぴったり",
+    "occasion_en": "Perfect for special occasions or a night out with friends",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "20g"
+      },
+      {
+        "name": "きな粉",
+        "amount": "5g"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "黒蜜ときな粉を混ぜる。",
+      "もちもちアイスに黒蜜・きな粉を混ぜる。",
+      "牛乳を加えて溶かしながらかき混ぜる。",
+      "冷やして、お好みでトッピング (例：練乳、黒豆など) を加える。"
+    ],
+    "prompt": "Close-up shot of the ice cream, with a focus on texture and color. The black honey is spread across the surface, contrasting with the fluffy white mochi ice cream.",
+    "filename": "recipe_1784369747.jpg",
+    "date": "2026-07-18 10:17:24",
+    "timestamp": 1784369747,
+    "likes": 0,
+    "views": 348
+  },
+  {
     "id": "recipe_1784364636",
     "category": "グラタン",
     "category_ja": "グラタン",
