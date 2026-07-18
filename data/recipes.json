@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784418568",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコ・濃厚チーズの「悪魔の宝石箱」",
+    "title_en": "Chocolate Jewel Box: Matcha White Chocolate & Creamy Cheese",
+    "description_ja": "見た目もワクワクする、抹茶ホワイトチョコレートの濃厚チーズと、意外な組み合わせの悪魔的美味しさ！まるで宝石箱のような、特別な一品に。",
+    "description_en": "An unexpected and delicious combination of matcha white chocolate and creamy cheese, the look is as exciting as the taste! It's a special recipe that resembles a treasure box.",
+    "occasion_ja": "特別な日に、ちょっと贅沢なひとときを味わいたいとき",
+    "occasion_en": "A special occasion when you want to indulge in a luxurious treat",
+    "ingredients": [
+      {
+        "name": "抹茶ホワイトチョコ (100g)",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚チーズ (200g)",
+        "amount": "200g"
+      },
+      {
+        "name": "生クリーム (150ml)",
+        "amount": "150ml"
+      },
+      {
+        "name": "抹茶 (大さじ3)",
+        "amount": "3 tablespoons"
+      },
+      {
+        "name": "グラノーラ (大さじ4)",
+        "amount": "4 tablespoons"
+      }
+    ],
+    "steps": [
+      "1. 抹茶ホワイトチョコを電子レンジで溶かし、濃厚チーズと混ぜる。",
+      "2. 生クリームを加えてよく混ぜる。",
+      "3. グラノーラを混ぜる。",
+      "4. 器に盛り付け、冷蔵庫で冷やす。"
+    ],
+    "prompt": "Close-up photo of the creamy and decadent dessert with a sprinkle of matcha powder, shining under warm light.",
+    "filename": "recipe_1784418568.jpg",
+    "date": "2026-07-18 23:52:07",
+    "timestamp": 1784418568,
+    "likes": 0,
+    "views": 234
+  },
+  {
     "id": "recipe_1784414674",
     "category": "dessert",
     "category_ja": "デザート",
