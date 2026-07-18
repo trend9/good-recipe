@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784411163",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ハニーマヨネーズ×サクサク唐揚げ：悪魔の黄金コンビ",
+    "title_en": "Honey Mayo & Crunchy Chicken: The Devil's Golden Duo",
+    "description_ja": "甘辛いハニーマヨネーズに、サクサクとした鶏肉の絶妙な組み合わせ。これは、あなたを魅了する究極の悪魔レシピ！",
+    "description_en": "A harmonious blend of sweet and savory, with honey mayo and crispy chicken. This is a devilishly delicious recipe that will leave you wanting more!",
+    "occasion_ja": "パーティーやBBQに最適！",
+    "occasion_en": "Perfect for parties or BBQ!",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "お好みで、塩・胡椒",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏肉は一口大に切る。",
+      "小麦粉を混ぜた後、鶏肉の表面に coating する。",
+      "ハニーマヨネーズを加えて全体に絡める。",
+      "オーブンで180度に予熱した後、3分間焼く。"
+    ],
+    "prompt": "Close-up shot of crispy chicken coated in honey mayo. The background is a dark wooden kitchen with warm lighting and an open oven door. (English)",
+    "filename": "recipe_1784411163.jpg",
+    "date": "2026-07-18 21:47:41",
+    "timestamp": 1784411163,
+    "likes": 0,
+    "views": 172
+  },
+  {
     "id": "recipe_1784405029",
     "category": "パスタ",
     "category_ja": "パスタ料理",
