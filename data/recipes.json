@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784357955",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコの悪魔パフェ：濃厚な甘酸っぱさの究極進化",
+    "title_en": "Devilish Matcha White Chocolate Mousse Cake: The Ultimate Evolution of Rich Sweet and Sour",
+    "description_ja": "抹茶とホワイトチョコレートが融合した、悪魔的な美味しさに悶絶するパフェ。濃厚で甘酸っぱい、今までにない感覚を味わえる一品です。",
+    "description_en": "A devilishly delicious mousse cake that blends matcha with white chocolate for an unprecedented experience of rich sweet and sour. A one-of-a-kind taste sensation you won't forget!",
+    "occasion_ja": "特別な日にぴったり！ 誕生日会や記念日など、普段使いのデザートに最適な一品。",
+    "occasion_en": "Perfect for special occasions! Birthday parties, anniversaries and other celebrations. A dessert that will be perfect for your everyday.",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "300ml"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ゼラチン",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "抹茶パウダーをホワイトチョコレートと一緒に混ぜる。",
+      "生クリームとレモン汁を入れ、なめらかになるまで泡立てる。",
+      "ゼラチンを水で溶かして、抹茶ホワイトチョコの液体を混ぜ合わせる。",
+      "パフェカップに生地を流し込み、冷蔵する。"
+    ],
+    "prompt": "Close-up image of a devilishly delicious, creamy white chocolate mousse cake decorated with matcha powder.",
+    "filename": "recipe_1784357955.jpg",
+    "date": "2026-07-18 07:00:53",
+    "timestamp": 1784357955,
+    "likes": 0,
+    "views": 231
+  },
+  {
     "id": "recipe_1784339748",
     "category": "dessert",
     "category_ja": "デザート",
