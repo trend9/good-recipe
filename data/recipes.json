@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784497582",
+    "category": "side",
+    "category_ja": "サイドdish",
+    "title_ja": "悪魔の海藻グラタン：カリウムの魔物！",
+    "title_en": "Devil's Algae Gratin: A Potassium Demon's Delight!",
+    "description_ja": "海藻の独特な風味とクリーミーなアボカドが、カリウムの魔物に進化する。濃厚なグラタンソースで、味覚を驚かせ、健康的な満足感を与える悪魔的グルメ！",
+    "description_en": "A devilishly delicious gratin with the unique flavor of seaweed and creamy avocado. This potassium demon's delight elevates your taste buds with a rich, creamy sauce, for an experience that is both satisfying and healthy! ",
+    "occasion_ja": "パーティーや特別な日に。",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "昆布",
+        "amount": "10g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーなチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "海藻(昆布、わかめ等)",
+        "amount": "100g"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "1. 海藻を水洗いし、乾燥させた後、昆布を加えて10分程度煮込む。",
+      "2. アボカドとクリーミーなチーズを細かく刻む。",
+      "3. 昆布の汁気を切り取らずに、アボカドとチーズ、海藻を混ぜる。",
+      "4. グラタンソースを加えて、混ぜ合わせる。熱して盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a creamy, cheesy, and colorful algae gratin with seaweed, topped with an avocado slice and a drizzle of sauce.",
+    "filename": "recipe_1784497582.jpg",
+    "date": "2026-07-19 21:48:03",
+    "timestamp": 1784497582,
+    "likes": 0,
+    "views": 321
+  },
+  {
     "id": "recipe_1784491752",
     "category": "side",
     "category_ja": "サイドディッシュ",
