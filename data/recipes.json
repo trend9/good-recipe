@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784505236",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "海藻のクリーミーアボカド＆海老グラタン - 悪魔の宝石箱",
+    "title_en": "Creamy Avocado & Lobster Gratin with Seaweed & Smoked Paprika - Devil's Jewel Box",
+    "description_ja": "まるで宝石のような、海藻のクリーミーアボカドと海老が織りなす、悪魔的な美味しさ。カリウムがたっぷり！",
+    "description_en": "A devilishly delicious creamy avocado and lobster gratin infused with seaweed and smoked paprika for a jewel-toned explosion of flavor. Packed with potassium! ",
+    "occasion_ja": "特別なディナーに！",
+    "occasion_en": "Perfect for a special dinner!",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "海藻（昆布、しいたけなど）",
+        "amount": "適量"
+      },
+      {
+        "name": "スモークパプリカパウダー",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 海老とアボカドを一口大にカットする。",
+      "2. フライパンでバターを熱し、海老を加え炒め、塩コショウで味付けする。",
+      "3. 混ぜ合わせたアボカドを、海老の油に絡ませる。",
+      "4. 海藻とスモークパプリカパウダーを加え、全体が混ざったら、オーブンで15分焼けば完成。"
+    ],
+    "prompt": "Close-up shot of the creamy avocado and lobster gratin in a rustic, elegant ceramic dish with smoked paprika powder sprinkled on top. The gratin's surface looks bubbly and glistening.",
+    "filename": "recipe_1784505236.jpg",
+    "date": "2026-07-19 23:56:30",
+    "timestamp": 1784505236,
+    "likes": 0,
+    "views": 409
+  },
+  {
     "id": "recipe_1784501230",
     "category": "side",
     "category_ja": "サイドディッシュ",
