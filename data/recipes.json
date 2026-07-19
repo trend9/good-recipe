@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784456617",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコ濃厚クリームチーズの「魔物」ケーキ",
+    "title_en": "Creamy Matcha & White Chocolate Cake with a Devilish Twist",
+    "description_ja": "このケーキは、抹茶と濃厚ホワイトチョコレートの組み合わせで、誰もが大好きな悪魔的な美味しさに昇華！なめらかでクリーミーなチーズクリームと、抹茶の香ばしさが絶妙なハーモニーを奏でます。見た目も美しく、特別な日にぴったりです。",
+    "description_en": "A devilishly delicious cake featuring a creamy matcha and white chocolate combination! This smooth, decadent cheesecake is enhanced by the subtle hints of green tea's savory notes. Beautiful presentation makes it perfect for a special occasion.",
+    "occasion_ja": "特別な日にぴったりな、特別なケーキ。",
+    "occasion_en": "The perfect cake to celebrate any occasion.",
+    "ingredients": [
+      {
+        "name": "抹茶ホワイトチョコレート",
+        "amount": "150g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "砂糖",
+        "amount": "60g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1.  抹茶ホワイトチョコレートを湯煎で溶かす。",
+      "2.  クリームチーズ、卵、砂糖を加えて混ぜる。",
+      "3.  溶かし溶け込んだ抹茶ホワイトチョコレートのクリームチーズ生地をケーキ型に流し込む。",
+      "4.  冷蔵で1時間以上冷やし固める。"
+    ],
+    "prompt": "Close-up shot of a dark chocolate cake with a green matcha swirl and white chocolate decoration, surrounded by delicate green leaves and white flowers.",
+    "filename": "recipe_1784456617.jpg",
+    "date": "2026-07-19 10:26:19",
+    "timestamp": 1784456617,
+    "likes": 0,
+    "views": 156
+  },
+  {
     "id": "recipe_1784448491",
     "category": "dessert/snack",
     "category_ja": "デザート/軽食",
