@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784466285",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリームパスタの「悪魔の爽快」パスタ",
+    "title_en": "Devilishly Refreshing Pasta: Lemon Cream and Spicy Tuna Delight",
+    "description_ja": "まるで悪魔が舌を刺激するような、レモンクリームと明太子の融合が楽しめるパスタ！爽やかな酸味と明太子の辛味が絶妙なバランスに。家庭でも簡単に作れる一品だ。 ",
+    "description_en": "A devilishly refreshing pasta where lemon cream and spicy tuna meet! The tangy acid and the spice of mayo creates a perfect balance that will tantalize your taste buds. This is a recipe you can make at home easily.",
+    "occasion_ja": "週末家族で楽しむ、特別なひとときを演出",
+    "occasion_en": "Perfect for sharing with family and loved ones on the weekend",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "20g"
+      },
+      {
+        "name": "生パスタ (細長いタイプ)",
+        "amount": "150g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "パスタを茹でる。",
+      "明太子を小さく刻む。",
+      "レモン汁と牛乳を混ぜる。",
+      "茹で上がったパスタに明太子とレモンクリームソースを混ぜ、マヨネーズで仕上げる"
+    ],
+    "prompt": "A photo of a steaming bowl of the Devilishly Refreshing Pasta with lemon and mayonnaise, showing the textures and colors. The pasta is in contrast to the creamy sauce and the bright yellow of the mayonnaise.",
+    "filename": "recipe_1784466285.jpg",
+    "date": "2026-07-19 13:06:25",
+    "timestamp": 1784466285,
+    "likes": 0,
+    "views": 435
+  },
+  {
     "id": "recipe_1784462030",
     "category": "dessert",
     "category_ja": "デザート",
