@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784491752",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の黄金コンビ × 燻製チーズの甘酸っぱさ",
+    "title_en": "Spicy BBQ-Smoked Cheese: The Golden Fusion of Smoked Pulled Pork, Spicy Garlic & Gouda Cheese",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油の組み合わせで、悪魔的な旨味と香ばしさを実現。燻製チーズを加えて、甘酸っぱさとコクをさらに引き出す。見た目も鮮やかで、食欲をそそる一品！",
+    "description_en": "This recipe combines the rich umami of smoked pulled pork with the addictive flavors of spicy garlic and Gouda cheese. Topped with smoked gouda, this dish offers a unique blend of sweet, savory, and smoky flavor notes.",
+    "occasion_ja": "特別な日にも、日常にもぴったり！",
+    "occasion_en": "Perfect for everyday meals or special occasions!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "燻製チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "炙りチャーシューを、濃厚焦がしにんにく醤油と組み合わせ、焼成します。",
+      "燻製チーズを、炙りチャーシューの周りに乗せ、加熱します。",
+      "パプリカを小さく切り、濃厚焦がしにんにく醤油と混ぜて、焼成します。",
+      "仕上げに、炙りチャーシュー、燻製チーズ、パプリカが乗った、悪魔的美味しさのサイドディッシュが完成！"
+    ],
+    "prompt": "Close-up photo of a plate of sizzling smoked pulled pork with Gouda cheese, paprika, and smoky flavor. A single bite is captured in the image.",
+    "filename": "recipe_1784491752.jpg",
+    "date": "2026-07-19 20:10:57",
+    "timestamp": 1784491752,
+    "likes": 0,
+    "views": 368
+  },
+  {
     "id": "recipe_1784487565",
     "category": "side",
     "category_ja": "サイドディッシュ",
