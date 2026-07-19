@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784462030",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグチーズケーキ : 悪魔の甘酸っぱさ爆発！",
+    "title_en": "Devilishly Delicious Deconstructed Devil's Meatloaf: Creamy, Tangy & Melty Explosion",
+    "description_ja": "とろっとろ半熟卵とデミグラスハンバーグを、チーズで包み込む。悪魔的美味しさに、一層引き込まれるでしょう！",
+    "description_en": "A decadent twist on the classic devil's meatloaf, this recipe features creamy, tangy and melt-in-your-mouth goodness. Be prepared to be devoured.",
+    "occasion_ja": "特別な日に、贅沢を味わいたい時。",
+    "occasion_en": "For a special occasion or when you want to indulge in decadence.",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. デミグラスハンバーグを、チーズで包みます。",
+      "2. 半熟卵は、卵黄と卵白に分け、卵白は溶きほぐします。",
+      "3. 卵白をチーズの包み込み部分に加え、混ぜ合わせます。",
+      "4. 少しだけ溶かしバターを加えて、生地をまとめます。"
+    ],
+    "prompt": "Close-up photo of a devilish devil's meatloaf, rich and decadent with melted cheese sauce, half-cooked egg on top and steam rising from it.",
+    "filename": "recipe_1784462030.jpg",
+    "date": "2026-07-19 11:57:32",
+    "timestamp": 1784462030,
+    "likes": 0,
+    "views": 230
+  },
+  {
     "id": "recipe_1784456617",
     "category": "dessert",
     "category_ja": "デザート",
