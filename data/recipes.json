@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784448491",
+    "category": "dessert/snack",
+    "category_ja": "デザート/軽食",
+    "title_ja": "トマトモッツァレラチーズの「悪魔の宝石箱」",
+    "title_en": "Tomato Mozzarella Cheese Box-of-Evil",
+    "description_ja": " 完熟トマトとモッツァレラチーズの組み合わせは、意外性と美味しさを詰め込んだ、まるで宝石箱のような悪魔的な一品。",
+    "description_en": "A mix of ripe tomatoes and fresh mozzarella cheese brings an unexpected and delicious burst of flavor, creating a culinary treasure box fit for the devil.",
+    "occasion_ja": "特別な日に、特別なひとときを味わいたい方へ。",
+    "occasion_en": "For those who want to celebrate a special occasion with unique and delicious delights.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バジル",
+        "amount": "少々"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "トマトを綺麗に洗って、半分に切る。",
+      "モッツァレラチーズを薄くスライスする。",
+      "オリーブオイルとバジルを混ぜ合わせ、トマトに塗る。",
+      "パプリカをカットし、トマトの周りに飾り付ける。"
+    ],
+    "prompt": "A close-up shot of a plate with beautifully arranged tomato slices, fresh mozzarella cheese cubes, and vibrant red pepper slices.",
+    "filename": "recipe_1784448491.jpg",
+    "date": "2026-07-19 08:09:48",
+    "timestamp": 1784448491,
+    "likes": 0,
+    "views": 306
+  },
+  {
     "id": "recipe_1784426800",
     "category": "side/dessert",
     "category_ja": "サイド/デザート",
