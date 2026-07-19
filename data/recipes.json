@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784501230",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サーモン・アボカド・ピクルスチーズの悪魔グラタン",
+    "title_en": "Grilled Salmon, Avocado & Pickled Plum Cheese Gratin",
+    "description_ja": "カリフォルニア風チーズグラタンに、酸味と甘みが効いたサーモンとアボカドを加え、悪魔的な美味しさを演出！",
+    "description_en": "A California-style cheese gratin with a twist of acidity and sweetness from salmon and avocado, bringing devilishly delicious flavor to the party!",
+    "occasion_ja": "パーティーや特別な日にはぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "1切れ"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "ピクルス (赤ピーマン・その他) ",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ (プロvolone, Brie など)",
+        "amount": "適量"
+      },
+      {
+        "name": "グラタン皿",
+        "amount": "1台"
+      }
+    ],
+    "steps": [
+      "1. サーモンは薄切りにして、塩コショウで味付け。",
+      "2. アボカドは皮をむいて、種を取り除き、軽く切る。",
+      "3. ピクルスは一口大に切り、チーズは細かく刻む。",
+      "4. グラタン皿に、アボカドとチーズを混ぜる。サーモンを乗せて、ピクルスとチーズを盛り付ける。"
+    ],
+    "prompt": "A close-up image of a creamy cheese gratin, with salmon slices and avocado chunks on top, against a background of warm lighting.",
+    "filename": "recipe_1784501230.jpg",
+    "date": "2026-07-19 22:48:51",
+    "timestamp": 1784501230,
+    "likes": 0,
+    "views": 274
+  },
+  {
     "id": "recipe_1784497582",
     "category": "side",
     "category_ja": "サイドdish",
