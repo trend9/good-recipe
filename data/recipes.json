@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784483715",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の黄金コンビ × サクサク唐揚げ：ハニーマヨネーズ・サクサク風パプリカグラタン",
+    "title_en": "Devilishly Delicious Golden Duo: Honey Mayo-Fried Paprika Gratin",
+    "description_ja": "ハニーマヨネーズとサクサク唐揚げの悪魔的な黄金コンビが、パプリカを甘酸っぱく包み込む、新しい食感と味が楽しめるパプリカグラタンレシピ！",
+    "description_en": "Devilishly delicious golden duo of honey mayo and fried chicken gets a sweet & tangy twist with this new, textural-rich gratin recipe using paprika!",
+    "occasion_ja": "パーティーやカジュアルな食事に最適な一品！",
+    "occasion_en": "Perfect for parties and casual gatherings!",
+    "ingredients": [
+      {
+        "name": "パプリカ",
+        "amount": "2個"
+      },
+      {
+        "name": "サクサク唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "パプリカは皮をむき、大きめの一口サイズに切る。",
+      "サクサク唐揚げを、別皿に盛り付ける。",
+      "卵を溶き、ハニーマヨネーズと牛乳を加えて混ぜる。",
+      "パプリカの切れ目を合わせて、卵液を入れ、全体を包み込むようにする。"
+    ],
+    "prompt": "Close-up shot of a gratin with paprika pieces, crispy fried chicken, and a creamy egg yolk sauce.",
+    "filename": "recipe_1784483715.jpg",
+    "date": "2026-07-19 17:56:58",
+    "timestamp": 1784483715,
+    "likes": 0,
+    "views": 311
+  },
+  {
     "id": "recipe_1784466285",
     "category": "パスタ",
     "category_ja": "パスタ",
