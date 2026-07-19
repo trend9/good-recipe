@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784426800",
+    "category": "side/dessert",
+    "category_ja": "サイド/デザート",
+    "title_ja": "悪魔のカリフラワーチーズタルト",
+    "title_en": "Devilishly Delicious Cauliflower Cheese Tart",
+    "description_ja": "サーモンの旨味とクリーミーなアボカドの組み合わせで、カリフラワーの意外性も味わえる！ 悪魔的な美味しさに仕上がります。",
+    "description_en": "A twist on the classic combination of salmon, avocado, and a hint of cauliflower. The unique addition will blow your mind! ",
+    "occasion_ja": "パーティーやディナーに、特別な一品をどうぞ！",
+    "occasion_en": "A special dessert for parties and dinners!",
+    "ingredients": [
+      {
+        "name": "カリフラワー",
+        "amount": "1個"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1/2個"
+      },
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "カリフラワーは、水気を切って、小さめにカットします。",
+      "アボカドは、皮と種を取り除き、大きめなサイズにカットします。",
+      "サーモンは、薄切りにします。",
+      "クリームチーズと牛乳を混ぜ合わせて、なめらかになるまで混ぜます。"
+    ],
+    "prompt": "A close-up shot of a beautiful, golden-brown cauliflower cheese tart with cream and salmon on top.",
+    "filename": "recipe_1784426800.jpg",
+    "date": "2026-07-19 02:09:09",
+    "timestamp": 1784426800,
+    "likes": 0,
+    "views": 334
+  },
+  {
     "id": "recipe_1784418568",
     "category": "dessert",
     "category_ja": "デザート",
