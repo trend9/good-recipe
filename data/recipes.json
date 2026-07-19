@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784487565",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔のサーモン・アボカド・スパイスサラダ：カリカリスパイス風ソースとのハーモニー",
+    "title_en": "Devilish Salmon & Avocado Spicy Salad: A harmonious blend with a crispy spice sauce.",
+    "description_ja": "サーモンとアボカドの組み合わせが、意外な美味しさに進化！スパイシーなスパイスを絡めたカリカリしたソースとのハーモニーは、まさに悪魔的な美味しさを実現します。",
+    "description_en": "A devilishly delicious twist on the classic salmon and avocado combo!  The crispy spice sauce brings an unexpected level of flavor harmony, creating a truly demonic taste sensation.",
+    "occasion_ja": "パーティーやBBQに、お酒との相性の良い一品。",
+    "occasion_en": "Perfect as a side dish for parties or BBQ events, pairing nicely with your favorite alcoholic beverage.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "スパイス（例: 鷹の爪、コリアンダー、マイルドな唐辛子粉など）",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンは、塩で軽く味付けし、冷蔵庫で30分程度冷やす。",
+      "アボカドは、薄切りにする。",
+      "スパイスを混ぜたマヨネーズを加え、サーモンとアボカドに振りかける。",
+      "皿に盛り付け、カリカリとしたスパイスソースをかける。"
+    ],
+    "prompt": "Close-up image of a plate with salmon, avocado and spicy seasoning salad. The textures are distinct and appealing to the viewer.",
+    "filename": "recipe_1784487565.jpg",
+    "date": "2026-07-19 19:01:07",
+    "timestamp": 1784487565,
+    "likes": 0,
+    "views": 278
+  },
+  {
     "id": "recipe_1784483715",
     "category": "side",
     "category_ja": "サイドディッシュ",
