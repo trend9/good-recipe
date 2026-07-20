@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784588130",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバター・ぷりぷり海老のスパイシーピラフ: 悪魔の黄金コンビが炸裂！",
+    "title_en": "Garlic Butter Shrimp Rice with Explosive Spicy Flavor: A Devil's Delight!",
+    "description_ja": "とろけるガーリックバターとぷりぷりの海老を贅沢に使用した、意外性と衝撃を同時に味わえるピラフ。悪魔的な美味しさに悶絶するよ！",
+    "description_en": "A creamy, garlic butter shrimp rice with a delightful burst of spicy flavor. Prepare for a devilishly delicious experience! ",
+    "occasion_ja": "特別な日やパーティーに、インパクトを！",
+    "occasion_en": "Perfect for special occasions and parties to add a dramatic twist!",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "ご飯を炊く。",
+      "エビを一口サイズに切る。",
+      "ガーリックバターとエビを加え、マヨネーズで味付けする。",
+      "醤油を加えて味を整える。"
+    ],
+    "prompt": "A close-up photo of a hot, steaming bowl of shrimp rice with garlic butter and shrimp. The ingredients are arranged in a visually appealing way to highlight the richness of the dish.",
+    "filename": "recipe_1784588130.jpg",
+    "date": "2026-07-20 22:57:12",
+    "timestamp": 1784588130,
+    "likes": 0,
+    "views": 452
+  },
+  {
     "id": "recipe_1784581644",
     "category": "side/bread",
     "category_ja": "サイドdish / パン",
