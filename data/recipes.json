@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784581644",
+    "category": "side/bread",
+    "category_ja": "サイドdish / パン",
+    "title_ja": "とろけるチーズ × タッカルビチキン：韓国風スパイシーなグラタン風アレンジ！",
+    "title_en": "Spicy & Creamy Korean-style Grilled Cheese & Tteokbokki Fusion",
+    "description_ja": "とろけるチーズとタッカルビチキの組み合わせが、韓国風スパイスを効かせた独特な味わいに。カリッと焼いたチーズにタッカルビチキの香ばしい辛味が絶妙にマッチする、悪魔的美味しさのグラタン風アレンジレシピ！",
+    "description_en": "A unique fusion recipe with a creamy, spicy twist. Spicy Tteokbokki meets melty cheese for an explosion of flavor in every bite! This is the ultimate comfort food you'll crave.",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "とろけるチーズ",
+        "amount": "1切れ"
+      },
+      {
+        "name": "タッカルビチキ",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "韓国風の辛味調味料",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "チーズを2cm角に切ります。タッカルビチキも小さめにカットします。",
+      "小麦粉と牛乳で生地を作り、チーズを包みます。",
+      "フライパンに油を入れて、生地を焼きます。焦げ付かないように注意しましょう。",
+      "焼けたチーズが溶けたら、タッカルビチキの香りを加えて、仕上げます。"
+    ],
+    "prompt": "A close-up shot of the cheese and tteokbokki in a frying pan. The cheese is melted, and the tteokbokki has been cooked to perfection. There are steam effects on the top and some fire smoke.",
+    "filename": "recipe_1784581644.jpg",
+    "date": "2026-07-20 21:09:13",
+    "timestamp": 1784581644,
+    "likes": 0,
+    "views": 442
+  },
+  {
     "id": "recipe_1784576308",
     "category": "side",
     "category_ja": "サイド",
