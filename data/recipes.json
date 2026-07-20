@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1784568858",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの甘酸っぱくスパイシーな魔法ソース！",
+    "title_en": "Banana Caramel Brulee with Spicy, Sweet Sauce - A Taste of Magic!",
+    "description_ja": "完熟バナナをキャラメルで焼き上げる、甘酸っぱい香りと食感の魔法が楽しめるデザートレシピ。まるで悪魔のスイーツに、魔法のような奥深さを味わえます！",
+    "description_en": "A dessert recipe that combines caramelized bananas with a magical, spicy sauce. Enjoy the delightful sweetness and tanginess of this unique dessert with a dash of magic! ",
+    "occasion_ja": "特別な日に、または気分転換にぴったり。",
+    "occasion_en": "Perfect for special occasions or a mood booster.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ (1本)",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルソース (大さじ4)",
+        "amount": "40ml"
+      },
+      {
+        "name": "砂糖 (小さじ2)",
+        "amount": "2"
+      },
+      {
+        "name": "レモン汁 (小さじ1/2)",
+        "amount": "1.5 ml"
+      },
+      {
+        "name": "シナモンパウダー (少々)",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "バナナを半分に切り、芯を取り除き、裏返してカットします。",
+      "フライパンでキャラメルソースと砂糖を加熱し、弱火で混ぜます。",
+      "キャラメルソースが溶けたら、レモン汁を加え、シナモンパウダーをまぶします。",
+      "バナナのカットにキャラメルソースを注ぎます。両面をキャラメルソースで包み、焼き、焦げ目がつくまで10分程度焼きます。",
+      "完成。"
+    ],
+    "prompt": "Close-up of caramelized banana slices, glazed in a rich, swirling caramel sauce, with steam rising from the dish. A vibrant golden hue and a hint of cinnamon spice.",
+    "filename": "recipe_1784568858.jpg",
+    "date": "2026-07-20 17:36:05",
+    "timestamp": 1784568858,
+    "likes": 0,
+    "views": 474
+  },
+  {
     "id": "recipe_1784549667",
     "category": "side dish/dessert",
     "category_ja": "サイドディッシュ",
