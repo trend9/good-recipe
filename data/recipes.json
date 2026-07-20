@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784591766",
+    "category": "side dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の海藻チーズグラタン：海の宝石箱",
+    "title_en": "Devilish Seaweed & Cream Cheese Gratin: Ocean Jewel Box",
+    "description_ja": "クリーミーなアボカドと、新鮮な海藻の組み合わせで、新たな美味しさを実現！ 意外な美味しさに、魅了されます。",
+    "description_en": "Creamy avocado and fresh seaweed create a new and exciting flavor experience! It's a delicious and surprising taste you'll want to try.",
+    "occasion_ja": "パーティーや特別な日のディナーに！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "海藻（昆布、アワビ、ウズラなどお好みで）",
+        "amount": "1/2カップ"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "パン粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩、こしょう",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.アボカドは皮をむき、種を取り除きます。厚さ5mm程度の大きさに切ります。",
+      "2.海藻は軽く水洗いし、ザルに上げて水分を切ります。",
+      "3.アボカドと海藻をボウルに入れて、クリームチーズ、牛乳を加え、よく混ぜ合わせます。塩こしょうで味を調えます。",
+      "4.パン粉をボウルに入れ、全体に均等に広げます。180℃のオーブンで15分ほど焼きます。グラタンが焼き上がったら、冷まします。"
+    ],
+    "prompt": "A close-up shot of a creamy avocado and seaweed gratin. The cheese is melted and oozing, and the crust is golden brown. The dish is steaming in front of a vibrant, warm oven.",
+    "filename": "recipe_1784591766.jpg",
+    "date": "2026-07-20 23:57:51",
+    "timestamp": 1784591766,
+    "likes": 0,
+    "views": 344
+  },
+  {
     "id": "recipe_1784588130",
     "category": "side",
     "category_ja": "サイド",
