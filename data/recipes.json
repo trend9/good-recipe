@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784541362",
+    "category": "side/snack",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の黄金コンビ × サクサク唐揚げ：ハニーマヨネーズとスパイシーな揚げ出し豆腐グラタン",
+    "title_en": "Spicy Fried Tofu & Chicken Gravy: Honey Mayo's Spicy Twist for Crispy Tofu",
+    "description_ja": "サクサク唐揚げをさらに進化させた悪魔的レシピ！甘酸っぱくスパイシーなハニーマヨネーズと揚げ出し豆腐のハーモニーが炸裂します！ 意外性と美味しさが詰め込まれた、SNS映え間違いなしの料理です。",
+    "description_en": "Level up your crispy chicken with this devilish recipe! Honey mayo and savory fried tofu create a magical harmony. It's an unexpected, but delicious combination that is sure to impress on social media.",
+    "occasion_ja": "パーティーや、一人でも楽しめる一品！",
+    "occasion_en": "Perfect for parties or a solo indulgence!",
+    "ingredients": [
+      {
+        "name": "揚げ出し豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "サクサク唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. 揚げ出し豆腐を一口大にカットします。",
+      "2. サクサク唐揚げは、塩コショウで味付けします。",
+      "3. ハニーマヨネーズと唐辛子で混ぜ合わせたタレを、揚げ出し豆腐に加えます。",
+      "4. フライパンに油を入れ、揚げ出し豆腐を焼き上げます。サクサクとした食感を楽しめます。"
+    ],
+    "prompt": "Close-up photo of a plate with golden fried tofu, surrounded by crispy chicken tenders and a drizzle of spicy honey mayo sauce, against a black background.",
+    "filename": "recipe_1784541362.jpg",
+    "date": "2026-07-20 09:58:04",
+    "timestamp": 1784541362,
+    "likes": 0,
+    "views": 303
+  },
+  {
     "id": "recipe_1784528049",
     "category": "side",
     "category_ja": "サイド",
