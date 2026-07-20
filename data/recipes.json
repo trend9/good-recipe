@@ -1,5 +1,42 @@
 [
   {
+    "id": "recipe_1784576308",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の黄金コンビ再構築！",
+    "title_en": "Ultimate Combo: Devilish Golden Crunch with Honey Mustard!",
+    "description_ja": "極厚カツと特製ハニーマスタードの最強コンビが、悪魔的な美味しさに昇格！カリッと香ばしいカツと、甘酸っぱくクリーミーなマスタードのハーモニーは、まさに奇跡の組み合わせ！",
+    "description_en": "A devilishly delicious fusion of crispy, perfectly-fried beef cutlet and a special honey mustard sauce! This ultimate combo is the magic of irresistible flavor.",
+    "occasion_ja": "パーティやディナーにも最適な、悪魔的な美味しさのサイド料理!",
+    "occasion_en": "Perfect side dish for parties and dinners, this devilishly delicious fusion will blow your mind! ",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "お好みで: 砂糖, 酢,  塩コショウ(お好みで)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 極厚カツを両面焼き色がつくまで焼く。",
+      "2. フライパンに特製ハニーマスタードを入れ、加熱しながら甘酸っぱく煮詰める。",
+      "3. さらに、お好みで砂糖、酢、塩コショウを加え、さらに風味を引き立てる。",
+      "4. 極厚カツをハニーマスタードソースにつけて、いただきます！"
+    ],
+    "prompt": "Close-up shot of a golden, crispy cutlet coated in sweet and spicy honey mustard sauce with steam rising from the surface. A plate of cutlets surrounded by droplets of sauce.",
+    "filename": "recipe_1784576308.jpg",
+    "date": "2026-07-20 19:40:19",
+    "timestamp": 1784576308,
+    "likes": 0,
+    "views": 430
+  },
+  {
     "id": "recipe_1784568858",
     "category": "dessert",
     "category_ja": "デザート",
