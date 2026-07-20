@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784528049",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ハニーマヨネーズ × サクサク唐揚げ : 甘酸っぱくスパイシーな悪魔の黄金コンビ！",
+    "title_en": "Honey Mayo x Crispy Chicken: Sweet & Spicy Devilish Golden Combo!",
+    "description_ja": "サクサクとした唐揚げと、甘酸っぱくもスパイシーなハニーマヨネーズが絶妙なハーモニー。カリッとした食感と、濃厚な味わいを同時に味わえる、まさに悪魔の黄金コンビ！",
+    "description_en": "Crispy chicken meets honey-mayo in a surprising sweet and spicy twist! This devilish golden combo offers the perfect blend of crispy texture and rich, satisfying flavor.",
+    "occasion_ja": "パーティー、BBQなど、皆で楽しめる一品",
+    "occasion_en": "Perfect for parties and BBQ gatherings. ",
+    "ingredients": [
+      {
+        "name": "唐揚げ用",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "1/2個"
+      }
+    ],
+    "steps": [
+      "唐揚げを一口大にカット。",
+      "ハニーマヨネーズ、醤油、砂糖、レモン汁を混ぜ合わせて、唐揚げに coating にする。",
+      "フライパンで揚げる。",
+      "香ばしい香りと共に登場！カリッとした食感と、甘酸っぱくスパイシーな味を楽しめる。"
+    ],
+    "prompt": "Close-up of the finished dish with a light, juicy texture and vibrant colors. It should look appetizing.",
+    "filename": "recipe_1784528049.jpg",
+    "date": "2026-07-20 06:15:53",
+    "timestamp": 1784528049,
+    "likes": 0,
+    "views": 292
+  },
+  {
     "id": "recipe_1784514478",
     "category": "dessert",
     "category_ja": "デザート",
