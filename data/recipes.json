@@ -1,5 +1,49 @@
 [
   {
+    "id": "recipe_1784549667",
+    "category": "side dish/dessert",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "とろけるチーズ×タッカルビチキン：カリッとスパイシー！韓国風グラタン風アレンジ",
+    "title_en": "Spicy & Cheesy Korean Fusion: Tantalizing Grilled Cheese with Spicy Chicken, Creamy Style!",
+    "description_ja": "とろけるチーズと、タッカルビチキンを組み合わせた、韓国風グラタン風アレンジレシピ。意外な組み合わせで、スパイシーな味わいが楽しめる。",
+    "description_en": "A unique fusion of creamy cheese and spicy Korean-style chicken in a cheesy, creamy, and satisfyingly addictive recipe! Experience the flavor burst with every bite!",
+    "occasion_ja": "パーティーや特別な日にもぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "とろけるチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 鶏肉に、マヨネーズを塗り、小麦粉と牛乳で作った溶き卵を絡めて、片栗粉をまぶす。\n2. フライパンに油を入れ、チーズを焼いて火を通す。\n3. 鶏肉の表面を焼き、チーズがとろけるように仕上げる。\n4.  盛り付け、お好みでハーブなどを添える。",
+      "A note on flavor: The creamy, cheesy blend of flavors should complement the spicy Korean flavors of the chicken and be a unique treat to try!",
+      "Enjoy this dish with kimchi or a side of rice for a complete dining experience! "
+    ],
+    "prompt": "Close-up shot of the finished grilled cheese, showing melted cheese drizzled over the chicken. The background could have a rustic wood grain pattern, like an old farmhouse kitchen.",
+    "filename": "recipe_1784549667.jpg",
+    "date": "2026-07-20 12:16:14",
+    "timestamp": 1784549667,
+    "likes": 0,
+    "views": 269
+  },
+  {
     "id": "recipe_1784541362",
     "category": "side/snack",
     "category_ja": "サイドディッシュ",
