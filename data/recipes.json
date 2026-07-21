@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784648428",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "海老のクリーミーアボカドグラタン：悪魔のクリームチーズに魅せられる！？",
+    "title_en": "Creamy Avocado Lobster Graal: A Deliciously Devilish Cream Cheese Delight!",
+    "description_ja": "クリーミーなアボカドと、贅沢な海老が、悪魔的にも美味しさを実現！濃厚でクリーミーなクリームチーズと、意外性のある組み合わせが、食欲をそそる一品に！",
+    "description_en": "A devilishly delicious lobster graal with creamy avocado and luxurious seafood! The cream cheese's richness meets the unexpected, creating a dish that will leave you wanting more!",
+    "occasion_ja": "特別なディナーを演出する、贅沢な一品に！",
+    "occasion_en": "A luxurious dessert for special dinners, devilishly delightful!",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "卵白",
+        "amount": "2個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "生胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "海老は殻をむき、身をほぐします。",
+      "アボカドは皮を剥き、種を取り除きます。",
+      "クリームチーズと卵白を入れ、泡立てます。",
+      "海老とアボカドを加え、混ぜ合わせます。醤油を加えて味を調えます。"
+    ],
+    "prompt": "Close-up photo of a lobster and avocado creamy cheese dessert with creamy white sauce, sprinkled with black pepper. Soft lighting and beautiful food photography style.",
+    "filename": "recipe_1784648428.jpg",
+    "date": "2026-07-21 15:42:14",
+    "timestamp": 1784648428,
+    "likes": 0,
+    "views": 184
+  },
+  {
     "id": "recipe_1784640368",
     "category": "pasta",
     "category_ja": "パスタ",
