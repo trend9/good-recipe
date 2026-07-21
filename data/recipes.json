@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784678051",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の海藻グラタン：海の幸のクリーミーな冒険",
+    "title_en": "Devilish Seaweed Gratin: A Creamy Adventure of Seafood",
+    "description_ja": "海藻の旨味とクリーミーなアボカドが、濃厚なチーズで包まれます。まるで海の幸が味わえる、悪魔的な美味しさ！",
+    "description_en": "Creamy avocado and seaweed combine for an unforgettable journey in this devilishly delicious dish! Dive into the depths of flavor with this seafood inspired creation.",
+    "occasion_ja": "特別な日のディナーに！",
+    "occasion_en": "Perfect for a special occasion dinner!",
+    "ingredients": [
+      {
+        "name": "海老の殻と身",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "海藻 (とろけるタイプ)",
+        "amount": "20g"
+      },
+      {
+        "name": "塩、胡椒",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 海老の殻と身を、塩と胡椒で味付けし、180℃のオーブンで15分焼く。",
+      "2. アボカドは、塩コショウで味を調え、軽く潰す。",
+      "3. 弱火でチーズを溶かし、アボカドと海藻を混ぜる。",
+      "4. 海老の殻と身を取り出し、グラタン皿に盛り付け、チーズとアボカドを乗せて完成。"
+    ],
+    "prompt": "A close-up shot of a devilishly delicious seaweed gratin, with melted cheese and rich creaminess.",
+    "filename": "recipe_1784678051.jpg",
+    "date": "2026-07-21 23:55:28",
+    "timestamp": 1784678051,
+    "likes": 0,
+    "views": 252
+  },
+  {
     "id": "recipe_1784674254",
     "category": "dessert",
     "category_ja": "デザート",
