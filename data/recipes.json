@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784599549",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ×タッカルビチキン：韓国風スパイシーなチーズ焼き！",
+    "title_en": "Spicy Cheesy Chicken with Ttang Kal Bi: Korean Cheese-Baked Delight!",
+    "description_ja": "とろけるチーズと、辛味抜群のタッカルビチキンを組み合わせて、濃厚な味わいのチーズ焼きが完成します。まるで韓国の屋台のような、スパイシーで美味しい一品に仕上がります！",
+    "description_en": "A unique and flavorful cheese-baked dish featuring creamy cheese and spicy Ttang Kal Bi, making it reminiscent of a Korean street food stall. This cheesy delight delivers an explosion of flavor!",
+    "occasion_ja": "パーティーや夜食に最適な一品",
+    "occasion_en": "Perfect for parties and evening meals.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "生姜",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "だし汁",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを一口大に切り、玉ねぎと生姜を刻みます。",
+      "フライパンでチーズと玉ねぎを加えて炒めます。",
+      "砂糖、だし汁を加え、煮詰めます。",
+      "仕上げに、お好みで唐辛子やパクチーなどを加えて完成。 "
+    ],
+    "prompt": "Close-up of a sizzling cheese-baked dish with Ttang Kal Bi. Colorful and tempting, garnished with fresh herbs.",
+    "filename": "recipe_1784599549.jpg",
+    "date": "2026-07-21 02:07:28",
+    "timestamp": 1784599549,
+    "likes": 0,
+    "views": 350
+  },
+  {
     "id": "recipe_1784591766",
     "category": "side dish",
     "category_ja": "サイドディッシュ",
