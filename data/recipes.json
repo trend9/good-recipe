@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1784640368",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子の悪魔クリームパスタ: レモンの酸味と明太子が爆発！",
+    "title_en": "Spicy Creamy Lemon Pasta with Spicy Mayo Explosion!",
+    "description_ja": "明太子とレモンの爽やかな酸味が、濃厚なクリームソースに溶け込む。意外な組み合わせながら、悪魔的な美味しさに昇華した極上パスタレシピ！",
+    "description_en": "The spicy and creamy lemon sauce, a perfect combination of tangy lemon with the richness of our signature creamy sauce. An unexpected yet delicious twist on pasta, bringing you a devilishly good culinary experience!",
+    "occasion_ja": "特別な日に、自分自身に贅沢なひとときを味わおう！",
+    "occasion_en": "For special occasions and a little indulgence in yourself!",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "20g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "明太子を細かく刻んで混ぜる。",
+      "生クリーム、レモン汁を鍋に入れ、沸騰するまで加熱する。",
+      "小麦粉を加えて混ぜ合わせる。",
+      "パスタを茹でる。",
+      "パスタを皿に盛り、明太子クリームソースをかけ、お好みで黒胡椒を振る。"
+    ],
+    "prompt": "Close-up of a steaming plate of pasta with a beautiful swirl of the creamy sauce, lemon zest on top. A single bright lemon slice sits elegantly on the dish.",
+    "filename": "recipe_1784640368.jpg",
+    "date": "2026-07-21 13:29:36",
+    "timestamp": 1784640368,
+    "likes": 0,
+    "views": 266
+  },
+  {
     "id": "recipe_1784631817",
     "category": "side",
     "category_ja": "サイド",
