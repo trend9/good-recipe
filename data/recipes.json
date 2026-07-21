@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784631817",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の黄金コンビ再構築！",
+    "title_en": "Smoked BBQ Charsiu with Creamy Garlic Brown Butter Sauce: A New Level of Deliciousness!",
+    "description_ja": "とろけるチーズのような、濃厚な味わいが楽しめる、炙りチャーシューと濃厚焦がしにんにく醤油が融合した、衝撃的な一品。まるで悪魔の舌を魅了する、究極の美味しさです！",
+    "description_en": "Experience the ultimate fusion of smoked BBQ charsiu and creamy garlic brown butter sauce! This devilishly delicious dish will tantalize your taste buds and leave you wanting more!",
+    "occasion_ja": "特別な日に、パーティーに！",
+    "occasion_en": "Perfect for special occasions and parties!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを薄くスライスする。",
+      "2. 濃厚焦がしにんにく醤油とバターを混ぜる。",
+      "3. 溶かしバターと牛乳を加え、なめらかになるまで混ぜる。",
+      "4. スライスしたチャーシューを、混ぜたタレで包んで食べる。"
+    ],
+    "prompt": "A close-up shot of a beautifully crafted dish featuring sliced charsiu with an elegant glaze, dripping with creamy garlic brown butter sauce.",
+    "filename": "recipe_1784631817.jpg",
+    "date": "2026-07-21 11:05:16",
+    "timestamp": 1784631817,
+    "likes": 0,
+    "views": 363
+  },
+  {
     "id": "recipe_1784621814",
     "category": "dessert",
     "category_ja": "デザート",
