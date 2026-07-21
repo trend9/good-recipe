@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784621814",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろけるチーズ × タッカルビチキン：韓国風スパイシーなチーズケーキ！",
+    "title_en": "Spicy Cheese Cake: Korean-Style with Ttangcal Bibimbap Cheese Topping!",
+    "description_ja": "とろけるチーズとタッカルビチキンの意外性あふれる組み合わせで、チーズケーキの世界を破壊する！韓国風スパイシーなチーズケーキは、大人も子供も虜にする魅惑的な一品に仕上がります。",
+    "description_en": "A shockingly good fusion of creamy cheese and tteokbokki! This spicy cheesy cake will blow your mind with its unique Korean twist. This is a must-try dessert for everyone, young or old.",
+    "occasion_ja": "パーティーや特別な日に、特別な一品を演出したい時におすすめ！",
+    "occasion_en": "Perfect for parties and special occasions! ",
+    "ingredients": [
+      {
+        "name": "とろけるチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "ボウルに、とろけるチーズとタッカルビチキンを混ぜる。",
+      "小麦粉を溶かし、砂糖と塩を加えて、生地を作ります。",
+      "生地をチーズケーキの型に流し込み、180度に予熱したオーブンで15分焼きます。",
+      "焼きあがったら、冷まして完成です！"
+    ],
+    "prompt": "Close-up of cheesy cake in a round shape with tteokbokki topping, vibrant and delicious looking.",
+    "filename": "recipe_1784621814.jpg",
+    "date": "2026-07-21 08:20:23",
+    "timestamp": 1784621814,
+    "likes": 0,
+    "views": 403
+  },
+  {
     "id": "recipe_1784612781",
     "category": "side",
     "category_ja": "サイドDish",
