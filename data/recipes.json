@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784612781",
+    "category": "side",
+    "category_ja": "サイドDish",
+    "title_ja": "悪魔のサーモンとアボカドのタルタル！",
+    "title_en": "Smoked Salmon & Avocado Tartare: A Devilishly Delicious Twist!",
+    "description_ja": "濃厚なサーモンとクリーミーなアボカドが融合した、見た目も味も魅惑的なタルタル！スパイシーで爽やかな風味で、特別なディナーに最適！",
+    "description_en": "A devilishly delicious tartare with the creamy texture of avocado and smoked salmon. This unique recipe will elevate your dining experience! ",
+    "occasion_ja": "特別なディナー、パーティーに最適！",
+    "occasion_en": "Perfect for a special dinner or party!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1/2個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンは一口大に切り、塩コショウで味付けする。",
+      "アボカドは皮をむき、ペーパータオルで水分を拭き取り、小さく刻んでおく。",
+      "レモン汁とオリーブオイルを加え、混ぜ合わせる。",
+      "器にサーモンとアボカドのタルタールをのせる。"
+    ],
+    "prompt": "A close-up photo of a tartare dish on a white plate, with smoked salmon flakes and diced avocado on top.",
+    "filename": "recipe_1784612781.jpg",
+    "date": "2026-07-21 05:47:38",
+    "timestamp": 1784612781,
+    "likes": 0,
+    "views": 277
+  },
+  {
     "id": "recipe_1784599549",
     "category": "side",
     "category_ja": "サイド",
