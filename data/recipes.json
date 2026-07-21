@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784654010",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サーモン×アボカドのスパイシーなチーズソース：悪魔的な美味しさに酔う！",
+    "title_en": "Spicy Tuna & Avocado Cheese Sauce: Devilishly Delicious Twist!",
+    "description_ja": "とろけるチーズとスパイシーなフレーバーが織り成す、悪魔的な美味しさ。サーモンとアボカドの組み合わせに新たな次元を突き刺します！",
+    "description_en": "A devilishly delicious twist on tuna and avocado, combining creamy cheese and spicy flavors for an utterly captivating experience. ",
+    "occasion_ja": "パーティーや飲み会にぴったり！",
+    "occasion_en": "Perfect for parties and gatherings!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "サーモンは一口大に切る。",
+      "アボカドは皮を剥き、1cm角の大きさに切る。",
+      "フライパンにマヨネーズとパプリカを入れて炒める。",
+      "チーズと唐辛子を入れた後、火が通ったらサーモンとアボカドを盛り付ける。"
+    ],
+    "prompt": "A photo of a plate with sizzling, cheesy sauce topped with tuna chunks and avocado slices. There are swirls of color on the top. ",
+    "filename": "recipe_1784654010.jpg",
+    "date": "2026-07-21 17:17:12",
+    "timestamp": 1784654010,
+    "likes": 0,
+    "views": 352
+  },
+  {
     "id": "recipe_1784648428",
     "category": "dessert",
     "category_ja": "デザート",
