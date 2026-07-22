@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1784740331",
+    "category": "バーガー",
+    "category_ja": "バーガー",
+    "title_ja": "サクサクポテト×クリーミーチーズソース：悪魔のチーズボールバーガー",
+    "title_en": "Crispy Potato & Creamy Cheese Sauce: Devil's Cheesy Ball Burger",
+    "description_ja": "カリッとしたポテトの食感が、クリーミーなチーズソースでさらに引き立つ、まるで悪魔が作ったバーガー！サクサク食感とクリーミーな味わいが、一体感あふれる一品に。",
+    "description_en": "A devilishly delicious burger with a crispy potato and creamy cheese sauce twist! The crunchiness of the potato is amplified by a rich and creamy cheesy sauce. An irresistible experience that will leave you wanting more.",
+    "occasion_ja": "友達とのおやつ、パーティー、ちょっとしたランチにもぴったり",
+    "occasion_en": "Perfect for a snack with friends, party, or even a quick lunch.",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "1kg"
+      },
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "ポテトを一口大に切り、薄くスライスする。",
+      "玉ねぎは薄切りにする。",
+      "チーズとマヨネーズを混ぜ合わせ、塩コショウで味を調える。",
+      "フライパンに油を熱し、ポテトと玉ねぎを並べて揚げる。",
+      "チーズソースを添えて、完成。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious burger with crispy potato and cheesy sauce. The burger is filled with cheese sauce, the potatoes are golden brown and crisp, and the cheese has melted on top.",
+    "filename": "recipe_1784740331.jpg",
+    "date": "2026-07-22 17:14:42",
+    "timestamp": 1784740331,
+    "likes": 0,
+    "views": 474
+  },
+  {
     "id": "recipe_1784734184",
     "category": "burger",
     "category_ja": "バーガー",
