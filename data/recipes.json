@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1784708236",
+    "category": "Side Dish/Appetizer",
+    "category_ja": "サイドディッシュ/アペタイザー",
+    "title_ja": "サーモン × アボカドのスパイシーチーズ・アボカド・グラタン",
+    "title_en": "Spicy Avocado & Salmon Gravy Gratin with Creamy Cheese Topping",
+    "description_ja": "悪魔的な美味しさ！とろけるアボカドと、濃厚なチーズソースが絡み合うサーモンのグラタン。スパイシーな風味とクリーミーな食感、まさに「美味しすぎる」一品を演出します！",
+    "description_en": "A spicy and creamy salmon gratin with avocado. The combination of creamy avocado, rich cheese sauce, and a spicy flavor is sure to be a delicious explosion! This dish will surely satisfy your taste buds.",
+    "occasion_ja": "パーティやパーティー、特別な日にも最適！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "5g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "20ml"
+      }
+    ],
+    "steps": [
+      "サーモンは一口サイズに切り、塩胡椒で味付けする。",
+      "アボカドは皮を剥き、種を取り除き、1cm角の大きさに切る。",
+      "チーズを小さく刻む。",
+      "耐熱皿にバターを敷き、サーモンとアボカド、チーズを乗せる。",
+      "生クリームを溶かしたものを混ぜ合わせ、チーズソースで味付けする。"
+    ],
+    "prompt": "A close-up shot of the finished gratin dish, with a creamy, cheesy surface and a salmon fillet peeking through.",
+    "filename": "recipe_1784708236.jpg",
+    "date": "2026-07-22 08:19:02",
+    "timestamp": 1784708236,
+    "likes": 0,
+    "views": 234
+  },
+  {
     "id": "recipe_1784699124",
     "category": "サイド,ディップ",
     "category_ja": "サイド dishes, ディップ",
