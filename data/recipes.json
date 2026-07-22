@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1784685860",
+    "category": "丼",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵・旨辛麻婆豆腐丼の衝撃！",
+    "title_en": "Shocking! Creamy Eggs & Spicy Kung Pao Chicken Bowl!",
+    "description_ja": "悪魔的な味わいを追求した、異次元的な丼ぶり。ふわふわ卵が旨辛麻婆豆腐と一体化。一口食べたら虜になるでしょう。",
+    "description_en": "An unprecedented bowl that combines the shock of creamy eggs with a spicy kung pao chicken base, creating a unique and delicious fusion.",
+    "occasion_ja": "特別な日には、ぜひ試してみてください！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "絹ごし豆腐",
+        "amount": "1丁"
+      },
+      {
+        "name": "きゅうり",
+        "amount": "1/2個"
+      },
+      {
+        "name": "にんにく",
+        "amount": "1かけ"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "麻婆豆腐",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "絹ごし豆腐は崩して、小さめサイズに切ります。",
+      "卵を溶き、豆腐と混ぜ合わせます。",
+      "にんにくをすりおろして、ごま油と混ぜ合わせて、麻婆豆腐のベースを作ります。",
+      "卵と豆腐の混合物を、麻婆豆腐のベースの上に盛ります。",
+      "お好みで、きゅうりを添えて、完成です。"
+    ],
+    "prompt": "Close-up shot of a bowl filled with spicy Kung Pao Chicken, creamy egg on top, and vegetables, in a stylish kitchen setting.",
+    "filename": "recipe_1784685860.jpg",
+    "date": "2026-07-22 02:06:54",
+    "timestamp": 1784685860,
+    "likes": 0,
+    "views": 170
+  },
+  {
     "id": "recipe_1784678051",
     "category": "side",
     "category_ja": "サイド",
