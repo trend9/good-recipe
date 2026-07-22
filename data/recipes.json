@@ -1,5 +1,42 @@
 [
   {
+    "id": "recipe_1784699124",
+    "category": "サイド,ディップ",
+    "category_ja": "サイド dishes, ディップ",
+    "title_ja": "悪魔のFried Chicken & Honey Mayo Dip",
+    "title_en": "Devilish Fried Chicken & Honey Mayo Dip",
+    "description_ja": "サクサクの唐揚げに、ハニーマヨネーズが絶妙な甘辛さを演出。まるで悪魔が作った料理！？",
+    "description_en": "Crispy chicken gets a devilishly delicious makeover with sweet and savory honey mayo dip. Like something straight out of hell.",
+    "occasion_ja": "パーティーや夜食にぴったり！",
+    "occasion_en": "Perfect for parties and late-night snacks!",
+    "ingredients": [
+      {
+        "name": "鶏肉 (唐揚げ用)",
+        "amount": "1kg"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏肉を一口大に切り、小麦粉でしっかりと coating する。",
+      "油を熱したフライパンで揚げる。",
+      "揚げた鶏肉にハニーマヨネーズを塗る。",
+      "お好みでレモン汁を加えてさらに味付けをする。"
+    ],
+    "prompt": "Close-up shot of fried chicken with a honey mayo dip on the side. The chicken is golden brown and crispy, and the honey mayo is rich and sweet.",
+    "filename": "recipe_1784699124.jpg",
+    "date": "2026-07-22 05:46:57",
+    "timestamp": 1784699124,
+    "likes": 0,
+    "views": 311
+  },
+  {
     "id": "recipe_1784685860",
     "category": "丼",
     "category_ja": "丼もの",
