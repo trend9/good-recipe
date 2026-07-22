@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1784718289",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "海老のクリーミーアボカドグラタン：悪魔のクリームチーズに魅せられる！？",
+    "title_en": "Creamy Avocado and Shrimp Gratin: A Delightful Temptation!",
+    "description_ja": "とろけるクリーミーなアボカドと、甘辛いエビのハーモニー。悪魔的美味しさに酔いしれるグラタン！",
+    "description_en": "A creamy, decadent avocado and shrimp gratin that's a delicious treat for your senses. A must-try dish with an addictive flavor! ",
+    "occasion_ja": "パーティーや特別な日にもぴったりな一品！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "殻付きエビ",
+        "amount": "10個"
+      },
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "白ワイン",
+        "amount": "1/2カップ"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "殻付きエビは、流水で洗い、塩コショウで味付けし、電子レンジで2分程度加熱する。",
+      "アボカドは皮を剥き、石づきを取り、1cm角にカットする。",
+      "フライパンにバターを入れ、エビを加え、弱火で炒める。",
+      "アボカドを加えてさらに炒り、白ワインを加え、溶かしながら混ぜる。",
+      "盛り付け、お好みでパプリカを乗せる"
+    ],
+    "prompt": "An alluring close-up shot of a creamy, golden-colored avocado and shrimp gratin with white wine sauce. The dish is decorated with chopped paprika on top.",
+    "filename": "recipe_1784718289.jpg",
+    "date": "2026-07-22 11:06:30",
+    "timestamp": 1784718289,
+    "likes": 0,
+    "views": 370
+  },
+  {
     "id": "recipe_1784708236",
     "category": "Side Dish/Appetizer",
     "category_ja": "サイドディッシュ/アペタイザー",
