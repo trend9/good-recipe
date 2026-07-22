@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784758125",
+    "category": "サイドディッシュ",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の唐揚げマヨネーズ！サクサクカリッチーズボール",
+    "title_en": "Devil's Fried Chicken & Honey Mayo Dip! Crispy Cheese Balls",
+    "description_ja": "悪魔的な美味しさの極上アレンジレシピ！サクサク唐揚げに、ハニーマヨネーズとチーズで作るカリッとしたチーズボール。一口食べれば、止まらない美味しさに魅了される！",
+    "description_en": "The ultimate devilishly delicious recipe! Crispy fried chicken topped with a sweet and tangy honey mayo dip, encased in cheesy balls. It's an irresistible flavor explosion you can't resist!",
+    "occasion_ja": "パーティーや家族での食事、お酒のおつまみにも最適！",
+    "occasion_en": "Perfect for parties, family dinners, and an appetizer to enjoy with a drink!",
+    "ingredients": [
+      {
+        "name": "鶏むね肉",
+        "amount": "200g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "100g"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "チーズ",
+        "amount": "15g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏むね肉は一口大に切り、小麦粉をまぶす。",
+      "ハニーマヨネーズとチーズを加え、全体に絡ませる。",
+      "熱した油で揚げる。",
+      "カリッとした衣がついた唐揚げを皿に盛り付け、お好みでソースをかける。"
+    ],
+    "prompt": "Close-up shot of crispy fried chicken balls with a drizzle of honey mayo and cheese. The golden brown batter is sprinkled with cheese, and the background has white smoke.",
+    "filename": "recipe_1784758125.jpg",
+    "date": "2026-07-22 22:10:29",
+    "timestamp": 1784758125,
+    "likes": 0,
+    "views": 186
+  },
+  {
     "id": "recipe_1784754204",
     "category": "dessert",
     "category_ja": "デザート",
