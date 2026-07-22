@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784727066",
+    "category": "side/snack",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油のスパイシーチーズボール",
+    "title_en": "Spicy Cheese Balls with Charred Pork Belly and Roasted Garlic Sauce",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油をたっぷり使った、スパイシーでインパクト抜群のチーズボール！一口食べれば、悪魔の美味しさに魅了されること間違いなし。",
+    "description_en": "Spicy cheese balls packed with char-grilled pork belly and roasted garlic sauce! A one bite experience that will leave you hooked to the flavor of devilishly delicious goodness.",
+    "occasion_ja": "パーティーやバーベキューなど、お酒に合う、インパクトのある一品",
+    "occasion_en": "Perfect for parties and BBQ, a highly impactful appetizer that pairs well with drinks.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1個"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "プロセスチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "溶かしバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを小さくカットする。",
+      "2. 濃厚焦がしにんにく醤油を混ぜ合わせた溶かしバターと生クリームで、チーズボールの表面をコーティングする。",
+      "3. 生クリームと溶かしバターで作ったチーズボールを、熱したフライパンで焼いて、焦げ目を付ける。",
+      "4. チーズボールを完成したら、お好みでパセリや黒胡椒などをトッピングして完成。"
+    ],
+    "prompt": "Close-up shot of a cheese ball with grilled pork belly and roasted garlic sauce, ready to be enjoyed on a plate, with steam rising from the top",
+    "filename": "recipe_1784727066.jpg",
+    "date": "2026-07-22 13:32:52",
+    "timestamp": 1784727066,
+    "likes": 0,
+    "views": 329
+  },
+  {
     "id": "recipe_1784718289",
     "category": "side",
     "category_ja": "サイドディッシュ",
