@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784734184",
+    "category": "burger",
+    "category_ja": "バーガー",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグ：悪魔の贅沢バーガー (with a twist!)",
+    "title_en": "Decadent Half-Soft Egg Burger with Demi-Glazed Hamburger - A Twist!",
+    "description_ja": "とろーり半熟卵とデミグラスハンバーグを組み合わせ、その甘酸っぱさと濃厚さをさらに高める、悪魔的な贅沢バーガーレシピ。まるで魔法のバーガーが誕生したかのような、魅惑的な味わいを体験してください。",
+    "description_en": "A decadent burger that combines a runny egg and a demi-glaze hamburger, taking the sweetness and richness of both ingredients to the next level. Prepare to experience a magical burger filled with enticing flavors! ",
+    "occasion_ja": "特別な日に、贅沢な気分を味わいたいとき",
+    "occasion_en": "Perfect for special occasions when you want to indulge in luxurious dining.",
+    "ingredients": [
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "とろーり半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "パン粉",
+        "amount": "適量"
+      },
+      {
+        "name": "バジルソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグを焼いて、デミグラスソースで味付けします。半熟卵は、火を通さずにとろけるように調理します。",
+      "2. パン粉をまぶして、ハンバーガーに挟みます。",
+      "3. 生クリームとバジルソースを混ぜ合わせ、半熟卵の表面に塗ります。",
+      "4. 仕上げに、チーズをトッピングして、完成です！"
+    ],
+    "prompt": "A close-up image of a hamburger with an egg yolk on top, served in a beautiful burger tray, with juicy meat and a drizzle of demi-glaze sauce. The burger is topped with melted cheese and garnished with fresh herbs.",
+    "filename": "recipe_1784734184.jpg",
+    "date": "2026-07-22 15:31:10",
+    "timestamp": 1784734184,
+    "likes": 0,
+    "views": 275
+  },
+  {
     "id": "recipe_1784727066",
     "category": "side/snack",
     "category_ja": "サイド",
