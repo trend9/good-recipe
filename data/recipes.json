@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784747153",
+    "category": "パンケーキ",
+    "category_ja": "パンケーキ",
+    "title_ja": "ローストビーフ × オニオンソース - アドレナリン炸裂！オニオンパンケーキ",
+    "title_en": "Roasted Beef x Onion Sauce - Adrenaline Blast! Onion Pancake",
+    "description_ja": "とろけるようなローストビーフと、甘辛で濃厚なオニオンソースが融合した、衝撃的なパンケーキ！見た目もインパクト抜群で、味も一級品！",
+    "description_en": "A fusion of melt-in-your-mouth roasted beef and a sweet and savory onion sauce in the form of an onion pancake. The eye-catching appearance and exquisite taste make this dish truly special.",
+    "occasion_ja": "パーティー、特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "150g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "2個"
+      },
+      {
+        "name": "パン粉",
+        "amount": "30g"
+      },
+      {
+        "name": "溶き卵",
+        "amount": "1個"
+      },
+      {
+        "name": "油",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフは一口大にカットし、塩コショウで調味する。",
+      "2. 玉ねぎを薄切りにし、玉ねぎの表面に甘酢醤油を塗る。",
+      "3. パン粉と溶き卵を混ぜ合わせて、パンケーキ生地を作る。",
+      "4. フライパンに油を熱し、ローストビーフを焼く。また、玉ねぎの表面に砂糖を振りかけ、焼き色がつくまで焼く。"
+    ],
+    "prompt": "Close-up shot of a pan with onion pancake, topped with roasted beef. Warm colors and textures, cinematic photography style.",
+    "filename": "recipe_1784747153.jpg",
+    "date": "2026-07-22 19:07:35",
+    "timestamp": 1784747153,
+    "likes": 0,
+    "views": 306
+  },
+  {
     "id": "recipe_1784740331",
     "category": "バーガー",
     "category_ja": "バーガー",
