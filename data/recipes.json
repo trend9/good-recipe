@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784833607",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "海藻×クリーミーアボカドグラタン：悪魔の贅沢チーズボール！",
+    "title_en": "Seaweed & Creamy Avocado Gratin: Devilish Cheesy Balls!",
+    "description_ja": "クリーミーなアボカドと海藻が融合した、まるで魔法でできているようなグラタン。表面はカリッとして、中はとろけるチーズの食感と、爽やかな海藻の香ばしさ！悪魔的美味しさ満載の一品をお届けします！",
+    "description_en": "Creamy avocado and seaweed fused in this magical gratin! A crispy crust meets a decadent melt-in-your-mouth cheese center with a refreshing seaweed aroma. Get ready for devilishly delicious goodness!",
+    "occasion_ja": "パーティーや特別な日にぴったりな一品！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "海藻",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. アボカドは皮と種を取り除き、薄切りにする。",
+      "2. 海藻とアボカドを混ぜ合わせ、チーズを加える。",
+      "3. 卵を溶き、小麦粉を加えて混ぜる。",
+      "4. 混ぜ合わせた生地を、180度に予熱したオーブンで30分焼く。"
+    ],
+    "prompt": "A close-up shot of a creamy, decadent cheese filling with seaweed and avocado being baked in the oven, showing its rich and delicious look.",
+    "filename": "recipe_1784833607.jpg",
+    "date": "2026-07-23 19:08:31",
+    "timestamp": 1784833607,
+    "likes": 0,
+    "views": 441
+  },
+  {
     "id": "recipe_1784826981",
     "category": "バーガー",
     "category_ja": "バーガー",
