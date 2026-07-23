@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784785810",
+    "category": "burger",
+    "category_ja": "バーガー",
+    "title_ja": "とろけるチーズ × タッカルビチキン: 悪魔の贅沢チーズタッカルビバーガー",
+    "title_en": "Cheesy Tantalizing Tacollabi Burger: The Devil's Delightful Cheese Tacollabi Burger",
+    "description_ja": "とろけるチーズとタッカルビチキン、そして甘辛いソースが最高の組み合わせ。悪魔的な美味しさ満載のバーガーで、思わず息を呑む！",
+    "description_en": "A heavenly fusion of melted cheese and tantalizingly tender taccaribi chicken, with a sweet and tangy sauce. This burger will leave you speechless! ",
+    "occasion_ja": "特別な日に、パーティー、家族や友人と集まる時などに。",
+    "occasion_en": "Perfect for special occasions, parties, family gatherings or with friends.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "ソース",
+        "amount": "適量"
+      },
+      {
+        "name": "パン",
+        "amount": "適量"
+      },
+      {
+        "name": "レタス",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを薄く切り、チーズと混ぜ合わせます。",
+      "2. パンにソースを塗り、チーズチキンを乗せます。",
+      "3. レタスを添えて、バーガーの完成！",
+      "4. 食べるのが楽しみな悪魔的美味しさ満載のチーズタッカルビバーガーで、食欲を刺激しましょう。"
+    ],
+    "prompt": "Burger with melted cheese and taccaribi chicken on a bun, surrounded by colorful lettuce leaves. Photo style of a food illustration that looks delicious and juicy.",
+    "filename": "recipe_1784785810.jpg",
+    "date": "2026-07-23 05:52:45",
+    "timestamp": 1784785810,
+    "likes": 0,
+    "views": 478
+  },
+  {
     "id": "recipe_1784764840",
     "category": "丼",
     "category_ja": "丼",
