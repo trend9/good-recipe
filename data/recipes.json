@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784840266",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの衝撃！悪魔の甘辛炸裂！",
+    "title_en": "Shocking! Caramel-Burnt Banana Explosion!!",
+    "description_ja": "完熟バナナの甘さがさらに際立つ、キャラメルブリュレと相性抜群！悪魔的な美味しさに、思わず唸ってしまう一品です。",
+    "description_en": "The caramelized banana sweetness is amplified in this recipe. A shockingly delicious explosion of flavor.",
+    "occasion_ja": "特別な日のデザートに、ぜひ試してみて下さい！",
+    "occasion_en": "An ideal dessert for special occasions!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "バター",
+        "amount": "5g"
+      },
+      {
+        "name": "ココナッツミルク",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "バナナをカットし、焼き目がつくまでフライパンで弱火で焼きます。",
+      "キャラメルソースとグラニュー糖を混ぜ合わせ、バターを加え、溶かします。",
+      "ココナッツミルクを加え、なめらかになるまで混ぜます。",
+      "焼いたバナナをキャラメルソースで包み、さらにココナッツミルクでコーティングします。"
+    ],
+    "prompt": "Close-up of a delicious banana caramel brulee dessert, with caramelized texture and shiny glaze.",
+    "filename": "recipe_1784840266.jpg",
+    "date": "2026-07-23 21:00:06",
+    "timestamp": 1784840266,
+    "likes": 0,
+    "views": 291
+  },
+  {
     "id": "recipe_1784833607",
     "category": "side",
     "category_ja": "サイド",
