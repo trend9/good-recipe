@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784850994",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス：悪魔の甘辛スイーツ！",
+    "title_en": "Black Honey Kinako Mochi Ice Cream: Devilishly Sweet & Salty Dessert!",
+    "description_ja": "黒蜜の甘さときな粉のコク、もちもちとしたアイスが一体となった、まさに悪魔的な美味しさ！ 意外な組み合わせが、口にする度に幸せな衝撃を与えてくれる一品です。",
+    "description_en": "A decadent dessert featuring the sweet and salty blend of black honey and kinako (roasted soybean powder). The mochi ice cream is a unique fusion that delivers an unexpected yet satisfying flavor explosion.",
+    "occasion_ja": "特別な日や、友人とのお食事会に最適！",
+    "occasion_en": "Perfect for special occasions or a gathering with friends!",
+    "ingredients": [
+      {
+        "name": "黒蜜 (Black Honey)",
+        "amount": "100g"
+      },
+      {
+        "name": "きな粉 (Kinako Powder)",
+        "amount": "50g"
+      },
+      {
+        "name": "もちもちアイス (Mochi Ice Cream)",
+        "amount": "240ml"
+      },
+      {
+        "name": "生クリーム (Heavy Cream)",
+        "amount": "100g"
+      },
+      {
+        "name": "溶かしバター (Melted Butter) ",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "黒蜜を鍋に入れ、弱火で煮詰めます。",
+      "きな粉を加え、よく混ぜ合わせます。",
+      "もちもちアイスをボウルに入れ、溶かしバターを加え、全体に混ぜます。",
+      "黒蜜きな粉のアイスを器に入れ、お好みで黒蜜ときな粉をトッピングします。"
+    ],
+    "prompt": "Close-up photo of a bowl filled with black honey kinako ice cream, topped with a drizzle of black honey and a sprinkle of kinako. The ice cream is melting slightly in the center, and the color is beautifully contrasting.",
+    "filename": "recipe_1784850994.jpg",
+    "date": "2026-07-23 23:59:08",
+    "timestamp": 1784850994,
+    "likes": 0,
+    "views": 296
+  },
+  {
     "id": "recipe_1784840266",
     "category": "dessert",
     "category_ja": "デザート",
