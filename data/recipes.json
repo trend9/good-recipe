@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784764840",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろける卵 × 旨辛麻婆豆腐丼：悪魔の贅沢丼",
+    "title_en": "Melting Egg & Spicy Miso Tofu Bowl: Devilish Luxury Bowl",
+    "description_ja": "普段食べ慣れない、でもきっとハマる！とろける卵と旨辛麻婆豆腐丼の意外性爆発！悪魔的美味しさに酔いしれよう。 ",
+    "description_en": "A devilishly delicious fusion of the unexpected! A molten egg and spicy miso tofu bowl will blow your mind with its unusual, yet delectable flavor. Get ready to experience a culinary surprise.",
+    "occasion_ja": "特別な日のディナーにぴったり！",
+    "occasion_en": "Perfect for special dinners!",
+    "ingredients": [
+      {
+        "name": "卵 (大2個)",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐 (お好みの量)",
+        "amount": "適量"
+      },
+      {
+        "name": "ご飯 (1合)",
+        "amount": "1合"
+      },
+      {
+        "name": "だし汁 (小さじ2)",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "ごま油 (小さじ1/2)",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "ご飯にだし汁とごま油を加えて混ぜる。",
+      "旨辛麻婆豆腐を盛り付ける。",
+      "卵を溶きほぐして、ご飯の上にかける。",
+      "お好みで、パクチーやネギなどをトッピングする。 "
+    ],
+    "prompt": "Close-up shot of a steaming bowl with melted egg and spicy miso tofu, surrounded by fresh herbs like cilantro or chives.",
+    "filename": "recipe_1784764840.jpg",
+    "date": "2026-07-23 00:04:11",
+    "timestamp": 1784764840,
+    "likes": 0,
+    "views": 375
+  },
+  {
     "id": "recipe_1784758125",
     "category": "サイドディッシュ",
     "category_ja": "サイドディッシュ",
