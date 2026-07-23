@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784804841",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油！スパイシーチーズボール",
+    "title_en": "Spicy Cheese Balls with Charred Pork Belly and Smoky Garlic Sauce",
+    "description_ja": "悪魔的な美味しさに浸る、贅沢なチーズボールレシピ。炙りチャーシューと濃厚焦がしにんにく醤油が融合したスパイシーな味わいがたまらない！ ",
+    "description_en": "A decadent cheese ball recipe that will blow your mind with its delicious smoky and spicy flavor. Charred pork belly, combined with rich and creamy garlic sauce is an explosive combination.",
+    "occasion_ja": "パーティーやお酒との相性抜群！",
+    "occasion_en": "A perfect side dish for parties or drinks!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パン粉",
+        "amount": "適量"
+      },
+      {
+        "name": "溶けるチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを一口大に切る。",
+      "2.  濃厚焦がしにんにく醤油と混ぜ合わせて、チーズボール状に形成する。",
+      "3.  パン粉をまぶし、溶けるチーズを塗る。",
+      "4.  オーブンで10分焼く。 "
+    ],
+    "prompt": "Close-up shot of spicy cheese balls with charred pork belly and smoky garlic sauce, beautifully illuminated in a warm kitchen setting.",
+    "filename": "recipe_1784804841.jpg",
+    "date": "2026-07-23 11:09:00",
+    "timestamp": 1784804841,
+    "likes": 0,
+    "views": 202
+  },
+  {
     "id": "recipe_1784785810",
     "category": "burger",
     "category_ja": "バーガー",
