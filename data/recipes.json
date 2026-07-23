@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784821965",
+    "category": "サイドディッシュ",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛炸裂！",
+    "title_en": "Devilishly Sweet & Savory: Honey Mustard Explosion for Crispy Tonkatsu!",
+    "description_ja": "サクサクした極厚カツに、濃厚なハニーマスタードソースを絡めて、悪魔の甘辛が炸裂する、一品です。一見すると意外で、驚くほど美味しい一品に仕上がります！",
+    "description_en": "Devilishly sweet and savory! This crispy tonkatsu gets an explosion of flavor with a unique honey mustard sauce. It's a surprisingly delicious, must-try dish.",
+    "occasion_ja": " parties, get together, dinner parties ",
+    "occasion_en": "Parties, gatherings, dinner parties",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "極厚カツに、ハニーマスタードを混ぜたソースを塗る。\n",
+      "レモン汁と塩コショウで味付けする。\n",
+      "1cm以上の厚さにカットした極厚カツを揚げる。\n",
+      "焼き上がりまで待ち、レモン汁を絞って食べる。"
+    ],
+    "prompt": "Close-up photo of a crispy tonkatsu with an intense honey mustard glaze, shot in a dark background. ",
+    "filename": "recipe_1784821965.jpg",
+    "date": "2026-07-23 15:54:27",
+    "timestamp": 1784821965,
+    "likes": 0,
+    "views": 295
+  },
+  {
     "id": "recipe_1784814254",
     "category": "side",
     "category_ja": "サイド",
