@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784814254",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の金魚焼き：サクサクの鶏肉とクリーミーチーズの衝撃！",
+    "title_en": "Crispy Chicken & Creamy Cheese Temptation: The Golden Fish Fry!",
+    "description_ja": "黄金色の金魚焼きが、意外な組み合わせで爆発する悪魔的な美味しさ！サクサク鶏肉のクリーミーチーズソースが、脳汁を流す一皿に。",
+    "description_en": "Expect the unexpected! This crispy chicken and creamy cheese dish, reminiscent of a golden fish fry, bursts with savory flavor. A unique twist on your ordinary fried chicken experience.",
+    "occasion_ja": "パーティーや日常食にも最適な一品！",
+    "occasion_en": "Perfect for party nights or casual meals!",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "塩胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏肉を小麦粉で coating し、卵を溶き割って混ぜ合わせます。",
+      "ハニーマヨネーズとクリーミーチーズを入れ、全体を混ぜます。",
+      "熱した油で鶏肉の生地を揚げます。",
+      "揚げた鶏肉の生地を皿に盛り付け、お好みでソースをかけます。"
+    ],
+    "prompt": "A close-up shot of golden crispy fried chicken with a creamy cheese sauce, glistening in the light. A single piece of the fried chicken on a plate topped with a drizzle of sauce. The background should be white.",
+    "filename": "recipe_1784814254.jpg",
+    "date": "2026-07-23 13:47:45",
+    "timestamp": 1784814254,
+    "likes": 0,
+    "views": 420
+  },
+  {
     "id": "recipe_1784804841",
     "category": "side",
     "category_ja": "サイド",
