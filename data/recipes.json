@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784826981",
+    "category": "バーガー",
+    "category_ja": "バーガー",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油！「悪魔のチーズバーガー」",
+    "title_en": "Smoked BBQ Char Siu Burger with Creamy Garlic Aioli",
+    "description_ja": "通常のチーズバーガーに新しい次元を加える、炙りチャーシューと濃厚焦がしにんにく醤油の組み合わせ。極上の香ばしさ、濃厚な旨味で、まるで悪魔が作ったバーガーを食べようとする感覚を味わえる一品！",
+    "description_en": "A new dimension to the classic cheeseburger with smoked char siu and creamy garlic aioli, bringing you the taste of a devilish creation. Enjoy the irresistible smoky flavor and richness from this burger that will transport your tastebuds to another realm.",
+    "occasion_ja": "週末のBBQパーティー、特別な日にぴったり！",
+    "occasion_en": "Perfect for BBQ parties on weekends and special occasions!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1切れ"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パン",
+        "amount": "2枚"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1/2個"
+      }
+    ],
+    "steps": [
+      "1.  炙りチャーシューは、少し焼いた後、濃厚焦がしにんにく醤油を塗る。",
+      "2. パンは両面を軽く焼く。",
+      "3.  アボカドは薄切りにする。チーズを挟み、アボカドを乗せる。",
+      "4.  炙りチャーシューと濃厚焦がしにんにく醤油の組み合わせで、チーズバーガーが完成！"
+    ],
+    "prompt": "Close-up image of a cheeseburger with smoky char siu, creamy garlic aioli, and slices of avocado on top.  Focus on the beautiful texture of each ingredient.",
+    "filename": "recipe_1784826981.jpg",
+    "date": "2026-07-23 17:19:30",
+    "timestamp": 1784826981,
+    "likes": 0,
+    "views": 436
+  },
+  {
     "id": "recipe_1784821965",
     "category": "サイドディッシュ",
     "category_ja": "サイド",
