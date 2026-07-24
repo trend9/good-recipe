@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784881001",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレ × トルティーヤチーズソース：悪魔の甘辛爆発！",
+    "title_en": "Banana Caramel Brulee with Tortilla Cheese Sauce: An Explosion of Sweet & Spicy!",
+    "description_ja": "完熟バナナの甘さが、キャラメルブリュレの香ばしさを引き立たせる。スパイシーなチーズソースで、最後まで熱く止まらない悪魔的デザート！",
+    "description_en": "A devilishly delicious dessert! The sweetness of ripe bananas is enhanced by the caramel brulee's smoky flavors, and a spicy cheese sauce brings a fiery punch that will keep you going until the last bite.",
+    "occasion_ja": "クリスマス、誕生日、特別な日にぴったり！",
+    "occasion_en": "Perfect for Christmas, birthdays, or special occasions!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "トルティーヤチーズソース",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを細く切り、キャラメルブリュレを上からかける。",
+      "2. トルティーヤチーズソースを加え、混ぜる。",
+      "3. 熱したバターでチーズソースを絡める。",
+      "4. 最後に、パイナップルの皮とトロピカルフルーツの飾り付けをする。"
+    ],
+    "prompt": "Close-up of a dessert with banana caramel brulee and tortilla cheese sauce, decorated with pineapple skin and tropical fruit.",
+    "filename": "recipe_1784881001.jpg",
+    "date": "2026-07-24 08:19:06",
+    "timestamp": 1784881001,
+    "likes": 0,
+    "views": 173
+  },
+  {
     "id": "recipe_1784871964",
     "category": "pasta",
     "category_ja": "パスタ",
