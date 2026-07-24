@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784858809",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サーモン × アボカドタルタル：悪魔の甘酸爽！",
+    "title_en": "Salmon & Avocado Tartar: Devilishly Sweet and Sour!",
+    "description_ja": "一見シンプルだが、実は奥深い味わいに。濃厚なサーモンとクリーミーなアボカドが絶妙なハーモニーを奏でます。悪魔的美味しさに舌鼓を打ちましょう！",
+    "description_en": "A deceptively simple dish, this combines the richness of salmon and creaminess of avocado in a symphony of flavor. Get ready for a devilishly good experience! ",
+    "occasion_ja": "パーティーやディナーに最適！",
+    "occasion_en": "Perfect for parties and dinners!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンは、薄切りにする。",
+      "アボカドは、皮をむき、種と骨を取り除く。",
+      "アボカドは、食感を残しながら細かく刻む。",
+      "サーモンとアボカド、レモン汁とマヨネーズで味付けをする。塩コショウを振る。"
+    ],
+    "prompt": "Close-up shot of the salmon and avocado tartar, with a lemon wedge and spices.",
+    "filename": "recipe_1784858809.jpg",
+    "date": "2026-07-24 02:08:27",
+    "timestamp": 1784858809,
+    "likes": 0,
+    "views": 220
+  },
+  {
     "id": "recipe_1784850994",
     "category": "dessert",
     "category_ja": "デザート",
