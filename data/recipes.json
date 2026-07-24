@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784911032",
+    "category": "salad",
+    "category_ja": "サラダ",
+    "title_ja": "悪魔の揚げたハニーマヨサラダ",
+    "title_en": "Devilishly Delicious Honey-Mayo Salad",
+    "description_ja": "サクサクの唐揚げと、甘辛なハニーマヨネーズの組み合わせは、まさに悪魔の味。このレシピで、いつものサラダが、まるで魔法の料理のように変身させてしまうよ！",
+    "description_en": "Transform your ordinary salad into a devilishly delicious treat with this unique and unexpected combination of crispy fried chicken paired with honey mayo.",
+    "occasion_ja": "パーティーや、日常の食事にもぴったり！",
+    "occasion_en": "Perfect for parties or everyday meals!",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "レタス",
+        "amount": "適量"
+      },
+      {
+        "name": "トマト",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "唐揚げを揚げる。",
+      "ハニーマヨネーズと混ぜ合わせる。",
+      "レタス、トマト、玉ねぎを準備する。",
+      "レタス、トマト、玉ねぎにハニーマヨネーズがけ、一口サイズにカットする。"
+    ],
+    "prompt": "Close-up shot of a plate with golden fried chicken pieces drizzled with honey mayo, alongside lettuce, tomato slices, and diced onions. A hint of orange in the background.",
+    "filename": "recipe_1784911032.jpg",
+    "date": "2026-07-24 16:39:26",
+    "timestamp": 1784911032,
+    "likes": 0,
+    "views": 310
+  },
+  {
     "id": "recipe_1784895656",
     "category": "丼もの",
     "category_ja": "丼もの",
