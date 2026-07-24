@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784924328",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバター海老ピラフ：悪魔の甘辛爆風！",
+    "title_en": "Garlic Butter Shrimp Pilaf: The Devil's Sweet & Spicy Blast!",
+    "description_ja": "ぷりぷりの海老と、まろやかなガーリックバターのハーモニーが炸裂！  意外な組み合わせなのに、悪魔的な美味しさに魅了されるはず。",
+    "description_en": "A devilish sweet and spicy blast! Combining plump shrimp with the smooth savoriness of garlic butter, this unique recipe is a must-try!",
+    "occasion_ja": "パーティーやおもてなしにぴったり！",
+    "occasion_en": "Perfect for parties or special occasions! ",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "ガーリック",
+        "amount": "1本"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "お好みのスパイス",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "海老は一口大に切り、バターとガーリックを混ぜ合わせて、塩コショウで味付けします。",
+      "フライパンにバターを熱し、エビを加え、両面が色付いたら火を止めます。",
+      "エビの水分を飛ばすために、軽く蒸す。",
+      "エビに合わせたスパイスを加えて味を整えましょう。"
+    ],
+    "prompt": "A close-up shot of a steaming pile of shrimp with garlic butter, surrounded by beautiful steam and an inviting glow.",
+    "filename": "recipe_1784924328.jpg",
+    "date": "2026-07-24 20:20:28",
+    "timestamp": 1784924328,
+    "likes": 0,
+    "views": 253
+  },
+  {
     "id": "recipe_1784917022",
     "category": "dessert",
     "category_ja": "デザート",
