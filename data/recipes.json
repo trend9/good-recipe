@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1784930509",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘酸爽！サーモン × アボカド × ピーナッツバターの「カリカリ」チーズ風サラダ",
+    "title_en": "Devilish Sweet & Sour! Salmon X Avocado X Peanut Butter Spicy Cheese Salad",
+    "description_ja": "甘酸っぱさとカリッとした食感、そして濃厚なチーズ風味で、まるで悪魔が作った、超絶美味しいサラダ！サーモンとアボカドの組み合わせは意外性抜群なのに、ピクルスやチーズを加えてさらに悪魔的な美味しさに昇華。",
+    "description_en": "A devilishly sweet and sour salad with a crispy cheese flavor. It's like something you'd find on the side of hell, but in a delicious way. A mix of salmon and avocado is paired with spicy peanuts, then topped with a generous amount of creamy cheese for an explosion of flavor! ",
+    "occasion_ja": "パーティーやパーティープレゼントに最適！",
+    "occasion_en": "Perfect for parties and gifts!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "ピーナッツバター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "チーズ (モッツァレラ)",
+        "amount": "適量"
+      },
+      {
+        "name": "ピクルス (赤みpple, または他のピクルス)",
+        "amount": "適量"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "サーモンは一口サイズに切り、軽く塩コショウで味付けする。",
+      "アボカドは皮を剥き、1cm角の大きさに切る。",
+      "ピーナッツバターとチーズを混ぜ合わせ、軽く混ぜる。",
+      "サーモン、アボカド、そしてチーズとピーナッツバターのペーストを混ぜ合わせる。",
+      "ピクルスを混ぜ込み、ごま油を加え、全体に混ぜ合わせる。"
+    ],
+    "prompt": "A close-up shot of a colorful salad, showing the salmon, avocado and cheese with a drizzle of sesame oil. The background is white and slightly blurred.",
+    "filename": "recipe_1784930509.jpg",
+    "date": "2026-07-24 22:04:16",
+    "timestamp": 1784930509,
+    "likes": 0,
+    "views": 200
+  },
+  {
     "id": "recipe_1784924328",
     "category": "サイド",
     "category_ja": "サイド",
