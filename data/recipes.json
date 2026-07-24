@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784895656",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろろ豆腐と生クリームの甘辛スパイシー丼！",
+    "title_en": "Creamy Spicy Tofu & Egg Bowl with Sweet & Sour Flavor Explosion!",
+    "description_ja": "とろけるような卵と、旨辛麻婆豆腐の甘辛スパイシーなハーモニーが、ご飯の上に。濃厚でクリーミーな生クリームが、一体感を引き立てます。まさに悪魔的美味しさの丼！",
+    "description_en": "Combining the creamy goodness of silken tofu and spicy minced pork with a sweet & sour kick, this bowl is an explosion of flavor! A generous dollop of fresh cream adds another layer of decadence.",
+    "occasion_ja": "パーティーや夜食にぴったり！",
+    "occasion_en": "Perfect for parties and late-night snacks!",
+    "ingredients": [
+      {
+        "name": "絹ごし豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "赤唐辛子",
+        "amount": "1個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "絹ごし豆腐をすりおろします。",
+      "赤唐辛子を細かく刻みます。",
+      "豆腐と刻んだ赤唐辛子、醤油、砂糖で混ぜ合わせます。",
+      "ご飯に生クリームを軽く振りかけて、豆腐と赤唐辛子のタレを乗せます。"
+    ],
+    "prompt": "A close-up shot of the creamy, spicy tofu and egg bowl with a rich brown rice in a white ceramic bowl. The bowl should have a slightly smoky edge.",
+    "filename": "recipe_1784895656.jpg",
+    "date": "2026-07-24 12:22:34",
+    "timestamp": 1784895656,
+    "likes": 0,
+    "views": 243
+  },
+  {
     "id": "recipe_1784890921",
     "category": "サイドディッシュ",
     "category_ja": "サイドディッシュ",
