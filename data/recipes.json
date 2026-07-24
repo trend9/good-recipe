@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784917022",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × トロけるバターカラメル：悪魔の甘辛Explosion！",
+    "title_en": "Sweet Potato × Melty Butter Caramel: A Devilishly Delicious Explosion!",
+    "description_ja": "焼き芋の甘さと、とろけるバターのクリーミーな風味で、まるで「悪魔の心臓」を想像させる、極上の味わいに。家庭でも簡単に作れる一品！",
+    "description_en": "A devilish indulgence of sweet potato's sweetness and melt-in-your-mouth caramel. This simple recipe brings the taste of a 'devil's heart' straight to your plate!",
+    "occasion_ja": "特別な日や、特別な一皿が欲しいときにおすすめ！",
+    "occasion_en": "Perfect for special occasions or when you crave something extraordinary.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋は、皮をむき、1cm角に切る。",
+      "ボウルにバターと砂糖を入れて、混ぜる。",
+      "水を少し加え、溶かしながら、カラメルソースを作る。",
+      "焼き芋を絡めて、カラメルソースでコーティングする。"
+    ],
+    "prompt": "Close-up of a steaming plate with caramelized, sweet potato slices, topped with melted butter and a swirl of caramel sauce. The background is dark brown with warm lighting.",
+    "filename": "recipe_1784917022.jpg",
+    "date": "2026-07-24 18:19:25",
+    "timestamp": 1784917022,
+    "likes": 0,
+    "views": 416
+  },
+  {
     "id": "recipe_1784911032",
     "category": "salad",
     "category_ja": "サラダ",
