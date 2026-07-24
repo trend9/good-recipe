@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784934404",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレチーズケーキ",
+    "title_en": "Banana Caramel Brulee Cheesecake",
+    "description_ja": "完熟バナナの甘さとキャラメルブリュレの香ばしさをチーズケーキで表現！見た目が華やかなスイーツ。悪魔的に美味しい一品に仕上がります！",
+    "description_en": "A decadent cheesecake inspired by the sweet and smoky flavors of ripe bananas and caramel brulee! This visually stunning dessert promises to be a culinary delight. A truly devilishly good treat awaits you.",
+    "occasion_ja": "特別な日、または普段の甘食にぴったり！",
+    "occasion_en": "Perfect for special occasions or everyday indulgence!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "適量"
+      },
+      {
+        "name": "Cream cheese",
+        "amount": "200g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "牛乳",
+        "amount": "150ml"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを皮をむき、芯を取り除き、1cm角に切る。",
+      "2.  キャラメルを鍋に入れて火にかけて弱火で溶かす。",
+      "3.  溶けたキャラメルを加え、砂糖と混ぜてなめらかになるまで泡立て器で混ぜる。",
+      "4.  Cream cheeseを加えてよく混ぜる。牛乳を加えてさらに混ぜ合わせ、生地がなめらかになるまで練り上げる。"
+    ],
+    "prompt": "Close-up shot of a cheesecake with a caramel swirl, banana slices on top, and a golden brown crust. The cheesecake is beautifully plated with a garnish of fresh mint leaves",
+    "filename": "recipe_1784934404.jpg",
+    "date": "2026-07-24 23:08:22",
+    "timestamp": 1784934404,
+    "likes": 0,
+    "views": 169
+  },
+  {
     "id": "recipe_1784930509",
     "category": "side",
     "category_ja": "サイド",
