@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784966330",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "サーモン × アボカド × 抹茶の「抹茶」チーズケーキ風サラダ",
+    "title_en": "Salmon & Avocado Matcha Cheesecake Salad (with a twist)",
+    "description_ja": "悪魔的な美味しさ！抹茶の爽やかな風味とサーモンの旨味、そしてアボカドのクリーミーな食感で、抹茶好き必至のスイーツ感覚のサラダ！",
+    "description_en": "A savory & sweet salad that's sure to satisfy even the most discerning matcha lover. This unique take on cheesecake features salmon, avocado and a touch of green tea.",
+    "occasion_ja": "パーティーやイベント、特別な日にも最適な一品",
+    "occasion_en": "Perfect for parties, special occasions or simply enjoying a delicious meal. ",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1/2個"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "サーモンを薄切りにし、塩コショウで味付け。",
+      "アボカドは皮を剥き、種を取り除き、1cm角に切る。",
+      "抹茶パウダーとチーズを入れ、混ぜ合わせる。",
+      "サーモンとアボカド、チーズペーストを混ぜ合わせ、ごま油で和えながら盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a colorful salad with salmon, avocado and matcha foam on top. The ingredients are arranged artfully. (English)",
+    "filename": "recipe_1784966330.jpg",
+    "date": "2026-07-25 08:01:12",
+    "timestamp": 1784966330,
+    "likes": 0,
+    "views": 300
+  },
+  {
     "id": "recipe_1784958050",
     "category": "dessert",
     "category_ja": "デザート",
