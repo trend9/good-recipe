@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785006016",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × トロけるバターカラメル：悪魔の甘辛爆弾！",
+    "title_en": "Roasted Sweet Potato x Melt-in-your-Mouth Butter Caramel: Devilish Sweet & Spicy Explosion!",
+    "description_ja": "焼き芋の甘さを、とろけるバターカルダモンで一層引き立てる、悪魔的な美味しさ！ 意外な組み合わせなのに、口の中に広がる優しい甘さと、カリカリとした食感が絶妙な味わいを演出します。",
+    "description_en": "Elevate the sweetness of roasted sweet potato with a melt-in-your-mouth butter caramel sauce! This unexpected combination creates a devilishly delicious explosion in your mouth - the perfect balance of tender and crispy textures. ",
+    "occasion_ja": "特別な日や、友達とのお聚いりのデザートに最適な一品",
+    "occasion_en": "Perfect for a special occasion or as a dessert to share with friends.",
+    "ingredients": [
+      {
+        "name": "焼き芋 (2個)",
+        "amount": "2"
+      },
+      {
+        "name": "バター (50g)",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖 (大さじ1)",
+        "amount": "1"
+      },
+      {
+        "name": "水 (大さじ1)",
+        "amount": "1"
+      },
+      {
+        "name": "シナモンパウダー (小さじ1/2)",
+        "amount": "1/2"
+      }
+    ],
+    "steps": [
+      "焼き芋を180℃のオーブンで15分ほど焼きます。",
+      "ボウルにバター、砂糖、水を加え、弱火で溶かしながら混ぜます。",
+      "焼き芋をボウルに入れ、シナモンパウダーも加えてよく絡めます。",
+      "焼いた焼き芋を皿に盛り付けて、バターカルダモンソースをかけます。"
+    ],
+    "prompt": "A close-up shot of the finished dish: a warm, golden baked sweet potato topped with rich and gooey butter caramel sauce. The contrast between the soft and caramelized textures is captured in a dynamic way, highlighting the unique blend of flavors.",
+    "filename": "recipe_1785006016.jpg",
+    "date": "2026-07-25 19:02:02",
+    "timestamp": 1785006016,
+    "likes": 0,
+    "views": 390
+  },
+  {
     "id": "recipe_1785002164",
     "category": "サイドディッシュ",
     "category_ja": "サイドディッシュ",
