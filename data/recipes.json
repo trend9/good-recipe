@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784995565",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバター・エビのチーズピラフ：悪魔の甘辛爆発！",
+    "title_en": "Garlic Butter Shrimp Cheese Pilaf: Devilish Sweet & Spicy Explosion!",
+    "description_ja": "ぷりぷりのエビと、濃厚なチーズが絡み合う、まるで魔法をかけたピラフ。ガーリックバターの香りが漂う、悪魔的な美味しさです！",
+    "description_en": "Shrimp and cheesy goodness combine in a magical twist of flavor! Garlic butter aroma hits your senses with this devilishly delicious dish.",
+    "occasion_ja": "パーティー、特別な日の食事にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "エビ",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "チーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "白米",
+        "amount": "200g"
+      }
+    ],
+    "steps": [
+      "1. ピラフに白米を炊き、10分程度待ちます。",
+      "2. 鍋にごま油をひき、エビを加え炒め、ガーリックバターを混ぜます。",
+      "3. チーズと牛乳を加えて、とろけるまで加熱します。",
+      "4. ピラフにチーズソースをかけ、器に盛り付けます。"
+    ],
+    "prompt": "A steaming hot, cheesy and garlicky shrimp pilaf with a generous portion of melted cheese, presented in a bowl.",
+    "filename": "recipe_1784995565.jpg",
+    "date": "2026-07-25 16:07:45",
+    "timestamp": 1784995565,
+    "likes": 0,
+    "views": 234
+  },
+  {
     "id": "recipe_1784991569",
     "category": "side",
     "category_ja": "サイド",
