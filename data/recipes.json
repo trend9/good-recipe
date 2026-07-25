@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1784977593",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サーモン×アボカド × 抹茶の「抹茶」チーズケーキ風サラダ：悪魔の甘辛爆発！",
+    "title_en": "Salmon & Avocado Matcha Cheesecake Salad: Devilish Sweet and Spicy Explosion!",
+    "description_ja": "定番のサーモンとアボカドを、抹茶とチーズで包み込む。意外な組み合わせが、悪魔的な美味しさに！ ",
+    "description_en": "A classic salmon & avocado salad gets a twist with matcha and cheese. An unexpected combination for devilishly delicious results! ",
+    "occasion_ja": "パーティー、ランチ、ディナーなど、幅広いシーンで。",
+    "occasion_en": "Great for parties, lunch, or dinner. ",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "抹茶",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "和風マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "クランベリーソース",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "サーモンは塩コショウで味付けし、1cm角に切る。",
+      "アボカドは種を取り除き、粗く刻む。",
+      "抹茶とチーズを混ぜ合わせて、マヨネーズを加え、滑らかになるまで混ぜる。",
+      "サーモンとアボカドのサラダに、クランベリーソースを添える。"
+    ],
+    "prompt": "A close-up image of a salmon and avocado salad with matcha cheese, arranged on a white plate.",
+    "filename": "recipe_1784977593.jpg",
+    "date": "2026-07-25 11:08:13",
+    "timestamp": 1784977593,
+    "likes": 0,
+    "views": 422
+  },
+  {
     "id": "recipe_1784972781",
     "category": "salad",
     "category_ja": "サラダ",
