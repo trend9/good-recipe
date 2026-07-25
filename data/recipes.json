@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785016247",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "明太子のレモンクリームパスタの「悪魔の甘酸爽！」",
+    "title_en": "Spicy Lemon Cream Pasta with Spicy Tuna: A Devilishly Delicious Twist!",
+    "description_ja": "一見普通の明太子とレモンクリームパスタに見えるが、隠し味に辛口な唐辛子を入れたり、レモン汁で辛さを調整するなど、悪魔的な甘酸っぱさと刺激の組み合わせが楽しめる一品！",
+    "description_en": "A devilishly delicious twist on the classic lemon cream pasta, with a hidden kick of spice! ",
+    "occasion_ja": "パーティーや特別な日に、友達とのお食事会におすすめ。",
+    "occasion_en": "Ideal for parties or special occasions. A great dish to share with friends.",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "1/2個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "200g"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "パスタを茹でる。",
+      "明太子、レモン汁、唐辛子とバターを混ぜ合わせる。",
+      "パスタに明太子のソースをかける。",
+      "皿に盛り付け、お好みでレモンを添える。"
+    ],
+    "prompt": "A close-up shot of a steaming plate of pasta, with bright green herbs like parsley and basil. A side of lemon wedges is placed on the plate.",
+    "filename": "recipe_1785016247.jpg",
+    "date": "2026-07-25 21:52:24",
+    "timestamp": 1785016247,
+    "likes": 0,
+    "views": 447
+  },
+  {
     "id": "recipe_1785010461",
     "category": "丼物",
     "category_ja": "丼物",
