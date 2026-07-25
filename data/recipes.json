@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1785023818",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "ガーリックバター・ぷりぷりのエビピラフ ～悪魔の甘辛旨味爆発！～",
+    "title_en": "Garlicky Butter Shrimp Fried Rice - Devilishly Delicious Umami Explosion!",
+    "description_ja": "いつものピラフに、ガーリックバターとぷりぷりの海老を加えた、悪魔的な美味しさのレシピ。濃厚な味わいと香ばしさで、まさに「悪魔の甘辛旨味爆発！」！",
+    "description_en": "A devilishly delicious twist on fried rice! Combining garlicky butter with jumbo shrimp, this recipe delivers a savory and decadent flavor experience. The ultimate in umami explosion!",
+    "occasion_ja": "パーティーや、週末のディナーに最適な一品。",
+    "occasion_en": "Perfect for parties or a weekend dinner! ",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "エビ",
+        "amount": "300g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "5g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "ご飯を炊く。",
+      "エビは一口サイズに切り、ガーリックバターと混ぜる。",
+      "フライパンに油をひき、エビを加え炒め、香ばしさと旨味を生かす。",
+      "溶き卵を投入し、炒める。",
+      "醤油を加え、全体が絡み合うように炒める。"
+    ],
+    "prompt": "Close-up shot of a sizzling shrimp fried rice dish, garnished with chopped green onions and topped with a sprinkle of chili flakes. A vibrant and delicious image capturing the beauty of the recipe.",
+    "filename": "recipe_1785023818.jpg",
+    "date": "2026-07-25 23:58:18",
+    "timestamp": 1785023818,
+    "likes": 0,
+    "views": 163
+  },
+  {
     "id": "recipe_1785019758",
     "category": "pasta",
     "category_ja": "パスタ",
