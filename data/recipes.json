@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784972781",
+    "category": "salad",
+    "category_ja": "サラダ",
+    "title_ja": "黒蜜きな粉もちもちアイス×チーズケーキ風サラダ：悪魔の甘辛爆発！",
+    "title_en": "Black Honey Kinako Cheesy Salad: Devil's Sweet & Spicy Explosion!",
+    "description_ja": "普段は甘いものが苦手でも、この悪魔的な美味しさに驚くでしょう。黒蜜きな粉もちもちアイスを、チーズケーキ風サラダで、甘酸っぱい味わいが一層引き立つ！",
+    "description_en": "Prepare to be amazed. This devilishly delicious salad combines the sweet, savory flavor of black honey and kinako with a cheesy twist, creating an explosive treat that'll make even the most discerning palate sing! ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "黒蜜きな粉もちもちアイス",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 黒蜜きな粉もちもちアイスを、大きめのボウルに入れます。",
+      "2. クリームチーズと生クリームを混ぜ合わせ、塩と黒胡椒を加え、なめらかになるまで混ぜます。",
+      "3. 混ぜ合わせたチーズクリームをアイスに塗ります。",
+      "4. 器に盛り付け、お好みで黒蜜をかけて召し上がれ。"
+    ],
+    "prompt": "Close-up shot of a bowl filled with black honey kinako ice cream, topped with creamy cheese sauce. The background is a dark wooden table.",
+    "filename": "recipe_1784972781.jpg",
+    "date": "2026-07-25 09:48:49",
+    "timestamp": 1784972781,
+    "likes": 0,
+    "views": 462
+  },
+  {
     "id": "recipe_1784966330",
     "category": "side",
     "category_ja": "サイドメニュー",
