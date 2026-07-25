@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785002164",
+    "category": "サイドディッシュ",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘辛爆発！",
+    "title_en": "Melting Cheese & Korean BBQ Chicken: A Devilish Sweet and Savory Explosion!",
+    "description_ja": "とろけるチーズとタッカルビチキンの意外な組み合わせが、悪魔的な美味しさに昇り詰める。このレシピは、まさに「食べて止まらない」おいしさを実現します！",
+    "description_en": "Unforgettable cheesy and spicy Korean BBQ chicken! This recipe blends the unexpected flavors of melting cheese into the savory, smoky goodness of Korean BBQ. Get ready for a mouthwatering experience.",
+    "occasion_ja": "パーティーやBBQに最適な一品！",
+    "occasion_en": "Perfect for parties and barbecues!",
+    "ingredients": [
+      {
+        "name": "チーズ (とろけるチーズ)",
+        "amount": "50g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "1パック"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "お好みで、レモン汁を添える",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンに塩コショウを振る。",
+      "2. 溶けるチーズとマヨネーズを混ぜて、生地を作る。",
+      "3. タッカルビチキンにチーズ生地を塗る。",
+      "4. お好みでレモン汁を添える。"
+    ],
+    "prompt": "Close-up shot of a sizzling piece of Korean BBQ chicken with melted cheese on top, served on a plate, with steam rising from it.",
+    "filename": "recipe_1785002164.jpg",
+    "date": "2026-07-25 17:58:27",
+    "timestamp": 1785002164,
+    "likes": 0,
+    "views": 246
+  },
+  {
     "id": "recipe_1784995565",
     "category": "side",
     "category_ja": "サイド",
