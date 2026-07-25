@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1784985144",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "黒蜜きな粉もちもちアイス × 抹茶風味のチーズケーキ風サラダ：悪魔の甘辛爆発！",
+    "title_en": "Black Honey & Sesame Seed Mochi Ice Cream x Matcha Cheese Cake Salad: A Devilishly Delicious Explosion!",
+    "description_ja": "見た目も味も、まるで魔法の結晶のよう。黒蜜きな粉もちもちアイスと抹茶のチーズケーキ風サラダで、悪魔的な甘辛爆発の食体験を手に入れましょう！",
+    "description_en": "A visual and taste experience like magic. This Black Honey & Sesame Seed Mochi Ice Cream x Matcha Cheese Cake Salad will give you a devilishly delicious explosion of sweet and savory.",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "黒蜜きな粉もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶風味のチーズケーキ",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 黒蜜きな粉もちもちアイスと抹茶風味のチーズケーキを、それぞれ好みの大きさにカット。",
+      "2. 生クリームと砂糖を加え、泡立て器で混ぜる。",
+      "3. 抹茶風味のチーズケーキを、生クリームと牛乳を加えて溶かしながら、全体に均等に塗り付ける。",
+      "4. それぞれカットしたアイスとチーズケーキを、皿に盛り付け、お好みで黒蜜きな粉を振って完成。"
+    ],
+    "prompt": "Close-up shot of the salad, showcasing the ice cream and cheese cake being arranged, with black drizzle falling on it.",
+    "filename": "recipe_1784985144.jpg",
+    "date": "2026-07-25 13:13:44",
+    "timestamp": 1784985144,
+    "likes": 0,
+    "views": 446
+  },
+  {
     "id": "recipe_1784977593",
     "category": "side",
     "category_ja": "サイド",
