@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1784991569",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の旨味炸裂！ 海老 × クリーミーアボカドグラタン",
+    "title_en": "Seafood Creaminess Explosion! Grilled Lobster & Creamy Avocado Gratin",
+    "description_ja": "甘辛い、クリーミーな味わいが口の中に広がる、海の悪魔的な美味しさ！極上のグラタンレシピ。\n 濃厚なアボカドと海老の旨味を、なめらかでクリーミーなチーズソースで包み込みます。\n",
+    "description_en": "A creamy, cheesy explosion of seafood goodness! This decadent gratin will rock your taste buds with its rich lobster and avocado flavors. A smooth, dreamy cheese sauce envelopes a luscious combination of lobster and creamy avocado. ",
+    "occasion_ja": "特別なディナーに！ 贅沢な一品を盛り付けるのに最適",
+    "occasion_en": "A perfect side for special occasions! Enjoy a luxurious and tasty dish.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "クリーミーアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1. 海老を塩コショウで味付けして、焼く。\n",
+      "2. アボカドは薄切りにし、チーズとバターを加えて混ぜる。\n",
+      "3. グラタン皿に、エビとアボカドチーズソースを盛り付け、チーズを乗せる。\n",
+      "4. オーブンで15分焼けば完成！\n"
+    ],
+    "prompt": "Close-up photo of a decadent gratin dish with lobster and avocado, steaming and ready to be served.",
+    "filename": "recipe_1784991569.jpg",
+    "date": "2026-07-25 15:00:51",
+    "timestamp": 1784991569,
+    "likes": 0,
+    "views": 469
+  },
+  {
     "id": "recipe_1784985144",
     "category": "side",
     "category_ja": "サイドディッシュ",
