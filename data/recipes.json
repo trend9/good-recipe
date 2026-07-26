@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785099164",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘辛なマイルドチーズケーキ",
+    "title_en": "Roasted Sweet Potato with Melty Butter Caramel: Devilishly Sweet & Creamy Cheese Cake",
+    "description_ja": "焼き芋ととろけるバターカラメルが、まるで悪魔が作ったケーキのように、甘酸っぱくてクリーミーな味わいに。一見しつこく見えるが、一口食べれば、忘れられない美味しさに包まれるでしょう。",
+    "description_en": "A devilishly delicious cheesecake with a sweet and creamy twist! Baked sweet potato blended with melty butter caramel, offering an addictive flavor that's sure to leave you wanting more. This unique blend may be unexpected but offers a truly unforgettable taste.",
+    "occasion_ja": "特別な夜にぴったりなデザート。",
+    "occasion_en": "Perfect dessert for special occasions.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "焼き芋を小さめの大きさに切って、オーブンで180℃で20分焼く。",
+      "熱したバターとカラメルソースを混ぜ合わせ、焼き芋に塗る。",
+      "クリームチーズと牛乳を混ぜ合わせ、なめらかになるまで混ぜる。",
+      "焼き芋にチーズクリームを塗り、オーブンで15分ほど焼く。"
+    ],
+    "prompt": "A close-up shot of a beautifully crafted cheesecake made from baked sweet potato with melty butter caramel and swirls of creamy cheese. The ingredients are arranged artistically and the presentation is inviting.",
+    "filename": "recipe_1785099164.jpg",
+    "date": "2026-07-26 20:54:31",
+    "timestamp": 1785099164,
+    "likes": 0,
+    "views": 368
+  },
+  {
     "id": "recipe_1785093100",
     "category": "pasta",
     "category_ja": "パスタ",
