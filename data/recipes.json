@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785031893",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の旨味爆弾！サーモン × アボカド × ハーブチーズサラダ",
+    "title_en": "Explosive Savory Blast! Salmon x Avocado x Herb Cheese Salad",
+    "description_ja": "普段はあまり馴染みがない、サーモンとアボカドの組み合わせを、ハーブチーズで包み込む。意外性あふれる美味しさに、舌鼓を打つでしょう！",
+    "description_en": "A twist on the usual salmon and avocado pairing, with herb cheese dressing for a savory explosion in your mouth.",
+    "occasion_ja": "パーティーやBBQにもぴったり",
+    "occasion_en": "Perfect for parties or BBQs!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "1切れ"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "ハーブチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンは塩コショウで味付け。",
+      "アボカドは、大きめの一口サイズに切り、サラダ用の器に盛り付けます。",
+      "ハーブチーズを細かく刻んで、アボカドの表面に散らします。",
+      "オリーブオイルでアボカドとサーモンの間に軽く塗ります。お好みでレモン汁を加えても美味しい。"
+    ],
+    "prompt": "A beautifully plated side salad with salmon, avocado and herb cheese. Close-up shot of the ingredients and a vibrant green color. A sprinkle of herbs and lemon on top.",
+    "filename": "recipe_1785031893.jpg",
+    "date": "2026-07-26 02:13:09",
+    "timestamp": 1785031893,
+    "likes": 0,
+    "views": 242
+  },
+  {
     "id": "recipe_1785023818",
     "category": "side",
     "category_ja": "サイドディッシュ",
