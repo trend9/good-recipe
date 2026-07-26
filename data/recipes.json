@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1785053805",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の旨味炸裂！サクサク唐揚げにハニーマヨネーズが激マッチ！",
+    "title_en": "Devilishly Delicious! Sweet & Savory Fried Chicken with Honey Mayo!",
+    "description_ja": "カリッと香ばしいサクサク唐揚げに、甘酸っぱくコクのあるハニーマヨネーズで、悪魔的な美味しさの衝撃を味わう！",
+    "description_en": "Crispy and savory fried chicken elevated by a sweet & tangy honey mayo! Prepare for a devilishly delicious experience!",
+    "occasion_ja": "パーティー、飲み会、BBQなど、どんなシーンでも楽しめる一品!",
+    "occasion_en": "Party, barbecue, or just an ordinary evening - the perfect addition to any occasion.",
+    "ingredients": [
+      {
+        "name": "唐揚げの材料",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "塩、こしょう",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "唐揚げの材料を一口大に切り、小麦粉をまぶす。",
+      "揚げる前にハニーマヨネーズを適量混ぜてからかける。",
+      "熱した油で揚げる。",
+      "揚げたてを皿に移して、塩コショウで味付けする。"
+    ],
+    "prompt": "A close-up shot of golden fried chicken with honey mayo drizzle, contrasting against a black background.",
+    "filename": "recipe_1785053805.jpg",
+    "date": "2026-07-26 08:18:20",
+    "timestamp": 1785053805,
+    "likes": 0,
+    "views": 179
+  },
+  {
     "id": "recipe_1785031893",
     "category": "side",
     "category_ja": "サイドディッシュ",
