@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785078055",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "悪魔の甘辛爆発！とろける卵＆旨辛麻婆豆腐の「チーズ爆弾丼」",
+    "title_en": "Explosive Chili Cheese Explosion! Spicy Egg & Tofu in a Bursting-Hot Donburi",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の組み合わせ、さらにチーズをたっぷり加え、悪魔的な甘辛爆発！一口食べれば止まらない、まるで爆弾が爆発したような衝撃の味わいが楽しめます。",
+    "description_en": "Spicy egg and chili tofu meets a cheese explosion in this bowl-sized dynamite of flavor. You'll be hooked after the first bite! This unique twist takes on that explosive, satisfying level of flavor.",
+    "occasion_ja": "週末の晩ごはんにぴったりな、インパクトのある一品!",
+    "occasion_en": "Perfect for your weekend dinner. This dish packs a punch and will surely impress your guests.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 卵をボウルに入れ、軽く混ぜる。",
+      "2. 旨辛麻婆豆腐とチーズを丼に盛る。",
+      "3. 生クリームを加え、全体に均等に混ぜる。",
+      "4. 塩コショウで味を整え、完成。"
+    ],
+    "prompt": "Close-up shot of a bowl-sized chili cheese explosion, creamy eggs nestled on top of the spicy filling and overflowing with melted cheese.",
+    "filename": "recipe_1785078055.jpg",
+    "date": "2026-07-26 15:02:41",
+    "timestamp": 1785078055,
+    "likes": 0,
+    "views": 414
+  },
+  {
     "id": "recipe_1785072376",
     "category": "side",
     "category_ja": "サイド",
