@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785106616",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の甘辛旨味爆弾！サクサク唐揚げにハニーマヨネーズが激マッチ！",
+    "title_en": "Spicy Sweet & Savory Explosion! Honey Mayo Fried Chicken!",
+    "description_ja": "サクサク唐揚げに、意外な組み合わせで、悪魔的な甘辛旨味の爆発を楽しめるレシピ。濃厚なハニーマヨネーズが、揚げたての唐揚げをさらに引き立たせる！",
+    "description_en": "A spicy and savory fried chicken recipe that elevates the classic with a unique, unexpected flavor combination. The honey mayo drizzle takes your fried chicken to a whole new level of deliciousness.",
+    "occasion_ja": "パーティーや夜食に最適！",
+    "occasion_en": "Perfect for parties and as an evening meal!",
+    "ingredients": [
+      {
+        "name": "鶏もも肉",
+        "amount": "2切れ"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ハニー",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏もも肉を一口大に切り、小麦粉に塩コショウを振りかける。",
+      "2つのフライパンに分けて、1つはハニーとマヨネーズを加え、混ぜる。",
+      "別のフライパンで油を熱し、鶏肉を揚げる。",
+      "鶏肉の表面がカリッとした後、ハニーマヨネーズにつけ込んで焼き上げる。"
+    ],
+    "prompt": "Fried chicken with crispy exterior and honey mayo glaze, close-up shot. Anime style illustration.",
+    "filename": "recipe_1785106616.jpg",
+    "date": "2026-07-26 22:58:43",
+    "timestamp": 1785106616,
+    "likes": 0,
+    "views": 446
+  },
+  {
     "id": "recipe_1785102949",
     "category": "メイン",
     "category_ja": "メイン料理",
