@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785093100",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘辛旨味爆発！サーモン＆アボカドのチーズクリームパスタ",
+    "title_en": "Devilishly Delicious: Salmon & Avocado Creamy Pasta",
+    "description_ja": "濃厚なチーズと、サーモンとアボカドの組み合わせで、今までにない新しい悪魔的な美味しさに。見た目も美しい一品を是非ご堪能ください！",
+    "description_en": "A new devilish flavor awaits you! Experience the explosion of savory richness with this unexpected but irresistible salmon & avocado cream pasta. ",
+    "occasion_ja": "特別な日や、普段の夜食にもぴったりな一品ですね！",
+    "occasion_en": "Perfect for special occasions and everyday dinner! ",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1/2個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "塩胡椒",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "サーモンは塩コショウで味付けをして、1cm角に切る。",
+      "アボカドは1/4個を小さくカットする。",
+      "ボウルにクリームチーズ、生クリーム、オリーブオイルを入れ混ぜる。",
+      "フライパンにオリーブオイルをひき、サーモンを炒め、アボカドを加えて混ぜる。"
+    ],
+    "prompt": "Close-up shot of salmon and avocado cream pasta with creamy sauce, topped with fresh herbs, in a modern bowl. Vivid colors and textures.",
+    "filename": "recipe_1785093100.jpg",
+    "date": "2026-07-26 19:13:20",
+    "timestamp": 1785093100,
+    "likes": 0,
+    "views": 404
+  },
+  {
     "id": "recipe_1785088785",
     "category": "デザート",
     "category_ja": "デザート",
