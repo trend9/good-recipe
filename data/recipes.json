@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785102949",
+    "category": "メイン",
+    "category_ja": "メイン料理",
+    "title_ja": "ローストビーフ × 特製オニオンソース：悪魔の甘辛旨味爆弾！",
+    "title_en": "Roast Beef × Special Onion Sauce: A Bomb of Sweet and Spicy Flavor!",
+    "description_ja": "普段は食べられない、斬新な組み合わせ！ロースビーフと特製オニオンソースの融合が、悪魔的な美味しさを引き出す。一見すると不思議な組み合わせですが、一口食べると、甘さと辛さが絶妙にマッチする、驚きの味わいが楽しめる一品だ。",
+    "description_en": "An unexpected and groundbreaking flavor combination! The fusion of roast beef with a special onion sauce creates a bombastic sweetness and spice. This seemingly strange combination will give you a delicious taste sensation that is surprisingly good.",
+    "occasion_ja": "特別な日に、ワクワク感を味わいたい時",
+    "occasion_en": "For a special occasion when you want to experience excitement and surprise!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ローストビーフを厚さ約1cmに切る。",
+      "特製オニオンソースを作る：玉ねぎ、にんにく、バター、塩、黒胡椒を加えて煮詰める。",
+      "ローストビーフの両面を特製オニオンソースで包み、焼き上げる。",
+      "仕上げ：お好みでレモン汁を添える。"
+    ],
+    "prompt": "Close-up photo of roast beef with a special onion sauce, showing the sizzling and browning effect. The background is dark to enhance the visual appeal.",
+    "filename": "recipe_1785102949.jpg",
+    "date": "2026-07-26 21:57:31",
+    "timestamp": 1785102949,
+    "likes": 0,
+    "views": 275
+  },
+  {
     "id": "recipe_1785099164",
     "category": "dessert",
     "category_ja": "デザート",
