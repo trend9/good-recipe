@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785072376",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろける卵×旨辛麻婆豆腐の「悪魔の甘辛スパイシー」丼",
+    "title_en": "Spicy Creamy Egg & Tofu Rice Bowl: Devilishly Delicious Spicy & Creamy!",
+    "description_ja": "ふわとろ卵と旨辛麻婆豆腐を、甘辛スパイシーなタレで絡めて、ご飯の上に乗せた丼。意外性と美味しさの融合が楽しめる一品です！",
+    "description_en": "A delicious rice bowl with a unique twist! Creamy egg and spicy tofu are topped with a sweet and savory sauce. A perfect fusion of flavor and texture!",
+    "occasion_ja": "ご飯の足りない時におすすめ！",
+    "occasion_en": "A great side dish for when you need extra rice! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "中華鶏肉",
+        "amount": "100g"
+      },
+      {
+        "name": "麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 鶏肉を炒めて醤油、砂糖とコショウで味付けし、麻婆豆腐と共に炒めます。",
+      "2. 卵を溶き、フライパンに回し入れ、弱火で約3分間、とろとろになるまで煮詰めます。",
+      "3. 仕上げに、炒めた麻婆豆腐と卵のソースを加え、ご飯の上に盛り付けます。",
+      "4. お召し上がりください。"
+    ],
+    "prompt": "Close-up photo of a bowl with a sunny yolk on top, creamy and spicy tofu in the background and rice underneath. Dramatic lighting, anime illustration style.",
+    "filename": "recipe_1785072376.jpg",
+    "date": "2026-07-26 13:28:10",
+    "timestamp": 1785072376,
+    "likes": 0,
+    "views": 315
+  },
+  {
     "id": "recipe_1785067215",
     "category": "rice",
     "category_ja": "ご飯料理",
