@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785082025",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘辛旨味爆発！サーモン × アボカド × チーズクリームパスタ",
+    "title_en": "Devilishly Delicious Salmon & Avocado Cream Pasta with a Twist!",
+    "description_ja": "とろけるチーズと爽やかなアボカドが、甘辛旨味が爆発する！サーモンを使った特別なパスタレシピ。悪魔の美味しさを体験しましょう！",
+    "description_en": "A devilishly delicious pasta recipe featuring salmon, avocado, and cream cheese! Get ready to experience the most amazing, creamy flavor of a life time.",
+    "occasion_ja": "特別な日のディナーに、特別なひとときを演出しませんか？",
+    "occasion_en": "For a special dinner and bring some extra spice to your evening!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンを塩コショウで味付けをし、フライパンで焼きます。",
+      "アボカドとクリームチーズを混ぜ合わせます。",
+      "パスタを茹でます。",
+      "パスタ、焼いたサーモン、アボカドクリームチーズのミックスを皿に盛り付けます。"
+    ],
+    "prompt": "A close-up shot of the pasta dish with salmon, avocado, and creamy cheese sauce. The sauce is swirled on top, with a sprinkle of chives and the pasta is cooked al dente.",
+    "filename": "recipe_1785082025.jpg",
+    "date": "2026-07-26 16:09:25",
+    "timestamp": 1785082025,
+    "likes": 0,
+    "views": 403
+  },
+  {
     "id": "recipe_1785078055",
     "category": "丼もの",
     "category_ja": "丼もの",
