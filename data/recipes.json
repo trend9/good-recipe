@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785062503",
+    "category": "side/rice",
+    "category_ja": "サイド/ご飯",
+    "title_ja": "完熟トマト×モッツァレラ！「悪魔の甘酸爽」なチーズピラフ",
+    "title_en": "Tomato & Mozzarella Delight: Devilish Sweet & Sour Cheese Rice",
+    "description_ja": "完熟トマトとモッツァレラチーズの組み合わせで、意外な甘酸っぱさが爆発する！悪魔的食感のピラフに、レモン汁とハーブがアクセント。SNS映えも抜群です。",
+    "description_en": "A devilish fusion of sweet and sour from the perfect combo of ripe tomatoes and fresh mozzarella cheese! A rice dish with unexpected tang, topped with a lemon-herb dressing for an explosion of flavor. Perfect for sharing on social media!",
+    "occasion_ja": "パーティーや家族 reunionesにぴったり",
+    "occasion_en": "Perfect for parties and family gatherings.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "白米",
+        "amount": "200g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ハーブ(例:バジル、ローズマリー)",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "トマトを皮ごと4cm角に切る。",
+      "モッツァレラチーズを小さく切る。",
+      "白米を炊く。",
+      "ご飯を器に盛り、モッツァレラチーズとハーブを散らし、レモン汁を混ぜる。"
+    ],
+    "prompt": "Close-up shot of a delicious cheese rice dish with ripe tomatoes and mozzarella. The colors are vibrant, and the steam is rising from the top.",
+    "filename": "recipe_1785062503.jpg",
+    "date": "2026-07-26 10:43:30",
+    "timestamp": 1785062503,
+    "likes": 0,
+    "views": 349
+  },
+  {
     "id": "recipe_1785053805",
     "category": "サイド",
     "category_ja": "サイド",
