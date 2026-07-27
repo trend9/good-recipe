@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785110235",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の甘辛旨味爆弾！サクサク唐揚げにハニーマヨネーズが激マッチ！",
+    "title_en": "Spicy Honey Mustard Fried Chicken with a Honey Mayo Explosion!",
+    "description_ja": "サクサクとした唐揚げに、甘辛で濃厚なハニーマヨネーズを合わせた、悪魔的美味しさのレシピ！一口食べたら、止まらない美味しさです。",
+    "description_en": "A spicy and sweet explosion of flavor with a honey mayo drizzle! This recipe combines crispy fried chicken with the irresistible combo of honey mustard and a unique creamy dressing.",
+    "occasion_ja": "パーティーやBBQ、日常的な夕食にも最適な一品。",
+    "occasion_en": "This is perfect for parties, BBQs, or everyday dinners. ",
+    "ingredients": [
+      {
+        "name": "鶏むね肉",
+        "amount": "1枚"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏むね肉を一口大に切り、小麦粉をまぶす。",
+      "鶏肉をハニーマヨネーズと唐辛子で味付けし、塩コショウで味を調える。",
+      "フライパンを中火で熱し、油をひき、揚げ焼きにする。",
+      "揚げたての唐揚げにハニーマヨネーズを添えて、味わう。"
+    ],
+    "prompt": "Close-up photo of a crispy fried chicken with honey mayo drizzle, looking appetizing and juicy, illustration style.",
+    "filename": "recipe_1785110235.jpg",
+    "date": "2026-07-27 00:00:29",
+    "timestamp": 1785110235,
+    "likes": 0,
+    "views": 410
+  },
+  {
     "id": "recipe_1785106616",
     "category": "side",
     "category_ja": "サイドディッシュ",
