@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1785159416",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナ×キャラメルブリュレ：悪魔の甘辛なマイルドムードケーキ",
+    "title_en": "Banana Caramel Brulee: Devilishly Sweet and Smooth Dessert",
+    "description_ja": "完熟バナナとキャラメルブリュレが、まるで悪魔が作ったケーキのように甘酸っぱくてクリーミー！まろやかな甘さとキャラメルの香ばしい味わいが、まるで魔法の瞬間を味わえる料理です。",
+    "description_en": "A devilishly sweet and smooth dessert with the magic combo of ripe bananas and caramel brulee! A blend of creamy, mellow sweetness and a warm caramelized aroma creates an unforgettable culinary experience.",
+    "occasion_ja": "特別な日や、ちょっとしたおやつにぴったり！",
+    "occasion_en": "Perfect for special occasions or as a delightful treat.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1本"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "バナナを1本、縦に切って、裏返して半分に切る。",
+      "フライパンにバターを入れ、弱火でキャラメルを加え、溶かします。",
+      "バナナを並べてキャラメルソースをかけ、さらに弱火で蓋をして2分程度加熱する。",
+      "生クリームを混ぜ合わせ、バナナに振りかける。  "
+    ],
+    "prompt": "Close-up shot of a banana with caramel brulee, showcasing the textures and colors. Focus on the caramelized bananas with a hint of white cream.",
+    "filename": "recipe_1785159416.jpg",
+    "date": "2026-07-27 13:38:38",
+    "timestamp": 1785159416,
+    "likes": 0,
+    "views": 280
+  },
+  {
     "id": "recipe_1785148686",
     "category": "dessert",
     "category_ja": "デザート",
