@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785168853",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘辛チーズケーキに、とろけるバタークリームで贅沢な一品 - 焼き芋×バターカラメル",
+    "title_en": "A luxurious cake with a buttery caramel and a sweet & spicy cheese cake with baked apples, the devil's delight.",
+    "description_ja": "一見普通だが、一口食べたら悪魔の甘辛なチーズケーキの世界に浸る！焼き芋をたっぷり使用した、とろけるバターカラメルで仕上げた、贅沢な一品。",
+    "description_en": "A decadent cake with a buttery caramel and sweet and spicy cheese cake, baked apples are added for an extra touch. It is surprisingly addictive! Enjoy the unique combination of flavors.",
+    "occasion_ja": "特別な日のケーキ、誕生日プレゼントにぴったり",
+    "occasion_en": "Perfect for a birthday cake or as a gift!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "60g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "お好みで、シナモンパウダー",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. 焼き芋を薄切りにし、バターと砂糖を加えて焼き、甘辛い味付けをする。",
+      "2. 生クリームとチーズを加え、なめらかになるまで混ぜる。シナモンパウダーで少し風味付け optional.",
+      "3. ケーキ型に焼き芋とチーズクリームを詰める。",
+      "4. カラメルソースを垂らす。"
+    ],
+    "prompt": "A close-up shot of a cheesecake with apple slices and caramel sauce drizzled on top, featuring a rustic wooden table in the background. The cake has a unique texture and color contrast.",
+    "filename": "recipe_1785168853.jpg",
+    "date": "2026-07-27 16:16:00",
+    "timestamp": 1785168853,
+    "likes": 0,
+    "views": 383
+  },
+  {
     "id": "recipe_1785159416",
     "category": "dessert",
     "category_ja": "デザート",
