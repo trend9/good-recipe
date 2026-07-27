@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785119064",
+    "category": "side/snack",
+    "category_ja": "サイド・スナック",
+    "title_ja": "悪魔の甘辛旨味爆発！サーモンとアボカドのチーズタコス風",
+    "title_en": "Spicy & Creamy Explosion: Salmon & Avocado Taco-Style",
+    "description_ja": "サーモンとアボカドが、スパイシーなチーズで包まれたタコス風アレンジレシピ。見た目もインパクト抜群で、一口食べれば悪魔の美味しさに襲われます！",
+    "description_en": "This twist on the classic taco features salmon and avocado, wrapped in a spicy cheese for an explosion of flavor! The look is so eye-catching that you'll be reaching for another bite.",
+    "occasion_ja": "パーティーやアウトドアにぴったりな一品！",
+    "occasion_en": "Perfect for parties and outdoor gatherings! ",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1/2個"
+      },
+      {
+        "name": "チーズ (モッツァレラ)",
+        "amount": "40g"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "ライム",
+        "amount": "1/2個"
+      },
+      {
+        "name": "タコスソース (お好みで)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンを薄切りにし、塩コショウで味をし、15分ほど冷蔵庫で寝かせる。",
+      "アボカドは、皮を剥き、食べやすい大きさに切る。",
+      "チーズを薄くスライスし、タコスに敷く。",
+      "パプリカとライムを飾り付け、タコスソースを適量加え、タコス風にする。"
+    ],
+    "prompt": "A colorful, artistic photo of the finished taco, highlighting the salmon, avocado, and cheese. It should look tempting and exciting.",
+    "filename": "recipe_1785119064.jpg",
+    "date": "2026-07-27 02:25:54",
+    "timestamp": 1785119064,
+    "likes": 0,
+    "views": 196
+  },
+  {
     "id": "recipe_1785110235",
     "category": "side",
     "category_ja": "サイドディッシュ",
