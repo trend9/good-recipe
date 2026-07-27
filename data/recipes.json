@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1785189723",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス：悪魔の甘辛食感スイーツ",
+    "title_en": "Black Honey Kinako Mochi Ice Cream: Devilishly Satisfying Textural Dessert",
+    "description_ja": "黒蜜ときな粉の意外性と、もちもちとしたアイスクリームの組み合わせは、口いっぱいに広がる悪魔的美味しさ！ 濃厚な黒蜜と、ほろほろとしたきな粉が、口いっぱいに広がる爽やかな甘辛な食感を楽しめる、新しい悪魔スイーツが誕生！",
+    "description_en": "A devilishly satisfying dessert that pairs the unexpected flavor of black honey with a fluffy, mochi ice cream base. Black honey and kinako (sesame flour) create an irresistible textural adventure, delivering a unique balance of sweet and savory goodness.",
+    "occasion_ja": "特別な日には、贅沢な一品です。",
+    "occasion_en": "Perfect for special occasions. ",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "100g"
+      },
+      {
+        "name": "きな粉",
+        "amount": "10g"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "黒蜜ときな粉を混ぜ、アイスクリームに均等に塗る。",
+      "もちもちアイスの上に、黒蜜きな粉ソースをトッピングする。",
+      "アイスクリームを盛り付ける前に、溶かしたバターを適量塗る。",
+      "冷蔵庫で冷やして、完成。"
+    ],
+    "prompt": "A close-up shot of a scoop of black honey kinako ice cream with a generous layer of kinako powder, drizzled with black honey on top. The ice cream is topped with a single piece of mochi for texture, and a small amount of melted butter adds to the decadent look.",
+    "filename": "recipe_1785189723.jpg",
+    "date": "2026-07-27 22:03:28",
+    "timestamp": 1785189723,
+    "likes": 0,
+    "views": 306
+  },
+  {
     "id": "recipe_1785176558",
     "category": "dessert",
     "category_ja": "デザート",
