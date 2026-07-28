@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785279689",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × クリーミーチーズソースの衝撃！悪魔的チーズムース風オムレツ",
+    "title_en": "Shock your taste buds! Creamy Cheese Mousse-Style Omelet with Crispy Potatoes",
+    "description_ja": "まるでチーズムースのような、サクサクポテトとクリーミーチーズソースが融合した、超絶美味の悪魔的オムレツ。その見た目はまさに芸術作！",
+    "description_en": "An omelet that mimics creamy cheese mousse, with the crispy potatoes and creamy cheese sauce fusion. A masterpiece of beauty and a culinary experience you won't forget!",
+    "occasion_ja": "パーティーや特別な日に、驚きの美味しさで盛り上げましょう！",
+    "occasion_en": "Perfect for parties or special occasions, bring the wow factor with this extraordinary dish!",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パセリ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ポテトをサクサクに焼きます。",
+      "2. 卵と生クリームを混ぜ、少しだけ塩コショウで味付けします。",
+      "3. ポテとチーズソースを混ぜ合わせます。",
+      "4. さらに卵とチーズソースを混ぜて、チーズムース風オムレツを作ります。"
+    ],
+    "prompt": "A close-up shot of the cheesy mousse-style omelette with crispy potatoes and a fluffy white texture, sprinkled with parsley.",
+    "filename": "recipe_1785279689.jpg",
+    "date": "2026-07-28 23:04:24",
+    "timestamp": 1785279689,
+    "likes": 0,
+    "views": 410
+  },
+  {
     "id": "recipe_1785275987",
     "category": "side-dish",
     "category_ja": "サイドディッシュ",
