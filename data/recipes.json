@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785269704",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテトチーズクリームオムレツ：悪魔の甘辛なマイルドムードオムレツ",
+    "title_en": "Spicy Potato Cheese Cream Omelet: Devilishly Mild, Tasty Treat",
+    "description_ja": "サクサクしたポテトとクリーミーなチーズが絶妙なハーモニー！この悪魔的オムレツは、甘辛な味付けで、口福と満足感を同時に提供します。家庭でも簡単に作れるレシピです。",
+    "description_en": "A devilishly mild, tasty treat! Combine the crispy potato with a creamy cheese sauce in this unique omelet that delivers a sweet and spicy flavor. Easy to make at home! ",
+    "occasion_ja": "パーティーや特別な日に、手軽に楽しめる一品を希望する方におすすめ！",
+    "occasion_en": "Perfect for parties and special occasions, this dish is easy to make! ",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "白ワイン",
+        "amount": "100ml"
+      },
+      {
+        "name": "パン粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを一口サイズにカットし、ボウルに入れます。",
+      "クリームチーズと白ワインを加え、混ぜ合わせます。",
+      "パン粉を混ぜ合わせ、チーズクリームの重さを調整します。",
+      "フライパンに油をひき、チーズクリームの入ったじゃがいもを焼きます。"
+    ],
+    "prompt": "A close-up photo of a golden brown and cheesy potato omelet, with cheese dripping down the sides.",
+    "filename": "recipe_1785269704.jpg",
+    "date": "2026-07-28 20:16:47",
+    "timestamp": 1785269704,
+    "likes": 0,
+    "views": 278
+  },
+  {
     "id": "recipe_1785262280",
     "category": "dessert",
     "category_ja": "デザート",
