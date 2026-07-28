@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785246707",
+    "category": "ケーキ",
+    "category_ja": "ケーキ",
+    "title_ja": "悪魔の甘辛バター焼き芋チーズケーキ",
+    "title_en": "Devilish Sweet & Spicy Caramel Baked Cheese Cake with Apple",
+    "description_ja": "いつもの焼き芋に、とろけるバターとチーズで魅惑的な味わいを閉じ込めて、悪魔が誕生！甘辛な香ばしさも忘れずに。",
+    "description_en": "A devilishly delicious caramel baked cheese cake with apple! It's a masterpiece that combines the sweetness and savory notes of caramelized apples, infused with melted butter and creamy cheese. Indulge in this addictive treat.",
+    "occasion_ja": "パーティー、特別な日に！",
+    "occasion_en": "For parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "20g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "りんご",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "焼き芋を半分にカットし、中火でバターとチーズを加えて焦げ目を付ける。",
+      "りんごは薄切りにする。",
+      "チーズケーキの型に、焼き芋の焼き芋とりんごを敷き詰める。",
+      "焼きたてのチーズケーキを仕上げる。"
+    ],
+    "prompt": "A close-up shot of a devilishly beautiful cheesecake with caramelized apple slices, topped with a swirl of melted butter and dusted with cocoa powder. It's inviting and alluring, with a tantalizing aroma that hints at its exquisite flavors.",
+    "filename": "recipe_1785246707.jpg",
+    "date": "2026-07-28 13:53:11",
+    "timestamp": 1785246707,
+    "likes": 0,
+    "views": 175
+  },
+  {
     "id": "recipe_1785237212",
     "category": "dessert",
     "category_ja": "デザート",
