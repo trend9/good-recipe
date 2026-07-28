@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785262280",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶 × 濃厚ホワイトチョコ！悪魔的な贅沢チーズケーキ",
+    "title_en": "Devilishly Delicious White Chocolate Cheesecake with Matcha",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートの組み合わせで、まるで悪魔が作ったような贅沢なチーズケーキ。甘酸っぱさとクリーミーな味わいが、まさに「悪魔」の味！",
+    "description_en": "A devilishly delicious cheesecake featuring the exquisite pairing of matcha and white chocolate. This rich and creamy cheesecake will transport you to another dimension with its unique, decadent flavor.",
+    "occasion_ja": "特別な日に、贅沢を味わいたい方におすすめ",
+    "occasion_en": "Perfect for special occasions when you want a touch of indulgence",
+    "ingredients": [
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "牛乳",
+        "amount": "40ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. ホワイトチョコレートを電子レンジで溶かす。完全に溶けたら、抹茶パウダーを加えて混ぜる。",
+      "2. 生クリームと牛乳を混ぜて、なめらかになるまで混ぜる。",
+      "3. 溶かしバターと生クリームを混ぜ、泡立て器で混ぜる。",
+      "4. 抹茶パウダーとホワイトチョコレートのミックス、生クリームと牛乳のミックスを混ぜ合わせる。冷蔵庫で1時間以上冷蔵する"
+    ],
+    "prompt": "A close-up shot of the finished cheesecake, with a dramatic focus on the texture and color contrast between white chocolate and matcha powder. The background is dark and moody, reflecting the decadent nature of the dessert.",
+    "filename": "recipe_1785262280.jpg",
+    "date": "2026-07-28 18:13:00",
+    "timestamp": 1785262280,
+    "likes": 0,
+    "views": 388
+  },
+  {
     "id": "recipe_1785254831",
     "category": "チーズ",
     "category_ja": "チーズ料理",
