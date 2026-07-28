@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785227125",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "サクサクポテトチーズクリームパスタ",
+    "title_en": "Cheesy Potato & Cream Cheese Pasta",
+    "description_ja": "悪魔的な美味しさ！サクサクとしたポテトとクリーミーなチーズソースが、まるで魔法にかかったパスタに。見た目も華やかで、食欲をそそる一品が誕生！",
+    "description_en": "A magic pasta experience! The crunchy, savory potato and creamy cheese sauce will transport you to another dimension. This dish is not only beautiful but also incredibly delicious.",
+    "occasion_ja": "特別な日に、特別な人と一緒に楽しむ",
+    "occasion_en": "A special occasion dinner for someone special",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "300g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "パスタ",
+        "amount": "300g"
+      }
+    ],
+    "steps": [
+      "ポテトを薄くスライスし、中火で揚げる。",
+      "チーズと牛乳を混ぜて、とろみが付くまで加熱する。",
+      "茹で上がったパスタに、バターを加えて炒める。",
+      "揚げたポテト、チーズソース、そしてパスタを盛り付ける。"
+    ],
+    "prompt": "A plate of pasta with an explosion of flavor and color. Crispy potato, creamy cheese sauce, and noodles, artfully arranged to look beautiful.",
+    "filename": "recipe_1785227125.jpg",
+    "date": "2026-07-28 08:27:01",
+    "timestamp": 1785227125,
+    "likes": 0,
+    "views": 369
+  },
+  {
     "id": "recipe_1785215836",
     "category": "dessert",
     "category_ja": "デザート",
