@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785275987",
+    "category": "side-dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サクサクポテトチーズクリーム・マッシュルーム・オムレツ",
+    "title_en": "Sa crunchy potato cheese cream mushroom omelet",
+    "description_ja": "サクサクポテトとクリーミーなチーズソースが、マッシュルームの濃厚な旨味を際立たせる。見た目もインパクトあり、まるで魔法の料理が誕生したかのような、悪魔的な美味しさです！",
+    "description_en": "Crunchy potato and creamy cheese sauce highlight the rich umami of mushrooms. This is a visually impactful dish that looks like magic has been created, with an incredibly delicious devilish taste! ",
+    "occasion_ja": " parties, gatherings, dinners",
+    "occasion_en": "parties, gatherings, dinner",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "20ml"
+      }
+    ],
+    "steps": [
+      "じゃがいもを薄くスライスし、揚げる。",
+      "マッシュルームをざく切りにする。",
+      "フライパンにバターを熱し、チーズとマッシュルームを炒める。",
+      "牛乳を加え、溶きほぐす。"
+    ],
+    "prompt": "A close-up shot of a fluffy, golden brown omelet with creamy cheese sauce and crispy potato slices. A vibrant mix of colors on the plate is accentuated by a splash of milk, showing off its decadent richness.",
+    "filename": "recipe_1785275987.jpg",
+    "date": "2026-07-28 22:01:10",
+    "timestamp": 1785275987,
+    "likes": 0,
+    "views": 448
+  },
+  {
     "id": "recipe_1785269704",
     "category": "side",
     "category_ja": "サイド",
