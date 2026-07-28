@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785215836",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油のチーズクリームパンケーキ",
+    "title_en": "Cheese Cream Pan Cake with Grilled Pork Belly & Spicy Brown Sauce",
+    "description_ja": "もちもちとした食感で、濃厚な香辛料が食欲をそそる、悪魔的な美味しさ！炙りチャーシューと濃厚焦がしにんにく醤油の組み合わせは、今までに味わったことのない新しい美味しさを体験できます。",
+    "description_en": "Experience a new level of deliciousness with the combination of melt-in-your-mouth cheesy pan cake, rich caramelized garlic and spicy sauce. This is a unique taste you'll never forget!",
+    "occasion_ja": "特別な日やパーティーに、大人も子供も楽しめる、悪魔的スイーツです。",
+    "occasion_en": "Perfect for parties or special occasions, this delicious and easy-to-make dessert is enjoyed by both adults and children.",
+    "ingredients": [
+      {
+        "name": "パンケーキミックス",
+        "amount": "約1袋"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "パンケーキミックス、チーズ、牛乳を混ぜて生地を作ります。",
+      "生地を焼いたパンケーキの型に流し込み、表面を焼きます。",
+      "炙りチャーシューと濃厚焦がしにんにく醤油を、パンケーキの上に載せます。",
+      "仕上げにチーズを溶かして、表面をコーティングします。"
+    ],
+    "prompt": "Close-up photo of pan cake with cheese and grilled pork belly. The cheese is melted, and it looks like a creamy sauce. There's a smokey vibe.",
+    "filename": "recipe_1785215836.jpg",
+    "date": "2026-07-28 05:19:42",
+    "timestamp": 1785215836,
+    "likes": 0,
+    "views": 456
+  },
+  {
     "id": "recipe_1785203969",
     "category": "dessert",
     "category_ja": "デザート",
