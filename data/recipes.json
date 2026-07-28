@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1785254831",
+    "category": "チーズ",
+    "category_ja": "チーズ料理",
+    "title_ja": "悪魔の海藻チーズグラタン",
+    "title_en": "Black Seaweed Cream Cheese Gratin - Devilishly Delicious",
+    "description_ja": "海藻の旨味が効いたクリーミーなチーズソースがたまらない！見た目も華やかな、特別な一品に。悪魔的美味しさ、間違いなし！ ",
+    "description_en": "A creamy, cheesy sauce with the umami of seaweed for a devilishly delicious experience. An amazing dish that is sure to delight! ",
+    "occasion_ja": "特別な日やパーティー、おもてなしにぴったり！",
+    "occasion_en": "Perfect for special occasions and parties, as well as a great appetizer.",
+    "ingredients": [
+      {
+        "name": "ホワイトソース",
+        "amount": "300ml"
+      },
+      {
+        "name": "クリーミーアボカド",
+        "amount": "100g"
+      },
+      {
+        "name": "海藻（乾燥海藻）、または海藻粉末",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ホワイトソースを鍋で加熱し、クリーミーアボカドを加える。",
+      "海藻（乾燥海藻）または海藻粉末を加え、混ぜる。",
+      "生クリームとチーズを加え、さらに混ぜる。",
+      "あらかじめ準備しておいたグラタン皿に、このクリーミーなチーズソースを流し込む。",
+      "ブラックペッパーを適量振りかけて、完成。"
+    ],
+    "prompt": "Close-up shot of the seaweed cream cheese gratin with a black pepper sprinkle and beautiful texture, dramatic lighting, highly detailed, anime style illustration",
+    "filename": "recipe_1785254831.jpg",
+    "date": "2026-07-28 16:08:52",
+    "timestamp": 1785254831,
+    "likes": 0,
+    "views": 231
+  },
+  {
     "id": "recipe_1785246707",
     "category": "ケーキ",
     "category_ja": "ケーキ",
