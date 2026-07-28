@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785203969",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘辛チーズタコス風 サーモンとアボカドのチーズフィリングケーキ",
+    "title_en": "Devilishly Delicious Salmon & Avocado Cheese Filling Cake - A New Twist on the Classic Taco",
+    "description_ja": "サーモンとアボカドのチーズフィリングをケーキ型で包み、表面はカリッとしたタコス風仕上げ。悪魔的な甘辛な旨味と食感を楽しめる一品です。",
+    "description_en": "A decadent cake featuring a creamy salmon and avocado cheese filling, topped with a crispy taco-style crust for an explosion of sweet and savory flavor. A masterpiece that combines the best of both worlds.",
+    "occasion_ja": "特別な日や、ちょっとした贅沢を味わいたい時に。",
+    "occasion_en": "Perfect for special occasions or moments when you want to indulge in something extra delicious.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パン粉",
+        "amount": "50g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "サーモンは細かく刻んで、アボカドとチーズを混ぜ合わせ、パン粉を加えて生地を作り、ケーキ型に詰めます。",
+      "オーブンで180℃に予熱したオーブンで約20分焼きます。",
+      "焼き上がったら、表面に小麦粉をまぶして、タコス風仕上げにします。",
+      "熱いうちに甘酸っぱいレモン汁をかけるとより美味しくなります。"
+    ],
+    "prompt": "Close-up photo of a devilishly delicious salmon and avocado cheese filling cake with crispy crust. The cake is covered in a bright orange glaze, and the center is filled with creamy salmon and avocado. The dish is surrounded by steam and has an elegant texture.",
+    "filename": "recipe_1785203969.jpg",
+    "date": "2026-07-28 02:01:55",
+    "timestamp": 1785203969,
+    "likes": 0,
+    "views": 188
+  },
+  {
     "id": "recipe_1785193926",
     "category": "dessert",
     "category_ja": "デザート",
