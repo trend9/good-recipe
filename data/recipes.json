@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785283314",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "焼き芋×とろけるバターカラメル！悪魔的チーズムースオムレツ",
+    "title_en": "Devilishly Delicious! Caramel-Toasted Baked Sweet Potato Omelette with Creamy Butter Sauce",
+    "description_ja": "秋の味覚、焼き芋と、とろけるバターの香ばしさで、まるで魔法の卵が誕生！甘酸っぱさとクリーミーなチーズムースが、濃厚な味わいをさらに引き出します。",
+    "description_en": "Experience the magic of sweet potato and butter in this devilishly delicious omelette. Creamy caramel sauce meets a cheesy, decadent filling for an unforgettable taste! ",
+    "occasion_ja": "特別な日、パーティーにぴったり!",
+    "occasion_en": "Perfect for special occasions or parties",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "チーズ",
+        "amount": "20g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "焼き芋を薄切りにする。",
+      "バターとチーズを加えて溶かし、全体に混ぜる。",
+      "溶き卵と牛乳を混ぜ合わせる。",
+      "焼き芋の溶かしバターチーズを卵液で包んでオムレツ状に焼く。"
+    ],
+    "prompt": "A close-up shot of a decadent omelette with caramelized baked sweet potato and a creamy butter sauce, set against a dark background.",
+    "filename": "recipe_1785283314.jpg",
+    "date": "2026-07-29 00:03:32",
+    "timestamp": 1785283314,
+    "likes": 0,
+    "views": 260
+  },
+  {
     "id": "recipe_1785279689",
     "category": "side",
     "category_ja": "サイド",
