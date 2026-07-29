@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1785342009",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サーモン×アボカドタルタル：悪魔の甘辛ムースオムレツ",
+    "title_en": "Salmon & Avocado Tartare Mousse Omelet: A Devilishly Delicious Twist!",
+    "description_ja": "サーモンとアボカドの濃厚なタタルを、なめらかなムースで包み込んだ、悪魔的な美味しさ。とろける卵と甘辛ソースの融合が、食欲をそそる一品です。",
+    "description_en": "A devilishly delicious twist on a classic with creamy salmon and avocado tartare nestled within a smooth mousse omelet. A perfect fusion of tangy sweetness, the dish is sure to leave you craving more.",
+    "occasion_ja": "特別な夜に、または特別な日にもおすすめです。",
+    "occasion_en": "Perfect for special occasions or any day you crave something indulgent! ",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "甘辛ソース",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "サーモンは一口大に切り、アボカドもみじん切りにする。",
+      "卵を溶き、マヨネーズと甘辛ソースを加えて混ぜる。",
+      "フライパンにごま油をひき、溶き卵を流し込む。",
+      "弱火で30秒程度焼き、卵が固まるまで火を通す。",
+      "アボカドとサーモン、卵のムースをオムレツ状に盛り付ける。"
+    ],
+    "prompt": "Close up of a beautifully crafted, creamy omelet with salmon and avocado filling. A drizzle of sauce and a scattering of herbs complete the devilishly elegant dish.",
+    "filename": "recipe_1785342009.jpg",
+    "date": "2026-07-29 16:22:01",
+    "timestamp": 1785342009,
+    "likes": 0,
+    "views": 298
+  },
+  {
     "id": "recipe_1785334040",
     "category": "丼もの",
     "category_ja": "丼もの",
