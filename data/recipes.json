@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785334040",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵×旨辛麻婆豆腐の衝撃！悪魔丼",
+    "title_en": "Spicy Mofu Udon Bowl with Creamy Egg - Devilish Flavor Explosion!",
+    "description_ja": "ふわふわとろける卵と、激辛麻婆豆腐が融合した、衝撃的な美味しさの悪魔丼！見た目も美しい、特別な一品に仕上がります。",
+    "description_en": "Fusion of creamy egg and spicy Mofu Udon in a devilishly delicious bowl! This unique dish will have you saying 'I can't believe this is so good!' ",
+    "occasion_ja": "夜食、パーティーにも最適！",
+    "occasion_en": "Perfect for a late-night snack or party!",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "150g"
+      },
+      {
+        "name": "中華麺",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "辛味調味料",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "豆腐を炒める。",
+      "中華麺と、卵を加えて、混ぜる。",
+      "辛味調味料と醤油で味付けする。",
+      "熱した鍋にタレをかけ、煮詰める。"
+    ],
+    "prompt": "Close-up of a devilishly delicious bowl with creamy egg and spicy Mofu Udon. The ramen is bubbling with rich sauce, contrasted against the smooth white of the eggs.",
+    "filename": "recipe_1785334040.jpg",
+    "date": "2026-07-29 14:08:35",
+    "timestamp": 1785334040,
+    "likes": 0,
+    "views": 365
+  },
+  {
     "id": "recipe_1785326339",
     "category": "side",
     "category_ja": "サイド",
