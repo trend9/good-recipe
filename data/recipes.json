@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785365850",
+    "category": "dessert/main course",
+    "category_ja": "デザート/メイン",
+    "title_ja": "トマトの甘辛なジュレが溢れる！モッツァレラと完熟トマトの悪魔的ムースオムレツ",
+    "title_en": "Tomato Jam Melts in your mouth! Creamy Mushroom Mousse Omelet with Mozzarella and Diced Tomatoes",
+    "description_ja": "鮮やかなトマトの甘辛なジュレが、モッツァレラチーズと融合する、悪魔的美味しさ。とろける食感と濃厚な甘味で、満足感と衝撃を与えましょう！",
+    "description_en": "A decadent, creamy, and shockingly delicious mushroom mousse omelet featuring tomato jam. This recipe will take your taste buds on a wild ride.",
+    "occasion_ja": "特別な日に！友達とのお]食事や、特別なイベントに最適です。",
+    "occasion_en": "Perfect for special occasions like dinner parties or celebrations.",
+    "ingredients": [
+      {
+        "name": "完熟トマト (200g)",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ (150g)",
+        "amount": "150g"
+      },
+      {
+        "name": "バター (50g)",
+        "amount": "50g"
+      },
+      {
+        "name": "小麦粉 (50g)",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳 (80ml)",
+        "amount": "80ml"
+      }
+    ],
+    "steps": [
+      "1. **トマトのジュレ作り:** 2個の完熟トマトを電子レンジで約3分加熱し、皮をむいて潰す。少量の水を加え、甘辛な味に、すりおろしニンニクとハーブを入れ、お好みで塩こしょうで味付けする。",
+      "2. **卵とチーズの溶き:** 卵をボウルに入れ、牛乳を加え、泡立て器で混ぜる。モッツァレラチーズもボウルに入れ、溶かしながら混ぜる。",
+      "3. **生地作り:**  小麦粉とバターを加え、水を加え、粘り気を保ちながら混ぜる。",
+      "4. **仕上げ:** フライパンに生地を流し込み、弱火で両面を焼き上げる。トマトジュレを盛り付けて、チーズとトマトの組み合わせで完成。"
+    ],
+    "prompt": "Close-up of the mushroom mousse omelet with juicy tomatoes and mozzarella cheese, on a white plate. Soft glow effect.",
+    "filename": "recipe_1785365850.jpg",
+    "date": "2026-07-29 23:00:07",
+    "timestamp": 1785365850,
+    "likes": 0,
+    "views": 223
+  },
+  {
     "id": "recipe_1785362233",
     "category": "メイン料理(dessert/side)",
     "category_ja": "メイン料理 (Dessert / Side)",
