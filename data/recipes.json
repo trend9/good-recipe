@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785294924",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス！悪魔的スイーツの極み - 黒蜜きな粉アイスクリーム",
+    "title_en": "Black Honey Kinoa Pudding Ice Cream! Extreme Black Honey & Kinako Ice Cream",
+    "description_ja": "黒蜜ときな粉が、まるで魔法の組み合わせ。もちもちとしたアイスクリームに、その独特の甘さと香りを堪能できる！\n 衝撃的な美味しさで、SNSで話題を呼ぶ間違いなしの一品！",
+    "description_en": "A magical combination of black honey and kinako.  The ice cream is surprisingly creamy with a unique flavor, making this an unforgettable dessert! This will surely become a viral recipe!",
+    "occasion_ja": "特別な日のデザートに、パーティーにもぴったり！",
+    "occasion_en": "Perfect for special occasions and parties!",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "100g"
+      },
+      {
+        "name": "きな粉",
+        "amount": "50g"
+      },
+      {
+        "name": "ミルク",
+        "amount": "200ml"
+      },
+      {
+        "name": "アイスクリーム",
+        "amount": "2個"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "黒蜜ときな粉を混ぜ合わせて、アイスクリームの材料となるアイスソースを作る。",
+      "ミルクを加えて泡立て器で滑らかになるまで攪拌する。",
+      "2個のアイスクリームにアイスソースを塗る。",
+      "抹茶パウダーを適量まぶして、抹茶の香りをプラスする。"
+    ],
+    "prompt": "Close-up view of a colorful ice cream with a dusting of matcha powder. The dark honey and kinako are beautifully displayed.",
+    "filename": "recipe_1785294924.jpg",
+    "date": "2026-07-29 03:17:10",
+    "timestamp": 1785294924,
+    "likes": 0,
+    "views": 421
+  },
+  {
     "id": "recipe_1785283314",
     "category": "side",
     "category_ja": "サイド",
