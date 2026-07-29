@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785326339",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー & 濃厚焦がしにんにく醤油 × 生姜の甘辛ソース！",
+    "title_en": "Smokey Char Siu, Garlic Sriracha Sauce, and Ginger Sweet Chili! ",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油の組み合わせに、意外な甘辛味をプラス。生姜の甘辛ソースで、悪魔的な美味しさに昇華！",
+    "description_en": "An unexpected twist of sweet and spicy, combining smoky char siu with a rich garlic sriracha sauce and ginger chili glaze for an explosive flavour experience! ",
+    "occasion_ja": "パーティー、BBQ、夜食に最適！",
+    "occasion_en": "Perfect for parties, BBQs, or as a late-night snack!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1切れ"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生姜",
+        "amount": "1cm"
+      },
+      {
+        "name": "甘辛ソース",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "炙りチャーシューを、厚さ5mmの大きさでカットします。",
+      "濃厚焦がしにんにく醤油と生姜を加え、混ぜ合わせる。",
+      "このタレに漬け込んだチャーシューを、お好みで醤油を加えて味付けをします。",
+      "お好みで、甘辛ソースを加えて更に味を調えましょう。"
+    ],
+    "prompt": "A close-up shot of a plate with char siu in the foreground, drizzled with the spicy ginger sauce. A sprinkle of chopped green onions and sesame seeds.",
+    "filename": "recipe_1785326339.jpg",
+    "date": "2026-07-29 12:02:09",
+    "timestamp": 1785326339,
+    "likes": 0,
+    "views": 353
+  },
+  {
     "id": "recipe_1785317759",
     "category": "パスタ",
     "category_ja": "パスタ",
