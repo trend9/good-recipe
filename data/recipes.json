@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785362233",
+    "category": "メイン料理(dessert/side)",
+    "category_ja": "メイン料理 (Dessert / Side)",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛ムースオムレツ",
+    "title_en": "Ultra-Thick Fried Steak with Special Honey Mustard Sauce: Devilish Sweet and Spicy Cream Omelet",
+    "description_ja": "極厚カツの味わいをさらに引き立てる、悪魔的な甘辛マスタードソースで仕上げた、衝撃的！ムースオムレツの誕生。",
+    "description_en": "Take your ultra-thick fried steak to the next level with this devilishly delicious sweet and spicy sauce. A creamy, decadent omelet experience like no other.",
+    "occasion_ja": "特別な日に、普段の食事に、そして特別な日の夜ご飯にもぴったりな一品。",
+    "occasion_en": "A perfect dish for special occasions, everyday meals, and even dinner parties.",
+    "ingredients": [
+      {
+        "name": "極厚カツ (100g)",
+        "amount": "1"
+      },
+      {
+        "name": "特製ハニーマスタード (大さじ2)",
+        "amount": "2"
+      },
+      {
+        "name": "バター (小さじ2)",
+        "amount": "2"
+      },
+      {
+        "name": "卵 (3個)",
+        "amount": "3"
+      },
+      {
+        "name": "牛乳 (100ml)",
+        "amount": "100"
+      }
+    ],
+    "steps": [
+      "極厚カツに特製ハニーマスタードを塗る。",
+      "フライパンでバターを熱し、卵を溶き、牛乳を加えてかき混ぜる。",
+      "卵液を極厚カツにかけ、弱火で加熱する。",
+      "オムレツが焼けたら、バターで仕上げる。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious cream omelet with crispy deep fried steak and creamy sauce, inspired by Ghibli style animation.",
+    "filename": "recipe_1785362233.jpg",
+    "date": "2026-07-29 21:59:03",
+    "timestamp": 1785362233,
+    "likes": 0,
+    "views": 321
+  },
+  {
     "id": "recipe_1785355838",
     "category": "dessert",
     "category_ja": "デザート",
