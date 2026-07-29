@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785355838",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー & 濃厚焦がしにんにく醤油 × 生姜の甘辛ソース！極悪な悪魔オムレツ",
+    "title_en": "Extreme Devil's Omelet: Spicy Garlic-Ginger Glaze with Char Siu and Hot Garlic Sauce",
+    "description_ja": "濃厚焦がしにんにく醤油と炙りチャーシューが、口の中を熱くし、生姜の甘辛ソースで奥深さをさらに引き立てる！極悪な悪魔オムレツ誕生！",
+    "description_en": "A devil's omelet with a spicy kick! Char siu, rich garlic and ginger sauce create a truly decadent flavor experience.",
+    "occasion_ja": "特別な日に、悪魔のような味を味わいたい時",
+    "occasion_en": "Perfect for special occasions where you want to indulge in a devilishly delicious meal!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "生姜",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを一口サイズにカットする。",
+      "2. 熱したフライパンで、濃厚焦がしにんにく醤油と生姜を混ぜ合わせた溶き卵を混ぜ合わせる。",
+      "3. 卵の煮詰まり具合を確認しながら、熱々のフライパンで炒める。",
+      "4. 炙りチャーシューを加え、お好みで塩胡椒を振る。焼き上がったら、器に盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a devil's omelet with a glistening char siu and a rich, dark glaze.",
+    "filename": "recipe_1785355838.jpg",
+    "date": "2026-07-29 20:13:06",
+    "timestamp": 1785355838,
+    "likes": 0,
+    "views": 453
+  },
+  {
     "id": "recipe_1785348283",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
