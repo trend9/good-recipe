@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785306474",
+    "category": "dessert/main dish",
+    "category_ja": "デザート/メイン",
+    "title_ja": "とろけるチーズ＆タッカルビチキン：悪魔の甘辛風味チーズムースオムレツ",
+    "title_en": "Spicy Cheese & Chicken: Spicy Cheesy Garlic Cream Omelet",
+    "description_ja": "とろけるチーズとタッカルビチキンが、スパイシーな甘辛な風味がたまらない！鮮やかな見た目で、食感を楽しむ悪魔的オムレツです。",
+    "description_en": "A spicy, cheesy twist on the classic omelet with melty cheese and Korean-style marinated chicken. A visually stunning dish that bursts with delicious savory flavor.",
+    "occasion_ja": "特別な日や、普段の夕食にぴったり！",
+    "occasion_en": "Perfect for a special occasion or just a regular night's dinner!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを、玉ねぎと唐辛子と一緒に炒める。",
+      "鶏肉を柔らかく煮詰めた後、とろけるチーズと牛乳を加え、火を加える。",
+      "溶き卵も加えて、全体を混ぜる。",
+      "熱したフライパンでオムレツの形に盛り付け、仕上げにパクチーを飾る。"
+    ],
+    "prompt": "close-up shot of a fluffy and cheesy omelet with creamy, spicy chicken and melted cheese. Focus on the intricate details of the egg and the spices.",
+    "filename": "recipe_1785306474.jpg",
+    "date": "2026-07-29 06:29:35",
+    "timestamp": 1785306474,
+    "likes": 0,
+    "views": 153
+  },
+  {
     "id": "recipe_1785294924",
     "category": "dessert",
     "category_ja": "デザート",
