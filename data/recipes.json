@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785317759",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油、甘辛醤油カルボナーラ！悪魔の旨み爆発！",
+    "title_en": "Spicy BBQ Charsiu & Creamy Garlic Parmesan! An explosion of Umami!",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を合わせた、カルボナーラ風アレンジレシピ。濃厚な甘辛味が食欲をそそる一品です！",
+    "description_en": "A unique twist on Carbonara featuring BBQ charsiu and creamy garlic parmesan. It's a dish that will surely satisfy your cravings for rich, sweet and savory flavors!",
+    "occasion_ja": "特別な夜に、贅沢な味わいを求めるあなたへ。",
+    "occasion_en": "Perfect for a special occasion when you want to enjoy luxurious flavors.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "20ml"
+      }
+    ],
+    "steps": [
+      "1.炙りチャーシューを細かく刻んで、鍋で濃厚焦がしにんにく醤油と混ぜ合わせます。",
+      "2.パスタに火を通し、茹で汁を捨て、冷ましてから、牛乳を加えて温めます。",
+      "3.フライパンに卵を入れ、弱火で炒めます。",
+      "4.パスタ、卵、チャーシューのミックスを皿に盛り付け、お好みで黒胡椒で仕上げます。"
+    ],
+    "prompt": "Close-up shot of a steaming bowl of creamy carbonara, showcasing the BBQ charsiu pieces and swirls of garlic parmesan sauce.",
+    "filename": "recipe_1785317759.jpg",
+    "date": "2026-07-29 09:39:10",
+    "timestamp": 1785317759,
+    "likes": 0,
+    "views": 378
+  },
+  {
     "id": "recipe_1785306474",
     "category": "dessert/main dish",
     "category_ja": "デザート/メイン",
