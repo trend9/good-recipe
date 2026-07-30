@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785419165",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "ガーリックバター＆ぷりぷり海老のピラフ！悪魔の旨み爆弾！",
+    "title_en": "Garlicky Shrimp & Cauliflower Rice Pilaf: A Devilishly Delicious Explosion of Flavors!",
+    "description_ja": "普段のピラフに、ちょっとだけ「悪魔」を加えたレシピ。ぷりぷりの海老とガーリックバターの風味が、まるで悪魔が舞い降りたかのような、絶品ピラフに！",
+    "description_en": "Elevate your classic rice pilaf with this devilishly delicious twist! Shrimp and garlicky cauliflower rice combine to create a flavor explosion that's both addictive and incredibly satisfying. ",
+    "occasion_ja": "日常の食事に、ちょっとだけ冒険を！",
+    "occasion_en": "Add a little adventure to your everyday meals! ",
+    "ingredients": [
+      {
+        "name": "白米",
+        "amount": "150g"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "10g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "白米を炊く。",
+      "エビは一口大に切っておく。",
+      "ガーリックバターと塩コショウでエビを炒める。",
+      "熱したフライパンでご飯とエビを入れ、レモン汁を加えて混ぜる。"
+    ],
+    "prompt": "Close-up of a steaming pot of garlicky shrimp and cauliflower rice pilaf with lemon wedges on the side, vibrant colors and textures, anime-style illustration",
+    "filename": "recipe_1785419165.jpg",
+    "date": "2026-07-30 13:49:10",
+    "timestamp": 1785419165,
+    "likes": 0,
+    "views": 192
+  },
+  {
     "id": "recipe_1785409406",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
