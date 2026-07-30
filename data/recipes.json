@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785445364",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘辛ムースオムレツ：完熟トマト＆モッツァレラ × チーズとオリーブオイルの風味が楽しめる！",
+    "title_en": "Devilishly Delicious Muise Omelet: A fusion of sweet and savory with ripe tomatoes and mozzarella!",
+    "description_ja": "定番のムースオムレツに、完熟トマトとモッツァレラを加えて、甘辛な風味をプラス。チーズとオリーブオイルの風味が、食欲をそそります。",
+    "description_en": "A classic mouise omelet elevated with ripe tomatoes and mozzarella. Infuse a unique sweet and savory flavour to your taste buds! The cheese and olive oil's aroma will surely leave you wanting more.",
+    "occasion_ja": "特別な日のお昼ご飯や、普段の夕食にもピッタリです。",
+    "occasion_en": "Perfect for lunch on special days or even as a regular dinner. ",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. トマトを小さくカットし、モッツァレラチーズとオリーブオイルで混ぜ合わせます。塩とブラックペッパーを加えて味を調えましょう。",
+      "2. フライパンを熱し、トマトチーズ液を流し込み、中火で加熱します。水分が飛ぶまで様子を見ながら焼き上げます。",
+      "3. フライパンから取り出し、器に盛り付けます。",
+      "4. 好みの食べ方でお召し上がりください。"
+    ],
+    "prompt": "A close-up shot of the mouise omelet with tomato and mozzarella filling, drizzled with olive oil, garnished with a sprig of basil. The dish is in a white porcelain dish on a table, set against a rustic background.",
+    "filename": "recipe_1785445364.jpg",
+    "date": "2026-07-30 21:04:30",
+    "timestamp": 1785445364,
+    "likes": 0,
+    "views": 317
+  },
+  {
     "id": "recipe_1785439133",
     "category": "rice/side",
     "category_ja": "ご飯/サイド",
