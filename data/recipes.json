@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785452438",
+    "category": "side/snack",
+    "category_ja": "サイド/スナック",
+    "title_ja": "とろけるチーズ & タッカルビチキン：悪魔の旨味Explosion！",
+    "title_en": "Melting Cheese & TACKALBI CHICKEN: A spicy explosion of flavor!",
+    "description_ja": "普段は甘辛ソースで美味しいタッカルビチキンに、とろけるチーズをトッピング！ 意外な組み合わせながら、極上のチーズとタッカルビのハーモニーが楽しめる。 悪魔的美味しさの秘密は、秘伝のスパイスだ！",
+    "description_en": "A spicy explosion of flavor!  Pair this delicious TACKALBI CHICKEN with melted cheese for an unexpected but delightful taste sensation. The secret to this dish's devilish goodness is our special spice blend!",
+    "occasion_ja": "パーティー、BBQに最適！",
+    "occasion_en": "Perfect for parties and barbecues!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "1枚"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "お好みでスパイス (例: ジンジャーパウダー, ケチャップ, ニンニクパウダー)",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンに、レモン汁とスパイスを軽く混ぜる。",
+      "とろけるチーズを乗せ、お好みでオリーブオイルをかけて完成！",
+      "冷ましてから一口食べるのがおすすめ！",
+      "食べるときに、口の中全体にチーズの香りが広がる。"
+    ],
+    "prompt": "Close-up shot of melted cheese with a TACKALBI CHICKEN on a plate, vibrant and artistic style, bold colors, culinary masterpiece.",
+    "filename": "recipe_1785452438.jpg",
+    "date": "2026-07-30 23:02:25",
+    "timestamp": 1785452438,
+    "likes": 0,
+    "views": 411
+  },
+  {
     "id": "recipe_1785445364",
     "category": "dessert",
     "category_ja": "デザート",
