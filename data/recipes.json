@@ -1,5 +1,56 @@
 [
   {
+    "id": "recipe_1785439133",
+    "category": "rice/side",
+    "category_ja": "ご飯/サイド",
+    "title_ja": "ガーリックバター・ぷりぷりエビピラフ × サクサクチキンとレモンのチーズソース：悪魔的旨味爆発！",
+    "title_en": "Garlicky Shrimp & Chicken Rice Bowl with Lemon-Cheese Sauce: Devilishly Delicious Flavor Explosion!",
+    "description_ja": "ガーリックバターとぷりぷり海老が、意外な組み合わせで最高のピラフに！サクサクチキンとレモンのチーズソースも絶品。悪魔的旨味爆発！",
+    "description_en": "A devilish combination of garlicky shrimp and chicken rice bowl with a tangy lemon-cheese sauce. A truly unique experience!  Flavor explosion!",
+    "occasion_ja": "飲み会、パーティーなど、インパクトのある一品が欲しい時に！",
+    "occasion_en": "For a party, or when you want an eye-catching and flavorful side dish!",
+    "ingredients": [
+      {
+        "name": "鶏もも肉",
+        "amount": "200g"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "エビ",
+        "amount": "300g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "20g"
+      },
+      {
+        "name": "白米",
+        "amount": "1合"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "鶏もも肉は、一口大に切り、塩胡椒で下味をつけ、5分程度おいておく。",
+      "じゃがいもは皮を剥き、1cm角の大きさに切り、水洗いしておく。",
+      "エビは殻をむき、塩胡椒で下味をつけ、10分ほど置くと、ぷりぷりの食感を味わえる。",
+      "白米を炊く。",
+      "フライパンにガーリックバターを入れて熱し、鶏もも肉を加え、両面が焼き色付いたら、エビを加えて更に炒め合わせる。",
+      "レモン汁を加え、全体を混ぜ合わせたら、ご飯と一緒に出汁を加え、塩こしょうで味見しながら調整する。"
+    ],
+    "prompt": "A close-up shot of the creamy garlicky shrimp and chicken rice bowl, lemon-cheese sauce drizzling down. The dish is plated on a white plate with a sprinkle of parsley.",
+    "filename": "recipe_1785439133.jpg",
+    "date": "2026-07-30 19:20:45",
+    "timestamp": 1785439133,
+    "likes": 0,
+    "views": 186
+  },
+  {
     "id": "recipe_1785432344",
     "category": "dessert",
     "category_ja": "デザート",
