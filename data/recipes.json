@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785377229",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ぷりぷりの海老とガーリックバターのピラフ！悪魔の旨み爆発！",
+    "title_en": "Shrimp & Garlic Butter Rice: A Devilishly Delicious Twist on a Classic!",
+    "description_ja": "ガーリックバターが香ばしく、ぷりぷりの海老で作る、ピラフ。甘辛な味付けで、まるで悪魔の誘惑に襲われたような感覚！",
+    "description_en": "Experience shrimp and garlic butter rice with an unexpected twist. The sweet, savory flavor of the dish will leave you wanting more!",
+    "occasion_ja": "パーティーやBBQ、夕食にもぴったり！",
+    "occasion_en": "Perfect for parties, BBQs, or a delicious dinner.",
+    "ingredients": [
+      {
+        "name": "冷凍エビ",
+        "amount": "300g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "20g"
+      },
+      {
+        "name": "白米",
+        "amount": "200g"
+      },
+      {
+        "name": "水",
+        "amount": "150ml"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. エビは水で洗い、キッチンペーパーで乾かします。",
+      "2. 1cm角に切り、ガーリックバターを混ぜます。",
+      "3. ボウルに白米と水を入れて、軽く混ぜます。",
+      "4.  エビとガーリックバターを、炊飯器に入れ、ご飯に加えて炊きます。"
+    ],
+    "prompt": "Close-up image of a steaming bowl of shrimp and garlic butter rice, with the shrimp slightly browned.",
+    "filename": "recipe_1785377229.jpg",
+    "date": "2026-07-30 02:08:29",
+    "timestamp": 1785377229,
+    "likes": 0,
+    "views": 206
+  },
+  {
     "id": "recipe_1785369636",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
