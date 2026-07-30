@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785432344",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔の甘辛ムースオムレツ",
+    "title_en": "Baked Sweet Potato x Creamy Butter Caramel: Devilishly Sweet & Spicy Mousse Omelette",
+    "description_ja": "焼き芋の甘さと、とろけるバターカラメルの組み合わせが、一口食べれば悪魔のように美味しい！濃厚なムースを味わえる特別なオムレツレシピです。",
+    "description_en": "The devilishly sweet and spicy combination of baked sweet potato with creamy butter caramel creates a flavor explosion! This is a special omelet recipe that delivers the most rich, luscious mousse texture.",
+    "occasion_ja": "特別な日にもぴったり！パーティーやディナーに最適な一品",
+    "occasion_en": "Perfect for a special occasion! Ideal for parties and dinners",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "牛乳",
+        "amount": "20ml"
+      },
+      {
+        "name": "卵",
+        "amount": "4個"
+      }
+    ],
+    "steps": [
+      "焼き芋を皮ごと、180℃のオーブンで15分焼く。",
+      "バターと砂糖を混ぜて、熱して溶かす。牛乳を加えて、とろみをつける。",
+      "卵を別のボウルに入れ、泡立て器で混ぜる。溶き卵液にバター caramel を加え、混ぜ合わせる。",
+      "焼いた焼き芋を卵の溶き卵液で包んで、さらに焼き、完成。"
+    ],
+    "prompt": "A close-up shot of a creamy, golden-brown mousse omelette with melted butter caramelized baked sweet potato on top, surrounded by steam. The plate is slightly elevated, and there is a light smoke effect.",
+    "filename": "recipe_1785432344.jpg",
+    "date": "2026-07-30 17:27:05",
+    "timestamp": 1785432344,
+    "likes": 0,
+    "views": 243
+  },
+  {
     "id": "recipe_1785426539",
     "category": "side",
     "category_ja": "サイド",
