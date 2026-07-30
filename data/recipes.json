@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785389780",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "サクサクポテトチーズオムレツ：悪魔の甘辛ムース！",
+    "title_en": "Crispy Potato & Cheese Omelette: Devilishly Sweet & Spicy!",
+    "description_ja": "悪魔的な美味しさの、サクサクポテトにクリーミーチーズソースが絡まる絶品オムレツ！まるで異界から来たような、想像をはるかに超える味わいが楽しめます！",
+    "description_en": "A devilishly delicious omelette with crispy potato and creamy cheese sauce. This unique dish will take your taste buds on a journey beyond imagination! ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "4個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "チーズ(モッツァレラ)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. じゃがいもを薄くスライスし、弱火で炒める。バターを加えて、じゃがいもの表面に焦げ目がつくまで炒める。",
+      "2. 卵をボウルに入れて、牛乳と塩コショウで味付けをする。",
+      "3. 好きなチーズを溶き加え、卵液全体に混ぜる。",
+      "4.  ポテトの表面にチーズ液を塗る。両面を弱火で焼き、オムレツが完成。"
+    ],
+    "prompt": "An illustration of a fluffy, cheesy omelette with golden crispy potato slices on top, surrounded by steam and a rich, creamy cheese sauce. It's like an ethereal, delicious dream come true!",
+    "filename": "recipe_1785389780.jpg",
+    "date": "2026-07-30 05:38:03",
+    "timestamp": 1785389780,
+    "likes": 0,
+    "views": 229
+  },
+  {
     "id": "recipe_1785377229",
     "category": "side",
     "category_ja": "サイド",
