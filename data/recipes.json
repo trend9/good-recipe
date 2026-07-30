@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785399324",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグの「悪魔の甘辛ムースオムレツ」",
+    "title_en": "Decadent Devil's Mousse Omelet: Half-Cooked Egg & Demi-Glace Ham Burger",
+    "description_ja": "定番のデミグラスハンバーグに、とろーり半熟卵の甘みとコクを加え、まるで「悪魔の甘辛ムースオムレツ」の世界へ。その美味しさは、あなたを魅了する一品です！",
+    "description_en": "Transform your classic demi-glace hamburger with a decadent devilish twist! Half-cooked eggs and demi-glace sauce create a unique, rich, and irresistible mousse omelet experience. ",
+    "occasion_ja": "特別な夜に、特別な一皿で魅せる、悪魔の甘辛ムースオムレツで、感動を呼ぶ夜を演出しましょう！",
+    "occasion_en": "Impress your guests with this Devil's Mousse Omelet for a special occasion. ",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ハンバーグをフライパンで焼いて、デミグラスソースをかけます。",
+      "半熟卵の殻を外して、溶き卵を入れ、塩コショウで味を調えます。",
+      "卵とチーズを加え、オムレツ状に焼きます。",
+      "焼いたハンバーグの上にオムレツをのせて、お好みでソースをかけ、仕上げにチーズを乗せます。"
+    ],
+    "prompt": "Close-up shot of a Devil's Mousse Omelet with melted cheese and demi-glace sauce, topped with a half-cooked egg. The omelet is steaming from the steam vent.",
+    "filename": "recipe_1785399324.jpg",
+    "date": "2026-07-30 08:17:15",
+    "timestamp": 1785399324,
+    "likes": 0,
+    "views": 246
+  },
+  {
     "id": "recipe_1785389780",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
