@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785409406",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "完熟トマト×モッツァレラ：悪魔の甘辛ムースオムレツ",
+    "title_en": "Tomato & Mozzarella: Devilish Sweet and Spicy Mousse Omelette",
+    "description_ja": "まるで悪魔が作った、甘辛でクリーミーなムースオムレツ！完熟トマトとモッツァレラを贅沢に使った、見た目を鮮やかに彩る特別なオムレツレシピです。\nこのレシピは、定番のオムレツに、意外な美味しさの融合を生み出します。",
+    "description_en": "A devilishly delicious sweet and spicy mousse omelette made with ripe tomatoes and fresh mozzarella! This recipe uses luxurious ingredients to create a beautiful presentation, offering you an unexpected taste experience. This recipe adds a unique twist to the classic omelette.",
+    "occasion_ja": "特別な日やパーティーにぴったり！",
+    "occasion_en": "Perfect for special occasions and parties!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラ",
+        "amount": "150g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. トマトを薄切りにして、モッツァレラチーズと混ぜる。\n  * トマトは、塩胡椒で軽く味付けして、モッツァレラチーズと混ぜる。\n  * 砂糖を加えて、全体にまぶす。",
+      "2. 生クリームとマヨネーズを混ぜ合わせる。\n  * 生クリームとマヨネーズを混ぜて、なめらかになるまで混ぜる。\n  * 砂糖を加え、全体にまぶす。",
+      "3. フライパンに油をひき、トマトとモッツァレラチーズの混合物を流し込む。\n  * 中火で加熱し、両面を焦げ付かせながら、表面が乾くまで焼く。\n  * 卵黄と卵白を混ぜて、全体にまぶす。",
+      "4. 焼きあがったオムレツを皿に乗せ、仕上げに少しマヨネーズをかけると完成。"
+    ],
+    "prompt": "Close-up image of the finished omelette with tomato and mozzarella slices, glistening sauce on top, steam from the surface.",
+    "filename": "recipe_1785409406.jpg",
+    "date": "2026-07-30 11:05:27",
+    "timestamp": 1785409406,
+    "likes": 0,
+    "views": 281
+  },
+  {
     "id": "recipe_1785399324",
     "category": "dessert",
     "category_ja": "デザート",
