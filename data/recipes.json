@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1785502524",
+    "category": "side/snack",
+    "category_ja": "サイドディッシュ / スナック",
+    "title_ja": "サクサクポテト×クリーミーチーズソース：悪魔の旨味爆発！",
+    "title_en": "Slippery Potato Cream Cheese Bombshell! (Devilishly Delicious!)",
+    "description_ja": "とろけるチーズとサクサクポテトを組み合わせた、クリーミーなチーズソースで仕上げた、今までにない悪魔的な美味しさ！",
+    "description_en": "A devilishly delicious fusion of creamy cheesy goodness and crispy potato, topped with a decadent cream cheese sauce you won't forget! ",
+    "occasion_ja": "パーティーや夜食に、ちょっとした贅沢を味わいたい時",
+    "occasion_en": "Perfect for parties or a cozy evening treat!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ (クリーミータイプ)",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを1cm角にカットし、バターで炒める。",
+      "塩コショウで味を調え、チーズを加えて混ぜる。",
+      "両面にチーズのクリームソースを塗ったポテトを揚げる。",
+      "揚げたポテトを盛り付けて、お好みでソースをかけて完成。"
+    ],
+    "prompt": "Close-up shot of golden-brown, crispy potato pieces with a creamy cheese sauce on top. Drizzle some melted cheese and garnish.",
+    "filename": "recipe_1785502524.jpg",
+    "date": "2026-07-31 12:56:59",
+    "timestamp": 1785502524,
+    "likes": 0,
+    "views": 448
+  },
+  {
     "id": "recipe_1785494038",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
