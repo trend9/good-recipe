@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785484144",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "完熟トマト＆モッツァレラ × フレンチ風味チーズケーキ：悪魔の甘辛ムースオムレツ",
+    "title_en": "French-Style Cheese Cake with Tomato and Mozzarella: An Evil Sweet & Spicy Meltdown!",
+    "description_ja": "濃厚なモッツァレラのチーズケーキに、完熟トマトの甘酸っぱさとフランス風ソースを合わせた、見た目もインパクト抜群！悪魔の旨味と甘さが爆発します。",
+    "description_en": "A decadent French cheese cake with the sweetness of ripe tomato and a burst of savory flavor. The visual impact will blow your mind, and you'll experience an explosion of rich taste.",
+    "occasion_ja": "特別な日に、パーティーやディナーに最適な悪魔的なデザート。",
+    "occasion_en": "Perfect dessert for a special occasion, party or dinner. A devilishly delicious option!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトを薄切りにし、水気を切って、ボウルに入れます。",
+      "2. モッツァレラチーズをボウルに入れ、砂糖と塩コショウを加えて混ぜます。",
+      "3. 牛乳を少しずつ加えながら、チーズケーキの生地を作る。",
+      "4.  トマトとチーズケーキの生地を皿に盛り付け、お好みでソースやハーブを添えます。"
+    ],
+    "prompt": "Close-up shot of a decadent French cheese cake with tomato and mozzarella, with a red sauce drizzle, styled in an elegant, moody kitchen setting.",
+    "filename": "recipe_1785484144.jpg",
+    "date": "2026-07-31 07:50:54",
+    "timestamp": 1785484144,
+    "likes": 0,
+    "views": 413
+  },
+  {
     "id": "recipe_1785471617",
     "category": "side",
     "category_ja": "サイド dishes",
