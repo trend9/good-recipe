@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1785518705",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "炙りチャーシュー＆濃厚焦がしにんにく醤油のチーズオムレツ ～悪魔の旨味ムース～",
+    "title_en": "Smoked Char Siu & Rich Garlic Pepper Sauce Cheese Omelet ~ Devilish Umami Mousse~",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を、とろけるチーズで包んだオムレツ。悪魔の旨味とチーズの甘辛さが、口いっぱいに広がる一品だ！",
+    "description_en": "Smoked Char Siu and rich garlic pepper sauce with melted cheese, wrapped in an omelet. The devilishly delicious umami flavor of the char siu combined with the sweetness from the cheese creates a taste sensation that will leave you wanting more.",
+    "occasion_ja": "パーティーやBBQに、お酒も進む一品がおすすめ！",
+    "occasion_en": "Perfect for parties and BBQ, pairs well with drinks!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "200g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "卵",
+        "amount": "3個"
+      },
+      {
+        "name": "ピザ用チーズ",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューと濃厚焦がしにんにく醤油を混ぜて、10分程度馴染ませる。",
+      "2. 卵を割りほぐし、チーズを溶かし、混ぜ合わせる。",
+      "3. 溶き卵とチーズ混合を、卵焼きの型に流し込む。",
+      "4. オーブンで15分ほど焼いたら完成。"
+    ],
+    "prompt": "A close-up shot of the cheese omelet with smoke rising, featuring a molten cheese center, and vibrant red char siu against a black background.",
+    "filename": "recipe_1785518705.jpg",
+    "date": "2026-07-31 17:26:58",
+    "timestamp": 1785518705,
+    "likes": 0,
+    "views": 197
+  },
+  {
     "id": "recipe_1785510961",
     "category": "pasta",
     "category_ja": "パスタ",
