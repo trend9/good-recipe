@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785542276",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の旨味爆弾！サクサクポテトチーズケーキ",
+    "title_en": "Devilish Flavor Bomb! Crispy Potato Cheese Cake",
+    "description_ja": "悪魔的な美味しさの新しいレシピ！サクサクポテトとクリーミーチーズソースが、チーズケーキで包まれます。見た目も可愛く、味も絶品！SNS映えも抜群です。",
+    "description_en": "A new recipe with devilishly delicious flavors! Crispy potato and creamy cheese sauce are enveloped in a cheesecakel, making it not only visually appealing but also a taste sensation. This dish is a must-try for social media sharing.",
+    "occasion_ja": "パーティーや誕生日会にも最適なデザート！",
+    "occasion_en": "Perfect dessert for parties and birthdays!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "200g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "じゃがいもを細切りにして、小麦粉と牛乳、砂糖、塩で混ぜる。",
+      "フライパンに油をひき、じゃがいも生地を焼く。",
+      "チーズを乗せて、180度に予熱したオーブンで20分焼く。",
+      "完成。"
+    ],
+    "prompt": "A close-up shot of a cheese cake with potato and melted cheese on top, in an oven with a golden crust. It looks delicious!",
+    "filename": "recipe_1785542276.jpg",
+    "date": "2026-07-31 23:59:42",
+    "timestamp": 1785542276,
+    "likes": 0,
+    "views": 319
+  },
+  {
     "id": "recipe_1785535678",
     "category": "dessert",
     "category_ja": "デザート",
