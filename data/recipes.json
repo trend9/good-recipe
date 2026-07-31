@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785494038",
+    "category": "dessert/side",
+    "category_ja": "デザート/サイド",
+    "title_ja": "悪魔の旨味爆弾！ 海老×クリーミーアボカドグラタン",
+    "title_en": "Devilish Flavor Explosion! Salmon & Creamy Avocado Gratin",
+    "description_ja": "海藻の旨味が濃厚なクリーミーなアボカドと、魚介の風味豊かな大人のグラタン。見た目も美しく、悪魔的な美味しさに包まれるでしょう！",
+    "description_en": "An adult gratin with rich creaminess of avocado and the savory flavor of salmon, with an elegant presentation and an addictive devilishly delicious taste.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. アボカドは皮を剥き、大きめな塊に切ります。",
+      "2. 生クリームと牛乳を混ぜ合わせて、溶かしバターで軽く炒めます。",
+      "3. 混合したアボカドと塩こしょうを加え、グラタン皿に均等に流し込みます。",
+      "4. 仕上げにごま油を少し加えて、オーブンで150℃で約20分焼きます。"
+    ],
+    "prompt": "A close-up image of a creamy avocado gratin with salmon flakes on top, golden brown and sizzling in an oven.",
+    "filename": "recipe_1785494038.jpg",
+    "date": "2026-07-31 10:35:41",
+    "timestamp": 1785494038,
+    "likes": 0,
+    "views": 423
+  },
+  {
     "id": "recipe_1785484144",
     "category": "dessert",
     "category_ja": "デザート",
