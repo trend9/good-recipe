@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785535678",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコレートムースオムレツ：悪魔の甘辛ムース",
+    "title_en": "Matcha White Chocolate Mousse Omelette: Devilishly Sweet & Spicy Delight",
+    "description_ja": "濃厚なホワイトチョコレートと抹茶の組み合わせが、まるで悪魔の誘惑のように味わえる、魅惑的なオムレツレシピ。抹茶の苦味でホワイトチョコの甘さを引き立て、極上の食感を実現！",
+    "description_en": "Experience the devilishly sweet and spicy delight of matcha white chocolate mousse omelette! Combining the richness of white chocolate with the earthy bitterness of matcha, this decadent omelet delivers a unique and captivating taste experience.",
+    "occasion_ja": "特別な日や、優雅なひとときを演出したい時にぴったり！",
+    "occasion_en": "Perfect for special occasions or to elevate your moments of indulgence!",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ホワイトチョコレート (塊)",
+        "amount": "50g"
+      },
+      {
+        "name": "卵 (3個)",
+        "amount": "個"
+      },
+      {
+        "name": "牛乳 (150ml)",
+        "amount": "mL"
+      },
+      {
+        "name": "砂糖 (大さじ2)",
+        "amount": "g"
+      }
+    ],
+    "steps": [
+      "1. ホワイトチョコレートと抹茶粉をボウルに入れ、電子レンジで加熱する。溶けたら、白ワインを加え、さらに混ぜる。",
+      "2. 卵を泡立て器で泡立てる。牛乳と砂糖を加えて混ぜ合わせる。",
+      "3. 溶かしたホワイトチョコレートと抹茶のボウルに、卵液を少しずつ加え、均等に混ぜ合わせる。",
+      "4. フライパンにごま油を熱し、生地を入れた後、弱火で焼き上げる。仕上げに、お好みで抹茶粉を振る。"
+    ],
+    "prompt": "A close-up shot of a fluffy and aesthetically pleasing matcha white chocolate mousse omelette, with a sprinkle of green matcha powder.",
+    "filename": "recipe_1785535678.jpg",
+    "date": "2026-07-31 22:09:19",
+    "timestamp": 1785535678,
+    "likes": 0,
+    "views": 384
+  },
+  {
     "id": "recipe_1785531678",
     "category": "丼もの",
     "category_ja": "丼物",
