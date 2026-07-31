@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785531678",
+    "category": "丼もの",
+    "category_ja": "丼物",
+    "title_ja": "とろける卵の旨辛麻婆豆腐丼 -  悪魔の甘辛ムースオムレツ風！",
+    "title_en": "Spicy and Creamy Tofu Bowl with Fluffy Egg: A Devilish Sweet and Sour Omelet Style!",
+    "description_ja": "ふっくらと卵が乗った、旨辛麻婆豆腐丼を、悪魔的ながらも優しい甘辛いオムレツで完成！  とろける卵が食欲をそそる一皿に。",
+    "description_en": "A devilishly good twist on the classic spicy and creamy tofu bowl, topped with a fluffy egg omelet for a unique and delicious flavor experience. ",
+    "occasion_ja": "週末のランチ、特別なディナーに。",
+    "occasion_en": "Lunch or dinner on special occasions.",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "辛味調味料",
+        "amount": "適量"
+      },
+      {
+        "name": "甘酒",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "しょうが",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1.5"
+      }
+    ],
+    "steps": [
+      "豆腐をボウルに入れ、辛味調味料、甘酒を加えよく混ぜる。",
+      "フライパンで油をひき、しょうがを炒め、豆腐の液状に溶かす。",
+      "卵を溶き、醤油を加え、弱火でかき混ぜながら煮詰める。",
+      "豆腐丼を器に盛り、とろける卵をのせる。"
+    ],
+    "prompt": "A close-up photo of the Spicy and Creamy Tofu Bowl with Fluffy Egg, showing a generous amount of fluffy egg omelet sitting atop a creamy tofu bowl. The food is steaming, and there are some spices like chili powder scattered on the surface.",
+    "filename": "recipe_1785531678.jpg",
+    "date": "2026-07-31 21:03:17",
+    "timestamp": 1785531678,
+    "likes": 0,
+    "views": 185
+  },
+  {
     "id": "recipe_1785518705",
     "category": "side",
     "category_ja": "サイド dish",
