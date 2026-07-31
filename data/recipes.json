@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785471617",
+    "category": "side",
+    "category_ja": "サイド dishes",
+    "title_ja": "サーモン×アボカドのタッカルビ風タルタルオムレツ",
+    "title_en": "Salmon & Avocado Tartare Omelet with Korean BBQ Twist",
+    "description_ja": "悪魔的な美味しさと、食欲をそそる見た目を実現！ サーモンとアボカドのタッカルビ風タルタルオムレツ。意外な組み合わせが美味しい！",
+    "description_en": "An omelet experience like no other! A fusion of creamy salmon and avocado tartare, with a Korean BBQ twist. Be surprised by this unexpected yet delightful taste! ",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "タッカルビソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "サーモンを細切りにし、アボカドはヘタを取り除き、みじん切りにします。",
+      "タッカルビソースと混ぜ合わせたものを卵に混ぜます。",
+      "フライパンにバターを入れ、溶かし、卵液を加えて均等に焼きます。",
+      "火が通ったら、サーモンとアボカドのタルタルをオムレツの上に乗せます。"
+    ],
+    "prompt": "Close-up shot of a beautifully plated salmon and avocado omelet with Korean BBQ sauce, topped with fresh herbs. The creamy texture and vibrant colors create a visually appealing dish.",
+    "filename": "recipe_1785471617.jpg",
+    "date": "2026-07-31 04:22:00",
+    "timestamp": 1785471617,
+    "likes": 0,
+    "views": 291
+  },
+  {
     "id": "recipe_1785456437",
     "category": "dessert",
     "category_ja": "デザート",
