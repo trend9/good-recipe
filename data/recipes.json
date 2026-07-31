@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785456437",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘辛ムースオムレツ - デミグラスハンバーグ & トロけるチーズの組み合わせ！",
+    "title_en": "Devilish Sweet and Sour Mousses Omelet: A Delicate Fusion of Demi-Glace and Creamy Cheese!",
+    "description_ja": "とろけるチーズとデミグラスハンバーグをオムレツに、悪魔的な甘辛ムースが食欲をそそる！このレシピで家庭でも簡単に作れる美味しさをお届けします。",
+    "description_en": "A devilishly delicious and creamy omelette that features melted cheese and demi-glace beef. This recipe delivers a unique culinary experience with ease, perfect for home cooks.",
+    "occasion_ja": "特別な日や週末に、そして夜食にもぴったりな一品",
+    "occasion_en": "Perfect for special occasions or weekend dinners and even as a late-night snack!",
+    "ingredients": [
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグの材料を混ぜ合わせ、フライパンで焼きます。",
+      "2. トロけるチーズと卵を別々の器に入れて、熱したフライパンで溶かしながら混ぜます。",
+      "3. 混ぜ合わせたチーズ卵液をハンバーグの上に盛り付けます。",
+      "4. お好みの塩こしょうで味付けします。"
+    ],
+    "prompt": "Close-up shot of a sizzling, cheesy omelette with a molten demi-glace and cheese sauce oozing out. The edges are golden brown and look delicious.",
+    "filename": "recipe_1785456437.jpg",
+    "date": "2026-07-31 00:09:49",
+    "timestamp": 1785456437,
+    "likes": 0,
+    "views": 265
+  },
+  {
     "id": "recipe_1785452438",
     "category": "side/snack",
     "category_ja": "サイド/スナック",
