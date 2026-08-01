@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785580283",
+    "category": "サイド dishes",
+    "category_ja": "サイド dishes",
+    "title_ja": "ガーリックバター＆ぷりぷり海老のスパイシーピラフ：悪魔の味覚の爆発！",
+    "title_en": "Garlicky Butter & Shrimp Risotto: A Spicy Explosion of Flavor!",
+    "description_ja": "いつもより少しだけ冒険心を刺激する、ガーリックバターとぷりぷりのエビが織りなすスパイシーピラフ。甘辛で濃厚な味わいが口いっぱいに広がる、悪魔的な一皿を演出します！",
+    "description_en": "A spicy and savory risotto with shrimp, garlicky butter, and a surprising twist of flavor! It's the perfect recipe for those who like a kick in their food.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "ぷりぷりのエビ",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "50g"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "唐辛子（お好みで）",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 鍋にガーリックバターを入れて弱火にかける。香りが立つまで待つ。",
+      "2. 生クリームとエビを入れ、混ぜる。\n",
+      "3.  醤油を加えて味を調え、煮詰める。\n",
+      "4.  お好みで唐辛子を加えて火を止める。"
+    ],
+    "prompt": "A close-up shot of a creamy, spicy risotto with shrimp and garlicky butter sauce, steam rising from the top. The bowl is slightly tilted with a confident expression on the chef's face.",
+    "filename": "recipe_1785580283.jpg",
+    "date": "2026-08-01 10:32:44",
+    "timestamp": 1785580283,
+    "likes": 0,
+    "views": 286
+  },
+  {
     "id": "recipe_1785571902",
     "category": "dessert",
     "category_ja": "デザート",
