@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785590758",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の甘辛アボカドムース風！サーモンタルタルとアボカドの衝撃！",
+    "title_en": "Salmon Avocado Mousse Fusion: A Devilish Surprise of Creamy Goodness!",
+    "description_ja": "サクサクしたサーモンとクリーミーなアボカドが、悪魔的な甘辛ムースに融合！SNS映えも抜群で、見た目と味も衝撃の組み合わせを体験。",
+    "description_en": "A devilishly delicious fusion of creamy avocado and succulent salmon, topped with a savory and sweet mousse! Prepare for a unique flavor explosion that's sure to impress your followers. ",
+    "occasion_ja": "パーティーや特別な日の、ユニークな一品を演出したい時に！",
+    "occasion_en": "Perfect for parties or special occasions when you want to serve a unique and delicious side dish.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "濃厚なトマトソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンは、塩胡椒で味付けをし、1cm角のサイズに切り、30分ほど冷蔵庫で休ませる。",
+      "アボカドを潰し、マヨネーズとブラックペッパーを加えて、なめらかになるまで混ぜる。",
+      "フライパンにオリーブオイルをひき、サーモンを焼く。",
+      "皿にサーモンとアボカドのムースを盛り付け、ソースを添える。"
+    ],
+    "prompt": "Close-up image of a plate with grilled salmon and avocado mousse, decorated with a drizzle of tomato sauce. The mousse should be smooth and creamy with a subtle color contrast, emphasizing the richness of the ingredients.",
+    "filename": "recipe_1785590758.jpg",
+    "date": "2026-08-01 13:27:43",
+    "timestamp": 1785590758,
+    "likes": 0,
+    "views": 382
+  },
+  {
     "id": "recipe_1785585619",
     "category": "dessert",
     "category_ja": "デザート",
