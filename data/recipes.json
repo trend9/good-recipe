@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785628432",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろける卵と旨辛麻婆豆腐の「悪魔の甘辛オムレツ」",
+    "title_en": "Devilishly Spicy & Creamy Tofu Omelet with Egg and Chili Flavor",
+    "description_ja": "「悪魔の甘辛オムレツ」は、とろける卵と旨辛麻婆豆腐を組み合わせた、意外性あふれる、衝撃的な美味しさ！スパイシーな風味で、ご飯が進む、本格的な一品に仕上がります。",
+    "description_en": "The devilishly spicy & creamy tofu omelet combines the silky texture of egg and the umami punch of chili infused mapo tofu, creating a surprisingly delightful dish that will leave you wanting more. It is a truly flavorful and satisfying classic with a touch of devilish twist.",
+    "occasion_ja": "食欲旺盛な方におすすめ！",
+    "occasion_en": "Ideal for those with a strong appetite!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "3個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1人分"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "卵を溶きほぐし、醤油とみりんを加えて混ぜる。",
+      "中火で熱したフライパンに、旨辛麻婆豆腐を炒める。",
+      "卵と麻婆豆腐の混合物をフライパンに入れて、半熟の状態まで焼ける。",
+      "チーズをトッピングして完成。"
+    ],
+    "prompt": "Close-up shot of devilishly spicy & creamy tofu omelet with melted cheese. A steaming hot egg and chili infused mapo tofu in a pan.",
+    "filename": "recipe_1785628432.jpg",
+    "date": "2026-08-01 23:55:45",
+    "timestamp": 1785628432,
+    "likes": 0,
+    "views": 439
+  },
+  {
     "id": "recipe_1785624607",
     "category": "side/main course",
     "category_ja": "サイドメニュー / メイン",
