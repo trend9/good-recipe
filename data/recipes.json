@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785607114",
+    "category": "side",
+    "category_ja": "サイドDish",
+    "title_ja": "海の悪魔　クリーミーアボカド・ハマグリグラタン",
+    "title_en": "Seafood Devil: Creamy Avocado and Hamaguri Gratin",
+    "description_ja": "とろけるクリーミーなアボカドと、海の幸の旨味が詰まった、見た目も美しく極上のグラタン。悪魔的に美味しい秘密が隠されている！",
+    "description_en": "A creamy, decadent avocado gratin with the savory flavor of seafood. An alluring presentation and a delicious surprise await.",
+    "occasion_ja": "パーティー、特別な日などにも",
+    "occasion_en": "Perfect for parties, special occasions.",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "ハマグリ",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーなマヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. ハマグリは軽く水洗いし、湯を沸かして塩を少々加え、5分ほど煮込む。",
+      "2. アボカドは皮を剥き、種を取り除き、厚さ1cm程度の角切りにする。",
+      "3. 弱火でバターを溶かし、マヨネーズとチーズを加えて混ぜ合わせる。",
+      "4. ハマグリとアボカドの切り身をグラタン皿に盛り込み、マヨネーズソースをかける。チーズをのせ、オーブンで15分ほど焼けば完成。"
+    ],
+    "prompt": "Close-up view of a creamy avocado gratin with Hamaguri in a ramekin. Soft cheese is on top, surrounded by steam, and lit by soft lighting.",
+    "filename": "recipe_1785607114.jpg",
+    "date": "2026-08-01 18:00:16",
+    "timestamp": 1785607114,
+    "likes": 0,
+    "views": 401
+  },
+  {
     "id": "recipe_1785599899",
     "category": "side/breakfast",
     "category_ja": "サイド dishes / 朝食",
