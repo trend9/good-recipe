@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1785585619",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × トロけるバターカラメル：悪魔の甘辛ムース",
+    "title_en": "Burnt Yam x Caramel Butter: Devilish Sweet and Spicy Mousse",
+    "description_ja": "焼き芋と濃厚なバターソースが、とろけるカラメルで包まれ、悪魔的な美味しさに昇格！ 意外な組み合わせでも、驚くほど美味しい！",
+    "description_en": "A devilishly delicious combination of burnt yam and butter sauce, enveloped in a melt-in-your-mouth caramel. An unexpected but surprisingly delicious twist!",
+    "occasion_ja": "特別な日や、ちょっと贅沢なときにおすすめ！",
+    "occasion_en": "Perfect for special occasions or a touch of indulgence!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "お好みで塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋を大きめのフォークで刺して、表面を焦げ付かせます。",
+      "鍋にバターとカラメルソースを入れ、弱火で溶かしながら加熱します。",
+      "焼き芋を鍋に入れ、バターソースが染み込んだ状態にします。",
+      "お好みで塩コショウで味を調えます。"
+    ],
+    "prompt": "Close-up photo of the dessert, focus on the caramel texture, with a hint of burnt yam flavor, and a warm glow.",
+    "filename": "recipe_1785585619.jpg",
+    "date": "2026-08-01 12:01:57",
+    "timestamp": 1785585619,
+    "likes": 0,
+    "views": 194
+  },
+  {
     "id": "recipe_1785580283",
     "category": "サイド dishes",
     "category_ja": "サイド dishes",
