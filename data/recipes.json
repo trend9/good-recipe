@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785611127",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろける半熟卵 × 濃厚デミグラスハンバーグの「悪魔のグリル」",
+    "title_en": "Devilish Grill: Creamy Egg & Beefy Gravy",
+    "description_ja": "濃厚デミグラスソースと半熟卵が絶妙なハーモニーを奏でる、見た目も魅惑的な悪魔のグリル！とろける食感と肉汁の味わいが、まるで悪魔の舌触り体験を与えてくれる。 ",
+    "description_en": "Devilishly delightful! Creamy egg and rich gravy collide to create a visual and culinary masterpiece. This Devil's Grill bursts with juicy flavors and melts-in-your-mouth textures for an experience unlike any other.",
+    "occasion_ja": "パーティやバーベキューにぴったり！",
+    "occasion_en": "Perfect for parties and BBQs!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "大さじ5"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "溶けるチーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "お好みで、ハーブのミックス",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼きます。",
+      "デミグラスソースをハンバーグに絡めて、焼き色が付いたら、皿に移します。",
+      "半熟卵は、表面に少しだけ火を通してから、ハンバーグの周りに配置します。",
+      "お好みで、ハーブのミックスを振りかけて完成です。"
+    ],
+    "prompt": "Close-up shot of a sizzling beef patty with molten cheese and a runny egg atop it, with smoky grilled background. The texture contrast between the cooked meat and the gooey egg yolk is highlighted.",
+    "filename": "recipe_1785611127.jpg",
+    "date": "2026-08-01 19:07:14",
+    "timestamp": 1785611127,
+    "likes": 0,
+    "views": 186
+  },
+  {
     "id": "recipe_1785607114",
     "category": "side",
     "category_ja": "サイドDish",
