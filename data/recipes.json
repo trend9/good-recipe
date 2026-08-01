@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1785551183",
+    "category": "side-dish",
+    "category_ja": "サイドメニュー",
+    "title_ja": "悪魔の旨味爆弾！とろけるチーズ＆タッカルビチキンオムレツ",
+    "title_en": "Spicy-Creamy-Devilish! Creamy Cheese & Tteokbokki Chicken Omelette",
+    "description_ja": "とろけるチーズとタッカルビチキンが融合した、悪魔的な美味しさのオムレツ。意外な組み合わせで、衝撃の味を味わえる！",
+    "description_en": "Creamy cheese and tteokbokki chicken fused together in one delicious omelette. An unexpected combination delivers a shockingly good taste! ",
+    "occasion_ja": "パーティー、おもてなしにぴったり！",
+    "occasion_en": "Perfect for parties and gatherings!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "6個"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "250g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "ボウルに卵を割りほぐし、溶き卵を加えて混ぜる。",
+      "玉ねぎは薄切りにし、タッカルビチキンを一口大に切る。",
+      "フライパンにごま油をひき、玉ねぎを炒める。",
+      "炒めた玉ねぎにタッカルビチキンと調味料を加え、煮詰めて火を止める。"
+    ],
+    "prompt": "A close-up photo of a fluffy omelette with gooey cheese and tteokbokki chicken, served on a plate. The omelette is golden brown and the cheese is melting, adding extra flavor.",
+    "filename": "recipe_1785551183.jpg",
+    "date": "2026-08-01 02:28:23",
+    "timestamp": 1785551183,
+    "likes": 0,
+    "views": 342
+  },
+  {
     "id": "recipe_1785542276",
     "category": "dessert",
     "category_ja": "デザート",
