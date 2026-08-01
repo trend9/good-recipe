@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1785624607",
+    "category": "side/main course",
+    "category_ja": "サイドメニュー / メイン",
+    "title_ja": "デミグラスハンバーグ & 半熟卵の「悪魔のチーズクリーム」オムレツ",
+    "title_en": "Devil's Cheese Cream Omelet with Demi-Glazed Hamburger & Half-Cooked Egg",
+    "description_ja": "とろける半熟卵と濃厚なデミグラスソースで、チーズと相性抜群の「悪魔のチーズクリーム」オムレツ。普段のハンバーグに革命を起こす一品だ！",
+    "description_en": "A devilishly delicious cheesy omelet with demi-glazed hamburger and half-cooked egg. A revolutionary take on a classic hamburger! ",
+    "occasion_ja": "パーティーや家族みんなで楽しめる！",
+    "occasion_en": "Perfect for parties and family dinners.",
+    "ingredients": [
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼いた後、デミグラスソースをかけます。",
+      "卵を溶き、チーズと混ぜ合わせます。",
+      "溶き卵とチーズを半熟卵の表面に塗ります。",
+      "フライパンで卵の表面を焼き、チーズが溶けたら完成！"
+    ],
+    "prompt": "Close-up shot of a creamy cheese omelet with demi-glaze hamburger and half cooked egg, on a white plate. Steam in the air.",
+    "filename": "recipe_1785624607.jpg",
+    "date": "2026-08-01 22:53:13",
+    "timestamp": 1785624607,
+    "likes": 0,
+    "views": 247
+  },
+  {
     "id": "recipe_1785621018",
     "category": "パスタ",
     "category_ja": "パスタ",
