@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785596273",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろとろ卵×旨辛麻婆豆腐の激辛チーズオムレツ",
+    "title_en": "Spicy & Creamy Cheese Omelet with Tofu and Eggs",
+    "description_ja": "衝撃的な組み合わせ！とろける卵と旨辛麻婆豆腐の激辛チーズオムレツ。甘辛な旨味とクリーミーなチーズが、口に広がる驚きの美味しさです！",
+    "description_en": "A shockingly delicious combination! Spicy cheese omelet with tofu and eggs. The sweet & spicy flavor of the spicy miso and the creamy cheese create a mouthwatering experience.",
+    "occasion_ja": "特別な日に、友達とシェアするのに最適",
+    "occasion_en": "A perfect option for sharing with friends on special occasions.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "4個"
+      },
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "赤唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1. Tofu and chili peppers. Prepare a stir-fry with tofu, chopped red chilies, and your favorite seasonings to create a spicy filling.",
+      "2. Egg preparation: Gently whisk the eggs with a pinch of salt and pepper until light and airy.",
+      "3. Cheese preparation: Cut into small cubes and add it to the mixture while whisking gently. This step will ensure the cheese melts beautifully within the omelet.",
+      "4. Assembly: Pour the egg-cheese mixture into the heated pan and shape it like a thick omelet, then cook until set."
+    ],
+    "prompt": "Close-up shot of an elegant omelet with fluffy texture and cheese on top. Rich colors of red chilies contrast beautifully with white cheese, evoking a decadent look.",
+    "filename": "recipe_1785596273.jpg",
+    "date": "2026-08-01 14:59:43",
+    "timestamp": 1785596273,
+    "likes": 0,
+    "views": 423
+  },
+  {
     "id": "recipe_1785590758",
     "category": "side",
     "category_ja": "サイドディッシュ",
