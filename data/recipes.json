@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785617077",
+    "category": "dessert/side",
+    "category_ja": "デザート/サイド",
+    "title_ja": "悪魔のハンバーグ、とろとろ卵で作る！甘辛デミソースと卵黄のクリーミーグラタン",
+    "title_en": "Devilish Gravy Burger, Creamy Cottage Cheese-Style Graatnut with a Secret Sauce",
+    "description_ja": "とろける半熟卵と悪魔のデミグラスハンバーグが織りなす、甘辛ソースと卵黄のクリーミーグラタン。見た目も味もインパクト抜群！",
+    "description_en": "A creamy cottage cheese-style gratin featuring a devilishly delicious gravy burger. A unique, vibrant combination of sweet and savory flavors for an unforgettable culinary experience.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "200g"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "卵黄",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼いて、デミグラスソースをかけます。",
+      "卵黄を混ぜる、バターと牛乳を加え、とろみをつける。",
+      "クリーミーチーズを加えて、混ぜる。",
+      "焼き上がったハンバーグを、クリーミーチーズのグラタンの中に盛り付け、冷まして完成！ "
+    ],
+    "prompt": "Close-up shot of a cheesy gratin with a juicy, melty burger in the middle and steam rising from it. The top is glazed with melted cheese and butter, and looks decadent and luxurious. ",
+    "filename": "recipe_1785617077.jpg",
+    "date": "2026-08-01 20:46:00",
+    "timestamp": 1785617077,
+    "likes": 0,
+    "views": 164
+  },
+  {
     "id": "recipe_1785611127",
     "category": "side",
     "category_ja": "サイド",
