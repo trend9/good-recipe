@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785599899",
+    "category": "side/breakfast",
+    "category_ja": "サイド dishes / 朝食",
+    "title_ja": "ローストビーフ×特製オニオンソースの悪魔的チーズオムレツ",
+    "title_en": "Devilishly Delicious Beef Steak & Onion Cheese Omelet",
+    "description_ja": "とろけるチーズとローストビーフ、そして甘酸っぱい特製オニオンソースが絶妙なハーモニーを生み出す、まるで悪魔の扉を開けたような絶品オムレツ。",
+    "description_en": "An indulgent cheese omelette with succulent beef steak and a sweet & sour onion sauce - the devil's own kitchen awaits!",
+    "occasion_ja": "特別な日にはもちろん、日常の食卓にもぴったりな、ちょっとした贅沢な一品",
+    "occasion_en": "A perfect side dish for any occasion, this luxurious omelette will bring a touch of extravagance to your daily life.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフは一口大に切り、玉ねぎは薄切りにする。",
+      "2. オニオンソースを作り、玉ねぎとローストビーフを混ぜる。",
+      "3. 卵はボウルに入れたり、混ぜ合わせたものを一口サイズに分け、チーズを乗せる。",
+      "4. フライパンにバターを入れ、卵の半量を流し込む。チーズで蓋をし、弱火で焼き上げる。"
+    ],
+    "prompt": "Close up shot of a cheesy omelette with beef steak and onion sauce, a beautiful golden-brown crust. The cheese oozing out the side.",
+    "filename": "recipe_1785599899.jpg",
+    "date": "2026-08-01 16:00:08",
+    "timestamp": 1785599899,
+    "likes": 0,
+    "views": 333
+  },
+  {
     "id": "recipe_1785596273",
     "category": "dessert",
     "category_ja": "デザート",
