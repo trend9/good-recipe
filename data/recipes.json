@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785571902",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油！悪魔のチーズオムレツ",
+    "title_en": "Smoked Pork Belly & Spicy Garlic Cheese Omelette - An Inferno of Flavor",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を贅沢に使う、チーズオムレツ。とろけるチーズと深みのある甘辛味が食欲をそそります！",
+    "description_en": "A cheesy omelette bursting with the flavors of smoked pork belly and spicy garlic. A delicious combination of melt-in-your-mouth cheese and a rich, savory flavor!",
+    "occasion_ja": "特別な日に、特別な人を招待したいとき",
+    "occasion_en": "For special occasions or entertaining guests.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "2枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "片栗粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューは食べやすい大きさに切ります。濃厚焦がしにんにく醤油をたっぷり塗ります。",
+      "2. 卵は殻を取り、泡立て器で軽く混ぜておきます。",
+      "3. フライパンに油をひき、卵液を入れます。卵がふっくらと焼けた状態になったらチーズを乗せます。",
+      "4. 炙りチャーシューをオムレツの上に乗せ、熱伝導によりチーズと卵とチャーシューが融合します。"
+    ],
+    "prompt": "Close-up shot of a cheesy omelette with char siu and spicy garlic sauce, topped with melted cheese. Smoke and flames emanating from the omelette. Photo taken in a warm kitchen setting.",
+    "filename": "recipe_1785571902.jpg",
+    "date": "2026-08-01 08:13:05",
+    "timestamp": 1785571902,
+    "likes": 0,
+    "views": 260
+  },
+  {
     "id": "recipe_1785551183",
     "category": "side-dish",
     "category_ja": "サイドメニュー",
