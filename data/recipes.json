@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785676739",
+    "category": "dessert/side",
+    "category_ja": "デザート/サイド",
+    "title_ja": "悪魔のデミソースハンバーグ & 半熟卵の「マシュマロ・グラタン」",
+    "title_en": "Devilish Demi-Sauce Ham Burger & Half-Cooked Egg 'Mashed Potato Gravy'",
+    "description_ja": "悪魔的な美味しさ！とろり半熟卵と濃厚デミグラスハンバーグが融合した「マシュマロ・グラタン」で、食卓に火を付ける。",
+    "description_en": "Devilishly delicious! A mash of creamy demi-sauce ham burger and half-cooked egg, 'Mashed Potato Gravy' is perfect for your dinner.",
+    "occasion_ja": "特別な日や、週末のディナーにぴったり",
+    "occasion_en": "Perfect for special occasions or weekend dinners",
+    "ingredients": [
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "牛乳",
+        "amount": "20ml"
+      }
+    ],
+    "steps": [
+      "1. Demi-sauce hamburgerを焼きます。",
+      "2. マッシュルームを炒めます。バターと牛乳を加え、とろみのあるマッシュルームソースを作ります。",
+      "3. 半熟卵を焼きます。",
+      "4. ハンバーグ、卵、マッシュルームのソース、半熟卵を盛り付けます。"
+    ],
+    "prompt": "Close-up shot of the dish, with a creamy and decadent appearance, evoking a warm and inviting atmosphere.",
+    "filename": "recipe_1785676739.jpg",
+    "date": "2026-08-02 13:20:48",
+    "timestamp": 1785676739,
+    "likes": 0,
+    "views": 266
+  },
+  {
     "id": "recipe_1785671963",
     "category": "pasta/side",
     "category_ja": "パスタ/サイドディッシュ",
