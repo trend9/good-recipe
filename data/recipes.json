@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785714914",
+    "category": "pasta/side dish",
+    "category_ja": "パスタ/サイド",
+    "title_ja": "明太子 × レモンクリーム生パスタ：悪魔の甘酸っぱいマッシュルームグラタン",
+    "title_en": "Spicy Tuna Ramen Pasta with Lemon Cream Sauce - Devilish Sweet & Sour Delight",
+    "description_ja": "悪魔的な味わいに仕上げる、明太子の刺激とレモンクリームソースの爽やかさが融合したパスタ！甘辛いマッシュルームと相性抜群です。",
+    "description_en": "Devilishly delicious pasta fusion! Spicy tuna meets lemon cream sauce for a sweet and sour experience you'll never forget. The creamy mushroom adds the perfect touch.",
+    "occasion_ja": "友人と楽しむ、特別な夜にぴったりな一品！",
+    "occasion_en": "Perfect for a party night with friends! ",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "10g"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "300g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "1. 生パスタを茹で、アルデンテに茹でる。",
+      "2. ボウルに明太子、レモン汁、バターを加えてよく混ぜる。",
+      "3. 生パスタと明太子ソースを合わせ、軽く混ぜる。",
+      "4. マッシュルームを炒め、牛乳を加え、溶かしながら火を通す。"
+    ],
+    "prompt": "A person's hand holding a plate of devilishly delicious pasta with lemon cream sauce, featuring vibrant green mushrooms and tangy salmon pieces.",
+    "filename": "recipe_1785714914.jpg",
+    "date": "2026-08-02 23:57:08",
+    "timestamp": 1785714914,
+    "likes": 0,
+    "views": 387
+  },
+  {
     "id": "recipe_1785711126",
     "category": "丼もの",
     "category_ja": "丼もの",
