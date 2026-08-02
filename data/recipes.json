@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785711126",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：甘辛地獄の卵丼",
+    "title_en": "Smoked Char Siu x Rich Garlic Pepper Sauce: Inferno Egg Rice Bowl",
+    "description_ja": "悪魔のような甘辛！炙りチャーシューと濃厚焦がしにんにく醤油が、たまらない美味しさで、とろける卵を乗せた卵丼に昇格します。 衝撃的な美味しさをお届けします！",
+    "description_en": "Prepare for the inferno! A smoky char siu and a rich garlic pepper sauce elevate this humble egg bowl to another level of deliciousness. This one's not just for the faint of heart! ",
+    "occasion_ja": "特別な日のご飯にも、普段のランチにもぴったり！",
+    "occasion_en": "Perfect for special occasions or everyday lunches!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1切れ"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "米飯",
+        "amount": "1合"
+      },
+      {
+        "name": "ごま油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "炙りチャーシューを、濃厚焦がしにんにく醤油で味付けする。",
+      "ご飯と卵を混ぜる。",
+      "ご飯に炙りチャーシューと卵を乗せ、ごま油をかけた後、盛り付ける。",
+      "完成！ 悪魔的な美味しさに浸ってください。"
+    ],
+    "prompt": "Close-up shot of a steaming egg bowl with smoky char siu and rich garlic pepper sauce, sesame oil drizzled on top.  A dramatic light shines from the side.",
+    "filename": "recipe_1785711126.jpg",
+    "date": "2026-08-02 22:53:46",
+    "timestamp": 1785711126,
+    "likes": 0,
+    "views": 283
+  },
+  {
     "id": "recipe_1785701775",
     "category": "丼もの",
     "category_ja": "丼物",
