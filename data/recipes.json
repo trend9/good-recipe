@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1785697340",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の fried chicken × ハニーマヨネーズ！サクサク・甘辛風味が炸裂！",
+    "title_en": "Fried Chicken with Honey-Mayonnaise! Crunch & Sweet, Smoky Flavor Explosion!",
+    "description_ja": "サクサク食感と甘辛いタレが、悪魔的な美味しさに昇華！ ハニーマヨネーズで味付けした唐揚げを、一口食べたらもう止まらない！",
+    "description_en": "Crispy chicken with a sweet and savory honey-mayonnaise sauce – an addictive twist on fried chicken! One bite, you'll be hooked!",
+    "occasion_ja": "パーティーやBBQに最適な一品！",
+    "occasion_en": "Perfect for parties or barbecues!",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "2個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "唐揚げを、ハニーマヨネーズと砂糖で味付けする。",
+      "フライパンに油をひき、唐揚げを両面焼き色をつける。",
+      "揚げた唐揚げを食べやすい大きさにカットする。",
+      "お好みでレモン汁を加えても美味しい！"
+    ],
+    "prompt": "Close-up photo of fried chicken with honey mayo, crispy and juicy. The golden brown fried chicken is coated in a creamy yellow sauce with streaks of white garlic powder. A side view of the food.",
+    "filename": "recipe_1785697340.jpg",
+    "date": "2026-08-02 19:04:39",
+    "timestamp": 1785697340,
+    "likes": 0,
+    "views": 423
+  },
+  {
     "id": "recipe_1785690234",
     "category": "side/appetizer",
     "category_ja": "サイド/前菜",
