@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1785666667",
+    "category": "dessert/side",
+    "category_ja": "デザート/サイド",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘辛チーズオムレツ",
+    "title_en": "Tofu Cheese & Tandoori Chicken: Spicy Creamy Tofu Omelet",
+    "description_ja": "タッカルビチキンととろけるチーズを組み合わせ、衝撃的な甘辛な味わいを実現！見た目も美しく、家庭でも簡単に作れる悪魔的レシピ。",
+    "description_en": "A bold combination of Tandoori Chicken and melted cheese, creating an explosive sweet and spicy flavor explosion! A visually stunning recipe that is both easy to make in your own kitchen.",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "ニンニク",
+        "amount": "1片"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを1cm角に切り、塩コショウで味付け。",
+      "卵はボウルに入れ、塩コショウ少々を加えて混ぜる。",
+      "玉ねぎは薄切りにする。",
+      "フライパンに油を引いて、タッカルビチキンを炒める。",
+      "火が通ったら、チーズを加え、溶け始めるまで炒める。"
+    ],
+    "prompt": "Close-up shot of a creamy, golden omelet with melted cheese and pieces of tandoori chicken, garnished with chopped onions, styled for an artistic feel.",
+    "filename": "recipe_1785666667.jpg",
+    "date": "2026-08-02 10:34:11",
+    "timestamp": 1785666667,
+    "likes": 0,
+    "views": 347
+  },
+  {
     "id": "recipe_1785658408",
     "category": "side dish",
     "category_ja": "サイドディッシュ",
