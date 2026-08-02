@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785701775",
+    "category": "丼もの",
+    "category_ja": "丼物",
+    "title_ja": "とろける卵×旨辛麻婆豆腐丼：悪魔の甘辛！オムレツ風絶品丼",
+    "title_en": "Melting Egg × Spicy Korean-Style Meatball Bowl: Devilishly Sweet & Spicy Omlette Bowl",
+    "description_ja": "ふわふわ卵と濃厚な旨辛麻婆豆腐が、まるでオムレツのように仕上げた、悪魔的な美味しさ！甘辛の風味が食欲をそそる一品です。",
+    "description_en": "A devilishly delicious bowl with a soft egg and spicy Korean-style meatball, inspired by an omelette. Sweet and spicy flavors will surely captivate your taste buds! ",
+    "occasion_ja": "おうちご飯、特別な日にもぴったり！",
+    "occasion_en": "Perfect for home cooking or special occasions!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1カップ"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "卵を溶き、1個ずつオムレツ型に並べ、フライパンで両面焼きます。",
+      "鍋にご飯と旨辛麻婆豆腐を入れて、醤油と砂糖で味を調えます。",
+      "フライパンで、オムレツの卵を乗せ、軽く火を通します。",
+      "ご飯に熱々麻婆豆腐を盛り付け、お好みで生粉チーズを添えて完成！"
+    ],
+    "prompt": "Close up image of a soft omelet with spicy Korean-style meatball filling on top of a bowl of rice. Warm brown gravy is seen at the bottom.",
+    "filename": "recipe_1785701775.jpg",
+    "date": "2026-08-02 20:18:38",
+    "timestamp": 1785701775,
+    "likes": 0,
+    "views": 369
+  },
+  {
     "id": "recipe_1785697340",
     "category": "side",
     "category_ja": "サイドディッシュ",
