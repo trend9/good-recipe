@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785686443",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろーりデミハンバーグ & 半熟卵の「マシュマロ・グラタン」",
+    "title_en": "Deconstructed Decadent Hamburger & Egg Mac & Cheese",
+    "description_ja": "悪魔的な美味しさ、さらに進化！とろろハンバーグと半熟卵を贅沢に使い、濃厚なデミソースでグラタンが誕生。見た目も豪華で、まさに衝撃の味わい！",
+    "description_en": "Deconstructed Decadent Hamburger & Egg Mac & Cheese - A decadent, luxurious twist on the classic mac and cheese. This dish uses a savory ground beef burger with runny yolk for a unique flavor profile and a creamy, rich sauce. An irresistible treat.",
+    "occasion_ja": "特別な日に、特別な一品を召し上がれ！",
+    "occasion_en": "Perfect for a special occasion or a decadent indulgence!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ肉詰め",
+        "amount": "200g"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "チーズ(モッツァレラ)",
+        "amount": "適量"
+      },
+      {
+        "name": "パン粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグ肉詰めを好みの大きさに切ります。",
+      "2. フライパンにデミグラスソースとチーズを入れて、弱火で加熱し、とろみがつくまで煮詰めます。",
+      "3. 半熟卵を温かいフライパンで両面焼き目をつけます。",
+      "4. ハンバーグを皿に盛り付け、チーズソースをかけ、半熟卵を乗せ、パン粉をかけて仕上げます。"
+    ],
+    "prompt": "Close-up shot of a creamy, decadent mac and cheese dish with melting burger patty topped with runny yolk egg on top.",
+    "filename": "recipe_1785686443.jpg",
+    "date": "2026-08-02 16:02:34",
+    "timestamp": 1785686443,
+    "likes": 0,
+    "views": 210
+  },
+  {
     "id": "recipe_1785682756",
     "category": "サイド Dish",
     "category_ja": "サイドdish",
