@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785682756",
+    "category": "サイド Dish",
+    "category_ja": "サイドdish",
+    "title_ja": "ガーリックバターぷりぷり海老ピラフ：悪魔の甘辛風味が炸裂！",
+    "title_en": "Garlic Butter Shrimp Pilaf: A Devilishly Delicious Twist on the Classic!",
+    "description_ja": "ガーリックバターとぷりぷりの海老が、甘辛な味に融合した絶品ピラフ！一見普通のピラフだが、一口食べれば悪魔の味が広がる！まるで地獄の宴を味わえる一品。",
+    "description_en": "This garlic butter shrimp pilaf is a twist on the classic with a devilishly delicious blend of sweet and savory flavors. This seemingly ordinary pilaf bursts with flavor, like a taste from hell's banquet! ",
+    "occasion_ja": "パーティー、家族向け、晩御飯など、あらゆるシーンで。",
+    "occasion_en": "Perfect for parties, family gatherings, and dinner! ",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "50g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "300g"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1.  海老は一口大に切り、ガーリックバターを混ぜて混ぜ合わせる。",
+      "2. 玉ねぎは薄切りにして、ご飯と一緒に炒め合わせる。",
+      "3.  醤油を加え、全体を絡める。",
+      "4. お好みの量で盛り付け、享用する。"
+    ],
+    "prompt": "A close-up image of a creamy and savory pilaf with plump shrimp and garlic butter, in a bowl with steam rising from it. A devilishly beautiful illustration.",
+    "filename": "recipe_1785682756.jpg",
+    "date": "2026-08-02 15:01:00",
+    "timestamp": 1785682756,
+    "likes": 0,
+    "views": 401
+  },
+  {
     "id": "recipe_1785676739",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
