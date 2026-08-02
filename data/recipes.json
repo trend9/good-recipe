@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785658408",
+    "category": "side dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔のチーズプディング",
+    "title_en": "Cheesy Potato Puff Pastry: An Devilish Delight",
+    "description_ja": "サクサクポテトとクリーミーチーズのハーモニー！表面はカリッとしたチーズプディングで、中はとろけるクリーミーなチーズソースが詰まった悪魔的美味しさを実現します。",
+    "description_en": "A savory twist on cheesy potato and a creamy dream! A crispy puff pastry shell filled with a melt-in-your-mouth creamy cheese center. Experience the devilish delight.",
+    "occasion_ja": "パーティーや特別な日のディナーにぴったり！",
+    "occasion_en": "Perfect for parties and special occasions! ",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ (クリームチーズ、モッツァレラなど)",
+        "amount": "100g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを1cm角にカットし、オーブンシートの上に並べます。",
+      "小麦粉、塩、胡椒を加え、混ぜ合わせた生地で、じゃがいもを包みます。",
+      "チーズを包み込み、オーブンで20分焼きます。",
+      "仕上げは、お好みでソースをかけて召し上がり下さい。"
+    ],
+    "prompt": "Close-up shot of the cheesy potato puff pastry, golden brown and glistening with cheese. The puff pastry is airy and light.",
+    "filename": "recipe_1785658408.jpg",
+    "date": "2026-08-02 08:15:15",
+    "timestamp": 1785658408,
+    "likes": 0,
+    "views": 150
+  },
+  {
     "id": "recipe_1785649961",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
