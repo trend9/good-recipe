@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785671963",
+    "category": "pasta/side",
+    "category_ja": "パスタ/サイドディッシュ",
+    "title_ja": "明太子 × レモンクリーム生パスタ：悪魔の甘酸っぱいマッシュルームグラタン",
+    "title_en": "Spicy Lemon Cream Pasta with Mushroom & Devilish Twist (Devilish creamy mushroom pasta)",
+    "description_ja": "このレシピは、明太子の辛さとレモンの酸味が、クリーミーなマッシュルームグラタンとマッチして、今までにない悪魔的な味わいを演出します。",
+    "description_en": "This recipe delivers a devilishly delicious twist on the classic pasta dish by combining the spicy kick of tuna mayo and lemon's tangy zest with creamy mushroom pasta. ",
+    "occasion_ja": "パーティーや特別な日の食卓に、インパクトのある一品を演出しましょう！",
+    "occasion_en": "Make a statement on any occasion with this unique and impactful dish!",
+    "ingredients": [
+      {
+        "name": "生パスタ",
+        "amount": "200g"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "150g"
+      },
+      {
+        "name": "明太子",
+        "amount": "2個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 生パスタを茹で、冷ましてから水気を切る。",
+      "2. マッシュルームは洗って、中火でオリーブオイルと塩コショウで炒める。",
+      "3. レモン汁を加え、味を調える。",
+      "4. 明太子を混ぜ合わせ、全体にレモンクリームが染み渡るまで混ぜる。"
+    ],
+    "prompt": "A close-up shot of the finished dish, with a creamy, cheesy, and flavorful mushroom filling, topped with lemon zest, with a slight glow under the lighting.",
+    "filename": "recipe_1785671963.jpg",
+    "date": "2026-08-02 12:01:06",
+    "timestamp": 1785671963,
+    "likes": 0,
+    "views": 297
+  },
+  {
     "id": "recipe_1785666667",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
