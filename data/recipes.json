@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785649961",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "悪魔のローストビーフ・チーズオムレツ",
+    "title_en": "Devilish Roast Beef & Cheese Omelette",
+    "description_ja": "ローストビーフと特製オニオンソースを、とろけるチーズで包んで焼き上げたオムレツ！濃厚な味わいがたまらない一品。",
+    "description_en": "A devilishly good omelette made with roast beef and a special onion sauce, enveloped in melted cheese for ultimate flavour! ",
+    "occasion_ja": "特別な日に、贅沢な味わいの食卓を演出する一品！",
+    "occasion_en": "A perfect dish for a special occasion, adding a touch of luxury to your table!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "100g"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "パン粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフを一口大に切り、特製オニオンソースで包みます。",
+      "2. 卵を2個割って、溶き卵とチーズを入れます。パン粉を少量加えて混ぜます。",
+      "3. フライパンに油を熱し、オムレツを焼く。表面が固まったら裏返します。",
+      "4. 焼き色がつくまで焼きます。仕上げにご希望の調味料を加え、盛り付けます。"
+    ],
+    "prompt": "A close-up shot of a devilishly delicious omelette with roast beef and melted cheese, topped with a sprinkle of spices.",
+    "filename": "recipe_1785649961.jpg",
+    "date": "2026-08-02 05:54:21",
+    "timestamp": 1785649961,
+    "likes": 0,
+    "views": 281
+  },
+  {
     "id": "recipe_1785636614",
     "category": "side",
     "category_ja": "サイド dish",
