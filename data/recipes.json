@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785690234",
+    "category": "side/appetizer",
+    "category_ja": "サイド/前菜",
+    "title_ja": "チーズタッカルビチキン：悪魔の甘辛チーズオムレツ",
+    "title_en": "Spicy Tartare Chicken Cheese Omelet: Devilishly Delicious!",
+    "description_ja": "とろけるチーズとタッカルビチキンを贅沢に組み合わせた、悪魔的な甘辛のオムレツ。見た目は可愛いが、味がヤバい！",
+    "description_en": "A decadent and devilishly delicious cheese omelet with spicy Tartare Chicken. Looks cute but trust us, the taste will blow you away!",
+    "occasion_ja": "パーティーや週末のディナー、特別な日の食卓に。",
+    "occasion_en": "Perfect for parties, weekend dinners, and special occasions.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "150g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "お好みで",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンは、小さめに刻んでおく。",
+      "卵を溶き、玉ねぎと混ぜ合わせる。",
+      "タッカルビチキンと卵の混合物を、とろけるチーズで包む。",
+      "フライパンで弱火で焼き、チーズが溶けたら完成。"
+    ],
+    "prompt": "A close-up photo of a cheese omelet with a beautiful golden brown exterior, containing spicy tartare chicken, surrounded by melty cheese, and steam emanating from the top.",
+    "filename": "recipe_1785690234.jpg",
+    "date": "2026-08-02 17:05:34",
+    "timestamp": 1785690234,
+    "likes": 0,
+    "views": 372
+  },
+  {
     "id": "recipe_1785686443",
     "category": "dessert",
     "category_ja": "デザート",
