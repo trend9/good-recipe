@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785636614",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "サクサクポテト×クリーミーチーズソース！悪魔のチーズドッグ",
+    "title_en": "Spicy Cheesy Potato Bites: Devil's Cheese Dog",
+    "description_ja": "カリッとしたサクサクポテトに、クリーミーなチーズソースが絡み合う、悪魔的な美味しさ！まるでチーズバーガーのような一品で、いつもの食卓に革命を起こします。",
+    "description_en": "Spicy, cheesy potato bites with a creamy cheese sauce. A devilishly good snack! Make your meal stand out with this unique and delicious appetizer.",
+    "occasion_ja": "パーティーやディナーに、みんなで楽しめる一品",
+    "occasion_en": "Perfect for parties or dinners, a fun snack to share!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "溶かしバター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "チーズ (クリームチーズとモッツァレラ)、溶かし、濃厚なチーズソース",
+        "amount": "適量"
+      },
+      {
+        "name": "塩胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを薄くスライスします。",
+      "小麦粉と溶かしバターを混ぜ合わせ、じゃがいもに小麦粉をつけます。",
+      "フライパンで両面をカリッと焼きます。",
+      "チーズソースをたっぷりかけたら、火を止めてお皿に盛り付けます。"
+    ],
+    "prompt": "Close-up shot of a plate with devilishly delicious potato bites, topped with creamy cheese sauce. The fries are golden brown and perfectly cooked.",
+    "filename": "recipe_1785636614.jpg",
+    "date": "2026-08-02 02:11:50",
+    "timestamp": 1785636614,
+    "likes": 0,
+    "views": 460
+  },
+  {
     "id": "recipe_1785628432",
     "category": "side",
     "category_ja": "サイド",
