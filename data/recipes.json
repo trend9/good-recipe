@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785794650",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "とろける半熟卵デミグラスハンバーグの和風スパイス焼き",
+    "title_en": "Semi-cooked Egg with Demi-glace Beef Burger - Japanese Spiced Grilled",
+    "description_ja": "悪魔的美味しさ、半熟卵とデミグラスハンバーグを和風スパイスで焼き上げた、まるで魔法使いが作った料理！",
+    "description_en": "An extraordinary fusion of devilishly delicious flavors, semi-cooked egg and demi-glace beef burger with Japanese spices grilled to perfection!",
+    "occasion_ja": "パーティーや特別な日の食事に最適な一品！",
+    "occasion_en": "Perfect for parties or special occasions! ",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "和風スパイス(例: ジンジャー、クミン、シナモンなど)",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼成し、デミグラスソースと和風スパイスで味付け。",
+      "半熟卵を焼く。",
+      "焼けたハンバーグの表面に、半熟卵をのせる。",
+      "醤油で甘辛味をつける。"
+    ],
+    "prompt": "Close-up shot of a juicy demi-glace beef burger with a semi-cooked egg on top, surrounded by Japanese spices in an artistic kitchen setting.",
+    "filename": "recipe_1785794650.jpg",
+    "date": "2026-08-03 22:05:18",
+    "timestamp": 1785794650,
+    "likes": 0,
+    "views": 453
+  },
+  {
     "id": "recipe_1785788656",
     "category": "side",
     "category_ja": "サイド",
