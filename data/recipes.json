@@ -1,5 +1,49 @@
 [
   {
+    "id": "recipe_1785737751",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ハニーマヨネーズ × サクサク唐揚げの甘辛スパイシー！新感覚！悪魔の丼",
+    "title_en": "Honey Mustard & Crispy Fried Chicken Spicy Bowl - a New Sensation",
+    "description_ja": "サクサクの唐揚げと、ハニーマヨネーズの甘辛スパイシーな味わいが、まさに「悪魔的な美味しさ」を詰め込んだ、新感覚の丼です。見た目もインパクト抜群！",
+    "description_en": "A unique bowl with a sweet and spicy flavor! The crispy fried chicken and honey mustard sauce create an irresistible sensation. This dish is packed with bold flavors, visually stunning! ",
+    "occasion_ja": "パーティーや特別な日に。",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "1枚"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "片栗粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏肉にハニーマヨネーズ、片栗粉、唐辛子、塩コショウを振り込み、両面に包んで冷蔵庫で30分程度寝かせる。",
+      "揚げ油を熱し、鶏肉の表面をカリッと焼き上げる。",
+      "揚げた鶏肉に、ハニーマヨネーズの甘辛スパイシーなタレをかけて完成。"
+    ],
+    "prompt": "Close-up shot of crispy fried chicken in a bowl with honey mustard sauce, surrounded by vibrant green onions and sprinkled with sesame seeds.",
+    "filename": "recipe_1785737751.jpg",
+    "date": "2026-08-03 06:17:33",
+    "timestamp": 1785737751,
+    "likes": 0,
+    "views": 188
+  },
+  {
     "id": "recipe_1785723136",
     "category": "pasta",
     "category_ja": "パスタ",
