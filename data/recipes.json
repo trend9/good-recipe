@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785774019",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコ「悪魔のデザート」",
+    "title_en": "White Chocolate Matcha Dessert - Devilish Delight",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートの意外な組み合わせで、悪魔的な甘さとまろやかさを体感！まるで魔法のデザートが誕生したかのよう！",
+    "description_en": "Experience a devilishly delightful dessert with the unexpected pairing of matcha and white chocolate! A taste sensation so magical it's like baking with magic!",
+    "occasion_ja": "特別な日に、友達とシェアするのもおすすめ！",
+    "occasion_en": "Perfect for sharing with friends on special occasions!",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "250ml"
+      },
+      {
+        "name": "白玉粉",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 生クリームを冷蔵庫で冷やす。",
+      "2.抹茶パウダーとホワイトチョコレートを湯煎で溶かす。白 chocolateの濃厚な甘さを抹茶が引き立たせる。",
+      "3. 冷蔵庫から取り出した生クリームを、溶かした抹茶ホワイトチョコと混ぜる。",
+      "4.白玉粉と水を混ぜて、生地を作る。生地を丸めて、冷凍庫で1時間冷やす。"
+    ],
+    "prompt": "A dessert being served on a dark table, with white chocolate and matcha swirls, accompanied by soft light.",
+    "filename": "recipe_1785774019.jpg",
+    "date": "2026-08-03 16:22:44",
+    "timestamp": 1785774019,
+    "likes": 0,
+    "views": 198
+  },
+  {
     "id": "recipe_1785764258",
     "category": "デザート",
     "category_ja": "デザート",
