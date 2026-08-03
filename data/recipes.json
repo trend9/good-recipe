@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1785753477",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子 × レモンクリーム生パスタ：悪魔のレモンスパークリングソース！",
+    "title_en": "Spicy Lemon Cream Spaghetti with Spicy Tuna: Devilish Lemon Sparkling Sauce!",
+    "description_ja": "一見シンプルだが、レモンスパークリングソースと明太子の意外性で、舌鼓を打ち、悪魔的な美味しさを堪能できるパスタレシピ。生パスタにレモンの爽やかさと明太子の辛さが絶妙にマッチする、衝撃的な一品！",
+    "description_en": "This recipe combines the familiar comfort of pasta with a devilishly delicious twist. A lemon sparkling sauce and spicy tuna will bring out new flavors and create an experience you won't forget! ",
+    "occasion_ja": "特別な日に、友達とシェアするお酒のお供に最適な一品。",
+    "occasion_en": "Perfect for special occasions or sharing with friends. Enjoy it as a side dish while you sip on your favorite beverage.",
+    "ingredients": [
+      {
+        "name": "生パスタ",
+        "amount": "150g"
+      },
+      {
+        "name": "明太子",
+        "amount": "2個"
+      },
+      {
+        "name": "レモン",
+        "amount": "1/2個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "パスタを茹でる。",
+      "レモンを絞り、水気を切った後、レモン汁とマヨネーズを加え、混ぜ合わせる。",
+      "明太子を細かく刻み、パスタに混ぜる。",
+      "オリーブオイルで熱したフライパンで、明太子の味が染みたパスタを炒め合わせ、レモンスパークリングソースで仕上げる。"
+    ],
+    "prompt": "A steaming plate of devilish pasta with lemon-spiked sauce, surrounded by chopped spicy tuna. The pasta is artfully arranged on a black background and garnished with herbs.",
+    "filename": "recipe_1785753477.jpg",
+    "date": "2026-08-03 10:40:30",
+    "timestamp": 1785753477,
+    "likes": 0,
+    "views": 470
+  },
+  {
     "id": "recipe_1785737751",
     "category": "side",
     "category_ja": "サイド",
