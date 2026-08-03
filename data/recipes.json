@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1785782873",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス！悪魔のデザート",
+    "title_en": "Black Sesame Kinako Mochi Ice: Devilish Dessert",
+    "description_ja": "異次元で美味しい悪魔的なデザート、黒蜜きな粉もちもちアイスが誕生。甘酸っぱいブラックシードの風味と、きなことモチモチとした食感が、あなたを魅了する！",
+    "description_en": "A devilish dessert that will blow your mind! Black sesame and Kinako ice cream with a sweet and sour black seed flavor. A unique, melt-in-your-mouth texture will leave you wanting more!",
+    "occasion_ja": "特別な日や夜、友人とのお茶会にぴったり！",
+    "occasion_en": "Perfect for special occasions or tea parties with friends.",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "もち米",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶アイス",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "黒蜜ときな粉を混ぜて、滑らかな生地を作る。",
+      "もち米を溶かし、水で和えて、生地に混ぜる。",
+      "抹茶アイスを生地に加え、冷蔵庫で冷やす。",
+      "一口サイズにカットして、盛り付ける。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious ice cream with a unique blend of black sesame, kinako and a subtle touch of matcha, against a dark background with sprinkles.",
+    "filename": "recipe_1785782873.jpg",
+    "date": "2026-08-03 18:49:06",
+    "timestamp": 1785782873,
+    "likes": 0,
+    "views": 217
+  },
+  {
     "id": "recipe_1785774019",
     "category": "dessert",
     "category_ja": "デザート",
