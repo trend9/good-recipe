@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1785723136",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "トマトの甘酸っぱさとモッツァレラの絶妙な組み合わせに魅了される！悪魔的な絶品パスタ",
+    "title_en": "A delicious and unexpected twist: Sweet Tomato & Creamy Mozzarella Pasta, devilishly delightful!",
+    "description_ja": "完熟トマトとフレッシュモッツァレラを絶妙なバランスで組み合わせ、酸味と甘味が口いっぱいに広がります。まるで悪魔の舌に魅了されるような、驚きの味わいを堪能しましょう！",
+    "description_en": "This pasta dish combines the sweetness of ripe tomatoes with the creamy freshness of fresh mozzarella, creating a harmonious blend of flavors. It's an unexpected taste sensation that will surely delight your taste buds! ",
+    "occasion_ja": "デートや特別な日のディナーにぴったり！",
+    "occasion_en": "Perfect for a special occasion or date night!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パスタソース",
+        "amount": "お好み"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトを小さく刻んで、オリーブオイルと塩胡椒で味付けする。\n",
+      "2. パスタを茹でる前に、モッツァレラチーズを薄くスライスして、トマトと混ぜ合わせる。\n",
+      "3. パスタソースを加え、全体を煮詰めて完成。\n",
+      "4. 仕上げに、オリーブオイルを少し加えて、トマトの甘酸っぱさとモッツァレラのクリーミーさが際立つ味わいに仕上げる。"
+    ],
+    "prompt": "A close-up shot of the pasta dish with a fork and knife, highlighting the vibrant colors and textures. A small sprig of basil adds freshness.",
+    "filename": "recipe_1785723136.jpg",
+    "date": "2026-08-03 02:14:03",
+    "timestamp": 1785723136,
+    "likes": 0,
+    "views": 339
+  },
+  {
     "id": "recipe_1785714914",
     "category": "pasta/side dish",
     "category_ja": "パスタ/サイド",
