@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785788656",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的まろやかアボカドとサーモンのタルタル風サラダ",
+    "title_en": "Devilishly Creamy Avocado and Salmon Tartare Salad",
+    "description_ja": "普段は「アボカド」と「サーモン」を組み合わせるだけで美味しさ爆発！なのに、このレシピなら「悪魔的な」美味しさを追求！一口食べたら、今まで味わったことのない新しい感覚の料理に。 さらに、タルタル風味で、さらに斬新な味わいに仕上げます！",
+    "description_en": "A devilishly delicious salad that combines avocado and salmon for a unique experience! The tangy, creamy flavor of the tartare elevates this dish to a whole new level. Get ready for a taste explosion like never before!",
+    "occasion_ja": "パーティーや特別な日など、新しい食の発見をしたい方へ。",
+    "occasion_en": "Perfect for those who want to try something new and exciting with their meal.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1/2個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンは、薄切りにして塩コショウで下味をつけます。",
+      "アボカドは、皮を剥き、種を取り除き、細切りにします。",
+      "レモン汁とマヨネーズを加えて混ぜ合わせ、タルタルのソースを作ります。",
+      "サーモンとアボカドの両方を皿に盛り付け、タルタルソースを添えます。"
+    ],
+    "prompt": "A photo of a beautifully plated salad with salmon and avocado, showcasing the vibrant colours and textures.",
+    "filename": "recipe_1785788656.jpg",
+    "date": "2026-08-03 20:26:02",
+    "timestamp": 1785788656,
+    "likes": 0,
+    "views": 241
+  },
+  {
     "id": "recipe_1785782873",
     "category": "dessert",
     "category_ja": "デザート",
