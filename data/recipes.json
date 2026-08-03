@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785764258",
+    "category": "デザート",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × トロけるバターカラメル：悪魔の甘辛デザート",
+    "title_en": "Sweet & Savory Caramel Dessert: Baked Apple with Crunchy Butter Caramel",
+    "description_ja": "見た目も可愛い、焼き芋にとろけるバターカラメルをトッピングしたデザート。一口食べれば、意外な甘辛の奥深さが広がる！悪魔的な美味しさに魅了されること間違いなしです。",
+    "description_en": "A visually appealing dessert featuring baked apples topped with a crispy, melt-in-your-mouth butter caramel. One bite reveals the unexpected depth of sweet and savory flavors! Prepare to be amazed by its devilish deliciousness.",
+    "occasion_ja": "ハロウィンパーティーやクリスマスなど、特別な日にぴったり",
+    "occasion_en": "Perfect for special occasions such as Halloween or Christmas parties.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "50g"
+      },
+      {
+        "name": "水",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "シナモンパウダー",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "焼き芋は皮を剥き、芯を取って中まで柔らかく焼きます。",
+      "ボウルにバター、グラニュー糖、水、シナモンパウダーを入れて混ぜます。",
+      "焼き芋にカラメルソースを塗ります。",
+      "お好みでナッツやバニラアイスなどを添えて召し上がってください。"
+    ],
+    "prompt": "Close-up shot of caramelized apples with a crunchy caramel topping, sprinkled with cinnamon and nuts. The dessert is steaming with rich colors.",
+    "filename": "recipe_1785764258.jpg",
+    "date": "2026-08-03 13:39:22",
+    "timestamp": 1785764258,
+    "likes": 0,
+    "views": 239
+  },
+  {
     "id": "recipe_1785753477",
     "category": "pasta",
     "category_ja": "パスタ",
