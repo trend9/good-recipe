@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785871441",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × トロけるバターカラメル：悪魔の甘酸っぱさ",
+    "title_en": "Sweet and Tangy: Baked Apple with Butter Caramel Topping",
+    "description_ja": "焼き芋に、とろけるバターとカラメルソースをたっぷり添えた、悪魔的な甘酸っぱさと旨味が楽しめるデザートレシピ。見た目も鮮やかで、まるで魔法のように魅せる一品！",
+    "description_en": "A dessert recipe that combines the sweetness of baked apples with a rich, buttery caramel topping. This dish's decadent flavor and vibrant appearance will leave your guests in awe.",
+    "occasion_ja": "誕生日会、特別な日に、友達とのお聚いりにぴったり",
+    "occasion_en": "Birthday party, special occasion or gatherings with friends",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "焼き芋を4等分して、皮ごと焼き、裏返して焼き色をつける。",
+      "ボウルにバターと砂糖を入れ、水を加えて混ぜる。",
+      "焦がれた焼き芋にバターと砂糖の溶き液を全体に塗り、表面を焼き色をつける。",
+      "カラメルソースをかけ、お好みで黒蜜を添えれば完成。"
+    ],
+    "prompt": "Close-up shot of a baked apple with caramelized butter, glowing in the oven. Dark background, dramatic lighting.",
+    "filename": "recipe_1785871441.jpg",
+    "date": "2026-08-04 19:25:43",
+    "timestamp": 1785871441,
+    "likes": 0,
+    "views": 379
+  },
+  {
     "id": "recipe_1785865253",
     "category": "side",
     "category_ja": "サイドディッシュ",
