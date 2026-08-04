@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785884313",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレのスパイシーチーズ焼き",
+    "title_en": "Spicy Caramel Brulee Banana Cheese Bake",
+    "description_ja": "完熟バナナに濃厚チーズとキャラメル、そしてスパイシーな風味を合わせた、まさに悪魔的美味しさのスイーツレシピ。見た目も華やかで、一口食べたら幸せな気分になるはず！",
+    "description_en": "A spicy caramel brulee banana cheese bake recipe for an explosion of sweet and savory flavor! The dish is visually appealing and offers a delightful taste experience with every bite.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "スパイシーチーズ (例: ハラペーハチーズ)",
+        "amount": "適量"
+      },
+      {
+        "name": "パウダーチーズ (例: パルメザンチーズ、または他のチーズ)、",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "バナナを1cm角の大きさにカットする。",
+      "キャラメルソースとクリームチーズをよく混ぜ合わせる。",
+      "カットしたバナナを全体にチーズソースを塗り、スパイシーチーズを散らしてチーズソース全体に均等に塗る。",
+      "オーブンを200℃に予熱し、15分焼けば完成。"
+    ],
+    "prompt": "Close-up shot of a baked banana with caramel brulee and cheese. High quality food photography, focus on the texture.",
+    "filename": "recipe_1785884313.jpg",
+    "date": "2026-08-04 23:00:16",
+    "timestamp": 1785884313,
+    "likes": 0,
+    "views": 304
+  },
+  {
     "id": "recipe_1785877619",
     "category": "side",
     "category_ja": "サイド",
