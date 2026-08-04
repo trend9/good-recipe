@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785816555",
+    "category": "side dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "極厚カツ × ハニーマスタード：悪魔の甘辛ソースの極み！",
+    "title_en": "Ultimate Spicy & Sweet: Extreme Honey Mustard Glaze for Thick Cutlets!",
+    "description_ja": "極厚カツを、ハニーマスタードで極上の甘辛ソースに仕上げる。この悪魔的な一品は、まさに絶品！",
+    "description_en": "Elevate your thick cutlet game with this ultimate spicy & sweet! The honey mustard glaze will make these cutlets absolutely delicious.",
+    "occasion_ja": " parties, gatherings!",
+    "occasion_en": "Ideal for parties and gatherings.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "必要量"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツを、薄くスライスする。",
+      "ハニーマスタード、醤油、砂糖、みりんを混ぜる。",
+      "極厚カツに、ハニーマスタードソースを塗る。",
+      "180度に予熱したオーブンで焼く。約10分。"
+    ],
+    "prompt": "Close-up shot of a thick cutlet glazed with sweet and spicy honey mustard sauce, oven baked to a golden brown.",
+    "filename": "recipe_1785816555.jpg",
+    "date": "2026-08-04 04:10:50",
+    "timestamp": 1785816555,
+    "likes": 0,
+    "views": 475
+  },
+  {
     "id": "recipe_1785794650",
     "category": "side",
     "category_ja": "サイド dish",
