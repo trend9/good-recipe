@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1785848225",
+    "category": "side/main",
+    "category_ja": "サイドディッシュ/メインディッシュ",
+    "title_ja": "極厚カツ × ハニーマスタード & キノコのスパイシーチーズソテー！悪魔的食欲を刺激する一品",
+    "title_en": "Spicy Cheesy Mushroom Steak with Honey-Mustard Thick Cut Beef - A Shockingly Delicious Recipe!",
+    "description_ja": "極厚カツに、スパイシーなチーズソテーとハニーマスタードの甘辛ソースを組み合わせることで、悪魔的美味しさに昇格。見た目も鮮やかで、満足感あふれる一品に仕上がります！",
+    "description_en": "Take your thick cut beef burger to the next level! This recipe combines a spicy cheesy mushroom steak with honey mustard and brings about an unholy yet delicious taste experience. It's visually stunning and delivers on satisfying flavors.",
+    "occasion_ja": "週末のおやつ、パーティーのメイン、特別な日のディナーにどうぞ。",
+    "occasion_en": "Perfect for a weekend treat, party main course or a special dinner occasion.",
+    "ingredients": [
+      {
+        "name": "極厚カツ (Beef)",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ (Cheddar Cheese)",
+        "amount": "200g"
+      },
+      {
+        "name": "キノコ (Mushrooms, Shiitake) ",
+        "amount": "300g"
+      },
+      {
+        "name": "ハニーマスタード (Honey Mustard Sauce)",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面焼き色がつくまで焼く。",
+      "チーズを細かく刻んで、キノコと混ぜ合わせる。",
+      "フライパンに油をひき、チーズ・キノコのミックスを炒める。",
+      "しょうゆ、砂糖、塩コショウで味付けをして、加熱し、チーズが溶けるまで炒める。"
+    ],
+    "prompt": "A close-up shot of the spicy cheesy mushroom steak with a crispy crust, and honey mustard sauce drizzled on top. The mushrooms are sauteed and cooked with cheese inside, creating an enticing visual.",
+    "filename": "recipe_1785848225.jpg",
+    "date": "2026-08-04 12:58:56",
+    "timestamp": 1785848225,
+    "likes": 0,
+    "views": 468
+  },
+  {
     "id": "recipe_1785839590",
     "category": "グラタン/デザート",
     "category_ja": "グラタン/デザート",
