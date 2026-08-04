@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785877619",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × ハニーマスタード＆クランチチーズのスパイシーチーズソテー：悪魔の甘辛風ソースが爆発！",
+    "title_en": "Spicy Cheesy Fried Chicken with Honey Mustard & Crunchy Cheese: Explosion of Sweet & Spicy Flavor!",
+    "description_ja": "極厚カツにスパイシーなチーズソテーと、とろけるハニーマスタードを組み合わせた、悪魔的な美味しさ。クランチチーズで食感も満足！",
+    "description_en": "A devilishly good twist on fried chicken! Spice up your meal with our unique spicy cheesy fried chicken. Crunchy cheese will bring a delightful texture to every bite, topped with delicious honey mustard sauce.",
+    "occasion_ja": "パーティーやディナーに、食欲をそそる一品に！",
+    "occasion_en": "Perfect for parties or dinners, this dish will excite your taste buds!",
+    "ingredients": [
+      {
+        "name": "極厚カツ (1個)",
+        "amount": "1"
+      },
+      {
+        "name": "クランチチーズ (適量)",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマスタード (適量)",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ (適量)",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面を塩で味付けし、180℃の油で揚げます。",
+      "クランチチーズを少量のハニーマスタードと混ぜて、チーズ生地の形成をします。",
+      "チーズ生地にクランチチーズを乗せ、全体にハニーマスタードを塗ります。",
+      "揚げた極厚カツをチーズ生地の上に置き、さらにチーズ生地とハニーマスタードで仕上げます。"
+    ],
+    "prompt": "Close-up shot of a sizzling hot fried chicken with cheesy puffs. A delicious, golden brown crust and melted cheese on top. Spicy and savory.",
+    "filename": "recipe_1785877619.jpg",
+    "date": "2026-08-04 21:08:42",
+    "timestamp": 1785877619,
+    "likes": 0,
+    "views": 182
+  },
+  {
     "id": "recipe_1785871441",
     "category": "dessert",
     "category_ja": "デザート",
