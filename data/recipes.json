@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1785865253",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー＆濃厚焦がしにんにく醤油の「悪魔のチーズ風焼き」",
+    "title_en": "Charred BBQ Beef & Spicy Garlic Sauce “Devil's Cheese-Baked”",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を組み合わせ、チーズ風味で仕上げた焼き、一口食べたら悪魔の旨味と美味しさに浸る。",
+    "description_en": "Spicy & cheesy delight! Charred BBQ Beef and creamy garlic sauce baked into a crispy perfection, this dish will take your taste buds on a wild ride.",
+    "occasion_ja": "パーティーやBBQに最適！",
+    "occasion_en": "Perfect for parties and BBQs!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ (プロセスチーズ, または生クリームチーズ)",
+        "amount": "適量"
+      },
+      {
+        "name": "パン粉 (お好みで)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューと濃厚焦がしにんにく醤油を混ぜ合わせ、全体に塗り広げます。",
+      "2. チーズを上にトッピングします。",
+      "3. フライパンに油を入れ、チーズが溶けてから弱火で焼き上げていきます。",
+      "4. パン粉で表面をコーティングする場合は、最後に振りかけます。"
+    ],
+    "prompt": "Close-up shot of a grilled, cheesy beef and garlic sauce bake with melted cheese on top, looking appetizingly delicious.",
+    "filename": "recipe_1785865253.jpg",
+    "date": "2026-08-04 17:42:28",
+    "timestamp": 1785865253,
+    "likes": 0,
+    "views": 421
+  },
+  {
     "id": "recipe_1785856964",
     "category": "side",
     "category_ja": "サイド",
