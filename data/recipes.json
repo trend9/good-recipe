@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785839590",
+    "category": "グラタン/デザート",
+    "category_ja": "グラタン/デザート",
+    "title_ja": "悪魔的クリーミーアボカドと黒胡椒のグラタン",
+    "title_en": "Devilishly Creamy Avocado & Black Pepper Gratin",
+    "description_ja": "超クリーミーなアボカドと黒胡椒の意外性、そして悪魔的な美味しさ！家庭でも簡単に作れる、特別な一品を演出。",
+    "description_en": "A devilishly creamy avocado and black pepper gratin, a surprisingly delicious twist on comfort food! Easy to make at home and perfect for a special occasion.",
+    "occasion_ja": "特別な日やパーティーで、ゲストを魅了する一品",
+    "occasion_en": "A party dish to wow your guests. ",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "グラタンチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "牛乳",
+        "amount": "250ml"
+      }
+    ],
+    "steps": [
+      "アボカドをみじん切りにし、グラタンチーズと黒胡椒で混ぜ合わせる。",
+      "バターと牛乳を加えて混ぜる。",
+      "オーブンを180℃に予熱する。",
+      "2等分した皿にアボカドとチーズのグラタンを流し込み、180℃のオーブンで約15分焼く。"
+    ],
+    "prompt": "Close-up shot of a creamy avocado and black pepper gratin with melted cheese on top, in an oven.",
+    "filename": "recipe_1785839590.jpg",
+    "date": "2026-08-04 10:34:52",
+    "timestamp": 1785839590,
+    "likes": 0,
+    "views": 467
+  },
+  {
     "id": "recipe_1785828902",
     "category": "dessert",
     "category_ja": "デザート",
