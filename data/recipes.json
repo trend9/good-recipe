@@ -1,5 +1,44 @@
 [
   {
+    "id": "recipe_1785856964",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "抹茶ホワイトチョコ・マッシュルームのクリーミーソース！悪魔的な甘酸っぱさ",
+    "title_en": "Creamy White Chocolate & Mushroom Sauce: A Devilishly Delicious Twist on Matcha",
+    "description_ja": "抹茶の苦味と濃厚なホワイトチョコレート、クリーミーなソースに、香ばしいマッシュルームが絶妙なハーモニーを奏でます。悪魔的美味しさの新たな扉を開きます！",
+    "description_en": "A creamy white chocolate and mushroom sauce with a hint of matcha's bitterness, offering a devilishly delicious twist. A new dimension of taste awaits.",
+    "occasion_ja": "パーティーやディナーに最適な一品。",
+    "occasion_en": "Perfect for parties and dinners, this creamy white chocolate and mushroom sauce is sure to impress your guests.",
+    "ingredients": [
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "抹茶粉",
+        "amount": "1.5tbsp"
+      },
+      {
+        "name": "マッシュルーム(生)",
+        "amount": "200g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1: マッシュルームを薄切りにして、塩コショウで味付けします。\n2: フライパンにバターを入れ、マッシュルームを炒めます。\n3: ホワイトチョコレートと抹茶粉を加え、溶かしながら混ぜます。\n4: 弱火で牛乳を加え、とろみがついたまでする。",
+      "1: マッシュルームを薄切りにして、塩コショウで味付けします。\n2: フライパンにバターを入れ、マッシュルームを炒めます。\n3: ホワイトチョコレートと抹茶粉を加え、溶かしながら混ぜます。\n4: 弱火で牛乳を加え、とろみがついたまでする。"
+    ],
+    "prompt": "Close-up shot of a creamy white chocolate and mushroom sauce with a vibrant green matcha powder swirl. A side dish with delicious visual appeal, featuring rich textures and beautiful color.",
+    "filename": "recipe_1785856964.jpg",
+    "date": "2026-08-04 15:24:35",
+    "timestamp": 1785856964,
+    "likes": 0,
+    "views": 180
+  },
+  {
     "id": "recipe_1785848225",
     "category": "side/main",
     "category_ja": "サイドディッシュ/メインディッシュ",
