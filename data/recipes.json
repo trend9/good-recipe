@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785908563",
+    "category": "丼ぶり",
+    "category_ja": "丼ぶり",
+    "title_ja": "とろとろ卵＆旨辛麻婆豆腐丼：悪魔の甘辛風！",
+    "title_en": "Spicy Tofu & Egg Donburi: Devilish Sweet and Spicy Flavor!",
+    "description_ja": "ふわふわ卵と、濃厚な旨辛麻婆豆腐の組み合わせが、まさに悪魔的な美味しさ。意外な美味しさを堪能できる、究極の丼ぶりレシピ！",
+    "description_en": "Fluffy egg and spicy tofu bowl with a devilishly sweet and savory flavor! A truly unique and delicious bowl you won't be able to put down.",
+    "occasion_ja": "友達とのディナー、特別な日に。",
+    "occasion_en": "Dinner with friends, or for a special occasion.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1合"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "だし汁",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "卵をふんわりと焼いて、器に盛り付ける。",
+      "旨辛麻婆豆腐をご飯の上に盛り付ける。",
+      "醤油とだし汁を加え、味を調える。",
+      "卵の焼き目を確認し、盛り付けたら完成。"
+    ],
+    "prompt": "A close-up shot of a bowl filled with spicy tofu and egg donburi, garnished with chopped green onion. The egg is beautifully fried and the tofu has a rich brown color.",
+    "filename": "recipe_1785908563.jpg",
+    "date": "2026-08-05 05:45:01",
+    "timestamp": 1785908563,
+    "likes": 0,
+    "views": 320
+  },
+  {
     "id": "recipe_1785898384",
     "category": "side",
     "category_ja": "サイド",
