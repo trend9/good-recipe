@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785945648",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "完熟トマト × フレッシュモッツァレラ : 悪魔のチーズ風デザート",
+    "title_en": "Fresh Mozzarella & Cherry Tomato Delight: A New Level of Creamy-Salty Goodness",
+    "description_ja": "完熟トマトの甘酸っぱさが、フレッシュモッツァレラのクリーミーな食感が、至福の感覚を創り出す！悪魔的な美味しさ、あなたを魅了するレシピ。",
+    "description_en": "Experience the perfect balance of creamy and tangy! This unexpected combination of fresh mozzarella and cherry tomatoes creates a decadent, delicious dessert that will leave you wanting more.",
+    "occasion_ja": "特別な日や、友達とのお祝い",
+    "occasion_en": "Perfect for celebrations or special occasions with friends.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "フレッシュモッツァレラ",
+        "amount": "100g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "小さじ2"
+      }
+    ],
+    "steps": [
+      "トマトは半分に切って、塩コショウを振り、オリーブオイルで軽く炒めます。",
+      "モッツァレラは細く切って、パルメザンチーズを振り、軽く混ぜます。",
+      "トマトとモッツァレラを盛り付けます。",
+      "お好みで、レモン汁やハーブを添えても美味しいです。"
+    ],
+    "prompt": "A close-up shot of a beautifully plated dish of fresh mozzarella and cherry tomatoes with olive oil drizzled over it. Sprinkle some Parmesan cheese for extra flair.",
+    "filename": "recipe_1785945648.jpg",
+    "date": "2026-08-05 16:03:15",
+    "timestamp": 1785945648,
+    "likes": 0,
+    "views": 462
+  },
+  {
     "id": "recipe_1785938059",
     "category": "dessert",
     "category_ja": "デザート",
