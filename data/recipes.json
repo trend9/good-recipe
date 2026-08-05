@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785918446",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー & 濃厚焦がしにんにく醤油 × 抹茶風味チーズ焼き (悪魔の甘酸っぱさ！)",
+    "title_en": "Spicy Matcha Cheese Cake with Char Siu & Spicy Garlic Pepper Jelly",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を、抹茶風味チーズで包み込んだ、悪魔的な甘酸っぱさとクリーミーな味わいが楽しめる一品。意外性のある組み合わせが食欲を刺激します。",
+    "description_en": "A new fusion of the devilishly sweet and sour flavors. It combines grilled char siu with a rich spicy garlic pepper jelly, wrapped in a creamy matcha cheese cake for an unforgettable culinary experience.",
+    "occasion_ja": "特別な日、パーティーなど、特別なシーンに最適！",
+    "occasion_en": "Perfect for parties, celebrations or special occasions!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1個"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "抹茶風味チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "食パン",
+        "amount": "1切れ"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "1. 抹茶風味チーズを、食パンの表面に塗る。",
+      "2.炙りチャーシューを、抹茶風味チーズの上にのせて、濃厚焦がしにんにく醤油をかける。",
+      "3. チーズと肉が溶け合うまで、電子レンジで約30秒加熱する。",
+      "4. 溶けたチーズと肉、そして甘酸っぱいソースを混ぜ合わせて完成。"
+    ],
+    "prompt": "Close-up shot of a cheese cake with char siu on top, surrounded by swirls of spicy garlic pepper jelly, and a thin layer of matcha powder.",
+    "filename": "recipe_1785918446.jpg",
+    "date": "2026-08-05 08:29:17",
+    "timestamp": 1785918446,
+    "likes": 0,
+    "views": 275
+  },
+  {
     "id": "recipe_1785908563",
     "category": "丼ぶり",
     "category_ja": "丼ぶり",
