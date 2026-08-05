@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785951521",
+    "category": "丼もの",
+    "category_ja": "丼物",
+    "title_ja": "悪魔的な甘辛さ！とろける卵と旨辛麻婆豆腐の丼 - 激辛チーズ爆風！",
+    "title_en": "Explosive Spicy Sweetness! Creamy Onsen Egg and Spicy Tofu Bowl with Extra Spicy Cheese Explosion!",
+    "description_ja": "とろける卵と旨辛麻婆豆腐が、悪魔的な甘辛さに昇格！濃厚なチーズとスパイシーな風味で、まさに激辛な衝撃を味わえます。",
+    "description_en": "Take your spicy and sweet taste buds on a wild ride! Creamy Onsen Egg meets Spicy Tofu in this bowl, topped with extra spicy cheese for an explosive flavor experience.",
+    "occasion_ja": "晩御飯、ディナーにぴったり！",
+    "occasion_en": "Perfect for dinner!",
+    "ingredients": [
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1合"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "濃厚チーズ (如：エッグノール)",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 旨辛麻婆豆腐をボウルに盛り付けます。",
+      "2. 卵をボウルに入れ、塩と胡椒で味を調え、溶き卵を加えます。",
+      "3.  チーズを溶かし、卵に混ぜ合わせ、丼の表面にチーズを乗せます。",
+      "4.  お好みで、さらにスパイシーな風味を楽しむために、唐辛子を振りかければ完成！"
+    ],
+    "prompt": "A close-up of a bowl with spicy tofu and creamy onsen egg, topped with extra spicy cheese, with vibrant chili peppers.",
+    "filename": "recipe_1785951521.jpg",
+    "date": "2026-08-05 17:40:24",
+    "timestamp": 1785951521,
+    "likes": 0,
+    "views": 204
+  },
+  {
     "id": "recipe_1785945648",
     "category": "dessert",
     "category_ja": "デザート",
