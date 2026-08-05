@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785928619",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜×きな粉もちもちアイス：悪魔の甘酸っぱさ！",
+    "title_en": "Black Honey & Kinako Mochi Ice: Devilish Sweet and Sour!",
+    "description_ja": "普段は黒蜜ときな粉が合うと思えない、この組み合わせは意外性と美味しさを同時に体験させる魔法の食材。もちもちとしたアイスに、黒蜜の濃厚な甘さと、きな粉のほのかな風味と香辛料で、悪魔的な美味しさへと昇華させます！",
+    "description_en": "Black honey and kinako, two ingredients normally considered a strange pair, become an unexpected taste sensation when combined into this recipe. The creamy ice is topped with black honey's rich sweetness and the subtle nutty flavour of kinako, which is enhanced with spices for a devilishly delicious result! ",
+    "occasion_ja": "特別な日に、友達とシェアする、または一人で食べるのがオススメです！",
+    "occasion_en": "Perfect for sharing with friends or enjoying on your own, this recipe is sure to add a unique touch to your next dessert experience.",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "きな粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "適量"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "黒蜜ときな粉を混ぜ、よく溶かします。",
+      "もちもちアイスに黒蜜きな粉の溶液を少し加え、全体に浸します。",
+      "抹茶パウダーで表面をコーティングし、黒胡椒を加えて香り付けます。",
+      "冷蔵庫で冷やすことで、より悪魔的な美味しさに仕上がります。"
+    ],
+    "prompt": "Close-up shot of a portion of the dessert, highlighting the contrasting textures and vibrant colors (英語で具体的なイメージを記述)",
+    "filename": "recipe_1785928619.jpg",
+    "date": "2026-08-05 11:18:45",
+    "timestamp": 1785928619,
+    "likes": 0,
+    "views": 408
+  },
+  {
     "id": "recipe_1785918446",
     "category": "dessert",
     "category_ja": "デザート",
