@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785970468",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × ハニーマスタード & サツマイモのスパイシーチーズソテー - デビルズグリル",
+    "title_en": "Devil's Grill: Spicy Cheese-Stuffed Sweet Potatoes with Honey Mustard Thick Cut Pork",
+    "description_ja": "極厚カツとハニーマスタードが、意外な組み合わせで爆発的に美味しい！サツマイモのスパイシーチーズソテーも加え、悪魔的な甘辛さと爽やかな食感を味わえる一品です。 ",
+    "description_en": "A devilishly delicious fusion of thick-cut pork cutlet, honey mustard, and a spicy cheese-stuffed sweet potato side! Unexpected flavor explodes in your mouth. Perfect for those who want to savor the boldest, yet unexpected taste.",
+    "occasion_ja": "特別な日には、仲間と楽しむのに最適な一品！",
+    "occasion_en": "A perfect side dish for gatherings and parties. ",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "適量"
+      },
+      {
+        "name": "サツマイモ",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを焼く。",
+      "ハニーマスタードとチーズを混ぜる。サツマイモをカットし、チーズと混ぜてソテーする。",
+      "パン粉で包んで揚げ焼きにする。",
+      "パプリカを加えて味付けし、揚げ焼きにする。"
+    ],
+    "prompt": "Close-up photo of the Devil's Grill dish with a sizzling appearance, featuring thick-cut pork cutlet, sweet potatoes stuffed with cheese and pepper. The background is dark, smoky and mysterious.",
+    "filename": "recipe_1785970468.jpg",
+    "date": "2026-08-05 22:56:15",
+    "timestamp": 1785970468,
+    "likes": 0,
+    "views": 376
+  },
+  {
     "id": "recipe_1785963767",
     "category": "Appetizer",
     "category_ja": "前菜",
