@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785938059",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × トロけるバターカラメル: 悪魔の甘酸っぱさ！",
+    "title_en": "Roasted Sweet Potato x Butter Caramell: Devilish Sweet & Sour!",
+    "description_ja": "焼き芋の甘さと、トロけるバターカラメルの濃厚な甘さが、まるで悪魔が作る料理のように、絶妙にマッチ。一口食べれば、口いっぱいに幸せと衝撃が爆発！",
+    "description_en": "A devilishly delicious fusion of sweet roasted potatoes and rich, melt-in-your-mouth butter caramel. This unexpected combination will send your taste buds into overdrive with each bite.",
+    "occasion_ja": "特別なイベントに、パーティーに！",
+    "occasion_en": "Perfect for special occasions and parties!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "30g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "15g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ココアパウダー",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "焼き芋を10分ほど焼きます。",
+      "ボウルにバター、砂糖、塩、ココアパウダーを入れて混ぜます。",
+      "焼き芋にバターカラーメソースをつけて、じっくり焼きます。",
+      "完成。"
+    ],
+    "prompt": "A close-up shot of the baked sweet potato coated in butter caramel sauce, steam rising from the dish. Rich and vibrant colors, a decadent scene.",
+    "filename": "recipe_1785938059.jpg",
+    "date": "2026-08-05 13:56:38",
+    "timestamp": 1785938059,
+    "likes": 0,
+    "views": 247
+  },
+  {
     "id": "recipe_1785928619",
     "category": "dessert",
     "category_ja": "デザート",
