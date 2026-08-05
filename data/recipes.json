@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785888093",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × ハニーマスタード＆ブロッコリーのスパイシーチーズソテー！",
+    "title_en": "Devilishly Delicious: Spiced & Honey Mustard-Glazed Broccolini & Thick Cut Pork Katsu!",
+    "description_ja": "極厚カツに、意外な組み合わせのハニーマスタードソースと、ブロッコリーのスパイシーチーズソテーを合わせた一品。悪魔的な甘辛さと、クリーミーなチーズが融合した、今までにない美味しさ！",
+    "description_en": "A devilishly delicious fusion of thick-cut pork katsu and a sweet & spicy broccolini, all dressed with our signature honey mustard sauce and topped with creamy cheese. This unexpected pairing is sure to leave your tastebuds screaming for more!",
+    "occasion_ja": " parties  or any casual gatherings  ",
+    "occasion_en": "parties or any casual gathering",
+    "ingredients": [
+      {
+        "name": "極厚カツ (Pork cutlet)",
+        "amount": "2本"
+      },
+      {
+        "name": "ブロッコリー (Roasted broccoli florets)",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面こんがりと焼き、塩コショウで味付けします。",
+      "ブロッコリーを180度に予熱したオーブンでカリッと焼きます。",
+      "ボウルにハニーマスタード、クリームチーズ、モッツァレラチーズを入れ、混ぜます。",
+      "焼いたブロッコリーと、極厚カツにハニーマスタードソースをたっぷりかけて、チーズを乗せて完成です。"
+    ],
+    "prompt": "A close-up shot of a sizzling pork cutlet with creamy cheese and roasted broccoli, drizzled with honey mustard sauce. Vibrant colors and delicious textures.",
+    "filename": "recipe_1785888093.jpg",
+    "date": "2026-08-05 00:02:57",
+    "timestamp": 1785888093,
+    "likes": 0,
+    "views": 393
+  },
+  {
     "id": "recipe_1785884313",
     "category": "dessert",
     "category_ja": "デザート",
