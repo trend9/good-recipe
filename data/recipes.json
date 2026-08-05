@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785898384",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × ハニーマスタード & 柚子胡椒：悪魔的な甘辛風ソースと爽やかな柚子の意外性！",
+    "title_en": "Devilishly Delicious: Thick Cut Pork Chop with Honey Mustard and Yuzu Pepper!",
+    "description_ja": "極厚カツに、意外な組み合わせで魅せる！ハニーマスタードの甘辛さと、柚子の酸味が絶妙な味わいに。一口食べれば虜になる一品です。",
+    "description_en": "Prepare for a flavor explosion! This decadent, unexpected twist on the classic thick cut pork chop features honey mustard and yuzu pepper's zesty tanginess to create an irresistible treat.",
+    "occasion_ja": "特別な日に、友人とのディナーにぴったりな一品！",
+    "occasion_en": "Perfect for a special occasion, dinner with friends! ",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "柚子胡椒",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "溶き卵",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "極厚カツにハニーマスタードを塗る。",
+      "薄切りにした柚子胡椒とレモン汁を加えて、混ぜ合わせる。",
+      "溶き卵で表面を軽くコーティングし、弱火で焼き上げる。",
+      "焼き上がったカツを皿に乗せて完成。"
+    ],
+    "prompt": "Close-up shot of a crispy, golden brown pork chop with honey mustard and yuzu pepper glaze. A drizzle of orange-colored sauce is visible.",
+    "filename": "recipe_1785898384.jpg",
+    "date": "2026-08-05 02:54:45",
+    "timestamp": 1785898384,
+    "likes": 0,
+    "views": 344
+  },
+  {
     "id": "recipe_1785888093",
     "category": "side",
     "category_ja": "サイド",
