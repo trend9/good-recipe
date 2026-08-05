@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785974266",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "チーズタッカルビチキン：悪魔の甘辛風ソースが食欲をそそる！",
+    "title_en": "Tartare Chicken with Cheesy Glaze: An explosion of spicy and cheesy goodness!",
+    "description_ja": "とろけるチーズとタッカルビチキン、意外な組み合わせなのに、悪魔的な美味しさに！甘辛ソースで激辛を楽しみながら、チーズのまろやかな旨味も楽しめる一品です。",
+    "description_en": "A devilishly delicious fusion of creamy cheese and spicy tatar chicken! The cheesy glaze brings a unique twist to the heat, allowing you to enjoy the explosion of flavor with every bite. ",
+    "occasion_ja": "パーティー、ディナーなど、食欲を刺激する一品が欲しい時に！",
+    "occasion_en": "Perfect for parties and dinners, this dish will stimulate your appetite.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "甘辛ダレ",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを一口大にカットします。",
+      "チーズをボウルに入れて、甘辛ダレとレモン汁を加えて混ぜます。",
+      "タッカルビチキンをチーズの生地に包みます。",
+      "オーブンで180℃に予熱した後、20分程度焼けば完成です。"
+    ],
+    "prompt": "Close-up shot of a tantalizing portion of Tartare Chicken with cheese glaze, showcasing the vibrant colors and textures of the dish. The chicken should be covered in melted cheese with a bright sauce glistening on top.",
+    "filename": "recipe_1785974266.jpg",
+    "date": "2026-08-05 23:59:31",
+    "timestamp": 1785974266,
+    "likes": 0,
+    "views": 373
+  },
+  {
     "id": "recipe_1785970468",
     "category": "side",
     "category_ja": "サイド",
