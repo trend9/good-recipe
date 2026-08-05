@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785957839",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメル×スパイシーチーズの悪魔的スイーツ",
+    "title_en": "Spicy Banana Caramel Cheesy Dessert: An Epic Twist!",
+    "description_ja": "まるで悪魔が作った！？ 濃厚なキャラメルの甘さと、スパイシーチーズの刺激とバナナの香り。一口食べれば、止まらなくなる美味しさ！",
+    "description_en": "Dare to experience the devil's dessert? This dish combines the decadent caramel sweetness with a punch of spicy cheese and banana flavor, leaving you wanting more! ",
+    "occasion_ja": "特別な日のデザートにぴったり！",
+    "occasion_en": "Perfect for any special occasion dessert.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "適量"
+      },
+      {
+        "name": "スパイシーチーズ (例えば:  チキンスープのチーズ、マッシュルームチーズなど)",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを1/4にカット。",
+      "2. バナナの表面にキャラメルを塗り、焼きます。",
+      "3. 別のフライパンでバターとスパイシーチーズを混ぜて、チーズが溶けるまで加熱します。",
+      "4. 焼き上がったバナナにチーズソースを添えて、塩コショウで味を調えます。"
+    ],
+    "prompt": "Close-up photo of a banana charamel dessert with a layer of spicy cheesy sauce and some flakes of spices, styled in a modern way. ",
+    "filename": "recipe_1785957839.jpg",
+    "date": "2026-08-05 19:25:39",
+    "timestamp": 1785957839,
+    "likes": 0,
+    "views": 427
+  },
+  {
     "id": "recipe_1785951521",
     "category": "丼もの",
     "category_ja": "丼物",
