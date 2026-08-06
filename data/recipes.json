@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1785981654",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔のチーズ風デザート：完熟トマト × フレッシュモッツァレラ",
+    "title_en": "Devilish Cheese Dessert: Complete Tomato x Fresh Mozzarella",
+    "description_ja": "完熟トマトとモッツァレラの意外性あふれる組み合わせで、チーズの味わいを引き立てる、悪魔的なデザートレシピ！濃厚なチーズとトマトの甘酸っぱさが絶妙にマッチする！",
+    "description_en": "A devilishly delicious dessert featuring the unexpected pairing of ripe tomatoes and fresh mozzarella. The rich cheese flavor is brought to life in this unconventional but irresistible creation! The perfect balance of sweetness from the tomato with the creamy, savory notes of mozzarella.",
+    "occasion_ja": "特別な日のデザートに、または、普段の甘酸っぱさをお楽しみください！",
+    "occasion_en": "Perfect for special occasions or a simple treat! Enjoy the unique and decadent flavor.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "バジル",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "トマトを半分に切り、皮と種を取り除き、潰します。",
+      "モッツァレラチーズを小さくカットし、オリーブオイルとバジルのミックスを加え、混ぜます。",
+      "トマトの潰したものをモッツァレラチーズとバジルを混ぜ合わせたものを、皿に盛り付けます。",
+      "お好みで塩コショウを振ることで、悪魔的な味わいを完成させます。"
+    ],
+    "prompt": "Close-up photo of a plate with beautiful red and white tomato sauce topped with fresh mozzarella cheese. Garnished with basil leaves, drizzled with olive oil.",
+    "filename": "recipe_1785981654.jpg",
+    "date": "2026-08-06 02:02:37",
+    "timestamp": 1785981654,
+    "likes": 0,
+    "views": 193
+  },
+  {
     "id": "recipe_1785974266",
     "category": "サイド",
     "category_ja": "サイド",
