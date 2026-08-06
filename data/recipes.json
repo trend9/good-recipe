@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1786004728",
+    "category": "サイド",
+    "category_ja": "サイド dishes",
+    "title_ja": "悪魔マヨネーズサクサク唐揚げの蜂蜜ドレッシング",
+    "title_en": "Devilish Mayonnaise Crunchy Chicken with Honey Dressing",
+    "description_ja": "カリッとしたサクサクな唐揚げに、甘酸っぱさが効く悪魔的なマヨネーズドレッシングが絡む！見た目もインパクト抜群のレシピ。",
+    "description_en": "Tangy and crispy fried chicken with a devilishly delicious honey mayo dressing. A recipe that's as visually striking as it is tasty!",
+    "occasion_ja": "パーティーや、お酒のつまみにぴったりです。",
+    "occasion_en": "Perfect for parties and as a delicious appetizer! ",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "10個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "蜂蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "唐揚げを一口大に切る。",
+      "ボウルにハニーマヨネーズ、蜂蜜、レモン汁を入れて混ぜる。",
+      "唐揚げをボウルで coated する。",
+      "電子レンジで2分加熱する。",
+      "揚げた唐揚げを一口サイズにカットして、盛り付ける。"
+    ],
+    "prompt": "Close-up shot of devilish crispy fried chicken with honey dressing, vibrant and flavorful. Golden crust with a tangy glaze",
+    "filename": "recipe_1786004728.jpg",
+    "date": "2026-08-06 08:27:06",
+    "timestamp": 1786004728,
+    "likes": 0,
+    "views": 469
+  },
+  {
     "id": "recipe_1785981654",
     "category": "dessert",
     "category_ja": "デザート",
