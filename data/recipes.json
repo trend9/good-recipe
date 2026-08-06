@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786024339",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマト＆モッツァレラ×ブラックペッパー：悪魔のチーズデザート",
+    "title_en": "Tomato & Mozzarella x Black Pepper: Devil's Cheesy Dessert",
+    "description_ja": "鮮やかなトマトの酸味と、クリーミーで濃厚なモッツァレラのハーモニー。ブラックペッパーをアクセントに、まるで悪魔が作ったデザートのような一品に仕上がります！",
+    "description_en": "A vibrant tomato and creamy mozzarella combo, with a touch of black pepper. This devilishly delicious dessert is sure to satisfy your cravings!",
+    "occasion_ja": "特別な日に、友達とのお食事会に最適な一品",
+    "occasion_en": "Perfect for a special occasion, like dinner parties with friends!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. トマトは薄切りにし、モッツァレラチーズを軽く絞って表面を全体に塗り、オリーブオイルと塩コショウで味を調えましょう。\n",
+      "2. フライパンにトマトを並べ、ブラックペッパーを散らして弱火で焼き上げます。\n",
+      "3. モッツァレラチーズを添えて完成。\n",
+      "4. お皿に盛り付け、そのまま食べましょう。"
+    ],
+    "prompt": "Close-up image of tomato and mozzarella cheese in a black background with black pepper sprinkle, as if it was ready to be eaten.",
+    "filename": "recipe_1786024339.jpg",
+    "date": "2026-08-06 13:53:59",
+    "timestamp": 1786024339,
+    "likes": 0,
+    "views": 332
+  },
+  {
     "id": "recipe_1786015002",
     "category": "pasta",
     "category_ja": "パスタ料理",
