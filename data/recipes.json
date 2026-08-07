@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786099708",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "海藻×クリーミーアボカドの悪魔チーズグラタン",
+    "title_en": "Seafood & Avocado Creamy Cheese Grated",
+    "description_ja": " 海藻の旨味とクリーミーなアボカドが、濃厚なチーズと相性抜群！見た目も鮮やかで、まさに悪魔的な美味しさに仕上がります。",
+    "description_en": "Creamy avocado and seaweed combine in a decadent cheesy twist, with a vibrant, devilishly delicious result.",
+    "occasion_ja": "パーティーや、特別な日にぴったりな一品。",
+    "occasion_en": "Perfect side dish for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "海藻 (昆布など)",
+        "amount": "10g"
+      },
+      {
+        "name": "クリーミーアボカド (生アボカド + 濃厚マヨネーズ)",
+        "amount": "150g"
+      },
+      {
+        "name": "チーズ (クリーミーなチーズ)",
+        "amount": "120g"
+      },
+      {
+        "name": "グラタン用小麦粉",
+        "amount": "15g"
+      },
+      {
+        "name": "バター",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "1. 海藻を水で洗い、軽く絞り干す。",
+      "2. アボカドとチーズを混ぜ合わせる。",
+      "3. 混ぜ合わせたアボカドチーズに、グラタン用小麦粉とバターを加えてよく混ぜる。",
+      "4. 海藻を少し加え、全体が混ざったら、焼成する前に冷蔵庫で冷やしておく。"
+    ],
+    "prompt": "A close-up image of a cheesy, creamy and seaweed-filled gratin dish with an artistic cheese drip effect.",
+    "filename": "recipe_1786099708.jpg",
+    "date": "2026-08-07 10:50:11",
+    "timestamp": 1786099708,
+    "likes": 0,
+    "views": 418
+  },
+  {
     "id": "recipe_1786096612",
     "category": "side",
     "category_ja": "サイド",
