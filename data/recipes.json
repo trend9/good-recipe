@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786132190",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × トロけるバターカラメルチーズケーキ",
+    "title_en": "Buttery Caramel Cheese Cake with Roasted Sweet Potatoes",
+    "description_ja": "悪魔的な甘さと、とろけるバターの香ばしいチーズケーキに、焼き芋の甘酸っぱさ。見た目はまるで宝石のようなスイーツ！",
+    "description_en": "A sweet and savory cheesecake infused with the rich sweetness of caramelized roasted sweet potatoes. A decadent dessert that looks like a jewel.",
+    "occasion_ja": "特別な日に、あなただけの幸せを表現しましょう！",
+    "occasion_en": "For special occasions, express your own happiness!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "10g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "粉チーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cm角にカットし、バターと砂糖で炒める。",
+      "生クリームを加え、とろみがつくまで加熱する。",
+      "チーズを混ぜて、濃厚なチーズケーキの生地を作る。",
+      "焼き芋をチーズケーキの生地に詰め、粉チーズを振ることで、仕上げに見た目を華やかに飾る。"
+    ],
+    "prompt": "Close-up photo of a cheese cake with roasted sweet potato filling, rich and vibrant color palette, smooth texture.",
+    "filename": "recipe_1786132190.jpg",
+    "date": "2026-08-07 19:51:35",
+    "timestamp": 1786132190,
+    "likes": 0,
+    "views": 213
+  },
+  {
     "id": "recipe_1786128444",
     "category": "side/main course",
     "category_ja": "サイド/メイン",
