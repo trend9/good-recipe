@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786141837",
+    "category": "side dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "とろけるチーズ・タッカルビチキン！スパイスマッシュポテトグラタン",
+    "title_en": "Spiced Mash Potato Gratin with Cheesy Taccubbi Chicken",
+    "description_ja": "濃厚なタッカルビチキンと、とろけるチーズが織りなす、悪魔的な美味しさのグラタン。スパイシーなマッシュポテトとの組み合わせはまさに、悪魔的極致！",
+    "description_en": "Experience the devilishly delicious combination of spicy Taccubbi chicken and melting cheese in this creamy potato gratin. The fiery spice, mashed potatoes' richness, and cheesy goodness will surely take you to another level of culinary pleasure.",
+    "occasion_ja": "パーティーや夜食に最適！",
+    "occasion_en": "Perfect for parties and after-dinner snacks!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "300g"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "スパイス (例: パプリカパウダー,  唐辛子粉)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンをカットし、溶かしバターで炒め、スパイスを振りかける。\n",
+      "2. マッシュポテトとチーズを混ぜ合わせる。\n",
+      "3. グラタン皿にタッカルビチキンを敷き詰め、マッシュポテトとチーズの層を作り、さらにチーズをのせる。\n",
+      "4. 予熱したオーブンで15分焼く。\n"
+    ],
+    "prompt": "A close-up shot of a creamy potato gratin with a Taccubbi chicken atop, featuring melted cheese and spices, served in an oven dish.",
+    "filename": "recipe_1786141837.jpg",
+    "date": "2026-08-07 22:32:22",
+    "timestamp": 1786141837,
+    "likes": 0,
+    "views": 192
+  },
+  {
     "id": "recipe_1786138488",
     "category": "丼もの",
     "category_ja": "丼もの",
