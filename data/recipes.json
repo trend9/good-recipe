@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786096612",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔のチーズ焼き！",
+    "title_en": "Creamy Cheese-Baked Potato Bites: Devilishly Delicious!",
+    "description_ja": "サクサクとクリーミーなチーズが、悪魔的な美味しさに満ちた、見た目もインパクト抜群のレシピ。家庭で簡単に作れる一品で、特別な夜にもぴったり！",
+    "description_en": "Devilishly delicious cream cheese-baked potato bites, with crispy and cheesy textures! Easy to make at home for any occasion.",
+    "occasion_ja": "パーティーや特別な夜、普段の食事にもぴったり!",
+    "occasion_en": "Perfect for parties, special occasions, or everyday meals!",
+    "ingredients": [
+      {
+        "name": "じゃがいも (小/中サイズ)",
+        "amount": "2個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳 (100ml)",
+        "amount": "100ml"
+      },
+      {
+        "name": "小麦粉 (大さじ2) ",
+        "amount": "20g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒 (少々)",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを洗って、皮をむき、大きめにカットします。",
+      "クリームチーズと牛乳を加え、なめらかになるまで混ぜます。",
+      "小麦粉と塩、黒胡椒を加えて、生地にまとまりがつくまで混ぜます。",
+      "カットしたじゃがいもを、生地で包んで、オーブンで180度に予熱したオーブンで20分ほど焼きます。"
+    ],
+    "prompt": "Close-up photo of a plate with bite-sized cheese baked potato bites, glistening with melted cheese and crispy golden crust. A steaming plate of cheesy goodness in the oven, surrounded by baking paper.",
+    "filename": "recipe_1786096612.jpg",
+    "date": "2026-08-07 09:58:11",
+    "timestamp": 1786096612,
+    "likes": 0,
+    "views": 432
+  },
+  {
     "id": "recipe_1786092781",
     "category": "パスタ",
     "category_ja": "パスタ",
