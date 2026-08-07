@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786102930",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サーモン×アボカドのスパイシー・チーズムース (悪魔的美味しさ！)",
+    "title_en": "Salmon & Avocado Spicy Cheese Mousse (Devilishly Delicious!)",
+    "description_ja": "鮮やかなサーモンとクリーミーなアボカドを、スパイシーで濃厚なチーズムースで包み込む、悪魔的な美味しさのレシピ。見た目も華やかで、まるで魔法が降り注いだような、特別な一品！",
+    "description_en": "A devilishly delicious recipe featuring the delicate flavor of salmon and creamy avocado, enveloped in a spicy and rich cheese mousse. This dish offers a mesmerizing visual appeal that resembles a magical spell upon your palate!",
+    "occasion_ja": "特別なディナーやパーティーに最適な一品",
+    "occasion_en": "Perfect for special dinners and parties.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ (エナメルチーズ、モッツァレラチーズなど)",
+        "amount": "150g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "スパイシーソース (お好みで) ",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "サーモンを小さめな塊に切り、塩コショウで下味をつける。",
+      "アボカドは皮を取り除き、水分を飛ばす。",
+      "チーズとレモン汁を混ぜ合わせ、なめらかになるまで泡立てておく。",
+      "アボカドの水分を拭き取り、サーモンに混ぜる。スパイシーソースを加えて味を調える。"
+    ],
+    "prompt": "Close-up shot of a beautiful, creamy salmon and avocado cheese mousse with vibrant colors. A sprinkle of spices on top.",
+    "filename": "recipe_1786102930.jpg",
+    "date": "2026-08-07 11:43:57",
+    "timestamp": 1786102930,
+    "likes": 0,
+    "views": 331
+  },
+  {
     "id": "recipe_1786099708",
     "category": "side",
     "category_ja": "サイドディッシュ",
