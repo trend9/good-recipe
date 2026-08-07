@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786117983",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔的なポテトチーズクラムチャウダー！",
+    "title_en": "Devilishly Delicious Potato Cheese Cream Chowder!",
+    "description_ja": "サクサクとしたポテトとクリーミーなチーズが、濃厚な旨味と優しい食感がたまらないクラムチャウダー！まるで悪魔の魔法で生まれた一品に仕上がりました。",
+    "description_en": "A devilishly delicious potato cheese cream chowder that combines crunchy potatoes and creamy cheese for a rich, savory, and slightly comforting dish. Like something straight out of the devil's kitchen!",
+    "occasion_ja": "週末の晩御飯に、お酒にも合う一品！",
+    "occasion_en": "Perfect for a weekend dinner or a nice drink with the evening.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "ポテト",
+        "amount": "100g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "300ml"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもは皮をむき、大きめな食べやすいサイズに切り、鍋に入れ、塩とコショウで味付けをする。",
+      "ポテトは小さめなサイズに切り、鍋に加え、加熱する。",
+      "クリームチーズと牛乳を加え、よく混ぜる。",
+      "火を止めて、混ぜ合わせるとクリーミーなソースが完成。"
+    ],
+    "prompt": "A creamy and steaming potato cheese chowder with a sprinkle of fresh herbs on top, in an appealing mug. The background should be slightly darker to emphasize the depth of the dish.",
+    "filename": "recipe_1786117983.jpg",
+    "date": "2026-08-07 15:54:44",
+    "timestamp": 1786117983,
+    "likes": 0,
+    "views": 361
+  },
+  {
     "id": "recipe_1786111821",
     "category": "サイドディッシュ",
     "category_ja": "サイドディッシュ",
