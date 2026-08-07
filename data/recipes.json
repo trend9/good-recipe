@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786145392",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの悪魔的スパイスチーズケーキ",
+    "title_en": "Devilish Spice Cheesecake with Banana Caramel Brulee",
+    "description_ja": "完熟バナナとキャラメル、そしてスパイシーなチーズが一体となって、まるで悪魔が作ったような、魅惑的なケーキ。 焦がしキャラメルソースと濃厚チーズの組み合わせは、まさに悪魔的な美味しさ。 ",
+    "description_en": "This decadent cheesecake is a devilishly delicious blend of ripe bananas, caramel, and spicy cheese. The caramelized flavor will leave you wanting more! ",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "100g"
+      },
+      {
+        "name": "チーズ (カマンベール)",
+        "amount": "150g"
+      },
+      {
+        "name": "パウダー (スパイス: クミン、シナモン, カカオニブ)",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナは1cm角に切り、キャラメルソースを絡める。",
+      "2. 混ぜることで、チーズとスパイスの香りが広がる。",
+      "3. 溶かし、全体に混ぜる。",
+      "4. オーブンで180度に予熱したものを焼成。"
+    ],
+    "prompt": "Close-up of a dessert with banana slices and caramel brulee, shot in a vibrant style.",
+    "filename": "recipe_1786145392.jpg",
+    "date": "2026-08-07 23:31:34",
+    "timestamp": 1786145392,
+    "likes": 0,
+    "views": 463
+  },
+  {
     "id": "recipe_1786141837",
     "category": "side dish",
     "category_ja": "サイドディッシュ",
