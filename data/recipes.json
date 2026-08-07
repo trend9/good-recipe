@@ -1,5 +1,48 @@
 [
   {
+    "id": "recipe_1786074419",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的ハンバーグの卵黄グラタン",
+    "title_en": "Devilishly Delicious Egg Yolk Gratin with Ham-Style Beef Patty",
+    "description_ja": "とろっとろ半熟卵と濃厚デミグラスソースが溢れる、衝撃的な美味しさ！まるで贅沢なホテルのラウンジのような、優雅で洗練された大人の食卓に。",
+    "description_en": "An explosion of rich decadence. Creamy egg yolks meet a decadent demi-glace sauce in this elegant gratin, ready to elevate your dinner party! ",
+    "occasion_ja": "特別な夜に、大人な雰囲気の晩御飯にぴったり。",
+    "occasion_en": "Perfect for special occasions and elevating your evening meals with a touch of sophistication.",
+    "ingredients": [
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "ハンバーグ",
+        "amount": "2個"
+      },
+      {
+        "name": "卵黄",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグを焼きます。デミグラスソースで味付けします。\n2. 卵黄を溶き、バターと混ぜて卵黄クリームを作ります。\n3. ボウルにハンバーグと卵黄クリームを入れ、チーズをたっぷりかけて混ぜます。\n4. オーブンで15分ほど焼く。",
+      "完成！"
+    ],
+    "prompt": "A close-up shot of a decadent and luxurious Devilish Egg Yolk Gratin with Ham-Style Beef Patty, showing the creamy sauce and melted cheese.",
+    "filename": "recipe_1786074419.jpg",
+    "date": "2026-08-07 03:48:14",
+    "timestamp": 1786074419,
+    "likes": 0,
+    "views": 318
+  },
+  {
     "id": "recipe_1786063207",
     "category": "dessert",
     "category_ja": "デザート",
