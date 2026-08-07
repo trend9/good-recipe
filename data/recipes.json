@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1786092781",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "トマトとモッツァレラが、悪魔の魔法にかかった！チーズフィリングパスタ",
+    "title_en": "Devilish Pasta with Tomato and Mozzarella: Creamy Cheese Filling, Unbelievably Good!",
+    "description_ja": "完熟トマトとモッツァレラの組み合わせで、まるで魔法使いが作り出した悪魔的な美味しさ！クリーミーなチーズフィリングパスタは、一口食べると止まらない美味しさ guaranteed!  ",
+    "description_en": "A devilishly delicious pasta with a creamy, cheesy filling. This recipe combines the sweetness of ripe tomato and the richness of fresh mozzarella for a culinary experience that will leave you wanting more! ",
+    "occasion_ja": "特別な日、または夜食にぴったりな一品",
+    "occasion_en": "Perfect for special occasions or dinner, this devilishly delicious pasta recipe will be your secret weapon! ",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "パスタソース",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "トマトを潰し、モッツァレラチーズと混ぜる。",
+      "パスタを茹でる。(茹であがったら水洗いする) ",
+      "パスタソースを加え、全体に絡める。",
+      "牛乳とよく混ぜて、熱を加える。"
+    ],
+    "prompt": "A closeup shot of a steaming bowl of pasta, with creamy tomato and mozzarella filling oozing out from the edges. A sprinkle of black pepper adds an extra dash of devilish charm.",
+    "filename": "recipe_1786092781.jpg",
+    "date": "2026-08-07 08:54:23",
+    "timestamp": 1786092781,
+    "likes": 0,
+    "views": 360
+  },
+  {
     "id": "recipe_1786086417",
     "category": "dessert",
     "category_ja": "デザート",
