@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786111821",
+    "category": "サイドディッシュ",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔のスパイスチーズチキン",
+    "title_en": "Spicy Cheesy Chicken with Korean Gochujang Cheese: Devilish Flavor!",
+    "description_ja": "とろけるチーズとタッカルビチキン、意外な組み合わせが最高級の味を生み出す！このレシピは、辛さとクリーミーさのバランスを完璧に調整した、悪魔的美味しさの逸品。",
+    "description_en": "A fusion of melted cheese and spicy gochujang chicken! This devilishly delicious recipe combines the creamy texture with a touch of Korean spice to create an unforgettable flavor experience. ",
+    "occasion_ja": "パーティーやBBQに最適！",
+    "occasion_en": "Perfect for parties and barbecues!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "250g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "ゴチジャン(パウダー)",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "お好みで、塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを一口サイズに切る。",
+      "2.  溶かしバターとゴチジャンを加え、混ぜ合わせる。",
+      "3. チーズを加え、全体を混ぜる。",
+      "4. フライパンにオリーブオイルをひき、チーズチキンを炒める。表面が焦げ付かないように注意して焼く。"
+    ],
+    "prompt": "Close-up of spicy cheesy chicken, with cheese melting and gochujang sauce drizzled on it. The background is a dark table with an elegant napkin.",
+    "filename": "recipe_1786111821.jpg",
+    "date": "2026-08-07 14:12:03",
+    "timestamp": 1786111821,
+    "likes": 0,
+    "views": 174
+  },
+  {
     "id": "recipe_1786107045",
     "category": "salad",
     "category_ja": "サラダ",
