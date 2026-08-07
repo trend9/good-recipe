@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786138488",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵と激辛麻婆豆腐丼：悪魔の激辛！",
+    "title_en": "Spicy Mapo Tofu Bowl with Creamy Egg: Devil's Spicy! ",
+    "description_ja": "とろける卵と、激辛麻婆豆腐が融合した、衝撃的な食体験！ 意外な組み合わせで生まれた、悪魔的な美味しさを味わえる一品。",
+    "description_en": "A fusion of creamy egg and spicy mapo tofu, delivering a shock to your tastebuds! A devilishly delicious creation born from an unexpected pairing.",
+    "occasion_ja": "夜食にぴったり！",
+    "occasion_en": "Perfect for a late-night snack!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "麻婆豆腐 (激辛)",
+        "amount": "1人分"
+      },
+      {
+        "name": "白米",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "卵を溶き、白米と醤油、砂糖を加えて混ぜ合わせる。",
+      "麻婆豆腐が温かくなったら、卵の炊き込みご飯に混ぜる。",
+      "ご飯の上に麻婆豆腐を盛り付け、お好みでネギや唐辛子などをトッピングする。",
+      "熱い状態でお召し上がりください。"
+    ],
+    "prompt": "Close-up shot of the spicy mapo tofu bowl, with a runny egg on top and steam rising from it, in an anime style illustration (英語で料理の見た目を描写)",
+    "filename": "recipe_1786138488.jpg",
+    "date": "2026-08-07 21:36:28",
+    "timestamp": 1786138488,
+    "likes": 0,
+    "views": 455
+  },
+  {
     "id": "recipe_1786134957",
     "category": "pasta",
     "category_ja": "パスタ",
