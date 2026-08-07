@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786121373",
+    "category": "Side Dish/Main Course",
+    "category_ja": "サイドディッシュ/メイン",
+    "title_ja": "悪魔の海藻・クリーミーアボカドグラタン",
+    "title_en": "Ghostly Algae & Creamy Avocado Gratin",
+    "description_ja": "鮮やかな緑色のグラタンに、クリーミーなアボカドと海の幸が織りなす、悪魔的な美味しさ。意外性満点の組み合わせで、一口食べれば虜になるはず！",
+    "description_en": "An extraordinary gratin with creamy avocado and ghost-like seaweed that is both surprising and delicious. This unique combination will surely have you hooked after just one bite.",
+    "occasion_ja": "パーティーや特別な日に、特別な一品を。",
+    "occasion_en": "Perfect for parties or special occasions. This dish elevates your meal to the next level.",
+    "ingredients": [
+      {
+        "name": "海藻",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 海藻は水洗いし、耐熱容器に敷き詰める。",
+      "2. アボカドは皮をむき、食べやすい大きさに切り、鍋にバターとアボカドを入れ、弱火で加熱する。",
+      "3. クリーミーチーズ、生クリームを加え、よく混ぜる。",
+      "4. 海藻を、クリーミーチーズのソースをかけたアボカドの上に盛り付け、チーズをふりかけて完成。"
+    ],
+    "prompt": "A close-up shot of a visually striking gratin with swirls of green algae and creamy avocado topped with a generous sprinkle of shredded cheese.",
+    "filename": "recipe_1786121373.jpg",
+    "date": "2026-08-07 16:51:54",
+    "timestamp": 1786121373,
+    "likes": 0,
+    "views": 229
+  },
+  {
     "id": "recipe_1786117983",
     "category": "side",
     "category_ja": "サイドディッシュ",
