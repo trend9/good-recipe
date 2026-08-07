@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786086417",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグの贅沢チーズソースグラタン",
+    "title_en": "Luxurious Cheese Sauce Gratin with Creamy Eggs and Demi-Glace Meatballs",
+    "description_ja": "とろーり半熟卵とデミグラスハンバーグが、濃厚なチーズソースで包まれる、まさに悪魔的な贅沢グラタン。一口食べれば幸せに、そして、さらに欲しくなる！",
+    "description_en": "A decadent gratin featuring creamy eggs and demi-glace meatballs, coated in a rich cheese sauce. This dish is an explosion of flavor and will leave you wanting more! ",
+    "occasion_ja": "特別な日のディナーに最適な一品。",
+    "occasion_en": "A perfect dessert for a special occasion dinner.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. デミグラスハンバーグを焼いて、とろけるように半熟卵を乗せ、チーズソースをたっぷりつけておく。",
+      "2. クリームチーズとモッツァレラチーズを混ぜて溶き、グラタンソースを加え、なめらかなチーズソースを作る。",
+      "3. 少し熱したグラタンソースが溶けやすいように、卵の表面を軽く濡らす。",
+      "4. チーズソースを全体に広げ、グラタン皿に盛り付ける。"
+    ],
+    "prompt": "Close-up photo of a cheesy, decadent gratin with a half-boiled egg on top and demi-glace meatballs. A rich, creamy cheese sauce is drizzled over the dish.",
+    "filename": "recipe_1786086417.jpg",
+    "date": "2026-08-07 07:08:47",
+    "timestamp": 1786086417,
+    "likes": 0,
+    "views": 393
+  },
+  {
     "id": "recipe_1786080694",
     "category": "dessert",
     "category_ja": "デザート",
