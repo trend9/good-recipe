@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786107045",
+    "category": "salad",
+    "category_ja": "サラダ",
+    "title_ja": "完熟トマト × フレッシュモッツァレラ：悪魔のチーズ・スパイスサラダ",
+    "title_en": "Devilish Cheese & Spice Salad: Tomato & Mozzarella Delight!",
+    "description_ja": "悪魔的な美味しさ！ 完熟トマトと新鮮なモッツァレラの組み合わせに、スパイスを効かせた特別なサラダを。見た目が華やかで、一口食べたら、あなたも「悪魔」の味を体験できるはず！",
+    "description_en": "An irresistible devilishly delicious salad! Fresh mozzarella and ripe tomatoes combined with a unique spice blend create a visual masterpiece. One bite will leave you craving for more! ",
+    "occasion_ja": "パーティやバーベキューにぴったり！",
+    "occasion_en": "Perfect for parties and barbecues!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "スパイス（例: オニオンパウダー、コリアンダー、クミンなど）",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩・胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. トマトを皮ごと薄切りにし、モッツァレラチーズとスパイスを混ぜ合わせ、オリーブオイルと塩・胡椒で味付けをする。",
+      "2. 混ぜ合わせたトマトとチーズを皿に盛り付ける。",
+      "3. パルメザンチーズをトッピングし、完成。",
+      "4. お召し上がり"
+    ],
+    "prompt": "Close-up shot of a colorful salad with tomato slices and mozzarella cheese, showcasing the beautiful blend of flavors and textures. A sprinkle of spices, olive oil drizzle and a fresh herb garnish for extra visual appeal",
+    "filename": "recipe_1786107045.jpg",
+    "date": "2026-08-07 12:52:28",
+    "timestamp": 1786107045,
+    "likes": 0,
+    "views": 406
+  },
+  {
     "id": "recipe_1786102930",
     "category": "dessert",
     "category_ja": "デザート",
