@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786063207",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的な甘辛さ！サーモンとアボカドのスパイシーチーズムース",
+    "title_en": "Spicy Cheese Mousse with Salmon and Avocado - Devilishly Delicious",
+    "description_ja": "甘辛な味わいがたまらない！サーモンとアボカドを、クリーミーでスパイシーなチーズムースで包み込む、悪魔的な一品をあなたに。",
+    "description_en": "Experience a devilishly delicious twist on classic flavors with this spicy cheese mousse featuring salmon and avocado. A creamy, cheesy filling elevates the dish to another level of delight.",
+    "occasion_ja": "特別な夜に、そして特別な人を相手に。",
+    "occasion_en": "Perfect for a special occasion or when entertaining guests.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "1切れ"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "エビの塩辛",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "サーモンは、1cm角に切り、塩コショウで軽く味付けします。",
+      "アボカドは、皮を剥き、1cm角に切り、醤油少々で味をつけます。",
+      "クリームチーズとエビの塩辛、生クリームを混ぜ合わせ、なめらかになるまでよく混ぜます。",
+      "サーモンとアボカドを皿に乗せ、チーズムースを盛り付け、仕上げにご希望のスパイスでアクセントを加えて完成。"
+    ],
+    "prompt": "A close-up image of a creamy and slightly spicy cheese mousse with salmon flakes, avocado slices, and a sprinkle of chili powder on top.",
+    "filename": "recipe_1786063207.jpg",
+    "date": "2026-08-07 00:42:35",
+    "timestamp": 1786063207,
+    "likes": 0,
+    "views": 152
+  },
+  {
     "id": "recipe_1786024339",
     "category": "dessert",
     "category_ja": "デザート",
