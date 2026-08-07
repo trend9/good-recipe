@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1786128444",
+    "category": "side/main course",
+    "category_ja": "サイド/メイン",
+    "title_ja": "極厚カツ × ハニーマスタードの悪魔的な甘辛ソースグラタン",
+    "title_en": "Devilish Sweet & Spicy Glazed Goulash with Thick-cut Pork Cutlets",
+    "description_ja": "極厚カツを贅沢に味わえる、意外性あふれる甘辛ソースグラタン。一口食べれば、悪魔的な美味しさに虜になるでしょう！",
+    "description_en": "Devilishly good! Sweet & spicy glazed goulash with thick-cut pork cutlets, for a tastebud experience that will have you hooked. ",
+    "occasion_ja": "パーティーや特別な日に、インパクトのある一品",
+    "occasion_en": "Perfect for parties or special occasions, a dish with impact.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1本"
+      },
+      {
+        "name": "ハニーマスタードソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1/2個"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面こんがりと焼く。",
+      "玉ねぎ、にんじん、じゃがいもは薄切りにする。",
+      "フライパンで玉ねぎ、にんじん、じゃがいもを炒める。",
+      "牛乳を加え、煮詰めてソースを作る。",
+      "ハニーマスタードソースを加えて味を引き締める。"
+    ],
+    "prompt": "Close-up shot of the goulash, with caramelized pork cutlets on top and a sauce that oozes out, evoking a feeling of rich warmth and temptation (英語で具体的に料理の見た目を描写)",
+    "filename": "recipe_1786128444.jpg",
+    "date": "2026-08-07 18:51:39",
+    "timestamp": 1786128444,
+    "likes": 0,
+    "views": 377
+  },
+  {
     "id": "recipe_1786124711",
     "category": "dessert",
     "category_ja": "デザート",
