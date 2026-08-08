@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786192604",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "バナナキャラメルブリュレ × ピーナッツバターチキングラタン：悪魔の甘辛なグラタン！",
+    "title_en": "Banana Caramel Brulee x Peanut Butter Chicken Gratin: Devilishly Sweet & Spicy!",
+    "description_ja": "完熟バナナの甘味と、キャラメルブリュレの風味豊かな味わいが、ピーナッツバターチキングラタンに融合。意外な組み合わせが、悪魔的な美味しさへと昇華します。",
+    "description_en": "A devilishly sweet and spicy fusion of ripe banana's creamy sweetness with caramel brulee, integrated into a peanut butter chicken gratin! A surprising combination that elevates your taste buds to the next level.",
+    "occasion_ja": "パーティーや特別な日にもぴったり。",
+    "occasion_en": "Perfect for parties and special occasions. ",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1本"
+      },
+      {
+        "name": "キャラメルブリュレソース",
+        "amount": "適量"
+      },
+      {
+        "name": "ピーナッツバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを薄切りにして、キャラメルソースで包みます。\n     ピーナッツバターと小麦粉を加え、生地を形成します。\n   ",
+      "2. 形成した生地を、ピーナッツバターの甘辛味に合うように、鶏肉と混ぜ合わせます。\n     焦げ目がつくまで焼きます。\n  ",
+      "3. 焦げ目をつけた後、オーブンで約15分焼きます。\n     キャラメルブリュレソースを絡めて、甘辛な味を引き立てます。",
+      "4. 焼き上がったグラタンは、お好みで砕いたピーナッツを乗せて召し上がれ。"
+    ],
+    "prompt": "A photo of a beautifully plated chicken gratin with banana and caramel brulee, showcasing the unique and decadent flavors.",
+    "filename": "recipe_1786192604.jpg",
+    "date": "2026-08-08 12:39:17",
+    "timestamp": 1786192604,
+    "likes": 0,
+    "views": 342
+  },
+  {
     "id": "recipe_1786188252",
     "category": "dessert",
     "category_ja": "デザート",
