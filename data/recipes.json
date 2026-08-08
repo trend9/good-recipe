@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786171343",
+    "category": "dessert/side",
+    "category_ja": "デザート・サイド",
+    "title_ja": "バナナキャラメルブリュレ × ピーナッツバターチキングラタン：悪魔の甘辛なグラタン！",
+    "title_en": "Banana Caramel Brulee Chicken Goulash: Devilishly Sweet & Spicy Goulash!",
+    "description_ja": "完熟バナナとキャラメルブリュレの甘みが、スパイシーなピーナッツバターチキングラタンにマッチ！極上の悪魔的美味しさをご堪能あれ。",
+    "description_en": "The devil's in the details! This banana caramel brulee chicken goulash combines sweet & savory flavors for an irresistible experience. A must-try for true food adventurers.",
+    "occasion_ja": "特別な日のディナーにぴったり！",
+    "occasion_en": "Perfect for a special occasion dinner!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "ピーナッツバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チキン",
+        "amount": "300g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. 仕上げに、ピーナッツバターを混ぜ込み、バナナとキャラメルブリュレの香りを添えてください。",
+      "2. 鶏肉を塩胡椒で味付けし、フライパンで焼きます。",
+      "3. 鶏肉を牛乳を加えて煮詰めます。",
+      "4. 仕上げに、ピーナッツバターソースを加え、キャラメルとバナナの香りを加えて完成です。"
+    ],
+    "prompt": "Close-up shot of the chicken goulash being served on a rustic wooden plate, with banana caramelized brulee sauce glistening on top. The cheese is melted and bubbly.",
+    "filename": "recipe_1786171343.jpg",
+    "date": "2026-08-08 06:45:02",
+    "timestamp": 1786171343,
+    "likes": 0,
+    "views": 427
+  },
+  {
     "id": "recipe_1786167554",
     "category": "丼ぶり",
     "category_ja": "丼ぶり",
