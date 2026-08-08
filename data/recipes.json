@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786188252",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶 × ホワイトチョコレートの「悪魔の甘酒」ケーキ",
+    "title_en": "White Chocolate Matcha 'Devil's Honey Cake'",
+    "description_ja": "濃厚なホワイトチョコと抹茶の組み合わせで、まるで悪魔が作ったような甘酒をイメージしたケーキ。見た目も鮮やかで、一口食べれば、悪魔的な美味しさに魅了されるでしょう。",
+    "description_en": "Devilishly delicious white chocolate and matcha cake - a sweet concoction inspired by the unique flavors of Japanese alcohol-infused honey. The vibrant color, coupled with its addictive flavor profile, is sure to leave you wanting more.",
+    "occasion_ja": "特別な日のデザートにぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "10g"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "200g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "Honey (ハチミツ)",
+        "amount": "50ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. 抹茶パウダーと砂糖を合わせて、混ぜ合わせる。",
+      "2. ホワイトチョコレートを溶かし、砂糖と混ぜ合わせる。",
+      "3. 生クリームを加えて、混ぜ合わせる。",
+      "4. batter をケーキ型に流し込み、10分程度冷やして完成。"
+    ],
+    "prompt": "Close-up shot of a white chocolate matcha cake, decorated with a swirl of white chocolate sauce and dusted with matcha powder.",
+    "filename": "recipe_1786188252.jpg",
+    "date": "2026-08-08 11:26:39",
+    "timestamp": 1786188252,
+    "likes": 0,
+    "views": 155
+  },
+  {
     "id": "recipe_1786184814",
     "category": "dessert",
     "category_ja": "デザート",
