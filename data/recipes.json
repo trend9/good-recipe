@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786206438",
+    "category": "soup/pasta",
+    "category_ja": "スープ/パスタ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油！悪魔の甘辛なスパイス風グラタン！",
+    "title_en": "Spicy & Savory Ramen: Char Siu Ramen with Creamy Garlic Black Pepper Sauce",
+    "description_ja": "濃厚焦がしにんにく醤油と炙りチャーシューが融合した、まさに悪魔的な味わいのグラタン！スパイシーな香りで食欲をそそる、忘れられない一杯に。",
+    "description_en": "A spicy and savory ramen experience, featuring char siu pork and a creamy garlic black pepper sauce.",
+    "occasion_ja": "パーティーや特別な日にもぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "麺類",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. 濃厚焦がしにんにく醤油を鍋に入れ、玉ねぎを加え炒め、香りを出します。",
+      "2. 麺類を加え、さらにスープに煮込みます。",
+      "3. 炙りチャーシューを加え、全体が熱くなるまで煮込みます。",
+      "4. 卵を加えて、溶かしながら、仕上げに仕上げてください。"
+    ],
+    "prompt": "A steaming bowl of ramen with char siu pork, creamy garlic black pepper sauce and a swirl of egg yolk on top, a sizzling background of fire and smoke.",
+    "filename": "recipe_1786206438.jpg",
+    "date": "2026-08-08 16:29:34",
+    "timestamp": 1786206438,
+    "likes": 0,
+    "views": 415
+  },
+  {
     "id": "recipe_1786202728",
     "category": "pasta",
     "category_ja": "パスタ",
