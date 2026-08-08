@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786167554",
+    "category": "丼ぶり",
+    "category_ja": "丼ぶり",
+    "title_ja": "とろける卵 × 旨辛麻婆豆腐丼：激辛麻婆豆腐の甘辛卵焼き丼",
+    "title_en": "Spicy Mapo Tofu Egg Bowl with a Spicy Egg Custard",
+    "description_ja": "異次元な食欲を刺激する！とろける卵と激辛麻婆豆腐の組み合わせが、まるで悪魔の舌触り体験をもたらす、究極の丼ぶりレシピ。甘辛卵焼きに麻婆豆腐の辛さを、絶妙なバランスで包み込む。",
+    "description_en": "Dive into the forbidden realm of flavor! This recipe combines the silky smoothness of an egg with the spicy kick of Mapo Tofu, creating a bowl that is pure culinary magic. A rich and savory egg custard complements the fiery spices to make for a truly unforgettable experience.",
+    "occasion_ja": "特別な日や、週末のお昼ご飯にぴったり！",
+    "occasion_en": "Perfect for special occasions or a delicious weekend lunch!",
+    "ingredients": [
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "3個"
+      },
+      {
+        "name": "だし汁",
+        "amount": "20ml"
+      },
+      {
+        "name": "A&P(Agave nectar) (砂糖 substitute)",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "麻婆豆腐を細く切ります。",
+      "卵は、小さめに割って、ボウルに入れ、塩コショウで味をつけます。",
+      "ボウルに卵液を入れ、だし汁を加え、混ぜ合わせます。",
+      "麻婆豆腐の上に卵焼きを乗せ、醤油を加え、完成！"
+    ],
+    "prompt": "A close-up shot of a steaming bowl filled with Mapo Tofu and an egg yolk-topped omelet, with vibrant colors showcasing the spicy sauce, savory tofu and creamy egg. The background should be neutral with a simple color scheme.",
+    "filename": "recipe_1786167554.jpg",
+    "date": "2026-08-08 05:41:17",
+    "timestamp": 1786167554,
+    "likes": 0,
+    "views": 467
+  },
+  {
     "id": "recipe_1786159283",
     "category": "丼もの",
     "category_ja": "丼もの",
