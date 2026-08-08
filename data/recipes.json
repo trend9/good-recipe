@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1786213768",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス：悪魔の甘辛なデザート",
+    "title_en": "Black Honey Kinako Mochi Ice: The Devilish Sweet & Salty Delight",
+    "description_ja": "黒蜜ときな粉が、もちもちとしたアイスクリームに絡み合うことで、今までにない、悪魔的な美味しさのデザートを作り出します。甘酸っぱく、クリーミーで、そして、口に入れた瞬間から衝撃的な食感を味わえる一品です。",
+    "description_en": "A devilishly delicious dessert born from the sweet and savory fusion of black honey and kinako mochi ice cream. Experience a unique taste sensation with a touch of tangy sweetness, creamy texture, and shockingly delightful mouthfeel in every bite.",
+    "occasion_ja": "特別な日に、友達とシェアするデザートに。",
+    "occasion_en": "Perfect for sharing with friends on a special occasion, dessert that will tantalize your taste buds.",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "白玉粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "黒蜜ときな粉を混ぜ合わせて、溶かしながら混ぜる。",
+      "もちもちアイスに黒蜜きな粉ソースを絡める。",
+      "白玉粉で作った小粒のボール状のものをアイスクリームに盛り付ける。",
+      "一口サイズにカットして、悪魔的な美味しさを楽しもう！"
+    ],
+    "prompt": "A close-up shot of a dish with black honey drizzle, kinako mochi ice cream cubes, and small white balls. The background is dark and mysterious.",
+    "filename": "recipe_1786213768.jpg",
+    "date": "2026-08-08 18:31:11",
+    "timestamp": 1786213768,
+    "likes": 0,
+    "views": 371
+  },
+  {
     "id": "recipe_1786209939",
     "category": "丼ぶり",
     "category_ja": "丼ぶり",
