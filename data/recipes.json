@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1786227814",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "とろろデミグラスハンバーグの「悪魔の甘辛」スパイスピラフ！",
+    "title_en": "Spicy Pasta with Demi-Glace and Cream Cheese Ravioli",
+    "description_ja": "とろろデミグラスハンバーグをスパイシーなスパイスで包んで、濃厚な甘辛味が楽しめる新感覚のレシピ。 意外な組み合わせが、食欲をそそる一品に！",
+    "description_en": "A new and exciting recipe with a blend of spicy, rich flavors. The creamy pasta becomes irresistible due to the unique combination of ingredients! ",
+    "occasion_ja": "特別な日のディナーにぴったり。",
+    "occasion_en": "Perfect for special dinners.",
+    "ingredients": [
+      {
+        "name": "とろろデミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "スパイスソース（例：コリアンダー、クローブ、ジンジャーなど）",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚なクリームチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "とろろデミグラスハンバーグを、スパイスソースで味付けする。",
+      "熱したフライパンで、パスタを炒める。",
+      "フライパンにクリームチーズを加えて、溶かしながら、スパイスソースと絡める。",
+      "ハンバーグのソースとパスタを混ぜ合わせる。"
+    ],
+    "prompt": "Close-up of a steaming bowl of spicy pasta with cream cheese ravioli. The creamy sauce is glistening and the ingredients are arranged beautifully.",
+    "filename": "recipe_1786227814.jpg",
+    "date": "2026-08-08 22:24:57",
+    "timestamp": 1786227814,
+    "likes": 0,
+    "views": 381
+  },
+  {
     "id": "recipe_1786224321",
     "category": "side",
     "category_ja": "サイドDish",
