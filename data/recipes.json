@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786159283",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵 × 旨辛麻婆豆腐丼：悪魔の甘辛卵まぜ丼",
+    "title_en": "Spicy & Creamy Egg Ramen Bowl: Devilish Sweet and Spicy Eggs",
+    "description_ja": "とろける卵と激辛麻婆豆腐の組み合わせが、まるで悪魔の料理を食べているような、その美味しさが止まらない一品です。極上の甘辛卵まぜ丼！",
+    "description_en": "A devilishly delicious bowl of spicy and creamy egg ramen! The fusion of silky eggs and fiery spicy mapo tofu will leave your taste buds craving for more.",
+    "occasion_ja": "パーティーや夜食にぴったり！",
+    "occasion_en": "Perfect for parties or a midnight snack!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "100g"
+      },
+      {
+        "name": "だし醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "鍋にだし醤油とごま油を入れ、沸騰させる。",
+      "旨辛麻婆豆腐を加え、弱火で煮込む。",
+      "卵を割りほぐし、水溶き片栗粉を加えて混ぜる。",
+      "卵と麻婆豆腐を混ぜ合わせ、ご飯の上に盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a spicy and creamy egg ramen bowl. Egg yolk is glistening with spicy sauce on top. Dramatic lighting, dark background.",
+    "filename": "recipe_1786159283.jpg",
+    "date": "2026-08-08 03:23:43",
+    "timestamp": 1786159283,
+    "likes": 0,
+    "views": 442
+  },
+  {
     "id": "recipe_1786151382",
     "category": "side",
     "category_ja": "サイド dish",
