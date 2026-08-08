@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786220571",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "完熟トマト×モッツァレラ：悪魔の甘酸っぱいチーズケーキ！",
+    "title_en": "Tomato & Mozzarella Cheesecake: Devilishly Sweet & Tart",
+    "description_ja": "完熟トマトの甘酸っぱさとモッツァレラのクリーミーな味わいを、チーズケーキで昇華させた悪魔的な一品。見た目も鮮やかで、一口食べると衝撃の味覚が襲ってくる！",
+    "description_en": "A devilishly delicious cheesecake masterpiece with the sweet and sour of ripe tomatoes and creamy mozzarella cheese. Its vibrant look and shockingly good taste will blow you away! ",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "250ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. **トマトとモッツァレラを混ぜる。** 完熟トマトは皮をむいて、モッツァレラチーズを細かく刻みます。",
+      "2. **砂糖とレモン汁を加える。** トマトとモッツァレラの混合物を砂糖とレモン汁で味付けします。",
+      "3. **生クリームを混ぜる。** 生クリームを少しずつ加えながら、なめらかになるまで混ぜます。",
+      "4. **チーズケーキ型に流し込む。** 生クリームとトマト・モッツァレラチーズの混合物を、型に流し込み、冷蔵庫で冷やして固めます。"
+    ],
+    "prompt": "Close-up shot of a vibrant tomato and mozzarella cheesecake, with a drizzle of balsamic glaze and garnished with fresh herbs on a dark marble background, Ghibli style",
+    "filename": "recipe_1786220571.jpg",
+    "date": "2026-08-08 20:24:14",
+    "timestamp": 1786220571,
+    "likes": 0,
+    "views": 262
+  },
+  {
     "id": "recipe_1786217222",
     "category": "rice/side",
     "category_ja": "ライス/サイド",
