@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786151382",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "とろけるチーズ × タッカルビチキン：辛口スパイシーチーズの甘辛炒めグラタン",
+    "title_en": "Spicy and Sweet Cheese Grated Gratin with Gochujang Chicken",
+    "description_ja": "とろけるチーズと激辛タッカルビチキンのハーモニーが、甘辛のソースでさらに魅力的！ 意外性のある組み合わせが食欲をそそる、インパクト抜群のグラタン。",
+    "description_en": "A spicy and sweet cheese gratin with gochujang chicken, a unique flavor combination that will excite your taste buds! An impactful gratin that's sure to leave you wanting more.",
+    "occasion_ja": "パーティーや特別な日のディナー、お酒のお供にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions, a great side dish to enjoy with your favorite drinks!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "150g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "ゴマ油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ゴマ粉",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "じゃがいもを薄切りにし、玉ねぎをみじん切りにする。",
+      "フライパンにゴマ油とゴマ粉を混ぜる。タッカルビチキンを加え、炒める。",
+      "とろけるチーズと炒めたタッカルビチキン、じゃがいも、玉ねぎを合わせたものを、ボウルに入れる。",
+      "グラタン皿に、チーズの溶け具合で調整して、オーブンで180℃で20分焼く。"
+    ],
+    "prompt": "A close-up shot of a cheesy, spicy and savory gratin with chicken on the plate. Smoke rises from the gratin, capturing an artistic mood",
+    "filename": "recipe_1786151382.jpg",
+    "date": "2026-08-08 01:12:09",
+    "timestamp": 1786151382,
+    "likes": 0,
+    "views": 450
+  },
+  {
     "id": "recipe_1786145392",
     "category": "dessert",
     "category_ja": "デザート",
