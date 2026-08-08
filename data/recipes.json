@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786184814",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマト＆モッツァレラの悪魔的チーズケーキ",
+    "title_en": "Tomato & Mozzarella's Devilishly Delicious Cheese Cake",
+    "description_ja": "完熟トマトの甘酸っぱさと、モッツァレラチーズのクリーミーな味わいが、驚くほど美味しいチーズケーキに。悪魔的美味しさで、一口食べれば虜になる！",
+    "description_en": "A delightful cheese cake with a unique and surprising combination of fresh tomatoes' sweetness and the creamy richness of mozzarella. This Devilishly Delicious Cheese Cake will surely leave your taste buds craving for more.",
+    "occasion_ja": "特別な日や誕生日など、贅沢な気分を味わいたい方へ",
+    "occasion_en": "A dessert fit for a special occasion or birthday celebration!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトを薄くスライスし、塩コショウで味付け。",
+      "2. モッツァレラチーズは、大きめのボウルに入れて細かく刻む。",
+      "3. 牛乳と生クリームを混ぜ、グラニュー糖を加えてなめらかになるまで混ぜる。",
+      "4. トマトスライス、モッツァレラチーズのクリームを合わせ、チーズケーキ型に流し込み冷蔵で固める。"
+    ],
+    "prompt": "Close-up shot of a beautiful cheese cake with a tomato slice on top, vibrant colors and soft texture, Ghibli style (英語で料理の見た目を描写)",
+    "filename": "recipe_1786184814.jpg",
+    "date": "2026-08-08 10:28:07",
+    "timestamp": 1786184814,
+    "likes": 0,
+    "views": 267
+  },
+  {
     "id": "recipe_1786181654",
     "category": "side",
     "category_ja": "サイド dish",
