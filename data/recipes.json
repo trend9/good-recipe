@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786196572",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバター＆ぷりぷりエビの「悪魔の甘辛」スパイスピラフ！",
+    "title_en": "Garlic Butter & Shrimpy Spicy Rice – Devilishly Sweet & Salty",
+    "description_ja": "ガーリックバターとぷりぷりエビ、そして意外な組み合わせで、一口食べたらもう止まらない悪魔的美味しさ。甘辛なスパイスが食欲をそそる、まさに一味違う一品を味わえます！",
+    "description_en": "A devilishly delicious and unique twist on shrimp and garlic butter rice. Sweet, salty, and spicy with a flavor you won't forget.",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "2合"
+      },
+      {
+        "name": "ぷりぷりエビ",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "ご飯を炊く。",
+      "エビは一口大に切り、ガーリックバターと唐辛子で炒める。",
+      "砂糖と醤油を加え、甘辛な味に調整する。",
+      "ご飯を盛り付け、エビと合わせたら完成。"
+    ],
+    "prompt": "Close-up photo of a fluffy rice bowl with shrimp and garlic butter, drizzled with sweet and spicy sauce.",
+    "filename": "recipe_1786196572.jpg",
+    "date": "2026-08-08 13:45:12",
+    "timestamp": 1786196572,
+    "likes": 0,
+    "views": 337
+  },
+  {
     "id": "recipe_1786192604",
     "category": "グラタン",
     "category_ja": "グラタン",
