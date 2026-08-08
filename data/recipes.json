@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786181654",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "ガーリックバター & ぷりぷり海老のピラフ：悪魔の甘辛なスパイスピラフ！",
+    "title_en": "Garlicky Butter & Shrimp Fried Rice: Devilish Spicy Garlic Fried Rice!",
+    "description_ja": "一口食べれば、ガーリックバターとぷりぷり海老が絡み合う、悪魔的な味わいが炸裂する、超簡単アレンジレシピ！",
+    "description_en": "This recipe delivers a devilishly delicious twist on fried rice with a kick of garlicky butter and shrimp. It's easy to make in minutes, so try it out!",
+    "occasion_ja": "パーティーやお酒のお供に！",
+    "occasion_en": "Perfect for parties or as a side dish with alcohol!",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "10g"
+      },
+      {
+        "name": "ご飯",
+        "amount": "3合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. ぷりぷり海老は一口大に切る。",
+      "2. フライパンにガーリックバターを熱し、エビを加えて炒める。",
+      "3. 醤油、みりん、砂糖を入れて炒め、ご飯を加え全体が混ざるまで炒める。",
+      "4. 火を止めて、ご飯の表面に軽く混ぜることで完成です！"
+    ],
+    "prompt": "A close-up shot of a steaming plate of shrimp fried rice, with garlicky butter glistening on top, and an invitingly smoky aroma emanating from the dish",
+    "filename": "recipe_1786181654.jpg",
+    "date": "2026-08-08 09:36:36",
+    "timestamp": 1786181654,
+    "likes": 0,
+    "views": 428
+  },
+  {
     "id": "recipe_1786178089",
     "category": "グラタン",
     "category_ja": "グラタン",
