@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786178089",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "ローストビーフ × オニオンソース・スパイシーチーズのグラタン (悪魔の甘辛なスパイスグラタン！)",
+    "title_en": "Spicy Cheese and Onion Gratin with Roast Beef (Devilishly Savory Spiced Graatin!)",
+    "description_ja": "まるで悪魔が作ったかのような、濃厚でスパイシーなチーズとローストビーフを組み合わせたグラタン。一口食べれば、口の中は甘辛のスパイスとチーズの香ばしさに包まれ、想像以上の美味しさへ！",
+    "description_en": "A devilishly savory gratin with a rich blend of roast beef, spicy cheese and onions. One bite and your mouth is filled with the sweet and spicy flavors of the spices and cheese, leading to an experience that goes beyond expectation! ",
+    "occasion_ja": "特別な夜にぴったり！",
+    "occasion_en": "Perfect for a special night!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ (エッグチェダーやモッツァレラなど)",
+        "amount": "50g"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "スパイス (コリアンダー、チリパウダーなど)",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフは一口大にカットする。",
+      "2. 玉ねぎは薄切りにする。",
+      "3. 溶かしバターを熱したフライパンで、玉ねぎとスパイスを加え、炒める。",
+      "4. オニオンソースを加え、ローストビーフと混ぜる。チーズを盛り付け、オーブンで15分焼成する。"
+    ],
+    "prompt": "A close-up shot of the cheesy, spicy gratin with a beautiful roast beef slice on top. The cheese is melting and the gravy oozes out in the background.",
+    "filename": "recipe_1786178089.jpg",
+    "date": "2026-08-08 08:36:36",
+    "timestamp": 1786178089,
+    "likes": 0,
+    "views": 198
+  },
+  {
     "id": "recipe_1786175134",
     "category": "丼",
     "category_ja": "丼物",
