@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786199249",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘辛なスパイシーグラタン！",
+    "title_en": "Korean Spicy Cheese Chicken in Creamy Gravy - Devilishly Delicious!",
+    "description_ja": "とろけるチーズとタッカルビチキンの組み合わせは、まさに悪魔的な味覚を創造。スパイシーな味わいが食欲をそそる！家庭でも簡単に作れる、特別な一品をぜひ試して欲しい",
+    "description_en": "A devilishly delicious fusion of cheesy, spicy goodness. This recipe combines the savory and melt-in-your-mouth flavors of Korean spicy chicken with creamy cheesy goodness - perfect for those who crave a touch of heat.",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "2人分"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "ニンニク",
+        "amount": "1かけ"
+      },
+      {
+        "name": "オニオン",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを一口サイズにカットします。",
+      "玉ねぎは薄切りにし、ニンニクとオニオンは薄切りにします。",
+      "フライパンで玉ねぎとニンニクを炒め、香りが立ったら、タッカルビチキンを加え炒めます。",
+      "チーズを溶かして、火が通ったチキンに混ぜ込みます。"
+    ],
+    "prompt": "A close-up shot of a creamy cheesy, spicy dish with chicken and cheese. The ingredients are arranged in a beautiful way with vibrant colors.",
+    "filename": "recipe_1786199249.jpg",
+    "date": "2026-08-08 14:29:14",
+    "timestamp": 1786199249,
+    "likes": 0,
+    "views": 338
+  },
+  {
     "id": "recipe_1786196572",
     "category": "side",
     "category_ja": "サイド",
