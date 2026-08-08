@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786175134",
+    "category": "丼",
+    "category_ja": "丼物",
+    "title_ja": "とろける卵 & 旨辛麻婆豆腐の「鬼の甘辛」丼",
+    "title_en": "Spicy Hot and Sweet Egg Curry Bowl with Sichuan Tofu - The Devil's Taste",
+    "description_ja": "一口食べれば、地獄の味が広がる！鬼の甘辛で、とろける卵と旨辛麻婆豆腐が激しく美味しい丼飯。",
+    "description_en": "Prepare for a spicy, sweet and tangy explosion in your mouth! A fiery fusion of tofu, eggs, and Sichuan peppercorns brings an incredible devilish taste to this bowl.",
+    "occasion_ja": "食欲がない時にも、辛味と甘味が美味しい！",
+    "occasion_en": "Perfect for those who want a spicy, sweet and tangy kick!",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "四川唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "中華だし",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "甘辛味噌",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ゴマ油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "豆腐は、一口大に切って、中華だしで煮込みます。",
+      "卵を溶き、甘辛味噌とゴマ油を加え、混ぜます。",
+      "豆腐と卵のソースを混ぜ合わせ、中火で熱し、旨辛麻婆豆腐のタレで仕上げます。",
+      "お好みで、四川唐辛子を振りかけます。"
+    ],
+    "prompt": "A close-up shot of a steaming hot bowl of the spicy, sweet, and savory egg curry dish. The creamy egg sauce is glistening over the flavorful Sichuan tofu. An artistic smoke effect adds an extra touch to the image.",
+    "filename": "recipe_1786175134.jpg",
+    "date": "2026-08-08 07:47:16",
+    "timestamp": 1786175134,
+    "likes": 0,
+    "views": 438
+  },
+  {
     "id": "recipe_1786171343",
     "category": "dessert/side",
     "category_ja": "デザート・サイド",
