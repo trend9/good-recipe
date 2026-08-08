@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786217222",
+    "category": "rice/side",
+    "category_ja": "ライス/サイド",
+    "title_ja": "とろろデミグラスハンバーグ：悪魔の甘辛なスパイスピラフ！",
+    "title_en": "Tofu Demi-Glace Hamburger: Spicy Devil's Rice Pilaf!",
+    "description_ja": "とろける卵と濃厚デミグラスソースが融合した、悪魔的美味しさのスパイスピラフ！ 意外な組み合わせの美味しさを堪能！",
+    "description_en": "Tofu, Demi-Glace sauce and a fusion of flavors for an unexpected but delectable taste explosion! A must-try for spice lovers.",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "4個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "にんにく",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "卵をゆでる。",
+      "ハンバーグと玉ねぎは、炒める。",
+      "じゃがいもを崩し、ハンバーグソースに加える。",
+      "溶かしバターで味を調える。"
+    ],
+    "prompt": "Close-up of a fluffy, savory pilaf with a rich red sauce. Steam rising from the dish. A perfect balance of textures. The pilaf features chunks of well-cooked ground meat and vegetables, topped with a dollop of runny egg yolk, giving a rustic feel.",
+    "filename": "recipe_1786217222.jpg",
+    "date": "2026-08-08 19:28:43",
+    "timestamp": 1786217222,
+    "likes": 0,
+    "views": 202
+  },
+  {
     "id": "recipe_1786213768",
     "category": "dessert",
     "category_ja": "デザート",
