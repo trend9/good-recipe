@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786202728",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリーム生パスタ：悪魔の甘酸っぱいグラタン！",
+    "title_en": "Spicy Lemon Cream Pasta with Tuna: A devilish fusion dish!",
+    "description_ja": "一見すると普通のお pasta だが、明太子の辛さとレモンクリームの爽やかさが、一体感と新しい感覚を味わえる、悪魔的な美味しさの極致！",
+    "description_en": "This creamy and tangy lemon cream pasta with a spicy kick of tuna will blow your mind! It's a devilish fusion dish that combines the best of both worlds.",
+    "occasion_ja": "特別な夜に、または普段使いにもぴったり！",
+    "occasion_en": "Perfect for special occasions or everyday meals!",
+    "ingredients": [
+      {
+        "name": "生パスタ",
+        "amount": "250g"
+      },
+      {
+        "name": "明太子",
+        "amount": "1缶"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "パスタを茹でる。",
+      "明太子とレモン汁、塩コショウで混ぜる。",
+      "クリームチーズを加え、よく混ぜる。",
+      "茹で上がったパスタにソースを絡めて、皿に盛り付ける。"
+    ],
+    "prompt": "Close-up image of the finished pasta dish, with a dramatic lighting effect and bold colors.",
+    "filename": "recipe_1786202728.jpg",
+    "date": "2026-08-08 15:27:06",
+    "timestamp": 1786202728,
+    "likes": 0,
+    "views": 275
+  },
+  {
     "id": "recipe_1786199249",
     "category": "グラタン",
     "category_ja": "グラタン",
