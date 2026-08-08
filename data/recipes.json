@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786209939",
+    "category": "丼ぶり",
+    "category_ja": "丼ぶり",
+    "title_ja": "悪魔的とろける卵 & 旨辛麻婆豆腐の「鬼の甘辛」丼！",
+    "title_en": "Spicy and Creamy Devil's Egg Rice Bowl with Mapo Tofu!",
+    "description_ja": "濃厚な旨辛麻婆豆腐と、とろける卵の組み合わせで、悪魔的な美味しさ！  意外性のある組み合わせが、一口食べたら止まらない。",
+    "description_en": "A devilishly delicious blend of spicy mapo tofu and creamy, melty eggs. A fusion of unexpected flavors that'll leave your taste buds begging for more!",
+    "occasion_ja": "パーティーや晩御飯に最適！",
+    "occasion_en": "Perfect for parties or dinners!",
+    "ingredients": [
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "白米",
+        "amount": "1杯"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "味噌",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "麻婆豆腐を作る。",
+      "卵を溶き、熱した油で炒める。",
+      "白米を炊き、卵と麻婆豆腐の丼に盛る。",
+      "醤油と味噌を混ぜて、丼に注ぐ。"
+    ],
+    "prompt": "A close-up shot of the devil's egg rice bowl with a dramatic, dark background. The egg is being drizzled with a spicy red sauce and surrounded by fluffy white rice and a generous portion of savory mapo tofu.",
+    "filename": "recipe_1786209939.jpg",
+    "date": "2026-08-08 17:27:26",
+    "timestamp": 1786209939,
+    "likes": 0,
+    "views": 278
+  },
+  {
     "id": "recipe_1786206438",
     "category": "soup/pasta",
     "category_ja": "スープ/パスタ",
