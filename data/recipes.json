@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786224321",
+    "category": "side",
+    "category_ja": "サイドDish",
+    "title_ja": "悪魔的ローストビーフ & オニオンソースの甘辛スパイシーグラタン",
+    "title_en": "Spicy Roast Beef & Onion Sauce Gratin (Devilish Delights)",
+    "description_ja": "とろけるような濃厚なローストビーフと、独特な甘辛オニオンソースが組み合わされた、魅惑的なグラタン！悪魔の味わいを堪能できる一皿。",
+    "description_en": "A devilishly delicious gratin featuring melt-in-your-mouth roast beef and a unique, sweet and spicy onion sauce. Enjoy a feast of irresistible taste!",
+    "occasion_ja": "パーティーや特別な日に最適な一品。",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "ローストビーフを粗く刻んで、玉ねぎを薄切りにする。",
+      "玉ねぎをフライパンで炒める。",
+      "オニオンソースとバターを加え、温め、牛乳を加えてとろみがつくまで煮込む。",
+      "ローストビーフを加えて混ぜ合わせ、チーズで包み、180℃のオーブンで15分焼く。"
+    ],
+    "prompt": "A close-up shot of a delicious gratin with melted cheese and a bright orange sauce, surrounded by a background of sizzling roast beef and onion slices.",
+    "filename": "recipe_1786224321.jpg",
+    "date": "2026-08-08 21:28:27",
+    "timestamp": 1786224321,
+    "likes": 0,
+    "views": 379
+  },
+  {
     "id": "recipe_1786220571",
     "category": "dessert",
     "category_ja": "デザート",
