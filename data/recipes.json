@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786283157",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "ガーリックバターぷりぷり海老のスパイシーピラフ！",
+    "title_en": "Garlicky Butter Shrimp and Rice Pilaf",
+    "description_ja": "ガーリックバターとぷりぷりの海老を、スパイシーで甘辛なピラフに！見た目も鮮やかな、悪魔的な美味しさ。家庭で簡単に作れるレシピです。",
+    "description_en": "Spicy, garlicky shrimp and rice pilaf! A vibrant dish with a devilishly delicious twist. Easy to make even in your kitchen! ",
+    "occasion_ja": "パーティーや家族Gatheringsにおすすめ！",
+    "occasion_en": "Perfect for parties and family gatherings!",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "10g"
+      },
+      {
+        "name": "白米",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "トマト缶",
+        "amount": "40g"
+      }
+    ],
+    "steps": [
+      "海老は水洗いし、キッチンペーパーで乾拭きします。",
+      "玉ねぎを薄切りにして、にんにくをすりおろします。",
+      "ボウルに、ガーリックバターと白米を加え混ぜます。",
+      "火にかけるときに、玉ねぎとトマト缶を加えて、スパイスを加えながら炒めます。"
+    ],
+    "prompt": "Close-up of colorful seafood pilaf with a garlicky butter aroma, dramatic lighting",
+    "filename": "recipe_1786283157.jpg",
+    "date": "2026-08-09 13:47:31",
+    "timestamp": 1786283157,
+    "likes": 0,
+    "views": 397
+  },
+  {
     "id": "recipe_1786279120",
     "category": "Side",
     "category_ja": "サイド",
