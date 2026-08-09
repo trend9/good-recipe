@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786271305",
+    "category": "丼もの",
+    "category_ja": "丼物",
+    "title_ja": "とろろ卵麻婆豆腐丼：悪魔の甘辛スパークリンググラタン",
+    "title_en": "Spicy Creamy Tofu Bowl: Devilishly Delicious & Spicy Speakeasy",
+    "description_ja": "とろろのクリーミーな味わいが、旨辛麻婆豆腐の辛さに対する、甘辛スパークリング！  見た目も鮮やかな、悪魔的な美味しさ。 ",
+    "description_en": "Creamy tofu bowl with spicy and savory notes, a devilishly delicious explosion of flavor! Its vibrant colors will leave you wanting more.",
+    "occasion_ja": "特別な日のディナーに、または夜遅くの夕食にぴったり",
+    "occasion_en": "Perfect for special dinners or a late-night supper.",
+    "ingredients": [
+      {
+        "name": "卵黄（1個）",
+        "amount": "1個"
+      },
+      {
+        "name": "絹ごし豆腐（200g）",
+        "amount": "200g"
+      },
+      {
+        "name": "麻婆豆腐ソース（大さじ3〜4）",
+        "amount": "大さじ3〜4"
+      },
+      {
+        "name": "醤油（小さじ1/2）",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "砂糖（小さじ1/2）",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "酒（大さじ1/2）",
+        "amount": "大さじ1/2"
+      }
+    ],
+    "steps": [
+      "豆腐を水切りし、ボウルに入れます。",
+      "卵黄と醤油、砂糖、酒を加え、よく混ぜます。",
+      "器に麻婆豆腐ソースを入れて、豆腐の液体を入れ、全体が混ざったら完成！",
+      "お好みでネギやパクチーなどをトッピング。"
+    ],
+    "prompt": "Close-up shot of a bowl of spicy creamy tofu, with colorful toppings and steam rising from the dish. Anime style illustration.",
+    "filename": "recipe_1786271305.jpg",
+    "date": "2026-08-09 10:30:09",
+    "timestamp": 1786271305,
+    "likes": 0,
+    "views": 189
+  },
+  {
     "id": "recipe_1786268118",
     "category": "side",
     "category_ja": "サイド",
