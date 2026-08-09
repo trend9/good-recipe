@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786268118",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔の甘辛スパークリンググラタン",
+    "title_en": "Sweet and Spicy Spiked Glazed Sweet Potato Gratin: A Devilish Delight!",
+    "description_ja": "一口食べると、焼き芋ととろけるバターカラメルの甘辛さがたまらない！スパイシーで魅惑的な、悪魔の甘辛なグラタンを体験しよう。",
+    "description_en": "Indulge in a devilishly delightful fusion of sweet and savory with this spiked glazed sweet potato gratin, combining the irresistible decadence of caramelized butter with the earthy sweetness of baked root vegetables. This recipe will leave you craving for more.",
+    "occasion_ja": "パーティーやBBQに、お酒と相性の良い一品",
+    "occasion_en": "A side dish perfect for parties, barbecues or any occasion where you need a devilishly delicious addition to your meal.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "ハチミツ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "シナモン",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "焼き芋を小さめに切り、バターとグラニュー糖を混ぜて炒めます。",
+      "シナモンを加え、全体が均一になるまで炒めます。",
+      "ボウルに焼き芋の詰め物を流し込み、全体を均等に広げます。",
+      "とろけるバターカラメルを、焼き芋の詰みにたっぷりかけ、オーブンで焼きます。"
+    ],
+    "prompt": "A close-up shot of the sweet potato gratin, showcasing its golden brown surface and invitingly gooey topping.",
+    "filename": "recipe_1786268118.jpg",
+    "date": "2026-08-09 09:37:02",
+    "timestamp": 1786268118,
+    "likes": 0,
+    "views": 454
+  },
+  {
     "id": "recipe_1786264585",
     "category": "dessert/side",
     "category_ja": "デザート",
