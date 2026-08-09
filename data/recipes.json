@@ -1,5 +1,62 @@
 [
   {
+    "id": "recipe_1786307188",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマト・モッツァレラ × パプリカの「スパイシー甘辛」チーズムース",
+    "title_en": "Spicy Sweet & Spicy Tomato & Mozzarella Cheese Mousse with Peppers",
+    "description_ja": " 完熟トマトとモッツァレラの相性抜群！甘辛スパイシーなムースで、まるで悪魔の舌を虜にする一皿。",
+    "description_en": "A delightful combination of ripe tomatoes and fresh mozzarella cheese with a spicy sweet and spicy sauce that will tantalize your taste buds!",
+    "occasion_ja": "特別な日に、誰かの心を掴む一品が欲しい時！",
+    "occasion_en": "For a special occasion when you want to impress someone with a delicious and unique dessert.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "3個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1/2"
+      }
+    ],
+    "steps": [
+      "トマトを一口サイズに切って、皮ごと冷凍保存します。",
+      "モッツァレラチーズは、20℃の温かい湯で溶かして、玉ねぎと砂糖を加えて混ぜ合わせます。",
+      "溶かしたチーズを、冷やしたトマトを包み込み、パプリカを加え、密閉容器に入れて冷蔵庫で1時間以上保存します。",
+      "冷めたムースを、お好みで黒胡椒で味を整えて完成。"
+    ],
+    "prompt": "A beautiful close-up shot of the spicy sweet and spicy tomato & mozzarella cheese mousse with peppers, with a dramatic lighting effect.",
+    "filename": "recipe_1786307188.jpg",
+    "date": "2026-08-09 20:28:15",
+    "timestamp": 1786307188,
+    "likes": 0,
+    "views": 274
+  },
+  {
     "id": "recipe_1786303775",
     "category": "パン料理",
     "category_ja": "パン料理",
