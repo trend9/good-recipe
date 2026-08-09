@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786261815",
+    "category": "side/dessert",
+    "category_ja": "サイド/デザート",
+    "title_ja": "とろろデミグラスハンバーグ & 燻製チーズの「悪魔の甘辛」スパークリンググラタン！",
+    "title_en": "Totoro's Grainy Spanking Gravy!: A Spooktacularly Delicious Surprise!",
+    "description_ja": "とろろデミグラスハンバーグに、燻製チーズを加え、スパークリングワインで仕上げたグラタン。見た目もインパクト抜群！意外性あふれる味わいに、魔法のスパイスが加わる。",
+    "description_en": "A spooky, sparkly, and delicious take on the traditional Gravy! A combination of Totoro's Creamy Delights and smoked cheese for a unique experience. This one's a real party pleaser.",
+    "occasion_ja": "特別な日のお食事に、パーティーにもぴったり！",
+    "occasion_en": "Perfect for a special meal, or a party! ",
+    "ingredients": [
+      {
+        "name": "とろろデミグラスハンバーグ",
+        "amount": "2個"
+      },
+      {
+        "name": "燻製チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "スパークリングワイン",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. Totoro's Grainy Spanking Delights: In a pan, melt 100g of cheese and combine with the cream, spices. Simmer and stir while heating.",
+      "2. Building the Gravy: Prepare your gravy by combining a portion of simmering cheese-cream mixture, a sprinkle of salt & pepper, and a splash of sparkling wine. This will give it that unique texture and flavor.",
+      "3. Assemble the Grasp: Carefully arrange the Totoro's Grainy Spanking Delights onto a serving dish. Drizzle with the gravy. It’s best to create a beautiful swirl, like an artistic stroke! ",
+      "4. Final Touches: Garnish with extra cheese and fresh herbs for added visual appeal. Serve immediately! Enjoy!"
+    ],
+    "prompt": "A close-up shot of the finished dish; A decadent mix of the Totoro's Grainy Spanking Delights, smoky cheese, and a hint of sparkling wine.",
+    "filename": "recipe_1786261815.jpg",
+    "date": "2026-08-09 07:52:10",
+    "timestamp": 1786261815,
+    "likes": 0,
+    "views": 154
+  },
+  {
     "id": "recipe_1786257927",
     "category": "dessert",
     "category_ja": "デザート",
