@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786303775",
+    "category": "パン料理",
+    "category_ja": "パン料理",
+    "title_ja": "抹茶ホワイトチョコクランブルサンド",
+    "title_en": "White Chocolate Matcha Crumble Sandwiches",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートが融合した、見た目も美しいサンドイッチ。口にするだけで悪魔の美味しさに襲われる！",
+    "description_en": "A visually stunning sandwich with a fusion of matcha and rich white chocolate. Indulge in the deliciousness that strikes your senses as soon as you touch it!",
+    "occasion_ja": "特別な日にはぴったり！おやつやランチに最適。",
+    "occasion_en": "Perfect for special occasions, snacks, or lunch! ",
+    "ingredients": [
+      {
+        "name": "抹茶とホワイトチョコを混ぜ合わせた粉末",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "抹茶とホワイトチョコを粉末状に混ぜる。",
+      "小麦粉、砂糖、バター、牛乳を加えて生地を作る。",
+      "生地を成形し、軽く焼成する。",
+      "焼けた生地はサンドイッチに挟む。"
+    ],
+    "prompt": "Close-up shot of a delicious sandwich with matcha and white chocolate crumbles, featuring golden brown bread and contrasting colors",
+    "filename": "recipe_1786303775.jpg",
+    "date": "2026-08-09 19:31:09",
+    "timestamp": 1786303775,
+    "likes": 0,
+    "views": 287
+  },
+  {
     "id": "recipe_1786300454",
     "category": "side",
     "category_ja": "サイド",
