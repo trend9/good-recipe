@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786257927",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス × 燻製チーズの「悪魔の甘辛」スパイシーグラタン！",
+    "title_en": "Black Honey Kinako Mochi Ice Cream with Smoked Cheese Spicy Gratin!",
+    "description_ja": "黒蜜きな粉もちもちアイスと燻製チーズの意外な組み合わせで、悪魔的な甘辛さとクリーミーなコクが爆発するグラタン！SNS映えも抜群！",
+    "description_en": "A spicy gratin featuring unexpected combination of black honey kinako mochi ice cream and smoked cheese for a sweet and savory explosion with creamy texture! Perfect photo-worthy dish!",
+    "occasion_ja": "特別な日に、友達とディナーを楽しむ際におすすめ！",
+    "occasion_en": "Perfect for dinner parties with friends or celebrating a special occasion!",
+    "ingredients": [
+      {
+        "name": "黒蜜きな粉もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "燻製チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パン粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 黒蜜きな粉もちもちアイスを、電子レンジで約30秒加熱して柔らかくなるまで。",
+      "2. 燻製チーズを小さくカットし、牛乳とバターを加えて混ぜ合わせます。",
+      "3. 熱したパン粉を混ぜ合わせ、チーズソースに溶け込むように加えます。",
+      "4. 黒蜜きな粉もちもちアイスをグラタン皿に盛り付け、チーズソースをたっぷりかけて完成。"
+    ],
+    "prompt": "Close-up photo of the finished gratin with a creamy, decadent layer and smoky cheese flavoring.",
+    "filename": "recipe_1786257927.jpg",
+    "date": "2026-08-09 06:47:09",
+    "timestamp": 1786257927,
+    "likes": 0,
+    "views": 204
+  },
+  {
     "id": "recipe_1786254615",
     "category": "pasta",
     "category_ja": "パスタ",
