@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786300454",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "トマト＆モッツァレラの「悪魔の甘辛」スパークリンググラタン",
+    "title_en": "Spicy Tomato & Mozzarella Sparkling Grapatan: Devil's Delight",
+    "description_ja": " 完熟トマトとフレッシュモッツァレラを組み合わせ、スパイシーな甘辛ソースで魅せる！悪魔的な美味しさに、あなたも魅了されるでしょう。",
+    "description_en": "A devilishly delicious sparkling grapatan featuring ripe tomatoes and fresh mozzarella, with a spicy and tangy sauce that'll leave you wanting more. ",
+    "occasion_ja": "パーティーやディナーにもぴったり。",
+    "occasion_en": "Perfect for parties and dinners.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "3個"
+      },
+      {
+        "name": "フレッシュモッツァレラ",
+        "amount": "150g"
+      },
+      {
+        "name": "スパイスミックス (例: ハーブ、唐辛子など)",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "1/4カップ"
+      }
+    ],
+    "steps": [
+      "1. トマトは皮を剥き、大きめの一口程度にカット。モッツァレラは薄くスライスします。",
+      "2. スパイスミックスとオリーブオイルを加え、トマトの表面全体に塗ります。",
+      "3. 水を加えて混ぜ、トマトの表面を均一に湿らします。",
+      "4. 予熱したオーブンで約15分焼きます。モッツァレラチーズは火傷防止のため、別々に焼きます。"
+    ],
+    "prompt": "Close up shot of the dish, showing the tomato slices and mozzarella pieces topped with a light, bubbly glaze.",
+    "filename": "recipe_1786300454.jpg",
+    "date": "2026-08-09 18:36:42",
+    "timestamp": 1786300454,
+    "likes": 0,
+    "views": 201
+  },
+  {
     "id": "recipe_1786296392",
     "category": "side",
     "category_ja": "サイドディッシュ",
