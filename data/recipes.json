@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1786289188",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろろデミグラスハンバーグ & 燻製チーズの「悪魔の甘辛」スパークリンググラタン！",
+    "title_en": "Tofu Demi-Glace Hamburger and Smoked Cheese 'Devilish Sweet' Spanking Gratin!",
+    "description_ja": "悪魔的な甘辛な味わいに、とろろデミグラスハンバーグと燻製チーズの組み合わせで魅せる！スパークリンググラタンが誕生しました。",
+    "description_en": "Devilishly sweet gratin that combines tofu demi-glace hamburger and smoked cheese for a show-stopping treat! ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "とろろデミグラスハンバーグ (材料量: 2個)",
+        "amount": "1/4"
+      },
+      {
+        "name": "燻製チーズ (材料量: 適量)",
+        "amount": "適量"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵 (材料量: 1個)",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. トロロデミグラスハンバーグと燻製チーズを大きめなボウルに混ぜる。",
+      "2. ボウルに入れたハンバーグに、クリームチーズを加えて混ぜ合わせる。卵も加える。",
+      "3. 30秒程度、混ぜてから、スパークリンググラタンの皿に盛り付ける。",
+      "4.  トーストしたパンを添えて、食べるときの雰囲気をさらに高める。"
+    ],
+    "prompt": "Close-up of the decadent gratin with a smoky cheese glaze and melted cream cheese, on a toasted bread slice.",
+    "filename": "recipe_1786289188.jpg",
+    "date": "2026-08-09 15:28:43",
+    "timestamp": 1786289188,
+    "likes": 0,
+    "views": 157
+  },
+  {
     "id": "recipe_1786285797",
     "category": "dessert",
     "category_ja": "デザート",
