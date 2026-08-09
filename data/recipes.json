@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786238022",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリーム生パスタ: 悪魔の甘酸っぱいグラタン！",
+    "title_en": "Devilish Lemon Cream Pasta: A Twist on the Classic!",
+    "description_ja": "「悪魔の甘酸っぱい」グラタンに新たな次元を突破！明太子とレモンクリームが、生パスタで絡み合う、まさに衝撃的な美味しさ。まるで別世界に迷い込んだかのような、その斬新な味わいは、誰もが魅了されるはず!",
+    "description_en": "A devilishly delicious twist on the classic lemon cream pasta! Combining the punch of spicy mayo with the freshness of lemon, this recipe transforms fresh pasta into an unexpected delight. Prepare to be blown away by its unique and exciting flavor!",
+    "occasion_ja": "特別な日のディナー、パーティーに最適な一品。",
+    "occasion_en": "Perfect for a special occasion dinner or party. ",
+    "ingredients": [
+      {
+        "name": "生パスタ",
+        "amount": "300g"
+      },
+      {
+        "name": "明太子",
+        "amount": "100g"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "パスタを茹でる。",
+      "明太子とレモン汁、生クリームを混ぜ合わせる。",
+      "パスタにソースを絡めて、混ぜる。",
+      "皿に盛り付けて、お好みの飾り付けをする。"
+    ],
+    "prompt": "Close-up shot of a bowl with freshly cooked pasta, a generous portion of creamy yellow sauce and a scattering of chopped lemon, with an intriguing glow. It evokes a sense of culinary wonder and excitement.",
+    "filename": "recipe_1786238022.jpg",
+    "date": "2026-08-09 01:16:25",
+    "timestamp": 1786238022,
+    "likes": 0,
+    "views": 279
+  },
+  {
     "id": "recipe_1786227814",
     "category": "pasta",
     "category_ja": "パスタ",
