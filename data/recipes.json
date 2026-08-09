@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786264585",
+    "category": "dessert/side",
+    "category_ja": "デザート",
+    "title_ja": "とろろデミグラスハンバーグ × デミグラスソースの「悪魔の甘辛」スパークリンググラタン！",
+    "title_en": "Devilishly Delicious Sparkling Graalnt of De-Mil-Graas and Creamy Eggplant",
+    "description_ja": "とろろデミグラスハンバーグとデミグラスソースを、スパークリングワインで絡めた、見た目も味も悪魔的な一皿。甘辛な味わいが口の中に広がり、幸せの魔法が起きるでしょう。",
+    "description_en": "A devilishly delicious dish with creamy eggplant, de-mil graas sauce and a touch of sparkling wine. A savory explosion will take you away.",
+    "occasion_ja": "特別な夜にぴったり！",
+    "occasion_en": "Perfect for special occasions.",
+    "ingredients": [
+      {
+        "name": "とろろデミグラスハンバーグ",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "スパークリングワイン",
+        "amount": "適量"
+      },
+      {
+        "name": "エシャFritz eggplant",
+        "amount": "1個"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "とろろデミグラスハンバーグは、スパークリングワインとデミグラスソースで味付けします。",
+      "スパークリングワインにデミグラスソースを加えて混ぜ合わせます。",
+      "溶かしバターとオリーブオイルでエシャFritz eggplantを炒め、塩コショウで味を調えます。",
+      "ハンバーグの溶け込んだソースを添え、スパークリングワインの泡を添えると、悪魔の甘辛なグラタンが完成します。"
+    ],
+    "prompt": "A close-up photo of the finished dish, with a bubbling, bubbly effect in the glass. The sauce is glistening and rich.",
+    "filename": "recipe_1786264585.jpg",
+    "date": "2026-08-09 08:38:13",
+    "timestamp": 1786264585,
+    "likes": 0,
+    "views": 394
+  },
+  {
     "id": "recipe_1786261815",
     "category": "side/dessert",
     "category_ja": "サイド/デザート",
