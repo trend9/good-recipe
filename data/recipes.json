@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786318001",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛グラタン風ソース！",
+    "title_en": "Extreme Thick-Cut Pork Cutlet with Honey Mustard Sauce: A Devilishly Delicious Fusion! ",
+    "description_ja": "定番の極厚カツを、意外なハニーマスタードソースで、スパイシーな甘辛の新たな世界へ。家庭でも簡単に作れる、悪魔のような味覚を味わえるレシピ！",
+    "description_en": "Take your classic thick-cut pork cutlet to the next level with a unique honey mustard sauce! A fusion recipe that's surprisingly delicious and easy to make, even for home cooks. ",
+    "occasion_ja": "パーティーや、特別な日のディナーに！",
+    "occasion_en": "Perfect for parties or special dinners! ",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "特製ハニーマスタードソース",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "バター",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面で薄く焼き、油で揚げます。",
+      "ハニーマスタードソースを作る - ハニーとマスタードを混ぜる。",
+      "揚げたカツにハニーマスタードソースをかけて、バターと小麦粉を加え、全体を包みます。",
+      "揚げたカツは、熱したフライパンで焼き、仕上げにハニーマスタードソースをかけて完成。"
+    ],
+    "prompt": "Close-up shot of a thick cut pork cutlet coated in honey mustard sauce, with steam rising from it. The background has warm yellow lighting.",
+    "filename": "recipe_1786318001.jpg",
+    "date": "2026-08-09 23:29:12",
+    "timestamp": 1786318001,
+    "likes": 0,
+    "views": 186
+  },
+  {
     "id": "recipe_1786314310",
     "category": "dessert",
     "category_ja": "デザート",
