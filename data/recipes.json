@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786246183",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "とろろデミグラスハンバーグ × 燻製チーズの「悪魔の甘辛」スパイシーパスタ",
+    "title_en": "Devilishly Delicious: Smoked Cheese & Creamy Pasta with Half-Seared, Demi-Glace Meatballs.",
+    "description_ja": "とろろデミグラスハンバーグと燻製チーズが融合！悪魔的な甘辛さに、スパイシーなパスタとの相性も抜群です。見た目も鮮やかで、まさに「悪魔の甘辛」レシピです！",
+    "description_en": "A devilishly delicious fusion of creamy half-seared demi-glace meatballs and smoked cheese, wrapped in a vibrant, spicy pasta! A unique combination that will surprise your taste buds.",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "とろろデミグラスハンバーグ",
+        "amount": "2個"
+      },
+      {
+        "name": "燻製チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "パスタソース (例:  トマトベース)",
+        "amount": "適量"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  半熟卵を焼き、とろけるような食感に仕上げます。",
+      "2.  とろろデミグラスハンバーグを小さめにカットし、パスタソースと混ぜ合わせます。",
+      "3.  パスタを茹で、塩コショウで味付けします。",
+      "4.  燻製チーズをパスタソースに加え、全体に混ぜ合わせます。仕上げにごま油を少々加えて、お好みでパルメザンチーズを乗せます。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious smoked cheese pasta with half-seared, demi-glace meatballs and a sunny yellow half-cooked egg yolk.",
+    "filename": "recipe_1786246183.jpg",
+    "date": "2026-08-09 03:31:29",
+    "timestamp": 1786246183,
+    "likes": 0,
+    "views": 383
+  },
+  {
     "id": "recipe_1786238022",
     "category": "pasta",
     "category_ja": "パスタ",
