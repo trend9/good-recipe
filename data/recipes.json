@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1786285797",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレがもじで爆誕！悪魔の甘辛パフェ",
+    "title_en": "The Devilishly Delicious Banana Caramel Brulee Pavlova!",
+    "description_ja": "とろけるキャラメルブリュレの上に、完熟バナナの甘酸っぱさ。そして、パフェの魔法に包まれた、新しい感覚！悪魔の甘辛な世界を体験してみて下さい。",
+    "description_en": "A decadent caramelized banana and vanilla pudding parfait, topped with a gooey caramel brulee. This unique dessert offers a new experience that's sure to tantalize your taste buds.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "パフェの器",
+        "amount": null
+      },
+      {
+        "name": "卵白",
+        "amount": "3個"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナは食べやすい大きさにカットし、塩コショウで軽く味付けする。",
+      "2. パフェの器にキャラメルソースを敷き、バナナを盛り付ける。",
+      "3. 卵白を泡立て、砂糖を加えて泡立ちとなめらかさを保ちながら、パフェ全体に均等に流し入れる。",
+      "4. 最後に、キャラメルソースを全体にまぶし、冷蔵庫で冷やして完成。 "
+    ],
+    "prompt": "Close-up shot of a colorful and creamy parfait with caramelized banana chunks on top, drizzled with caramel sauce.",
+    "filename": "recipe_1786285797.jpg",
+    "date": "2026-08-09 14:32:17",
+    "timestamp": 1786285797,
+    "likes": 0,
+    "views": 301
+  },
+  {
     "id": "recipe_1786283157",
     "category": "side",
     "category_ja": "サイド dish",
