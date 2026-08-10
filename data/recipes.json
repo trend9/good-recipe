@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1786359890",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "完熟トマト＆モッツァレラ × 生姜のスパイシー甘辛チーズムースグラタン",
+    "title_en": "Spicy Sweet and Sour Cheese Mousse Graplan with Tomato & Mozzarella",
+    "description_ja": "まるで悪魔が作ったかのような、濃厚な甘辛チーズムースと、完熟トマトとモッツァレラの組み合わせで、食欲を刺激する一品。 意外な組み合わせなのに、一口食べれば虜になる美味しさ！",
+    "description_en": "A spicy sweet and sour cheese mousse with the unexpected combination of tomato and mozzarella! It'll blow your mind, this deliciousness that's as surprising as it is delicious.",
+    "occasion_ja": "パーティーやおもてなしにぴったり",
+    "occasion_en": "Perfect for parties and entertaining!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生姜",
+        "amount": "1cm"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. 生姜はみじん切りにします。",
+      "2.  トマト、モッツァレラチーズをボウルに入れ、オリーブオイルと醤油を加え、混ぜ合わせます。",
+      "3.  生姜を別ボウルで混ぜたパプリカを加え、さらに混ぜます。",
+      "4.  グラタン皿に詰め、オーブンで15分ほど焼きます。"
+    ],
+    "prompt": "A close-up image of a cheese mousse in the shape of a volcano, surrounded by a scattering of tomato slices and mozzarella balls. Use a vibrant color palette and bold lighting to depict this dish.",
+    "filename": "recipe_1786359890.jpg",
+    "date": "2026-08-10 11:06:40",
+    "timestamp": 1786359890,
+    "likes": 0,
+    "views": 441
+  },
+  {
     "id": "recipe_1786353253",
     "category": "dessert",
     "category_ja": "デザート",
