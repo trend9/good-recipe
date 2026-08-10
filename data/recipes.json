@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786394196",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛グラタン風！",
+    "title_en": "Extreme Pork Cutlet Honey Mustard Glazed Grilled - Devilish Sweet and Spicy Gravy!",
+    "description_ja": "極厚カツと特製ハニーマスタードを組み合わせ、悪魔的な甘辛な風味を生かした、一味違うグラタン！ 想像を超える美味しさに、舌鼓を打ちたい！",
+    "description_en": "An extreme pork cutlet with a special honey mustard glaze, devilishly delicious and unique! Prepare to have your taste buds sing!",
+    "occasion_ja": "パーティーやBBQに最適！",
+    "occasion_en": "Perfect for parties and barbecues!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "グラタンソース (お好みで)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツに特製ハニーマスタードを塗る。",
+      "生クリームとバターを加え、とろみをつける。",
+      "グラタンソース (お好みで) を加えて、混ぜ合わせる。",
+      "グラタンソース (お好みで) を加えて、混ぜ合わせながら加熱し、とろみがつくまで炒める。"
+    ],
+    "prompt": "Close-up image of grilled pork cutlet, covered with special honey mustard glaze and a creamy sauce. Dramatic lighting, cinematic style, colorful.",
+    "filename": "recipe_1786394196.jpg",
+    "date": "2026-08-10 20:39:05",
+    "timestamp": 1786394196,
+    "likes": 0,
+    "views": 166
+  },
+  {
     "id": "recipe_1786391586",
     "category": "丼もの",
     "category_ja": "丼もの",
