@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786371549",
+    "category": "side dish/appetizer",
+    "category_ja": "サイドディッシュ/アペタイザー",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛グラタン風ソース！",
+    "title_en": "Ultimate Thick Cut Pork & Honey Mustard: Devilishly Sweet & Spicy Grilled Chicken Skewers",
+    "description_ja": "極厚カツと特製ハニーマスタードの組み合わせで、今までにない悪魔的な美味しさ! 甘辛なタレが絡み合う、鮮烈な味わいが楽しめます。",
+    "description_en": "An unconventional devilishly delicious experience! This fusion of thick cut pork and a honey mustard sauce delivers a new level of sweet & spicy flavor sensation.",
+    "occasion_ja": " parties, gatherings, barbecues, picnics",
+    "occasion_en": " parties, gatherings, barbecues, picnics",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "100g"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツに塩コショウを振る。",
+      "特製ハニーマスタードとレモン汁を加え、全体に塗り込む。",
+      "玉ねぎを薄切りにして、フライパンで軽く焼いた後、極厚カツの表面に敷く。",
+      "火力を弱める。約1分間、極厚カツに焼き色が付くまで焼く。"
+    ],
+    "prompt": "Close up shot of grilled skewers with honey mustard glaze on a grill. Dramatic lighting with smoke coming out from the skewer.",
+    "filename": "recipe_1786371549.jpg",
+    "date": "2026-08-10 14:20:50",
+    "timestamp": 1786371549,
+    "likes": 0,
+    "views": 456
+  },
+  {
     "id": "recipe_1786366556",
     "category": "side",
     "category_ja": "サイドディッシュ",
