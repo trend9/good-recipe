@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786397911",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × クリーミーチーズソース: 悪魔の甘辛グラタン風！",
+    "title_en": "Smashed Potato & Creamy Cheese Sauce: The Devil's Sweet and Spicy Grapple!",
+    "description_ja": "サクサクポテトとクリーミーチーズソースの意外な組み合わせが、悪魔的に美味しいグラタンレシピ誕生！カリッとした食感とクリーミーなチーズの組み合わせは、まさに悪魔の味わい！",
+    "description_en": "A devilishly delicious graplan recipe! The combination of crispy potato and creamy cheese sauce creates a unique flavor experience that is simply irresistible.",
+    "occasion_ja": "パーティーやBBQ、お酒のおつまみにもぴったり！",
+    "occasion_en": "Perfect for parties, barbecues, and appetizers! ",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "1kg"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "コチュジャン",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. ポテトは予め皮を剥き、一口大に切ります。",
+      "2. フライパンにごま油をひき、ポテトを炒めます。カリッとした食感になるまで炒め、塩で味付けします。",
+      "3. コチュジャンを加え、溶かしながら炒め、チーズソースを混ぜます。",
+      "4. フライパンにチーズソースと混ぜたポテトを盛り付け、黒胡椒を振ります。"
+    ],
+    "prompt": "Close-up photo of the finished dish with melted cheese and a potato sprinkle on top, smoke emitting from the hot dish in the evening light.",
+    "filename": "recipe_1786397911.jpg",
+    "date": "2026-08-10 21:40:17",
+    "timestamp": 1786397911,
+    "likes": 0,
+    "views": 265
+  },
+  {
     "id": "recipe_1786394196",
     "category": "side",
     "category_ja": "サイド",
