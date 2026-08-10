@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786380568",
+    "category": "side",
+    "category_ja": "サイドdish",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグ：悪魔の甘辛グラタン風ハンバーグ",
+    "title_en": "Semi-Soft Egg & Demi-Glace Beef: Devilishly Delicious, Pan-Seared Meatball Gravy",
+    "description_ja": "とろける半熟卵と濃厚デミグラスソースで、さらに肉感あふれる悪魔的グルメ！一口食べれば、思わず唸ってしまう、至高のハンバーググラタン風レシピ。",
+    "description_en": "This is the devilishly delicious, pan-seared beef meatball gravy dish with a semi-soft egg and rich demi-glace sauce. A heavenly combination of textures that will leave you speechless!",
+    "occasion_ja": "飲み会や、特別な日にぴったりな一品！",
+    "occasion_en": "Perfect for gatherings or special occasions! ",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "ハンバーグを1cm程度の厚さに焼きます。",
+      "卵を溶き、半熟にするまで加熱します。",
+      "デミグラスソースと玉ねぎを加えて混ぜます。",
+      "焼き上げたハンバーグの表面に、半熟卵を乗せ、バターで炒めます。"
+    ],
+    "prompt": "A close-up photo of a semi-soft egg with a demi-glace gravy on top of the pan-seared beef meatballs, with an elegant and stylish background.",
+    "filename": "recipe_1786380568.jpg",
+    "date": "2026-08-10 16:51:06",
+    "timestamp": 1786380568,
+    "likes": 0,
+    "views": 455
+  },
+  {
     "id": "recipe_1786377404",
     "category": "side",
     "category_ja": "サイド",
