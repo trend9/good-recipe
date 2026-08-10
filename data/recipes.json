@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786346460",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛 サクサク唐揚げマヨネーズグラタン",
+    "title_en": "Devilishly Delicious Crunchy Chicken Parmesan Grated Cheese Cake",
+    "description_ja": "サクサク唐揚げとハニーマヨネーズの組み合わせは、悪魔的美味しさの爆発！とろけるチーズとマヨネーズが絡み合うグラタンで、誰もが「おいしそう！」と思わせる一品です。",
+    "description_en": "Devilishly delicious crunchy chicken parmesan grated cheese cake.  Crunchy chicken meets honey mayo for an explosive of flavor! Creamy cheese and mayo will make this dish irresistible.",
+    "occasion_ja": "パーティー、ランチ、ディナーでも！",
+    "occasion_en": "Perfect for parties, lunches, or dinners!",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "200g"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ (モッツァレラ)",
+        "amount": "100g"
+      },
+      {
+        "name": "グラタンソース (お好みで)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 鶏肉を一口大に切って、塩胡椒で味付けをする。",
+      "2. フライパンに油を入れて、唐揚げを揚げる。",
+      "3. ハニーマヨネーズと卵を加え、混ぜ合わせる。",
+      "4. 形成したチーズをグラタン皿に盛り、ソースをかけた後、唐揚げをのせる。"
+    ],
+    "prompt": "A close-up photo of a sizzling, golden chicken parmesan grated cheese cake dish. The sauce is drizzling down the plate. The ingredients are beautifully arranged.",
+    "filename": "recipe_1786346460.jpg",
+    "date": "2026-08-10 07:22:53",
+    "timestamp": 1786346460,
+    "likes": 0,
+    "views": 295
+  },
+  {
     "id": "recipe_1786339316",
     "category": "dessert",
     "category_ja": "デザート",
