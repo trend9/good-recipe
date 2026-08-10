@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786377404",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろろデミグラハンバーグ！甘辛スパイスチーズムースグラタン",
+    "title_en": "Devilishly Delicious: Half-cooked egg, demi-glace beef & cheese mousse",
+    "description_ja": "とろり半熟卵と濃厚なデミグラスソースが組み合わさり、スパイシーチーズムースで包まれた、悪魔的な美味しさのグラタン！",
+    "description_en": "A devilishly delicious dish combining half-cooked egg with rich demi-glace sauce and a spiced cheese mousse for a taste bud tango! ",
+    "occasion_ja": "パーティーやディナーにもぴったり！",
+    "occasion_en": "Perfect for parties and dinners!",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "200g"
+      },
+      {
+        "name": "チーズ(モッツァレラ/チェダーなど)",
+        "amount": "50g"
+      },
+      {
+        "name": "スパイス (コリアンダー、マッシュルーム、パプリカなど)",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. デミグラスハンバーグを焼きます。",
+      "2. 半熟卵は表面を少し焼きます。",
+      "3. チーズとスパイスを混ぜ合わせ、少量の牛乳を加えて、濃厚なチーズムースを作ります。",
+      "4. グラタン皿にハンバーグと半熟卵を配置し、チーズムースを盛り付けます。"
+    ],
+    "prompt": "Close-up of a savory, cheesy mousse cake with a half-cooked egg on top, surrounded by demi-glace sauce and a sprinkle of spices.",
+    "filename": "recipe_1786377404.jpg",
+    "date": "2026-08-10 15:59:47",
+    "timestamp": 1786377404,
+    "likes": 0,
+    "views": 364
+  },
+  {
     "id": "recipe_1786371549",
     "category": "side dish/appetizer",
     "category_ja": "サイドディッシュ/アペタイザー",
