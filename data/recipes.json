@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786384083",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜 きな粉もちもちアイス 悪魔の甘辛グラタン風",
+    "title_en": "Devilish Sweet and Salty Ice Cream with Kinako - A Gourmet Grainy Ice Cream",
+    "description_ja": "黒蜜ときな粉のコクと甘さが、もちもちとしたアイスの食感にマッチ！ 意外性あふれる美味しさで、SNS映えも抜群のレシピです。",
+    "description_en": "A devilishly sweet and salty ice cream with a crunchy kinako texture! An unexpected combination of flavor, this recipe is sure to be a viral hit. ",
+    "occasion_ja": "特別な日に、お友達と、シェアして楽しむのがおすすめ！",
+    "occasion_en": "Perfect for special occasions and sharing with friends! ",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "きな粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "黒糖粉末",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "バター",
+        "amount": "小さじ2"
+      }
+    ],
+    "steps": [
+      "もちもちアイスに黒蜜ときな粉を混ぜる。",
+      "黒糖粉末を加えて、さらに混ぜる。",
+      "お好みで、バターを少し加える。",
+      "アイスクリームを盛り付け、完成！"
+    ],
+    "prompt": "A close-up shot of a gourmet ice cream with a sprinkle of kinako and black sugar powder on top. The ice cream has a beautiful color contrast between the dark brown sugar and the creamy white. A delicious dessert with a unique texture.",
+    "filename": "recipe_1786384083.jpg",
+    "date": "2026-08-10 17:49:42",
+    "timestamp": 1786384083,
+    "likes": 0,
+    "views": 441
+  },
+  {
     "id": "recipe_1786380568",
     "category": "side",
     "category_ja": "サイドdish",
