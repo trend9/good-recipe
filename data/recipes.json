@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786339316",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコ・スパイシーパプリカの「悪魔の甘辛」チーズムースグラタン",
+    "title_en": "Spicy Paprika and White Chocolate Matcha Cheese Mousse Gratin (Devilishly Delicious)",
+    "description_ja": "濃厚な抹茶とホワイトチョコレートの組み合わせで、スパイシーパプリカの酸味がアクセントになる、まるで魔法で生まれたグラタン。見た目を美しく、悪魔的に美味しい一品に仕上がります。",
+    "description_en": "A creamy and devilishly delicious gratin featuring a unique blend of Matcha, White Chocolate, and spicy paprika. This unexpected combination will leave you craving for more! ",
+    "occasion_ja": "特別な日に、そして日常のちょっとした笑顔に。",
+    "occasion_en": "For special occasions and everyday moments of joy.",
+    "ingredients": [
+      {
+        "name": "パプリカ",
+        "amount": "200g"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "150g"
+      },
+      {
+        "name": "抹茶粉末",
+        "amount": "10g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "塩胡椒",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. パプリカは、皮をむき、薄切りにします。",
+      "2. 生クリームと抹茶粉末を混ぜ合わせ、ホワイトチョコレートを溶かしながら混ぜます。モッツァレラチーズも加えて、なめらかになるまで混ぜます。",
+      "3. 1.のパプリカを、鍋に入れ、塩胡椒で味付けします。弱火でじっくりと煮詰め、水分が減るまで待ちます。",
+      "4. 2.のチーズムースを、パプリカの鍋に入れた後、ゆっくりと焼き上げてください。"
+    ],
+    "prompt": "A close-up shot of a creamy and decadent gratin with a vibrant red paprika topping, surrounded by lush green matcha powder. The cheese sauce shines brightly as it blends in with the spices.",
+    "filename": "recipe_1786339316.jpg",
+    "date": "2026-08-10 05:23:20",
+    "timestamp": 1786339316,
+    "likes": 0,
+    "views": 154
+  },
+  {
     "id": "recipe_1786333746",
     "category": "side",
     "category_ja": "サイド",
