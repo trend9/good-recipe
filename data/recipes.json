@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786391586",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵 & 旨辛麻婆豆腐丼の超絶アレンジ！悪魔的激辛丼",
+    "title_en": "Super Spicy Devilish Stir-fried Tofu & Egg Bowl",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の相性も抜群で、一口食べれば衝撃の味覚が炸裂します！悪魔的な辛さで食欲をそそる一品に仕上げます。",
+    "description_en": "A crazy-spicy twist on the classic stir-fried tofu and egg bowl! This devilishly delicious fusion will leave you wanting more!",
+    "occasion_ja": "食欲旺盛な時、辛さを求める人におすすめ！",
+    "occasion_en": "Perfect for those who crave spice and deliciousness! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "中華丼",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "お好みで唐辛子",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "卵を1個は溶き、他の卵は薄切りにする。",
+      "中華丼と麻婆豆腐を混ぜ合わせる。",
+      "溶き卵と麻婆豆腐の混ぜ合わせ、お好みで唐辛子を適量加える。",
+      "熱したフライパンで卵と麻婆豆腐を炒め、完成。"
+    ],
+    "prompt": "Close-up shot of a steaming bowl filled with a rich and spicy stir-fried tofu and egg bowl, garnished with a piece of chili pepper. (English for prompt)",
+    "filename": "recipe_1786391586.jpg",
+    "date": "2026-08-10 19:54:46",
+    "timestamp": 1786391586,
+    "likes": 0,
+    "views": 339
+  },
+  {
     "id": "recipe_1786387764",
     "category": "dessert",
     "category_ja": "デザート",
