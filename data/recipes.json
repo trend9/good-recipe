@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786333746",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズと旨辛の卵マッシュアップ！悪魔の甘辛豆腐丼",
+    "title_en": "Spicy Egg Mash-up with Creamy Cheese & Chili: Devilish Spicy Tofu Bowl",
+    "description_ja": "ふわふわ卵と、辛味とクリーミーさが絶妙な悪魔的美味しさ！旨辛麻婆豆腐丼を、卵マッシュアップで更に進化させた極上アレンジレシピが登場！",
+    "description_en": "Fluffy egg meets spicy and creamy chili for a devilishly delicious twist on the classic spicy tofu bowl!",
+    "occasion_ja": "食欲旺盛な夜、一人でも楽しむのにぴったり!",
+    "occasion_en": "Perfect for satisfying your cravings, solo or with friends! ",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "150g"
+      },
+      {
+        "name": "長ネギ",
+        "amount": "1/2本"
+      },
+      {
+        "name": "卵",
+        "amount": "4個"
+      },
+      {
+        "name": "中華ソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "豆腐を崩して、長ネギと混ぜる。",
+      "卵をボウルに入れ、マヨネーズと中華ソースを加えてよく混ぜる。",
+      "取り出した豆腐を卵の生地に混ぜる。",
+      "チーズをトッピングして完成。"
+    ],
+    "prompt": "A close-up shot of a bowl with steaming, fluffy, and cheesy spicy egg mashup with chili flakes. A dark background.",
+    "filename": "recipe_1786333746.jpg",
+    "date": "2026-08-10 03:51:33",
+    "timestamp": 1786333746,
+    "likes": 0,
+    "views": 215
+  },
+  {
     "id": "recipe_1786324560",
     "category": "dessert",
     "category_ja": "デザート",
