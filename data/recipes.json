@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786387764",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマトモッツァレラチーズムースグラタン：悪魔の甘辛チーズムース",
+    "title_en": "Tomato Mozzarella Cheese Mousse Gratin: Devilish Sweet & Spicy Cheese Sauce",
+    "description_ja": "完熟トマトの甘酸っぱさと、フレッシュモッツァレラのクリーミーな味わいが絶妙！悪魔的美味しさに包まれた、まるで魔法の料理が誕生しました。 ",
+    "description_en": "The perfect balance of sweet and sour from ripe tomatoes, combined with the creamy richness of fresh mozzarella cheese, will create an irresistible dish with a mysterious magic touch.",
+    "occasion_ja": "特別なディナーやパーティーにぴったり！",
+    "occasion_en": "Perfect for special dinners and parties!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "唐辛子粉",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. 1個のトマトを切って、皮を取り除き、種を取る。",
+      "2. トマトを薄切りにする。",
+      "3. 生クリームとグラニュー糖を混ぜて、溶かす。",
+      "4. モッツァレラチーズを加え、よく混ぜる。"
+    ],
+    "prompt": "Close-up shot of the finished dish, with a beautiful cheese sauce and tomato slices on top, against a dark background (英語で具体的な料理の見た目を描写)",
+    "filename": "recipe_1786387764.jpg",
+    "date": "2026-08-10 18:51:56",
+    "timestamp": 1786387764,
+    "likes": 0,
+    "views": 169
+  },
+  {
     "id": "recipe_1786384083",
     "category": "dessert",
     "category_ja": "デザート",
