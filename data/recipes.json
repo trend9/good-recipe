@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786324560",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレ × パプリカのスパイシー甘辛チーズムース：悪魔の甘辛デザートグラタン",
+    "title_en": "Banana Caramel Brulee with Spicy Sweet & Savory Cheese Mousse: A Devilishly Delicious Dessert Graal Tan",
+    "description_ja": "完熟バナナとキャラメルブリュレ、その美味しさをさらに際立たせる、意外な組み合わせの悪魔的デザートグラタン。甘さと辛さのバランスを調整した、スパイシーなパプリカのムースで魅惑的な食感を演出します！",
+    "description_en": "A devilishly delicious dessert gratin that takes the perfect combination of ripe banana and caramel brulee to a new level. The spicy sweet and savory cheese mousse with a hint of paprika will create an alluring flavor and texture for this amazing dish!",
+    "occasion_ja": "特別な日や、普段の甘辛好きな方におすすめ！",
+    "occasion_en": "Perfect for special occasions or those who love a bit of sweetness and spice! ",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1本"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "1. パプリカをみじん切りにして、1cmのサイズに切る。",
+      "2. 弱火でキャラメルブリュレとパプリカを炒める。焦げ付かないように注意する。",
+      "3. CREAME CHEESE をクリームチーズと生クリームで混ぜ合わせる。",
+      "4. バナナをキャラメルブリュレとパプリカの炒め物を盛り付け、チーズムースを乗せる。"
+    ],
+    "prompt": "Close-up shot of the finished dessert gratin, with a light and airy texture, showing the contrast between the caramelized banana and spicy paprika in a decadent way.",
+    "filename": "recipe_1786324560.jpg",
+    "date": "2026-08-10 01:17:54",
+    "timestamp": 1786324560,
+    "likes": 0,
+    "views": 348
+  },
+  {
     "id": "recipe_1786318001",
     "category": "サイド",
     "category_ja": "サイド",
