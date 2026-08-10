@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1786353253",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの「悪魔の甘辛」チーズムースグラタン",
+    "title_en": "Banana Caramel Brulee Cheesecake Gratin with a Spicy Kick",
+    "description_ja": "完熟バナナとキャラメルブリュレが、クリーミーなチーズムースで絡み合って、まるで別世界に飛び込んだような悪魔的な美味しさと甘さが実現！",
+    "description_en": "This recipe delivers an outrageous level of deliciousness by combining the sweetness and rich flavor of banana and caramelized sugar, all wrapped in a creamy cheese mousse. The result is a culinary experience that takes you to another dimension.",
+    "occasion_ja": "特別な日や、特別な人へのプレゼントにぴったりな悪魔的デザートです。",
+    "occasion_en": "This dessert is perfect for special occasions or as a gift for someone special. The unexpected combination of flavors and textures creates an unforgettable culinary experience.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "シナモンパウダー",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを、皮を剥いて縦にスライスして、キャラメルブリュレの代わりに、バナナをキャラメルソースでコーティングします。\n2. クリームチーズと牛乳を混ぜ合わせて、なめらかになるまで泡立てます。\n3. スライスしたバナナをチーズムースで包みます。\n4. オーブンで15分焼きます。",
+      "注意: キャラメルブリュレは、別途用意しておきましょう。"
+    ],
+    "prompt": "Close-up image of the finished banana caramel brulee cheesecake gratin with a drizzle of extra caramel sauce on top, surrounded by steam and showing the cheese mousse layer.",
+    "filename": "recipe_1786353253.jpg",
+    "date": "2026-08-10 09:16:44",
+    "timestamp": 1786353253,
+    "likes": 0,
+    "views": 266
+  },
+  {
     "id": "recipe_1786346460",
     "category": "side",
     "category_ja": "サイド",
