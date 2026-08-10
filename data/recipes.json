@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786366556",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "ガーリックバター×ぷりぷり海老ピラフ：悪魔の甘辛海老風グラタン",
+    "title_en": "Garlic Butter Shrimp Fried Rice: Devilishly Sweet and Spicy Shrimp Rice Bowl",
+    "description_ja": "このレシピは、ぷりぷり海老とガーリックバターが融合したピラフを、チーズムースで包み込み、悪魔的な甘辛な風味を楽しむ一品！",
+    "description_en": "An explosion of flavor, this recipe blends creamy garlic butter shrimp fried rice with a smooth cheese sauce, creating a devilishly sweet and spicy sensation in every bite! ",
+    "occasion_ja": "週末の夜食、パーティーなどにぴったり！",
+    "occasion_en": "Perfect for weekend dinners or parties!",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "10個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "2杯"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "チーズ",
+        "amount": "1切れ"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ご飯を炒める。",
+      "海老を加えて炒め、ガーリックバターと塩コショウで味付けする。",
+      "チーズを混ぜ込み、ピラフに全体を包む。",
+      "オーブンで10分加熱する"
+    ],
+    "prompt": "Close-up shot of a creamy, cheesy shrimp fried rice bowl with garlicky shrimp and a melting cheese sauce",
+    "filename": "recipe_1786366556.jpg",
+    "date": "2026-08-10 12:59:08",
+    "timestamp": 1786366556,
+    "likes": 0,
+    "views": 228
+  },
+  {
     "id": "recipe_1786359890",
     "category": "グラタン",
     "category_ja": "グラタン",
