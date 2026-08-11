@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786435741",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔の甘辛チーズグラタン風！",
+    "title_en": "Seared Potato & Creamy Cheese Sauce: Devilishly Delicious Spicy & Tangy Cheese Gratin!",
+    "description_ja": "サクサクとしたポテトの食感とクリーミーなチーズソースの組み合わせが、悪魔的美味しさの新しい次元を築く。スパイシーな味わいがさらに引き立つ！",
+    "description_en": "A devilishly delicious twist on a classic with the irresistible combination of crispy potato and creamy cheese sauce. The spicy kick will take your taste buds to another level!",
+    "occasion_ja": "パーティーや家族会におすすめ！",
+    "occasion_en": "Perfect for parties or family gatherings!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "お好みで: ケチャップ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "お好みで: パプリカ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "じゃがいもを薄切りに。バターで両面を焼いて、塩コショウで味付けする。",
+      "フライパンにクリームチーズと牛乳を入れ、混ぜながら温める。",
+      "塩コショウで味付けしたじゃがいもを盛り付ける。",
+      "お好みでパプリカを添えて、グラタン完成。"
+    ],
+    "prompt": "Close-up shot of a cheesy, golden potato gratin with vibrant red peppers on top. The cheese is melted and bubbly, and the potato slices are crisp.",
+    "filename": "recipe_1786435741.jpg",
+    "date": "2026-08-11 08:10:24",
+    "timestamp": 1786435741,
+    "likes": 0,
+    "views": 335
+  },
+  {
     "id": "recipe_1786431444",
     "category": "side",
     "category_ja": "サイドdish",
