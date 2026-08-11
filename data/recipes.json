@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786467372",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコの衝撃！濃厚クリームチーズケーキ風",
+    "title_en": "Shock! Creamy White Chocolate Mousse Cake with Matcha",
+    "description_ja": "抹茶とホワイトチョコレートの意外な組み合わせが、これ以上の美味しさを実現した、まるでケーキのようなスイーツ。濃厚なチーズケーキの食感と、抹茶の爽やかな香りに魅了されるでしょう！",
+    "description_en": "An unexpected combination of matcha and white chocolate creates a mousse cake-like dessert with an unforgettable experience of creamy, fluffy texture and refreshing matcha aroma! ",
+    "occasion_ja": "特別な日に、大切な人とシェアするデザートに！",
+    "occasion_en": "A perfect dessert to share with loved ones on special occasions.",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ホワイトチョコレート（ミルクチョコ含め）",
+        "amount": "100g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "卵白",
+        "amount": "2個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "30ml"
+      }
+    ],
+    "steps": [
+      "1. 抹茶パウダーとホワイトチョコレートを溶かし、混ぜ合わせる。",
+      "2. クリームチーズと卵白を混ぜる。",
+      "3. 溶かしたチョコレートとクリームチーズ、卵白の混合物を加えて混ぜる。",
+      "4.  生地を型に流し込み、冷蔵庫で1時間以上冷やす。"
+    ],
+    "prompt": "Close-up shot of a mousse cake dessert with white chocolate and matcha swirl, glossy finish, intricate details, tempting texture.",
+    "filename": "recipe_1786467372.jpg",
+    "date": "2026-08-11 16:59:12",
+    "timestamp": 1786467372,
+    "likes": 0,
+    "views": 396
+  },
+  {
     "id": "recipe_1786457853",
     "category": "side/dessert/gravy",
     "category_ja": "サイド/デザート/グラヴィ",
