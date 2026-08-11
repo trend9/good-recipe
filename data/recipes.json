@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1786424571",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメル brûlée：悪魔の甘酸っぱさ！",
+    "title_en": "Banana Caramel Brulee: Devilish Sweet & Sour!",
+    "description_ja": "完熟バナナの濃厚な甘さと、キャラメルのほろ苦さが、悪魔的なハーモニーを生み出す。見た目も華やかで、一味違う味わいのデザートレシピ！",
+    "description_en": "A dessert with devilishly sweet and sour banana compote paired with a caramel brûlée. The combination of sweetness, acidity, and caramelized flavors will surprise your taste buds! ",
+    "occasion_ja": "特別な日に、特別な人への贈り物にぴったり！",
+    "occasion_en": "Perfect for special occasions or a gift to loved ones!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "バター",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "バナナをスライスし、一口大にカットします。",
+      "キャラメルと砂糖を混ぜ合わせて、鍋で弱火で加熱します。焦げ付かないように注意してください。",
+      "バターを加え、溶かしながらキャラメルを煮詰めます。",
+      "牛乳を加え、沸騰させる。",
+      "火を止めて、バナナの表面にキャラメルソースを塗ります。",
+      "オーブンで15分加熱します。"
+    ],
+    "prompt": "Close-up of a caramelized banana dessert with a golden brown crust and a drizzle of caramel sauce, looking invitingly rich and decadent.",
+    "filename": "recipe_1786424571.jpg",
+    "date": "2026-08-11 05:05:57",
+    "timestamp": 1786424571,
+    "likes": 0,
+    "views": 235
+  },
+  {
     "id": "recipe_1786419140",
     "category": "side",
     "category_ja": "サイドディッシュ",
