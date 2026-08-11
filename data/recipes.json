@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786457853",
+    "category": "side/dessert/gravy",
+    "category_ja": "サイド/デザート/グラヴィ",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛チーズグラタン風！",
+    "title_en": "Ultimate Deep-Fried Beef Katsu Gravy: Devilishly Sweet & Savory! ",
+    "description_ja": "極厚カツと特製ハニーマスタードの組み合わせ、さらにチーズを絡め込んだ悪魔的な美味しさを実現。濃厚な甘辛ソースが食欲をそそる一品です！",
+    "description_en": "A devilishly good fusion of deep-fried beef katsu and special honey mustard sauce, enriched with melted cheese for an explosion of savory goodness! This rich, sweet & savory gravy is sure to make you crave more.",
+    "occasion_ja": "パーティーやイベント、特別な日にぴったり！",
+    "occasion_en": "Perfect for parties, events, and special occasions! ",
+    "ingredients": [
+      {
+        "name": "極厚カツ (Beef katsu)",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタード (Honey Mustard Sauce)",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ (Cheddar cheese)",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳 (Milk)",
+        "amount": "50ml"
+      },
+      {
+        "name": "小麦粉 (All-purpose flour)",
+        "amount": "1大さじ"
+      }
+    ],
+    "steps": [
+      "1. 極厚カツを両面を小麦粉で Dredgeする。",
+      "2. 特製ハニーマスタードで極厚カツを包み込む。",
+      "3. チーズと牛乳を加えて溶かし、とろけるチーズグラタンの材料を作る。",
+      "4. 極厚カツを焼きながら、チーズグラタンの材料を入れて、グラタン皿に盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a deep-fried beef katsu in honey mustard sauce, topped with melted cheese and garnished with herbs.",
+    "filename": "recipe_1786457853.jpg",
+    "date": "2026-08-11 14:19:27",
+    "timestamp": 1786457853,
+    "likes": 0,
+    "views": 459
+  },
+  {
     "id": "recipe_1786452726",
     "category": "side",
     "category_ja": "サイド",
