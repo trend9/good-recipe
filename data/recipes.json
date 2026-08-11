@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1786442196",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔の甘辛グラタン風！",
+    "title_en": "Roasted Sweet Potato x Melt-In Butter Caramel: Devilishly Delicious Grainy Dessert!",
+    "description_ja": "焼き芋と、とろけるバターカラメルの組み合わせで、想像を超えた甘辛な味わいに！まるで悪魔が作ったかのような、贅沢な一品に仕上げるね。",
+    "description_en": "A devilishly delicious treat! This unique combination of roasted sweet potato and melt-in-your-mouth caramel creates a flavor that's out of this world. ",
+    "occasion_ja": "特別な日にぴったりな、贅沢なデザート！",
+    "occasion_en": "Perfect dessert for any special occasion! ",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "とろけるバター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "ココアパウダー",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "焼き芋をオーブンで予熱し、180℃で約30分焼きます。",
+      "焼き芋をボウルに盛り、溶けたバターとココアパウダーを加え混ぜます。",
+      "溶かしバターを混ぜる前に、水を加えて、なめらかになるまで混ぜます。",
+      "焼き芋に溶かしバターとココアパウダーの生地を塗り、180℃のオーブンで約10分焼きます。"
+    ],
+    "prompt": "Close-up photo of the dessert, focus on the caramelized and roasted sweet potato, rich brown sauce, cocoa powder dust, and melted butter dripping off the side. Vibrant colors and delicious details.",
+    "filename": "recipe_1786442196.jpg",
+    "date": "2026-08-11 09:59:01",
+    "timestamp": 1786442196,
+    "likes": 0,
+    "views": 383
+  },
+  {
     "id": "recipe_1786435741",
     "category": "side",
     "category_ja": "サイドディッシュ",
