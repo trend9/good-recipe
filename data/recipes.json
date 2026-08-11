@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786474547",
+    "category": "pasta/side",
+    "category_ja": "パスタ/サイド",
+    "title_ja": "明太子＆レモンクリーム生パスタの「悪魔の甘酸」グラタン",
+    "title_en": "Devilish Lemon Cream Pasta with Spicy Mayo Sauce",
+    "description_ja": "明太子の辛さとレモンの爽やかさ、クリーミーな味わいが、まるで悪魔が作ったかのような美味しさで襲う！このグラタンは、まさに「悪魔の味」を体感できる一皿だ。",
+    "description_en": "A devilish blend of spicy mayo, lemon cream, and creamy parmesan, this pasta dish delivers an explosion of flavor in every bite.",
+    "occasion_ja": "パーティーや特別な日におすすめ",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "生パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "明太子",
+        "amount": "2個"
+      },
+      {
+        "name": "レモン",
+        "amount": "1/2個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 生パスタを茹でる。",
+      "2. 明太子を混ぜ、レモン汁で軽く混ぜる。",
+      "3. クリームチーズとバターを加え、混ぜ合わせる。",
+      "4. 茹で上がったパスタと明太子クリームチーズソースを混ぜ合わせ、皿に盛り付ける。"
+    ],
+    "prompt": "Close-up shot of devilish pasta dish with lemon cream sauce and spicy mayo topping, garnished with fresh parsley.",
+    "filename": "recipe_1786474547.jpg",
+    "date": "2026-08-11 18:57:28",
+    "timestamp": 1786474547,
+    "likes": 0,
+    "views": 310
+  },
+  {
     "id": "recipe_1786470948",
     "category": "side",
     "category_ja": "サイドディッシュ",
