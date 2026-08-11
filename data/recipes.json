@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786445227",
+    "category": "cheese",
+    "category_ja": "チーズ",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油　悪魔の甘辛チーズグラタン風！",
+    "title_en": "Devilish Spicy Cheese Gratin with Burnt Chashu and Garlic Parmesan Sauce",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を組み合わせ、チーズに絡めて濃厚な甘辛味が楽しめる、悪魔的な味わいのチーズグラタン風レシピ！",
+    "description_en": "A devilishly tasty twist on classic gratin, combining the bold flavors of charred chashu and creamy garlic parmesan sauce. A cheesy indulgence that'll tantalize your taste buds!",
+    "occasion_ja": "パーティーや家族会で、濃厚な味わいが魅力のチーズグラタン風レシピ！",
+    "occasion_en": "Perfect for parties or family gatherings, this cheesy gratin delivers a rich and satisfying experience!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "200g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "チーズ (クリームチーズ/モッツァレラ/エッグテイストチーズ)",
+        "amount": "150g"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを細くカットし、濃厚焦がしにんにく醤油を全体につけます。\n",
+      "2. パプリカは輪切りにし、チーズとバターを加えます。\n",
+      "3. 熱したオーブンでチーズグラタンを焼き、炙りチャーシューの甘辛味がチーズと絡み合うよう、10分程度焼きます。\n",
+      "4. 焼きあがったチーズグラタンを盛り付け、お好みで塩コショウで味を調整します。"
+    ],
+    "prompt": "Close-up photo of the cheesy gratin with a charred chashu, melted cheese, and garlic parmesan sauce, sizzling in an oven.",
+    "filename": "recipe_1786445227.jpg",
+    "date": "2026-08-11 10:48:51",
+    "timestamp": 1786445227,
+    "likes": 0,
+    "views": 285
+  },
+  {
     "id": "recipe_1786442196",
     "category": "dessert",
     "category_ja": "デザート",
