@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786452726",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバター＆ぷりぷり海老のデミグラピラフ！",
+    "title_en": "Garlic Butter Shrimp & Rice Pilaf! (Devilishly Delicious!)",
+    "description_ja": "ぷりぷり海老とガーリックバターで作る、悪魔的な美味しさのデミグラスソースが美味しいピラフ。見た目はもちろん、食感が最高！",
+    "description_en": "A devilishly delicious shrimp pilaf with a garlicky, decadent demi-glace sauce. Visually stunning and bursting with texture. ",
+    "occasion_ja": "パーティーや家族での夕食に、お酒もぴったり！",
+    "occasion_en": "Perfect for parties or family dinners, and pairs well with drinks!",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "50g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "100g"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "300ml"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "海老を一口大に切り、ガーリックバターと塩コショウで味付けする。",
+      "小麦粉とデミグラスソースを入れ、混ぜ合わせる。",
+      "弱火で10分程度加熱し、ご飯を混ぜる。",
+      "お好みでパセリやハーブなどをトッピングして完成。"
+    ],
+    "prompt": "A close-up shot of a vibrant and colorful shrimp pilaf, showcasing the seafood with a creamy sauce, and topped with parsley and fresh herbs.",
+    "filename": "recipe_1786452726.jpg",
+    "date": "2026-08-11 12:54:25",
+    "timestamp": 1786452726,
+    "likes": 0,
+    "views": 451
+  },
+  {
     "id": "recipe_1786448460",
     "category": "dessert/side",
     "category_ja": "デザート・サイド",
