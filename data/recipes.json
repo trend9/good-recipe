@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786491374",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "悪魔の甘辛デミグラピラフ風！ 🦐✨",
+    "title_en": "Devilishly Sweet and Spicy Shrimp Fried Rice! ✨🦐",
+    "description_ja": "濃厚なデミグラスソースとぷりぷり海老が、ご飯に絡み合う悪魔的な美味しさ。食欲をそそる見た目も、家庭で簡単に作れるレシピ！",
+    "description_en": "A devilishly sweet and spicy shrimp fried rice with creamy demi-glace sauce, a mix of ingredients that creates an irresistible taste! Easy recipe for home cooks! ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "200g"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "濃厚デミグラスソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "ご飯を炊く。",
+      "ぷりぷり海老は塩胡椒で味付けをする。",
+      "鍋にガーリックバターとデミグラスソースを混ぜる。",
+      "ご飯とエビを加え、混ぜ合わせる。"
+    ],
+    "prompt": "A close-up shot of a steaming bowl of shrimp fried rice with a decadent garlicky sauce. A single shrimp is shown in the center, topped with some fluffy grains of rice.",
+    "filename": "recipe_1786491374.jpg",
+    "date": "2026-08-11 23:38:46",
+    "timestamp": 1786491374,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1786487836",
     "category": "side",
     "category_ja": "サイドdish",
