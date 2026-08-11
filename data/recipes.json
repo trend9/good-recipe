@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786410874",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコレートムースケーキ：悪魔の甘さ＆まろやか食感！",
+    "title_en": "Green Tea and White Chocolate Mousse Cake: Devilishly Sweet & Smooth",
+    "description_ja": "抹茶とホワイトチョコレートの組み合わせで、まるで魔法のケーキが誕生。濃厚な甘さとまろやかな食感が一体となった、悪魔的な美味しさのムースケーキ！",
+    "description_en": "A devilishly delightful mousse cake combining the richness of matcha and white chocolate. A decadent, smooth texture and flavor will tempt your taste buds!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "100g"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "200g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "バニラエッセンス",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. バニラエッセンスを混ぜる：抹茶粉とホワイトチョコレートをボウルに入れ、電子レンジで60秒加熱。混ぜ合わせる。",
+      "2. 生クリームで泡立てる：生クリームを泡立て器で泡立て、砂糖を加えて混ぜる。",
+      "3. マスケーキを作る：抹茶とホワイトチョコレートの溶けた生地に生クリームを加え、泡立てて混ぜる。",
+      "4. 焼き菓子箱に盛り付ける：ムースケーキを盛り付け、冷蔵庫で冷やす。"
+    ],
+    "prompt": "Close-up shot of a beautiful, moist green tea and white chocolate mousse cake with whipped cream on top.",
+    "filename": "recipe_1786410874.jpg",
+    "date": "2026-08-11 01:16:15",
+    "timestamp": 1786410874,
+    "likes": 0,
+    "views": 251
+  },
+  {
     "id": "recipe_1786404612",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
