@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786431444",
+    "category": "side",
+    "category_ja": "サイドdish",
+    "title_ja": "悪魔の甘酸味！サーモン & アボカドタルタル風サラダ",
+    "title_en": "Devilishly Delicious Salmon & Avocado Tartare Salad",
+    "description_ja": "サーモンとアボカドを大胆に組み合わせ、独特な甘酸っぱさに、まるで悪魔が作ったかのような、斬新な一品を創造します！",
+    "description_en": "A daring combination of salmon and avocado, crafted with a unique sweet-and-sour twist to create an absolutely novel and devilishly delicious salad experience.",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "サーモンは細切りにして、塩コショウで味付けします。",
+      "アボカドをみじん切りにします。",
+      "レモン汁と醤油を混ぜ合わせ、アボカドを加え、全体に絡めます。",
+      "サーモンとアボカドのタルタルを盛り付けます。"
+    ],
+    "prompt": "A close-up shot of a beautifully arranged salad, showcasing the vibrant color and texture of salmon, avocado, and dressing.",
+    "filename": "recipe_1786431444.jpg",
+    "date": "2026-08-11 06:59:50",
+    "timestamp": 1786431444,
+    "likes": 0,
+    "views": 340
+  },
+  {
     "id": "recipe_1786424571",
     "category": "dessert",
     "category_ja": "デザート",
