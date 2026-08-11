@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786484503",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "ガーリックバター×ぷりぷり海老の「悪魔の甘辛ピラフ」",
+    "title_en": "Garlic Butter Shrimp Pogra with Devilish Sweet & Spicy Twist!",
+    "description_ja": "とろけるガーリックバターとぷりぷり海老、意外な組み合わせが炸裂する、悪魔的美味しさ！\n甘辛のスパイシーソースで、ピラフを超えた新たな美味しさを発見",
+    "description_en": "A fusion of garlic butter and plump shrimp, bringing a devilishly delicious twist to your classic rice bowl.",
+    "occasion_ja": "パーティーや特別な日のご飯、晩御飯にぴったり!",
+    "occasion_en": "Perfect for parties and special occasions, a main dish, or a satisfying dinner",
+    "ingredients": [
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1カップ"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "ガーリックバターを炒める。",
+      "エビを加え、炒め合わせる。",
+      "ご飯と砂糖、醤油、みりんを加えて混ぜる。",
+      "蓋をして弱火で10分加熱する。"
+    ],
+    "prompt": "Close-up shot of golden garlic butter shrimp rice with a crispy texture, steam coming out from the top and an artistic background.",
+    "filename": "recipe_1786484503.jpg",
+    "date": "2026-08-11 21:44:04",
+    "timestamp": 1786484503,
+    "likes": 0,
+    "views": 307
+  },
+  {
     "id": "recipe_1786481108",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
