@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786487836",
+    "category": "side",
+    "category_ja": "サイドdish",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘辛チーズタッカルビ風グラタン",
+    "title_en": "Devilishly Delicious: Tantalizing cheesy creamy chicken with tangy Korean sauce.",
+    "description_ja": "とろけるチーズとタッカルビチキの組み合わせは、まさに悪魔の味を体験できる一皿。甘辛い韓国風ソースが、まるでタッカルビの美味しさをより引き立ててくれる！",
+    "description_en": "A fusion of melting cheese and savory Korean-style chicken, this dish will tantalize your taste buds with its devilishly delicious flavor. The creamy tangy sauce is a perfect complement to the chicken.",
+    "occasion_ja": "パーティーにぴったりな、特別な夜を演出！",
+    "occasion_en": "Perfect for parties! ",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "1人分"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "韓国風ソース",
+        "amount": "適量"
+      },
+      {
+        "name": "韓国風ソース",
+        "amount": "適量"
+      },
+      {
+        "name": "パセリ",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを焼く。",
+      "2. チーズと韓国風ソースを混ぜ、タッカルビチキンに塗る。",
+      "3. 蓋をして、10分間焼く。",
+      "4. パセリを添えて完成。"
+    ],
+    "prompt": "Close-up of creamy, cheesy and spicy chicken dish with korean sauce in a white plate.",
+    "filename": "recipe_1786487836.jpg",
+    "date": "2026-08-11 22:39:50",
+    "timestamp": 1786487836,
+    "likes": 0,
+    "views": 364
+  },
+  {
     "id": "recipe_1786484503",
     "category": "side",
     "category_ja": "サイドディッシュ",
