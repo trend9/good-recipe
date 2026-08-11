@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786481108",
+    "category": "dessert/side",
+    "category_ja": "デザート/サイド",
+    "title_ja": "とろーり半熟卵＆デミグラスハンバーグの「悪魔の甘辛チーズ」グラタン風！",
+    "title_en": "Devilishly Delicious: Half-Hard Egg & Demi-Glace Hamburger in Spicy Cheese Cream Sauce!",
+    "description_ja": "いつものハンバーグの味がさらに一層美味しくなる、濃厚でスパイシーなチーズソースと半熟卵が絶妙に絡むグラタン。まるで悪魔の舌を魅了する、衝撃の味です！",
+    "description_en": "This devilishly delicious dish takes your hamburger to another level with a decadent, spicy cheese sauce and perfectly poached egg. The flavors combine for an unforgettable experience!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions.",
+    "ingredients": [
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "とろーり半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "少々"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. Demi-glace hamburger pattiesを焼きます。",
+      "2. Half-boiled eggsを湯で茹でて、冷水で冷やします。",
+      "3. Cream cheeseを泡立て器で混ぜます。パプリカと唐辛子を混ぜ込み、牛乳を加えて溶かします。",
+      "4. ハンバーグのソースと半熟卵を混ぜ合わせ、グラタン皿に盛り付け、更にチーズソースをたっぷりかけます。"
+    ],
+    "prompt": "Close-up shot of the spicy cheese sauce and half-boiled egg on top of the demi-glace hamburger, with a vibrant red pepper as garnish. Illustration in an anime style with detailed food.",
+    "filename": "recipe_1786481108.jpg",
+    "date": "2026-08-11 20:46:56",
+    "timestamp": 1786481108,
+    "likes": 0,
+    "views": 465
+  },
+  {
     "id": "recipe_1786478382",
     "category": "side-dish",
     "category_ja": "サイドディッシュ",
