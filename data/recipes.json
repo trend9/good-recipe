@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786478382",
+    "category": "side-dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "焼き芋 × 濃厚バターチーズソース：悪魔の甘辛グラタン風！",
+    "title_en": "Baked Sweet Potato x Creamy Butter Cheese Sauce: Devilishly Delicious Grambling",
+    "description_ja": "このレシピは、焼き芋の甘味と濃厚なバターチーズソースのハーモニーが、口に広がる悪魔的な美味しさを演出します。まるで、悪魔が作ったグラタンのような、魅惑的な一品に仕上がります。",
+    "description_en": "This recipe combines the sweetness of baked sweet potato with a creamy and buttery cheese sauce. The result is an devilishly delicious and irresistible grambling experience that’ll leave you wanting more.",
+    "occasion_ja": "パーティーや特別な日のディナーにぴったりです！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "80g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋を15分ほどオーブンで焼きます。",
+      "フライパンにバターを入れ、溶かしながらチーズと牛乳を加えます。",
+      "火を止めて塩コショウで味を調えましょう。",
+      "焼いた焼き芋にソースをたっぷりかけて完成！"
+    ],
+    "prompt": "Close-up shot of a delicious, savory baked sweet potato with creamy, melted butter cheese sauce. Creamy and warm, topped with paprika dust.",
+    "filename": "recipe_1786478382.jpg",
+    "date": "2026-08-11 20:01:22",
+    "timestamp": 1786478382,
+    "likes": 0,
+    "views": 386
+  },
+  {
     "id": "recipe_1786474547",
     "category": "pasta/side",
     "category_ja": "パスタ/サイド",
