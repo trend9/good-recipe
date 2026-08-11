@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786419140",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛チーズグラタン風！",
+    "title_en": "Gourmet Grilled Cheese with Honey Mustard Glaze: A Delectable Fusion of Sweet & Salty!",
+    "description_ja": "極厚カツの旨味と特製ハニーマスタードの爽やかな風味、チーズを加えても濃厚な味わいに。まるで悪魔が作ったグラタン！",
+    "description_en": "A heavenly fusion of sweet and salty indulgence. Thick-cut katsu paired with a special honey mustard glaze, topped with melty cheese for an extra layer of flavor, reminiscent of the devil's own creation! ",
+    "occasion_ja": "パーティー、BBQなど、おやつにもぴったり",
+    "occasion_en": "Perfect for parties and barbecues as a side dish or snack.",
+    "ingredients": [
+      {
+        "name": "極厚カツ (牛肉、豚肉など)",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタード (甘味と塩味のバランスが良くなるように調整する)",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ (モッツァレラ、チェダーなど)",
+        "amount": "2枚"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面を軽く焼きます。",
+      "特製ハニーマスタードを混ぜ合わせ、チーズとバターを加え、全体を絡めます。",
+      "チーズを挟んだ極厚カツに、牛乳を加え、グラタン風で溶かしながら巻きます。",
+      "仕上げに、お好みでハーブやスパイスを添えてください。"
+    ],
+    "prompt": "Close-up shot of a grilled cheese sandwich with honey mustard glaze and melted cheese on top. Smoke coming out of the grill, warm lighting and a rustic background.",
+    "filename": "recipe_1786419140.jpg",
+    "date": "2026-08-11 03:33:46",
+    "timestamp": 1786419140,
+    "likes": 0,
+    "views": 466
+  },
+  {
     "id": "recipe_1786410874",
     "category": "dessert",
     "category_ja": "デザート",
