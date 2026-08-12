@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1786570825",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵・旨辛麻婆豆腐丼の悪魔的甘辛！",
+    "title_en": "Spicy Creamy Egg & Kung Pao Tofu Bowl - A Devilishly Delicious Twist!",
+    "description_ja": "とろける卵と旨辛麻婆豆腐が、白米と絡み合う、まるで悪魔の舌を刺激する一品。甘辛な味付けで、飽きることなく楽しめます。",
+    "description_en": "A devilishly delicious fusion of creamy egg and spicy Kung Pao Tofu, served over white rice. This unique dish will tantalize your taste buds with its savory and sweet flavors.",
+    "occasion_ja": "夜ご飯にぴったり！",
+    "occasion_en": "Perfect for dinner!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "白米",
+        "amount": "1杯"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "白米を炊く。",
+      "卵を溶き、砂糖と醤油を加えて混ぜる。",
+      "熱したフライパンで卵液を流し込む。",
+      "旨辛麻婆豆腐を盛り付ける。",
+      "卵液と麻婆豆腐を一緒に盛り付ける。"
+    ],
+    "prompt": "A close-up shot of the egg and spicy Kung Pao Tofu bowl, with a steamy rice background, showcasing the creamy yolk and flavorful dish.",
+    "filename": "recipe_1786570825.jpg",
+    "date": "2026-08-12 21:42:03",
+    "timestamp": 1786570825,
+    "likes": 0,
+    "views": 465
+  },
+  {
     "id": "recipe_1786567523",
     "category": "pasta",
     "category_ja": "パスタ",
