@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786550158",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘辛スパイシーグラタン",
+    "title_en": "Spicy Sweet Potato & Creamy Caramel Gravitational-Dessert: Spiced Caramel Surprise!",
+    "description_ja": "濃厚なバターソースに焼き芋とスパイシーな香りを加え、とろけるカラメルがアクセント。見た目も美しく、味も悪魔的！",
+    "description_en": "Creamy and sweet, spicy with a hint of the heat. This dish is a fusion of sweet potato and butter-cream caramel topped with a surprising crunch. It's eye catching and will leave you wanting more!",
+    "occasion_ja": "特別な日のデザートに。",
+    "occasion_en": "A decadent dessert for special occasions.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "焼き芋を一口大にカットし、水溶き片栗粉でコーティング。",
+      "フライパンにバターを入れ、弱火で焼き芋と塩胡椒で味付け。",
+      "砂糖を加え、焦げ付かないように弱火で1分程度炒める。",
+      "溶かしバターとカラメルソースを混ぜ合わせる。焼き芋を盛り付けて、カラメルソースを飾る。"
+    ],
+    "prompt": "Vibrant close-up shot of a golden-brown baked sweet potato, covered in melted butter and caramel sauce, with a sprinkle of powdered sugar. The glaze is glistening and the texture is visible.",
+    "filename": "recipe_1786550158.jpg",
+    "date": "2026-08-12 15:57:38",
+    "timestamp": 1786550158,
+    "likes": 0,
+    "views": 288
+  },
+  {
     "id": "recipe_1786544462",
     "category": "pasta/side",
     "category_ja": "パスタ/サイドディッシュ",
