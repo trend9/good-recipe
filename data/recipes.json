@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786497737",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔の甘辛海鮮グラタン：クリーミーなアボカドと海老の魅惑",
+    "title_en": "Forbidden Deliciousness: Creamy Avocado and Shrimp Cheese Gravitational Feast!",
+    "description_ja": "海藻の風味が豊かな、クリーミーなアボカドソースが、ぷりぷりの海老と絡み合う悪魔的グラタン！ 意外性のある組み合わせで、味覚を刺激する一品です。",
+    "description_en": "A creamy avocado sauce featuring the unique flavor of seaweed, combined with plump shrimp and a mesmerizing gravitational feast! This unexpected combination will tantalize your taste buds.",
+    "occasion_ja": "パーティーや特別な日に、ゲストを魅了する一品に！",
+    "occasion_en": "An irresistible dish to wow your guests for a special occasion party!",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "エビ",
+        "amount": "200g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "海藻",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "アボカドとエビを混ぜる。",
+      "チーズ、バター、海藻を加え、よく混ぜる。",
+      "グラタン皿に生地を流し込み、オーブンで15分ほど焼く。",
+      "完成！"
+    ],
+    "prompt": "Close-up photo of creamy avocado and shrimp cheesy gravaton, with a decadent sheen. Vibrant, inviting dish.",
+    "filename": "recipe_1786497737.jpg",
+    "date": "2026-08-12 01:23:25",
+    "timestamp": 1786497737,
+    "likes": 0,
+    "views": 260
+  },
+  {
     "id": "recipe_1786491374",
     "category": "side",
     "category_ja": "サイド dish",
