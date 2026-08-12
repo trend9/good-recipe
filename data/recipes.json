@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786557340",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘辛！ 海老 × クリーミーアボカドグラタン風",
+    "title_en": "Devilish & Creamy! Garlic Butter Shrimp & Avocado Gratin",
+    "description_ja": "普段のグラタンとは一味違う、クリーミーなアボカドと海老の組み合わせがたまらない、悪魔的な美味しさ！ 濃厚なバター醤油で仕上げた、超絶満足感！ ",
+    "description_en": "A twist on the classic gratin with a creamy avocado and shrimp combination, this dish is devilishly delicious! The rich, buttery sauce elevates it to another level of satisfaction!",
+    "occasion_ja": "特別な日にぴったりな一品！",
+    "occasion_en": "Perfect for a special occasion treat.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "1kg"
+      },
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "30g"
+      },
+      {
+        "name": "醤油",
+        "amount": "1 tbsp"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  海老は小さめに切ります。アボカドは皮をむき、種を取り除きます。",
+      "2.  バターと醤油を加え、よく混ぜて、海老とアボカドの生地を作ります。",
+      "3.  グラタン皿に生地を入れ、オーブンで180℃で約15分焼きます。",
+      "4.  焼きあがったら、塩を振って完成です！"
+    ],
+    "prompt": "Close-up shot of a creamy, cheesy baked gratin with golden brown shrimp and avocado, garnished with green herbs.",
+    "filename": "recipe_1786557340.jpg",
+    "date": "2026-08-12 17:57:28",
+    "timestamp": 1786557340,
+    "likes": 0,
+    "views": 302
+  },
+  {
     "id": "recipe_1786553605",
     "category": "side",
     "category_ja": "サイド",
