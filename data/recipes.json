@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1786532269",
+    "category": "dessert/side/grainy",
+    "category_ja": "デザート/サイド/グラタン風",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛！グラタン風",
+    "title_en": "Smoked BBQ Char Siu x Rich Garlic Roast: Devilish Spicy & Sweet! Goulash-Style Gratin",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を、クリーミーなチーズで包み込む。悪魔的！甘辛風味のグラタンは、まるでまるで地獄の宴を味わえる！",
+    "description_en": "Smoked BBQ Char Siu meets rich garlic roast in a creamy cheese-filled heaven! This devilishly spicy and sweet gratin will transport you to a fiery feast.",
+    "occasion_ja": "特別な日のディナーや、夜のおつまみにぴったり！",
+    "occasion_en": "Perfect for special occasions or a decadent snack!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを一口サイズにカットする。",
+      "2. 濃厚焦がしにんにく醤油とクリームチーズを混ぜ合わせる。",
+      "3. グラタンソースで好みの形状に盛り付ける。",
+      "4. 炙りチャーシューとチーズソースの組み合わせをグラタンソースで包み込む。"
+    ],
+    "prompt": "Close-up shot of a cheesy gratin dish, with smoky char siu on top, and a vibrant orange sauce around it.",
+    "filename": "recipe_1786532269.jpg",
+    "date": "2026-08-12 10:59:09",
+    "timestamp": 1786532269,
+    "likes": 0,
+    "views": 371
+  },
+  {
     "id": "recipe_1786525704",
     "category": "side",
     "category_ja": "サイドディッシュ",
