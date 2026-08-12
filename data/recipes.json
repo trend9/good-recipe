@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786535074",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろけるデミグラスハンバーグ＆半熟卵の「悪魔の甘辛チーズ」グラタン風！",
+    "title_en": "Devilish Sweet & Spicy Cheese Gratin with Half-Cooked Eggs and Demi-Glace Hamburgers!",
+    "description_ja": "濃厚なデミグラスハンバーグと半熟卵が、チーズで包まれ、とろける食感の「悪魔の甘辛チーズ」グラタン風！ 意外な組み合わせだけど、想像以上に美味しい。",
+    "description_en": "A devilishly good combination of demi-glace hamburger and half-cooked eggs, enveloped in a creamy cheese sauce for an out-of-this-world experience. You won't believe how delicious this unexpected pairing is.",
+    "occasion_ja": "クリスマスパーティーや、特別な日に！",
+    "occasion_en": "Perfect for Christmas party or a special occasion!",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスハンバーグ (100g)",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ (100g)",
+        "amount": "100g"
+      },
+      {
+        "name": "バター (50g)",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム (30g)",
+        "amount": "30g"
+      }
+    ],
+    "steps": [
+      "半熟卵を卵白と yolks に分けて、鍋で弱火で溶かしながら加熱する。",
+      "溶かしバターにチーズを加え、混ぜ合わせる。",
+      "ハンバーグを、チーズの入った生地の中に包み込む。",
+      "熱したオーブンで焼く。表面がカリッと、中はとろけるようになるまで、約15分."
+    ],
+    "prompt": "Close-up shot of the finished dish, creamy cheese sauce with a crispy golden crust and half-cooked egg on top. The hamburger is nestled in the middle.",
+    "filename": "recipe_1786535074.jpg",
+    "date": "2026-08-12 11:46:18",
+    "timestamp": 1786535074,
+    "likes": 0,
+    "views": 406
+  },
+  {
     "id": "recipe_1786532269",
     "category": "dessert/side/grainy",
     "category_ja": "デザート/サイド/グラタン風",
