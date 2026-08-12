@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1786553605",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "バナナキャラメル brûlée の悪魔的グラタン",
+    "title_en": "Banana Caramel Brulee's Devilish Grilled Cheese",
+    "description_ja": "完熟バナナの甘さを、キャラメルブリュレと融合させた悪魔的な美味しさ！焼きチーズのような食感に、とろけるキャラメルが、まさに「悪魔の甘辛」グラタンを体感せよ！",
+    "description_en": "Devilish grilled cheese with a twist! Banana caramel brûlée takes on new life in this savory, sweet treat. A cheesy texture paired with melted caramels creates an experience that's truly devilishly delicious.",
+    "occasion_ja": "パーティーにぴったり！",
+    "occasion_en": "Perfect for parties!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "チーズ",
+        "amount": "2切れ"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "完熟バナナは、縦に切り込みを入れる。",
+      "キャラメルをバナナの切り口に塗り、熱したバターで焼き付ける。",
+      "チーズを、バナナとキャラメルが合うように配置する。",
+      "両面を焼き上げる。カリッとしたチーズとキャラメルの甘さに、悪魔的な美味しさを感じてね！"
+    ],
+    "prompt": "Close-up shot of a grilled cheese sandwich with banana caramel brûlée, the cheese is melted and slightly charred, against a black background.  Focus on the texture and details.",
+    "filename": "recipe_1786553605.jpg",
+    "date": "2026-08-12 16:55:08",
+    "timestamp": 1786553605,
+    "likes": 0,
+    "views": 325
+  },
+  {
     "id": "recipe_1786550158",
     "category": "dessert",
     "category_ja": "デザート",
