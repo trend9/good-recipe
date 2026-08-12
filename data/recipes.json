@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786507343",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコ濃厚クリームケーキの「悪魔の甘辛」グラタン",
+    "title_en": "Devilishly Sweet White Chocolate Cream Cake Graalatin",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートが融合した、まるでケーキのようなグラタン！濃厚なクリーミーなソースで、一口食べれば魅惑的な世界へ旅立つ。悪魔的美味しさ、間違いなし！",
+    "description_en": "A devilishly sweet white chocolate cream cake graalatin! This unique and decadent dessert is a fusion of matcha and rich white chocolate, delivering an experience that takes you on a journey to another world! An absolute must-try.",
+    "occasion_ja": "特別な日のデザートに！友達とのディナーにもぴったりなレシピです。",
+    "occasion_en": "Perfect for special occasion desserts, this recipe is ideal for dinner parties and gatherings with friends.",
+    "ingredients": [
+      {
+        "name": "抹茶の粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "300ml"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "卵黄",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "抹茶の粉と濃厚ホワイトチョコレートを混ぜて、なめらかになるまでよく混ぜる。",
+      "生クリームと牛乳を加え、泡立て器で混ぜる。",
+      "混ぜ合わせたクリームを、抹茶とホワイトチョコレートの混合物に注ぐ。",
+      "卵黄を混ぜ込み、グラタンを冷蔵庫で冷やす。"
+    ],
+    "prompt": "Close-up photo of a devilishly delicious white chocolate cream cake graalatin, with a creamy and decadent texture. Focus on the luxurious colors of white chocolate and matcha green tea powder.",
+    "filename": "recipe_1786507343.jpg",
+    "date": "2026-08-12 04:03:44",
+    "timestamp": 1786507343,
+    "likes": 0,
+    "views": 341
+  },
+  {
     "id": "recipe_1786497737",
     "category": "グラタン",
     "category_ja": "グラタン",
