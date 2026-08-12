@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786513455",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘辛スパイシーグラタン",
+    "title_en": "Spicy Caramel-Glazed Sweet Potato Gratin",
+    "description_ja": "悪魔的な美味しさ！焼き芋の甘さが、とろけるバターカラメルの酸味が引き立つ、食欲をそそるグラタンレシピ。\n  スパイスを加えて、さらに奥深い味わいに仕上げます。",
+    "description_en": "A devilishly delicious gratin featuring sweet potato, caramel, and spices for a tantalizingly unique flavor. ",
+    "occasion_ja": "パーティーや家族 gatherings のディナーに！",
+    "occasion_en": "Perfect for parties or family gatherings!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "100g"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "スパイス(例: 胡椒、唐辛子、バジル)",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "焼き芋を一口大にカットします。\n",
+      "バターとスパイスを混ぜ合わせ、焼き芋に絡めます。\n",
+      "カラメルソースと牛乳を加え、全体を混ぜます。\n",
+      "180℃で約20分焼く。焼き色がついたら完成！"
+    ],
+    "prompt": "Close-up shot of a beautifully glazed sweet potato gratin with caramel sauce, spices and steam. ",
+    "filename": "recipe_1786513455.jpg",
+    "date": "2026-08-12 05:45:54",
+    "timestamp": 1786513455,
+    "likes": 0,
+    "views": 416
+  },
+  {
     "id": "recipe_1786507343",
     "category": "dessert",
     "category_ja": "デザート",
