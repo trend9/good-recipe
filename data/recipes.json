@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786525704",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔的！ハニーマヨネーズ×サクサク唐揚げ！のグラタン風",
+    "title_en": "Devilishly Delicious! Honey Mayo x Crispy Chicken Grainy!",
+    "description_ja": "悪魔的な甘辛さとサクサク感が楽しめる、衝撃的なグラタン風レシピ。とろけるチーズとハニーマヨネーズが食欲をそそる一品！",
+    "description_en": "A devilishly delicious fusion of sweet, savory and crispy! This unique grainy recipe delivers a shock to your taste buds with its combination of cheesy melty goodness and the irresistible crunch of fried chicken.",
+    "occasion_ja": "パーティーや、特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "サクサク唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. サクサク唐揚げを一口サイズに切って、チーズと混ぜておく。",
+      "2. グラタンソースとハニーマヨネーズ、牛乳を加え、全体を混ぜる。",
+      "3. 調味料やチーズの量を調整して、好みの味に調整する。",
+      "4. フライパンでグラタンソース液を熱し、チーズとチキンを乗せて焼き上げる。"
+    ],
+    "prompt": "A close-up photo of a crispy chicken fried in cheese and honey, with a creamy gravy sauce. The background is blurred to highlight the dish.",
+    "filename": "recipe_1786525704.jpg",
+    "date": "2026-08-12 09:10:17",
+    "timestamp": 1786525704,
+    "likes": 0,
+    "views": 217
+  },
+  {
     "id": "recipe_1786513455",
     "category": "side",
     "category_ja": "サイド",
