@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786560956",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ローストビーフ × 特製オニオンソース：悪魔の甘辛！甘辛風グラタン風",
+    "title_en": "Roast Beef x Special Onion Sauce: Devilish Sweet & Spicy! Grilled Cheese Style",
+    "description_ja": "とろけるローストビーフを、意外なソースで甘辛に！まるで悪魔が作ったかのような、贅沢なグラタン風レシピ。",
+    "description_en": "Melt-in-your-mouth roast beef with a unique sauce, Devilish! Sweet and spicy grilled cheese style. A luxurious grilled cheese recipe.",
+    "occasion_ja": "パーティーや特別な日の食卓に！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パン粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ローストビーフをカットして、小さめの塊に。",
+      "特製オニオンソースと生クリームを混ぜて、甘辛なソースを作る。",
+      "パン粉をつけてチーズで包んで焼成する。",
+      "仕上げに、特製オニオンソースをかけた、悪魔的な美味しさのグラタン風一品を完成させる。"
+    ],
+    "prompt": "Close-up shot of grilled cheese style sandwich, melted cheese and roast beef is visible, devilish looking, anime illustration style, vibrant colors",
+    "filename": "recipe_1786560956.jpg",
+    "date": "2026-08-12 18:58:15",
+    "timestamp": 1786560956,
+    "likes": 0,
+    "views": 201
+  },
+  {
     "id": "recipe_1786557340",
     "category": "dessert",
     "category_ja": "デザート",
