@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1786567523",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリームパスタの悪魔的甘辛！スパイシーグラタン風",
+    "title_en": "Devilishly Spicy & Tangy Lemon Cream Pasta in a Creamy Garlic Gravy",
+    "description_ja": "いつもの明太子ソースに、レモンとスパイシーなスパイスを加えて、まるで悪魔が作った！？ 想像を超える甘辛な味わいを提供します。",
+    "description_en": "A devilishly spicy and tangy lemon cream pasta in a creamy garlic gravy. We're going to unleash an unexpected yet heavenly flavor explosion with this recipe. ",
+    "occasion_ja": "週末ディナーやパーティーに最適！",
+    "occasion_en": "Perfect for weekend dinner or parties!",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "白ワイン",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ニンニク",
+        "amount": "1かけ"
+      }
+    ],
+    "steps": [
+      "明太子と生クリームを混ぜ、お好みでレモン汁を加えて味を調える。",
+      "ニンニクをみじん切りにし、鍋に溶かしバターを入れ炒める。",
+      "白ワインと水を加え、沸騰したら弱火で2分ほど煮込む。",
+      "パスタを茹でる。",
+      "仕上げにごま油と塩コショウで味を調える。"
+    ],
+    "prompt": "Close-up of a steaming bowl of pasta with creamy lemon sauce, garnished with a piece of chopped red chilli. The background is smoky and has a hint of orange.",
+    "filename": "recipe_1786567523.jpg",
+    "date": "2026-08-12 20:47:42",
+    "timestamp": 1786567523,
+    "likes": 0,
+    "views": 460
+  },
+  {
     "id": "recipe_1786564782",
     "category": "side",
     "category_ja": "サイド",
