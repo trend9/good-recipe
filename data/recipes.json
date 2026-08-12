@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786564782",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ローストビーフ × オニオンソースの「甘辛スパイシー」チーズグラタン",
+    "title_en": "Spicy Roasted Beef & Onion Cheese Gratin",
+    "description_ja": "悪魔的な甘辛スパイシーさを実現！ローストビーフと特製オニオンソースが、クリーミーなチーズで溶け込む一皿。見た目も華麗で、満足度が爆上がり！",
+    "description_en": "Experience the ultimate spicy, cheesy goodness! This dish brings together tender roasted beef and a unique onion sauce with melted cheese for a creamy explosion of flavor. It looks amazing too.",
+    "occasion_ja": "パーティーや特別な日に最適な一品",
+    "occasion_en": "Perfect for parties and special occasions",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パン粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ローストビーフと特製オニオンソースを混ぜ、一口サイズに切ります。",
+      "フライパンでクリームチーズとパルメザンチーズを入れ、溶かしながら混ぜます。",
+      "生地が柔らかくなったら、ローストビーフとオニオンソースを混ぜ合わせ、チーズの溶け具合に合わせて、グラタン型に盛ります。",
+      "オーブントースターで約15分焼きます。表面が焦げ付いたら完成です。"
+    ],
+    "prompt": "close-up photo of the gratin dish with melting cheese, red and yellow onion sauce dripping from the edges. Background is black.",
+    "filename": "recipe_1786564782.jpg",
+    "date": "2026-08-12 20:01:12",
+    "timestamp": 1786564782,
+    "likes": 0,
+    "views": 259
+  },
+  {
     "id": "recipe_1786560956",
     "category": "side",
     "category_ja": "サイド",
