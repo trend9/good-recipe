@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786574153",
+    "category": "side-dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘辛スパイシーグラタン",
+    "title_en": "Devilish Sweet & Spicy Goulash with Roasted Sweet Potato",
+    "description_ja": "焼き芋の甘さ、とろけるバターカラメルのまろやかさが、スパイシーな風味で、悪魔的な美味しさに昇格！一口食べたらもう止まらない！",
+    "description_en": "A devilish twist on sweet and spicy goulash with roasted sweet potatoes. This unique dish is a perfect combination of creamy, buttery caramel sauce, and the warm sweetness of baked sweet potato. The taste will have you wanting more!",
+    "occasion_ja": "パーティー、ディナーなど、特別な日におすすめ！",
+    "occasion_en": "Perfect for parties, dinners or special occasions.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ローストビーフ",
+        "amount": "1/4kg"
+      },
+      {
+        "name": "和風だし",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "焼き芋は皮を剥き、一口大にカットします。",
+      "鍋でバターを溶かし、カラメルソースを加えます。火が通ったら、焼き芋を入れます。",
+      "ローストビーフと和風ダシを加え、全体がしんなりするまで煮詰めます。",
+      "仕上げに、お好みでレモン汁を少々加えて、混ぜ合わせます。"
+    ],
+    "prompt": "Close-up shot of a delicious goulash with roasted sweet potatoes, creamy butter sauce drizzled on top. The background is a warm kitchen setting with glowing sunset colors.",
+    "filename": "recipe_1786574153.jpg",
+    "date": "2026-08-12 22:37:38",
+    "timestamp": 1786574153,
+    "likes": 0,
+    "views": 242
+  },
+  {
     "id": "recipe_1786570825",
     "category": "丼もの",
     "category_ja": "丼もの",
