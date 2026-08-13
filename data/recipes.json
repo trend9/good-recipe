@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786601625",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛スパイシーグラタン風！",
+    "title_en": "Spicy Roasted Pork Belly & Garlic Chili Gravy: An Explosive New Twist on the Classic!",
+    "description_ja": "誰もが大好きな炙りチャーシューと、濃厚焦がしにんにく醤油が、一体となったグラタン。スパイシーな味わいが、まるで悪魔の舌を刺激する！",
+    "description_en": "Experience a truly explosive twist on the classic roasted pork belly recipe with this new take. The unique flavor combination of smoky-roasted pork and fiery garlic chili gravy will tantalize your taste buds in a way you've never imagined!",
+    "occasion_ja": "パーティー、BBQ、お酒との相性抜群！",
+    "occasion_en": "Perfect for parties, barbecues and pairing with your favorite drinks!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1個"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "バター",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "1. じゃがいもは皮を剥き、小さめサイズに切る。玉ねぎは薄切りにする。",
+      "2. 濃厚焦がしにんにく醤油を混ぜて、炙りチャーシューの表面とじゃがいもの表面を塗り、両面でしっかりと絡ませる。",
+      "3. フライパンにバターを熱し、じゃがいもと玉ねぎを炒める。",
+      "4. 肉汁が染み出るまで炒め、完成。"
+    ],
+    "prompt": "A photo of a cheesy, golden-brown dish with chunks of roasted pork belly and flavorful gravy in a bowl with a fork.",
+    "filename": "recipe_1786601625.jpg",
+    "date": "2026-08-13 06:15:28",
+    "timestamp": 1786601625,
+    "likes": 0,
+    "views": 340
+  },
+  {
     "id": "recipe_1786594037",
     "category": "side/dessert/bowl",
     "category_ja": "サイドディッシュ/デザート/ボウル",
