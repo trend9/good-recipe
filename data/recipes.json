@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786639912",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス！悪魔の甘辛グラタン風！",
+    "title_en": "Black Honey Kinako Mochi Ice! Devilish Sweet & Spicy Ramen",
+    "description_ja": "黒蜜ときな粉、もちもちアイスに、スパイシーな隠し味で、まるで地獄の味わいを堪能できる！極上の悪魔的美味しさ！",
+    "description_en": "Experience the devilishly sweet and spicy flavor of black honey and kinako, with a surprising twist of chili powder! A taste of pure hellish delight!",
+    "occasion_ja": "特別な夜に、パーティーにも最適な一品！",
+    "occasion_en": "Perfect for special occasions or parties. ",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "1個"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "きな粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": " chili powder",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "もちもちアイスを、黒蜜ときな粉で混ぜる。",
+      "塩で味を調える。",
+      "お好みで、 chili powder を加える。",
+      "好きなように盛り付け、召し上がれ。"
+    ],
+    "prompt": "Close-up shot of a bowl of black honey kinako mochi ice with chili powder sprinkled on top. A single piece of ice with a smoky, red chili pepper is visible.",
+    "filename": "recipe_1786639912.jpg",
+    "date": "2026-08-13 16:53:36",
+    "timestamp": 1786639912,
+    "likes": 0,
+    "views": 297
+  },
+  {
     "id": "recipe_1786636555",
     "category": "side",
     "category_ja": "サイド",
