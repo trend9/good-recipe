@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1786636555",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔のチーズグラタン風！",
+    "title_en": "Crispy Potato & Creamy Cheese Sauce: Devilish Gravy-Style!",
+    "description_ja": "普段はサクサクとクリーミーなポテトを、チーズソースでさらに進化！この悪魔的なレシピは、濃厚なチーズとサクサクした食感のハーモニーがあなたを魅了する。",
+    "description_en": "Go crazy with a fusion of crispy potato and creamy cheese sauce! This devilishly delicious recipe transforms your favorite comfort food into something extraordinary. The combination of rich cheese and satisfying crunch will leave you craving for more.",
+    "occasion_ja": "パーティー、ディナー、週末のおやつなど幅広いシーンで楽しめる！",
+    "occasion_en": "Great for any occasion! Enjoy this delicious dish for parties, dinners, or weekend treats.",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "1.5kg"
+      },
+      {
+        "name": "クリーミーチーズソース (牛乳とチーズで作る)",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. ポテトを1cm角にカットします。",
+      "2. フライパンでバターを熱し、ポテトを加えてカリッと焼きます。",
+      "3. チーズソースと塩を混ぜ合わせ、フライパンに投入して絡めます。",
+      "4.  お好みで、チーズをのせて完成！"
+    ],
+    "prompt": "Close-up shot of a bowl of devilishly delicious cheesy potatoes, golden brown and glistening with creamy sauce. A sprinkle of salt adds to the visual appeal. (Photo Style: Art Direction)",
+    "filename": "recipe_1786636555.jpg",
+    "date": "2026-08-13 15:57:37",
+    "timestamp": 1786636555,
+    "likes": 0,
+    "views": 348
+  },
+  {
     "id": "recipe_1786630896",
     "category": "グラタン",
     "category_ja": "グラタン",
