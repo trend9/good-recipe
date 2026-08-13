@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786594037",
+    "category": "side/dessert/bowl",
+    "category_ja": "サイドディッシュ/デザート/ボウル",
+    "title_ja": "ローストビーフ × 特製オニオンソース：スパイシーバター醤油グラタン風",
+    "title_en": "Spicy Butter & Garlic Roast Beef & Onion Sauce Gourmet Bowl",
+    "description_ja": "濃厚なローストビーフと、甘辛なオニオンソースの融合が止まらない！スパイシーバター風味で贅沢な味わいが楽しめる、インパクト大なグラタン風。",
+    "description_en": "An explosion of flavors! Spicy butter & garlic roast beef with a unique onion sauce, wrapped in a gourmet bowl. Get ready to experience the ultimate flavor adventure!",
+    "occasion_ja": "特別な日には、このグラタンでパーティーを盛り上げましょう！",
+    "occasion_en": "Host an amazing party with this unique, gourmet dish! ",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "100g"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "しょうがパウダー",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ローストビーフを、お好みで味付け (醤油, みりん) を加えて、10分程度焼く。",
+      "玉ねぎを薄切りにし、フライパンで炒め、バターとしょうがパウダーを加え、甘辛なオニオンソースを作る。",
+      "焼き上げたローストビーフをボウルに入れ、特製オニオンソースを絡める。",
+      "お好みでパセリやハーブを添えて完成。"
+    ],
+    "prompt": "A beautiful, close-up image of a bowl filled with gourmet roast beef and an onion sauce. The beef is grilled to perfection, the sauce is rich and creamy, with vibrant colors. A sprinkle of herbs finishes off the dish.",
+    "filename": "recipe_1786594037.jpg",
+    "date": "2026-08-13 04:09:05",
+    "timestamp": 1786594037,
+    "likes": 0,
+    "views": 283
+  },
+  {
     "id": "recipe_1786584232",
     "category": "side",
     "category_ja": "サイド",
