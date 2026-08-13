@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786647442",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルクランチの「悪魔的甘辛」グラタン",
+    "title_en": "Banana Caramel Crunch Grazy: The Devilishly Sweet & Spicy Delight!",
+    "description_ja": "完熟バナナとキャラメルブリュレを贅沢に使い、甘辛いスパイスが食欲をそそる、見た目も美しく悪魔的な美味しさのグラタン。家庭で簡単に作れるレシピです。",
+    "description_en": "A devilishly decadent and fun-loving,  banana caramel crunch gratin. This recipe elevates the traditional with a sweet & spicy kick using ripe banana and caramelized sugar, all in a beautiful presentation for you to enjoy! Easy even at home! ",
+    "occasion_ja": "特別な日のディナーに、または夜食に！",
+    "occasion_en": "Perfect for special dinner or an after-dinner treat!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2本"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "お好みで"
+      },
+      {
+        "name": "スパイス (例: パプリカ、コショウなど)",
+        "amount": "好みで"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナは、皮をむき、縦に切れ目を入れ、内側の果肉を取り出します。",
+      "2. 削ったバナナは、キャラメルブリュレと混ぜて、好きな量だけをグラタン皿に盛りつけます。",
+      "3.  お好みでチーズを乗せて、スパイスを少々加えて、全体を混ぜます。",
+      "4.  バターを加え、グラタンを焼きます。"
+    ],
+    "prompt": "A vibrant, close-up photo of a cheesy banana caramel gratin dish with caramelized sugar and spices sprinkled on top. The dish should be visually appealing and mouthwatering.",
+    "filename": "recipe_1786647442.jpg",
+    "date": "2026-08-13 18:58:57",
+    "timestamp": 1786647442,
+    "likes": 0,
+    "views": 383
+  },
+  {
     "id": "recipe_1786643811",
     "category": "dessert",
     "category_ja": "デザート",
