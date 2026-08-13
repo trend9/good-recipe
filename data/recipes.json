@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786625849",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のバター海老ピラフ！",
+    "title_en": "Garlic Butter Shrimp Fried Rice - Devilish Flavor!",
+    "description_ja": "ガーリックバターとぷりぷりの海老が絡み合う、悪魔的な美味しさ！家庭で簡単に作れる、一食で満足のいく一品。",
+    "description_en": "A devilishly delicious combination of garlic butter shrimp fried rice with a home-friendly, one-pot solution for satisfying every bite.",
+    "occasion_ja": "パーティーや、夜食にぴったり！",
+    "occasion_en": "Perfect for parties or a satisfying late-night snack!",
+    "ingredients": [
+      {
+        "name": "海老（冷凍）、100g",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリックバター、20g",
+        "amount": "20g"
+      },
+      {
+        "name": "中華だし、小さじ1",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "鶏ガラスープの素（溶けるタイプ）、小さじ1",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "白米、1合",
+        "amount": "1合"
+      }
+    ],
+    "steps": [
+      "ご飯を炊く。",
+      "フライパンにガーリックバターを熱し、海老を加えて炒める。",
+      "中華だしと鶏ガラスープの素を加え、よく混ぜる。",
+      "ご飯を加え、よく混ぜる。"
+    ],
+    "prompt": "A close-up shot of the creamy garlic butter shrimp fried rice, showing the glistening shrimp and rich sauce. The background is a rustic wooden table with dinnerware.",
+    "filename": "recipe_1786625849.jpg",
+    "date": "2026-08-13 12:59:56",
+    "timestamp": 1786625849,
+    "likes": 0,
+    "views": 284
+  },
+  {
     "id": "recipe_1786622033",
     "category": "side",
     "category_ja": "サイド",
