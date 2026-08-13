@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786664263",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "バナナキャラメル×キャラメルナッツのクリーミーグラタン",
+    "title_en": "Banana Caramel & Nut Creamy Galatun",
+    "description_ja": "完熟バナナとキャラメルの甘さが、濃厚なクリーミーソースで引き立つ！キャラメルナッツを加え、悪魔的な美味しさに昇華！",
+    "description_en": "A creamy, devilishly delicious galatin with the sweetness of ripe bananas and caramelized nuts. The caramel sauce will take your taste buds on a wild ride!",
+    "occasion_ja": "パーティーやディナーにぴったりな一品！",
+    "occasion_en": "Perfect for parties and dinners! ",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルのソース",
+        "amount": "適量"
+      },
+      {
+        "name": "キャラメルナッツ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "完熟バナナを潰し、牛乳とバターを加え、なめらかになるまで混ぜる。",
+      "フライパンにキャラメルのソースとキャラメルナッツを乗せて弱火で加熱する。",
+      "混ぜ合わせたバナナのクリームを、熱したフライパンに加える。",
+      "お好みで、キャラメルソースを添えて完成。"
+    ],
+    "prompt": "Close up shot of a creamy galatun with banana chunks and caramel nuts, steam coming out from the top. Glowing warm light and natural colors.",
+    "filename": "recipe_1786664263.jpg",
+    "date": "2026-08-13 23:39:24",
+    "timestamp": 1786664263,
+    "likes": 0,
+    "views": 288
+  },
+  {
     "id": "recipe_1786660601",
     "category": "グラタン",
     "category_ja": "グラタン",
