@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786618901",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘辛スパイシーグラタン風！",
+    "title_en": "Spicy caramel apple gratin: A sweet, tangy and addictive twist on the classic.",
+    "description_ja": "焼き芋の旨みを活かし、とろけるバターカラメルで魅せる！意外な組み合わせが、悪魔的な美味しさに。",
+    "description_en": "A unique combination of sweet, caramelized apple and creamy butter for a deliciously addictive twist on the classic gratin.",
+    "occasion_ja": "特別な日に、大人も子供も楽しめる悪魔的なデザート。",
+    "occasion_en": "A decadent dessert that is both delicious and fun for all ages, perfect for a special occasion.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "カラメル",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "シナモン",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋を、大きめの Stücke に切り、オーブンで180℃で15分焼きます。",
+      "ボウルにバターを入れ、弱火で溶かし、砂糖を加えて混ぜます。",
+      "シナモンを加え、よく混ぜたら、焼き芋の周りに配置します。",
+      "カラメルソースを焼き芋の上にかけて、更に焼く。 "
+    ],
+    "prompt": "Close up shot of the finished gratin, with a sprinkle of cinnamon.",
+    "filename": "recipe_1786618901.jpg",
+    "date": "2026-08-13 11:03:19",
+    "timestamp": 1786618901,
+    "likes": 0,
+    "views": 256
+  },
+  {
     "id": "recipe_1786615169",
     "category": "side",
     "category_ja": "サイド",
