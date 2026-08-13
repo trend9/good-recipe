@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786653415",
+    "category": "ラーメン",
+    "category_ja": "ラーメン",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛グラタン風！",
+    "title_en": "Spicy Garlic Glazed Ramen with Char Siu: Devilish Sweet and Spicy Ramen Gravy!",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を合わせた、悪魔的な甘辛なスープで、まるで悪魔の胃袋を満たすようなラーメン！",
+    "description_en": "A devilishly delicious ramen with a smoky, sweet and spicy flavor. This Ramen Gravy combines the savory notes of char siu with a rich, flavorful garlic glaze.",
+    "occasion_ja": "夜遅くまで飲みたい！友達と飲み会で！",
+    "occasion_en": "Perfect for late-night gatherings or parties with friends!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "ラーメン",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ネギ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. チャーシューを一口大に切り、濃厚焦がしにんにく醤油で味付けする。",
+      "2. ラーメンの鍋にスープを入れ、火をつけ、沸騰したら、ラーメンを鍋に入れ、弱火で煮込む。",
+      "3. 炙りチャーシューを加え、溶き卵とネギを加える。",
+      "4. 熱々のラーメンを器に入れて、完成。"
+    ],
+    "prompt": "Close-up shot of a steaming bowl of ramen with char siu, garlic glaze and toppings, smoke emitting from the dish.",
+    "filename": "recipe_1786653415.jpg",
+    "date": "2026-08-13 20:38:41",
+    "timestamp": 1786653415,
+    "likes": 0,
+    "views": 245
+  },
+  {
     "id": "recipe_1786650926",
     "category": "グラタン",
     "category_ja": "グラタン",
