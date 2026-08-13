@@ -1,5 +1,48 @@
 [
   {
+    "id": "recipe_1786657179",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔的な海藻風味クリーミーアボカドグラタン：海藻の旨味とクリーミーなアボカドが、あなたを魅了する！",
+    "title_en": "Devilishly Delicious Creamy Avocado Gratin: Seaweed's Umami and Creamy Avocado Will Captivate Your Senses!",
+    "description_ja": "海の底から生まれた海の旨味、海藻とクリーミーなアボカドが織りなす、悪魔的な美味しさ！\n 意外性のある組み合わせは、まさに「悪魔の食卓」に！",
+    "description_en": "A devilishly delicious creamy avocado gratin, crafted with the seaweed's umami and creamy avocado. The unexpected combination will create a devilishly good meal! ",
+    "occasion_ja": "パーティーや特別な日に、映えるグラタンをどうぞ！",
+    "occasion_en": "A stunning gratin to impress at your parties and special occasions.",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "塩昆布",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "海藻（昆布、海苔など）",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. アボカドを大きめなクズに切り、塩昆布と水溶き片栗粉で軽く混ぜる。\n2. 1の材料を鍋に入れ、弱火で加熱し、アボカドが柔らかくなるまで煮る。\n3. 海藻を加え、さらに煮込む。\n4. 仕上げにクリーミーチーズをかける。",
+      "A devilishly delicious creamy avocado gratin, crafted with the seaweed's umami and creamy avocado. The unexpected combination will create a devilishly good meal! "
+    ],
+    "prompt": "Close up of creamy avocado gratin with seaweeds and cheese, in elegant plating on a dark background (英語で料理の写真を具体的に描写)",
+    "filename": "recipe_1786657179.jpg",
+    "date": "2026-08-13 21:41:28",
+    "timestamp": 1786657179,
+    "likes": 0,
+    "views": 161
+  },
+  {
     "id": "recipe_1786653415",
     "category": "ラーメン",
     "category_ja": "ラーメン",
