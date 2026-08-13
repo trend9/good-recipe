@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786609009",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛スパイシーグラタン風！",
+    "title_en": "Ultimate Steak Cutlets with Honey Mustard: Devilishly Spicy and Sweet Gravy!",
+    "description_ja": "極厚カツを、特製ハニーマスタードで甘辛くスパイシーに仕上げたグラタン！見た目もインパクト抜群で、悪魔的な味わいが楽しめます。",
+    "description_en": "Take your steak to the next level with this devilishly good, spicy and sweet honey mustard gravy!  With a bold look and a mouthwatering flavor, you're bound to love it.",
+    "occasion_ja": "特別な日のディナーに、そして、お酒の相棒！",
+    "occasion_en": "Perfect for special occasions and a great accompaniment to your favorite beverage.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      }
+    ],
+    "steps": [
+      "極厚カツを10分ほど予熱した後、小麦粉と牛乳で衣をつけてから揚げる。",
+      "特製ハニーマスタードを加えて混ぜ合わせる。",
+      "玉ねぎを細かく刻んで、グラタン皿に配置する。",
+      "揚げた極厚カツをグラタン皿に配置し、特製ハニーマスタードのソースをかけ、オーブンで20分焼く。"
+    ],
+    "prompt": "Close-up shot of a delicious steak cutlet, sizzling and coated with a thick layer of honey mustard sauce, in an elegant gravy bowl. The cutlet is surrounded by a bright and colorful presentation of caramelized onions.",
+    "filename": "recipe_1786609009.jpg",
+    "date": "2026-08-13 08:19:13",
+    "timestamp": 1786609009,
+    "likes": 0,
+    "views": 458
+  },
+  {
     "id": "recipe_1786601625",
     "category": "side",
     "category_ja": "サイドディッシュ",
