@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786622033",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテトのクリーミーチーズグラタン風！",
+    "title_en": "Creamy Cheese & Crunchy Potato Graatin",
+    "description_ja": "サクサクのポテトとクリーミーなチーズが絶妙にマッチする、悪魔的に美味しいグラタンレシピ。一口食べたらもう止まらない美味しさ guaranteed！",
+    "description_en": "A crispy potato and creamy cheese combination, devilishly delicious in this new recipe. You'll be hooked after just one bite!",
+    "occasion_ja": "パーティー、おもてなしなど、特別な日の準備にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions! ",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "1kg"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "30g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. ポテトを1cm角のサイズにカットし、揚げる。",
+      "2. フライパンでバターを熱し、チーズと生クリームを加えて混ぜる。",
+      "3. ポトトをチーズソースで包む。",
+      "4. オーブンで10分焼けば完成！"
+    ],
+    "prompt": "Close-up shot of a cheesy potato gratin with crispy edges and melted cheese, steam rising from the dish.",
+    "filename": "recipe_1786622033.jpg",
+    "date": "2026-08-13 11:55:32",
+    "timestamp": 1786622033,
+    "likes": 0,
+    "views": 479
+  },
+  {
     "id": "recipe_1786618901",
     "category": "dessert",
     "category_ja": "デザート",
