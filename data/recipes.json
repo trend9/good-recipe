@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786660601",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "トマトモッツァレラ・チーズグラタン（悪魔的甘辛）",
+    "title_en": "Tomato Mozzarella Cheese Gratification (Devilishly Sweet & Spicy)",
+    "description_ja": "完熟トマトの甘酸っぱさが、フレッシュモッツァレラのクリーミーな味わいを引き立てる！悪魔的な甘辛で、舌を tantalize する一品です。",
+    "description_en": "Tomato's sweet and sour flavor is beautifully complemented by the creamy mozzarella. This devilishly sweet and spicy dish will tantalize your taste buds.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラ",
+        "amount": "100g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. トマトを薄くスライスして、全体に黒胡椒と醤油を加え、軽く混ぜる。",
+      "2. モッツァレラチーズをボウルに入れ、軽く混ぜる。",
+      "3.  トマトのスライスを、モッツァレラチーズに重ねる。",
+      "4.  グラタン皿に敷き詰めて、オーブンで15分ほど焼く。"
+    ],
+    "prompt": "A close-up shot of a beautiful gratin with a vibrant tomato base, mozzarella topping and some cheese garnish.",
+    "filename": "recipe_1786660601.jpg",
+    "date": "2026-08-13 22:38:20",
+    "timestamp": 1786660601,
+    "likes": 0,
+    "views": 374
+  },
+  {
     "id": "recipe_1786657179",
     "category": "グラタン",
     "category_ja": "グラタン",
