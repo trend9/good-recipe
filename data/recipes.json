@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786630896",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "バナナ＆キャラメル×サクサクチョコ：悪魔の甘美グラタン",
+    "title_en": "Banana & Caramel Crumble: Devilishly Delicious Gravy",
+    "description_ja": "完熟バナナの甘さと、キャラメルブリュレの香ばしさが絶妙にマッチする！サクサク食感のサブレで更に美味しさ倍増。悪魔的美味しさを実現します。",
+    "description_en": "The perfect blend of banana's sweetness and caramel crumble's savory notes, amplified by a crunchy crumbly topping. It's devilishly delicious! ",
+    "occasion_ja": "特別なディナーに最適な一品。",
+    "occasion_en": "Ideal for a special dinner, this dish is truly something else.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. **バナナを薄切りにする。** 完熟バナナの甘さを最大限に引き出すために、薄切りにしていく。",
+      "2. **キャラメルブリュレを砕く。** キャラメルブリュレを細かく砕き、グラタンボウルに入れる。",
+      "3. **生地を作る。**  小麦粉と砂糖を混ぜる。バターを加え、生地を作っていく。",
+      "4. **バナナとキャラメルブリュレを混ぜる。**  生地を全体に塗って、完熟バナナとキャラメルブリュレを混ぜる。"
+    ],
+    "prompt": "Close-up shot of a beautiful, devilishly delicious gravy with chunks of banana and caramelized crumble topping, with steam emanating from the dish.",
+    "filename": "recipe_1786630896.jpg",
+    "date": "2026-08-13 14:24:43",
+    "timestamp": 1786630896,
+    "likes": 0,
+    "views": 285
+  },
+  {
     "id": "recipe_1786625849",
     "category": "side",
     "category_ja": "サイド",
