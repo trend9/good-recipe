@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786615169",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サーモン×アボカドタルタルの「悪魔的甘辛スパイシーグラタン」",
+    "title_en": "Salmon & Avocado Tartar Glazed Granola",
+    "description_ja": "サーモンとアボカドの相性は抜群！意外な組み合わせで、悪魔的甘辛スパイシーな風味を生み出すグラタンレシピ。家庭でも簡単に作れる、見た目も鮮やかな一品に仕上げましょう!",
+    "description_en": "Salmon and avocado's taste sensation, brought to a whole new level of flavor! This unexpected combination creates an incredibly delicious and eye-catching glazed granola bowl.",
+    "occasion_ja": "パーティーや、特別な日にぴったりな一品に！",
+    "occasion_en": "Perfect for parties or special occasions. ",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "グラノーラ",
+        "amount": "100g"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "サーモンは塩コショウで味付けし、薄切りにする。",
+      "アボカドは皮と種を取り除き、食べやすい大きさに切る。",
+      "グラノーラは軽く炒り、オリーブオイルとマヨネーズを加えて混ぜる。",
+      "フライパンにアボカドの塩焼きを乗せて、レモン汁をかける。サーモンとグラノーラを添え、完成。"
+    ],
+    "prompt": "A vibrant close-up shot of a colorful bowl featuring salmon tartar, avocado slices, and granola topped with a drizzle of lemon dressing. The image should emphasize the contrast between the raw ingredients and the sweet and savory glaze.",
+    "filename": "recipe_1786615169.jpg",
+    "date": "2026-08-13 10:01:59",
+    "timestamp": 1786615169,
+    "likes": 0,
+    "views": 151
+  },
+  {
     "id": "recipe_1786609009",
     "category": "グラタン",
     "category_ja": "グラタン",
