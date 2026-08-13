@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786650926",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "ローストビーフ × 特製オニオンソース：悪魔の甘辛グラタン風！",
+    "title_en": "Roast Beef & Spicy Onion Sauce: An Unexpectedly Delicious, Devilishly Nice Graalant!",
+    "description_ja": "一口食べたら、誰もが「これは一体何だ!?」と驚嘆するであろう、ローストビーフと特製オニオンソースの組み合わせが、悪魔的な美味しさへと昇華したグラタン。甘辛なスパイスとクリーミーチーズで、口いっぱいに広がる濃厚な味わい！",
+    "description_en": "Prepare to be amazed! This surprisingly delicious roast beef and spicy onion sauce graalant will take your tastebuds on a wild ride. A sweet, savory, and creamy explosion that's simply divine.",
+    "occasion_ja": "特別なディナーに最適！",
+    "occasion_en": "Perfect for a special occasion dinner!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1/2個"
+      }
+    ],
+    "steps": [
+      "ローストビーフは一口大にカットし、特製オニオンソースを添えてください。",
+      "玉ねぎとパプリカは薄切りにして、フライパンで炒めます。",
+      "玉ねぎの炒め物に加えて、クリーミーチーズを加え、混ぜ合わせます。",
+      "グラタン皿にローストビーフと玉ねぎパプリカの炒め物を入れます。"
+    ],
+    "prompt": "Close-up shot of a beautifully crafted graalant, featuring a rich and creamy blend of roast beef and onions. A hint of paprika adds a touch of vibrancy to the dish. (English description)",
+    "filename": "recipe_1786650926.jpg",
+    "date": "2026-08-13 19:57:10",
+    "timestamp": 1786650926,
+    "likes": 0,
+    "views": 273
+  },
+  {
     "id": "recipe_1786647442",
     "category": "dessert",
     "category_ja": "デザート",
