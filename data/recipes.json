@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786584232",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の「悪魔の甘辛スパイシーグラタン」",
+    "title_en": "Smoked Pork Belly & Rich Garlic Pepper Gravy Grilled Cheese",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油の組み合わせで、スパイシーな味わいを表現した、まるでグラタンのようなチーズ料理！見た目がインパクト抜群で、悪魔的な美味しさに仕上がります。",
+    "description_en": "A grilled cheese sandwich with smoky, delicious pulled pork belly and rich garlic pepper gravy. The twist? It looks like a gratin! A flavor explosion for your taste buds.",
+    "occasion_ja": "パーティーや、特別な日の晩餐に最適！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ (エッグベネディクト)",
+        "amount": "適量"
+      },
+      {
+        "name": "グラタンパン",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  炙りチャーシューを小さくカットします。",
+      "2.  濃厚焦がしにんにく醤油とチーズを混ぜ合わせ、グラタンパンの両面を塗ります。",
+      "3.  チーズに熱したバターを乗せて、グラタンパンを焼きます。",
+      "4.  お好みで、炙りチャーシューをトッピングします。"
+    ],
+    "prompt": "Close-up shot of a cheesy grilled cheese sandwich with smoky pulled pork belly and rich garlic pepper gravy on top, surrounded by melted cheese and looking like a delicious gratin.",
+    "filename": "recipe_1786584232.jpg",
+    "date": "2026-08-13 01:25:36",
+    "timestamp": 1786584232,
+    "likes": 0,
+    "views": 150
+  },
+  {
     "id": "recipe_1786577833",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
