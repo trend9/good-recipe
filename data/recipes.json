@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1786643811",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的な海藻風味クリーミーアボカドグラタン",
+    "title_en": "Creamy Avocado Gravy with Seaweed & Umami Delights!",
+    "description_ja": "黒蜜きな粉もちもちアイス！の悪魔的美味しさに進化！ 海藻とアボカドが絡み合うクリーミーなグラタン。 意外な組み合わせだけど、最高においしい！",
+    "description_en": "Evolution of the devilish sweetness from black honey & kinako mochi ice! Creamy avocado gravy with seaweed, a unique and delicious twist for your tastebuds!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions! ",
+    "ingredients": [
+      {
+        "name": "アボカド (1個)",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーチーズ (100g)",
+        "amount": "100g"
+      },
+      {
+        "name": "海藻 (適量) ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター (50g)",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1. アボカドをすりおろします。",
+      "2. 混ぜ合わせてクリーミーチーズとバターを加え、混ぜ合わせます。",
+      "3. 海藻を加え、しっかりと混ぜ合わせます。",
+      "4. お好みの皿に盛り付け、お好みで黒胡椒を振ります。"
+    ],
+    "prompt": "Close-up shot of creamy avocado gravy with seaweed and a pinch of black pepper, styled in a warm kitchen setting (英語で料理の見た目などを具体的に描写)",
+    "filename": "recipe_1786643811.jpg",
+    "date": "2026-08-13 17:59:16",
+    "timestamp": 1786643811,
+    "likes": 0,
+    "views": 213
+  },
+  {
     "id": "recipe_1786639912",
     "category": "dessert",
     "category_ja": "デザート",
