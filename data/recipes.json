@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1786745926",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘辛海老バターグラタン：クリーミーな海風と甘辛のハーモニー",
+    "title_en": "Devilish Spicy Garlic Shrimp & Avocado Cream Cheese Gratin",
+    "description_ja": "クリーミーなアボカドと、甘辛な海老が融合した、悪魔的な美味しさ！とろけるバターと、チーズの香ばしさで、満足感あふれるグラタンです。",
+    "description_en": "A devilishly delicious combination of creamy avocado and spicy shrimp, this gratin will leave you wanting more!  A melt-in-your-mouth butter and cheesy aroma for a truly unforgettable experience.",
+    "occasion_ja": "特別な夜に、特別なひとときを演出する",
+    "occasion_en": "Perfect for a special occasion and creating unforgettable moments.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "100g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. エビを水洗いし、塩コショウで味付けをする。",
+      "2. アボカドは、皮を剥き、みじん切りにする。",
+      "3.  バターを溶かし、グラタンソースと混ぜる。",
+      "4. 卵を溶き、チーズと混ぜる。グラタンソースに溶き卵とチーズを加え、混ぜる。",
+      "5. エビとアボカドを加え、混ぜ合わせる。",
+      "6. 耐熱皿に、グラタンソースとエビアボカドを均等に盛り付ける。",
+      "7. オーブンで180℃に予熱し、15分焼成する。",
+      "8. 仕上げに、チーズを振りかける。"
+    ],
+    "prompt": "Close-up photo of the finished Devilish Spicy Garlic Shrimp & Avocado Cream Cheese Gratin with melted cheese and creamy avocado chunks.",
+    "filename": "recipe_1786745926.jpg",
+    "date": "2026-08-14 22:20:42",
+    "timestamp": 1786745926,
+    "likes": 0,
+    "views": 328
+  },
+  {
     "id": "recipe_1786742483",
     "category": "side",
     "category_ja": "サイド",
