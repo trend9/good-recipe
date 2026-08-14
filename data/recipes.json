@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786687852",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "チーズタッカルビチキン：悪魔の甘辛グラタン風！",
+    "title_en": "Spicy Cheese Tartare Chicken: Devilishly Sweet and Spicy Gourmet",
+    "description_ja": "とろけるチーズとタッカルビチキンを組み合わせた、悪魔的に美味しいグラタンが誕生！ 意外な組み合わせなのに、最高のハーモニーが楽しめる一皿。きっと誰もが「これは！悪魔の味がする！」と唸るはず。",
+    "description_en": "A devilishly delicious take on the classic, Spicy Tartare Chicken! A unique fusion of creamy cheese and spicy chicken. An unforgettable flavor experience awaits you.",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "150g"
+      },
+      {
+        "name": "チーズ(モッツァレラやエノキなど)",
+        "amount": "150g"
+      },
+      {
+        "name": "オニオン",
+        "amount": "1個"
+      },
+      {
+        "name": "コショウ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンは、骨と皮を取り除き、食べやすく切る。",
+      "玉ねぎを薄切りにし、フライパンで炒める。",
+      "チーズは、大きめの塊にカットする。",
+      "焼き肉のタレ（または醤油）でタッカルビチキンと玉ねぎを炒め合わせる。最後にはチーズを加えて混ぜ合わせる。"
+    ],
+    "prompt": "A close-up shot of a creamy, cheesy, and spicy grilled chicken and cheese dish, topped with chopped onions and served on a wooden board.",
+    "filename": "recipe_1786687852.jpg",
+    "date": "2026-08-14 06:13:22",
+    "timestamp": 1786687852,
+    "likes": 0,
+    "views": 356
+  },
+  {
     "id": "recipe_1786680226",
     "category": "pasta",
     "category_ja": "パスタ",
