@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786695084",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶×ホワイトチョコの悪魔的グラタン: 抹茶のまろやかさとホワイトチョコの甘さと、意外な組み合わせの絶品！",
+    "title_en": "Devilishly Delicious Matcha & White Chocolate Cheesecake: A surprising yet delicious fusion of matcha and white chocolate.",
+    "description_ja": "抹茶とホワイトチョコレートの意外な組み合わせで、まろやかさと甘さの絶妙なハーモニーが楽しめる、悪魔的な美味しさのグラタン。見た目も華やかで、SNS映えも抜群！",
+    "description_en": "A devilishly delicious matcha & white chocolate cheesecake, a surprising yet delicious fusion of matcha and white chocolate, with a smooth and creamy texture. A stunning visual delight, perfect for social media.",
+    "occasion_ja": "特別な日や、夜食にぴったりな、特別なデザート。",
+    "occasion_en": "A perfect dessert for special occasions or a late-night snack. ",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "ホワイトチョコ",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚クリームチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. ホワイトチョコを耐熱容器に入れ、電子レンジで30秒加熱。 melted chocolate and smooth texture.",
+      "2. 抹茶パウダーを混ぜる。抹茶のまろやかさとホワイトチョコの甘さが、より一層引き立つ。",
+      "3. CREAME CHEESEと生クリームを混ぜる。なめらかでクリーミーな texture。",
+      "4. グラタン型に材料を流し込む。仕上げにホワイトチョコの表面を飾り付け、冷蔵庫で1時間以上冷やす。"
+    ],
+    "prompt": "An elegantly framed close-up shot of the finished cheesecake with a sprinkle of matcha powder on top, evoking a decadent yet sophisticated aesthetic",
+    "filename": "recipe_1786695084.jpg",
+    "date": "2026-08-14 08:13:16",
+    "timestamp": 1786695084,
+    "likes": 0,
+    "views": 469
+  },
+  {
     "id": "recipe_1786687852",
     "category": "グラタン",
     "category_ja": "グラタン",
