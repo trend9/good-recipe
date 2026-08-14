@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786736755",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス！悪魔の甘辛グラタン風！",
+    "title_en": "Black Honey Kinako Mochi Ice! Devilish Sweet and Spicy Arancini",
+    "description_ja": "悪魔的な甘辛グラタン風！黒蜜ときな粉の美味しさと、もちもちアイスが融合した、誰もが驚く絶品デザート！",
+    "description_en": "Devilishly sweet and spicy Arancini! A fusion of the delightful black honey and kinako, with a delightful mochi ice cream, an addictive dessert! ",
+    "occasion_ja": "特別な日にはもちろん、日常のちょっとした贅沢に！",
+    "occasion_en": "Perfect for special occasions or a delightful treat on the everyday! ",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 黒蜜ときな粉を混ぜる。",
+      "2. 卵を混ぜる。",
+      "3.  もちもちアイスを、黒蜜ときな粉の生地に挟む。",
+      "4.  牛乳を少しずつ加え、生地をまとめる。形を整え、オーブンで焼けば完成。"
+    ],
+    "prompt": "An illustration of the final product, a mochi ice cream Arancini filled with black honey and kinako glaze, in a warm oven. ",
+    "filename": "recipe_1786736755.jpg",
+    "date": "2026-08-14 19:48:59",
+    "timestamp": 1786736755,
+    "likes": 0,
+    "views": 368
+  },
+  {
     "id": "recipe_1786733209",
     "category": "丼",
     "category_ja": "丼もの",
