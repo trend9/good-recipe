@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786704886",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の海藻風味クリーミーアボカドグラタン：海藻の旨味とクリーミーなアボカドが、あなたを魅了する！",
+    "title_en": "Creamy Avocado Gratin with Seaweed Flavor - A Delicious Twist on the Classic",
+    "description_ja": "抹茶やホワイトチョコのグラタンのように、意外な組み合わせに驚きを、クリーミーなアボカドと海藻の旨味を活かした、悪魔的な美味しさのグラタン！",
+    "description_en": "A creamy and decadent twist on the classic gratin, featuring the unique taste of seaweed and avocado. Prepare for a flavor explosion that will leave you craving more! ",
+    "occasion_ja": "特別な日のディナー、パーティーにぴったり！",
+    "occasion_en": "Perfect for a special dinner party or a festive celebration.",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "3個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "クリーミーなチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "海苔",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. アボカドは皮を剥き、取り分け、1cm角に切る。",
+      "2.  ボウルにアボカド、生クリーム、チーズ、バターを入れて混ぜる。",
+      "3.  海苔を混ぜ込み、全体に均等に広げる。",
+      "4.  オーブンを180℃に予熱し、グラタン皿を敷き、アボカドグラタンを焼く。"
+    ],
+    "prompt": "A creamy, cheesy avocado gratin with seaweed, baked to golden brown perfection in an oven. The dish is a close-up shot with a slightly dramatic lighting style. The seaweed and cheese should be visible, giving an impression of rich depth.",
+    "filename": "recipe_1786704886.jpg",
+    "date": "2026-08-14 10:56:34",
+    "timestamp": 1786704886,
+    "likes": 0,
+    "views": 248
+  },
+  {
     "id": "recipe_1786695084",
     "category": "dessert",
     "category_ja": "デザート",
