@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786742483",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛バター焼き芋グラタン",
+    "title_en": "Devilishly Sweet & Spicy Caramel-Swirled Baked Sweet Potato Gratin",
+    "description_ja": "一見シンプルなのに、口に含むと衝撃的な甘辛な奥深さ！焼き芋の甘さととろけるバターカラメルの組み合わせが、あなたを魅了する！",
+    "description_en": "A surprising taste of sweet and spicy, this baked sweet potato gratin has a unique caramel-infused twist. It's simple yet incredibly delicious.",
+    "occasion_ja": "特別な日に！パーティーにも最適な一品",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "お好みで、チョコレートソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cm角にカットし、小さめのボウルに並べる。",
+      "ボウルにバターを加え、溶かす。",
+      "砂糖、塩、醤油を加え、よく混ぜる。",
+      "焼き芋をボウルに入れた後、全体を均等に塗り、オーブンで180℃で30分焼く。"
+    ],
+    "prompt": "Oven-baked sweet potato gratin with melted butter, caramelized sugar, and a hint of chocolate sauce. The dish is beautifully plated with a gourmet feel, and a warm glow.",
+    "filename": "recipe_1786742483.jpg",
+    "date": "2026-08-14 21:22:39",
+    "timestamp": 1786742483,
+    "likes": 0,
+    "views": 194
+  },
+  {
     "id": "recipe_1786739209",
     "category": "side",
     "category_ja": "サイド",
