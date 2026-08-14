@@ -1,5 +1,62 @@
 [
   {
+    "id": "recipe_1786729735",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋×とろけるバターカルボナーラ  -  悪魔の甘辛グラタン風！",
+    "title_en": "Japanese Caramel Cake with Baked Sweet Potato - Devilishly Sweet & Creamy Cake",
+    "description_ja": "焼き芋の甘さととろけるバターカルボナーラの組み合わせが、悪魔的な美味しさ！濃厚な甘辛グラタン風！",
+    "description_en": "A devilishly sweet and creamy cake featuring baked sweet potato and rich, buttery caramel sauce. A twist on a classic dessert.",
+    "occasion_ja": "特別な日や、週末のディナーにぴったり！",
+    "occasion_en": "A perfect dessert for special occasions and weekends!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "シナモン",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cm角にカットし、バターと砂糖を混ぜて、焼き芋に塗る。",
+      "フライパンに牛乳と小麦粉を混ぜ、塩とシナモンを加える。",
+      "焼き芋のフライパンに、牛乳と小麦粉を絡ませながら、弱火で加熱する。",
+      "とろけるバターカルボナーラが完成。お好みでパルメザンチーズをトッピングする"
+    ],
+    "prompt": "Close-up shot of a beautiful cake with caramelized baked sweet potato, a creamy sauce flowing over the top and a delicate swirl of cinnamon. The cake is topped with a sprinkle of grated parmesan cheese. The shot should be taken in a warm, soft light, emphasizing the rich textures and colors.",
+    "filename": "recipe_1786729735.jpg",
+    "date": "2026-08-14 17:50:51",
+    "timestamp": 1786729735,
+    "likes": 0,
+    "views": 187
+  },
+  {
     "id": "recipe_1786726286",
     "category": "dessert",
     "category_ja": "デザート",
