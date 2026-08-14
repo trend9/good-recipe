@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1786712132",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のサーモン＆アボカドグラタン：甘辛でクリーミーな海風",
+    "title_en": "Smoked Salmon & Avocado Cream Sauce: A Deep-Sea Delight",
+    "description_ja": "サーモンとアボカドの組み合わせで、海風のような甘辛な味わいが楽しめる！とろけるようなクリーミーソースで、悪魔的な美味しさをお楽しみください。",
+    "description_en": "Dive into a world of salty-sweet, smoky-creamy with this unique twist on a classic! This recipe takes your palate on a deep-sea adventure with a tantalizingly smooth and creamy avocado sauce. ",
+    "occasion_ja": "パーティーや食事会で、特別な何かを味わいたい時",
+    "occasion_en": "For special occasions and gatherings where you want to elevate your culinary experience",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "おろしにんにく",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "サーモンを1cm幅に切る。",
+      "アボカドは皮をむき、ヘタを取り、1cm角に切る。",
+      "マヨネーズ、醤油、酒、おろしにんにくを入れて混ぜ合わせる。",
+      "サーモンをフライパンで焼いて、アボカドとチーズを添える。",
+      "混ぜ合わせたソースをサーモンに注ぐ"
+    ],
+    "prompt": "Close-up image of a steaming dish with a flaky salmon fillet, avocado slices, and a smooth, creamy sauce, with a light smoke effect and a warm color palette",
+    "filename": "recipe_1786712132.jpg",
+    "date": "2026-08-14 12:58:01",
+    "timestamp": 1786712132,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1786707729",
     "category": "ラーメン",
     "category_ja": "ラーメン",
