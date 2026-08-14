@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786722381",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "チーズタッカルビチキン：悪魔の甘辛＆香辛料の、クリーミーグラタン",
+    "title_en": "Creamy, Spicy, Korean-Style Cheese Tataki Chicken: Grilled Chicken in a Cheesy, Spicy Grainy Sauce",
+    "description_ja": "とろけるチーズと香辛料で焼き上げる、タッカルビチキンをクリーミーなグラタンにする。意外な組み合わせが、最高の美味しさに！",
+    "description_en": "Creamy, spicy, Korean-style cheese tataki chicken, with a cheesy, spicy gravy - a surprising and delightful fusion of flavors!",
+    "occasion_ja": "パーティーやBBQ、日常の食事にも最適",
+    "occasion_en": "Great for parties, BBQs, or everyday meals!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "250g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "韓国の辛味調味料",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンは、片栗粉を軽く振って、表面を軽く焼き、塩コショウで味付けする。",
+      "2. 調味料を混ぜ合わせた液体をタッカルビチキンに、全体に塗る。",
+      "3. 溶けたチーズを混ぜる。",
+      "4. グラタン皿にチーズとタッカルビチキンを入れて、180度に予熱したオーブンで15分焼成し、完成。"
+    ],
+    "prompt": "A close-up shot of a creamy, spicy cheese tataki chicken dish with a melted, cheesy top and some Korean chili flakes on top, in an oven.",
+    "filename": "recipe_1786722381.jpg",
+    "date": "2026-08-14 15:49:32",
+    "timestamp": 1786722381,
+    "likes": 0,
+    "views": 417
+  },
+  {
     "id": "recipe_1786716898",
     "category": "dessert",
     "category_ja": "デザート",
