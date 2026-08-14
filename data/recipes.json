@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786670612",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス グラタン - 悪魔の甘辛が止まらない！",
+    "title_en": "Black Honey Kinoa Cold Graveyard – a Sweet and Spicy Delight!",
+    "description_ja": "黒蜜の濃厚な甘さと、きな粉の香ばしさで、一口食べたらもう止まらない！もちもちアイスと組み合わせることで、新たな悪魔的な味わいが生まれるグラタン！",
+    "description_en": "Experience the dark and delicious world of Black Honey Kinoa Cold Graveyard! This unique fusion takes creamy ice cream to a whole new level with sweet, spicy, and tangy notes. Get ready for an explosion of flavor that’ll leave you wanting more!",
+    "occasion_ja": "特別な日や、おうち時間を楽しむのに最適な一品！",
+    "occasion_en": "The perfect dessert for a special occasion or cozy night in! ",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "グラタンソース (濃厚バター醤油ベース)",
+        "amount": "適量"
+      },
+      {
+        "name": "パインナッツ (お好みで)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 冷蔵庫で黒蜜を溶かし、きな粉と混ぜ合わせる。",
+      "2. もちもちアイスを、黒蜜きな粉の溶液で包む。",
+      "3. グラタンソースにパインナッツを入れ、グラタンを完成させる。",
+      "4. お皿に盛り付けて、お好みで黒蜜ときな粉を添えてどうぞ。"
+    ],
+    "prompt": "A close-up shot of a rich and decadent black honey quinoa cold grainy ice cream, topped with a sprinkle of crunchy pecans, in a beautiful porcelain dish.",
+    "filename": "recipe_1786670612.jpg",
+    "date": "2026-08-14 01:26:41",
+    "timestamp": 1786670612,
+    "likes": 0,
+    "views": 408
+  },
+  {
     "id": "recipe_1786664263",
     "category": "side",
     "category_ja": "サイド",
