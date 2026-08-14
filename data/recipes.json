@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786716898",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "ローストビーフ × 特製オニオンソース：悪魔の甘辛グラタン",
+    "title_en": "Roast Beef x Special Onion Sauce: Devilish Sweet & Sour Gravy",
+    "description_ja": "とろっとろのローストビーフに、意外な甘辛ソースが絡み合う、悪魔的な美味しさのグラタン！見た目も美しく、想像以上に美味しい一品。",
+    "description_en": "Devilishly delicious gravy made from melt-in-your-mouth roast beef and a surprising sweet & sour sauce! The beautiful presentation and taste will leave you craving more!",
+    "occasion_ja": "特別な日に、特別な方へ",
+    "occasion_en": "For a special occasion or loved one",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "1枚"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "ローストビーフを焼きます。",
+      "特製オニオンソースとグラタンソースを混ぜます。",
+      "パプリカ、玉ねぎは薄切りにして、グラタンに盛り付けます。",
+      "焼いたローストビーフと、特製オニオンソースとグラタンソースを混ぜ合わせたものを、グラタン皿に盛り付けます。"
+    ],
+    "prompt": "A close-up shot of the devilish roast beef and onion sauce gravy with a beautiful, rustic-style oven-baked cheese gratin.",
+    "filename": "recipe_1786716898.jpg",
+    "date": "2026-08-14 14:16:45",
+    "timestamp": 1786716898,
+    "likes": 0,
+    "views": 246
+  },
+  {
     "id": "recipe_1786712132",
     "category": "side",
     "category_ja": "サイド",
