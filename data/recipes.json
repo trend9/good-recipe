@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786739209",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバターぷりぷり海老ピラフ！悪魔の甘辛な魔法",
+    "title_en": "Garlicky Butter Shrimp & Peas Creamy Rice! A magical twist!",
+    "description_ja": "ガーリックバターとぷりぷりの海老のピラフに、クリーミーで濃厚なソースで、悪魔的な美味しさに昇華！",
+    "description_en": "Elevate your Shrimp & Peas Rice with this decadent twist! Creamy sauce and garlicky butter elevate this dish into an epic experience! ",
+    "occasion_ja": "パーティー、日常の夜食にぴったり",
+    "occasion_en": "Perfect for parties or a comforting dinner!",
+    "ingredients": [
+      {
+        "name": "白米",
+        "amount": "適量"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "1個"
+      },
+      {
+        "name": "ガーリック",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 白米を炊く。",
+      "2. プーリぷりの海老を、バターとガーリックで炒め、塩コショウで味を調える。",
+      "3. 熱したフライパンに、牛乳とマヨネーズを入れて混ぜ、溶かし、エビと絡める。",
+      "4.  ご飯にエビとソースを混ぜ合わせ、盛り付け完成。"
+    ],
+    "prompt": "A photo of a creamy, golden rice bowl topped with plump shrimp, a sprinkle of garlicky butter, and a dollop of creamy sauce.  Focus on the vibrant colors and glistening seafood.",
+    "filename": "recipe_1786739209.jpg",
+    "date": "2026-08-14 20:28:03",
+    "timestamp": 1786739209,
+    "likes": 0,
+    "views": 187
+  },
+  {
     "id": "recipe_1786736755",
     "category": "dessert",
     "category_ja": "デザート",
