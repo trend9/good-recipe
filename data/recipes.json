@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786707729",
+    "category": "ラーメン",
+    "category_ja": "ラーメン",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグの「悪魔の甘辛」グラタン",
+    "title_en": "Devilish Sweet and Sour Gravy Ramen Bowl - with Half-Fried Egg",
+    "description_ja": "とろーり半熟卵と、デミグラスハンバーグの甘辛な風味を、濃厚なスープで包んで、まるで悪魔が作ったラーメンのような、特別なグラタン！",
+    "description_en": "A devilish combination of creamy egg and savory hamburger patties in a rich, saucy ramen-inspired bowl. A real special treat!",
+    "occasion_ja": "特別な日に、特別な味わいを求めるあなたへ！",
+    "occasion_en": "For the special one. Craving something special.",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "ラーメンスープ",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "フライパンでハンバーグを焼きます。デミグラスソースを混ぜ合わせ、ハンバーグに絡めます。",
+      "卵は半熟にする。",
+      "ラーメンスープと醤油、砂糖を混ぜ合わせて、とろみがつくまで煮ます。",
+      "ハンバーグを盛り付け、卵を乗せ、ラーメンスープの煮汁を添えて完成！"
+    ],
+    "prompt": "A close-up shot of a ramen bowl with a half-fried egg on top of a savory hamburger patty. A steaming hot ramen bowl with a rich gravy and the half-fried egg. ",
+    "filename": "recipe_1786707729.jpg",
+    "date": "2026-08-14 11:43:52",
+    "timestamp": 1786707729,
+    "likes": 0,
+    "views": 345
+  },
+  {
     "id": "recipe_1786704886",
     "category": "dessert",
     "category_ja": "デザート",
