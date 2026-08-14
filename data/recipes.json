@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786680226",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリームパスタの「悪魔的」アレンジ！ 爽やかな酸味と甘辛が絶妙！",
+    "title_en": "Devilishly Delicious: Lemon Cream Pasta with Spicy Mayo! A Twist of Freshness!",
+    "description_ja": "明太子とレモンが合う、意外性のある組み合わせ！爽やかな酸味が明太子の旨味を引き立て、甘辛さがアクセントに！ いつものパスタに新たな美味しさを加えましょう。",
+    "description_en": "An unexpected but delicious pairing of mayonnaise and lemon! The refreshing tang balances the richness of the tuna sauce, while the spicy kick adds a unique twist. This recipe will transform your pasta into something truly extraordinary.",
+    "occasion_ja": "特別な日に、友達とシェアしたい一品",
+    "occasion_en": "Perfect for special occasions or sharing with friends!",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "1 boite"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 明太子をボウルに入れて、レモン汁を加え、混ぜ合わせます。",
+      "2. 生クリームとマヨネーズを加え、よく混ぜ合わせます。",
+      "3. 茹で上がったパスタをボウルに入れ、明太子レモンクリームソースを絡めます。",
+      "4. お好みのトッピング（例: パプリカ、トマトなど）をのせて、完成! "
+    ],
+    "prompt": "Close-up photo of a creamy lemon pasta dish with a burst of flavor, topped with vibrant red pepper flakes and a drizzle of olive oil.",
+    "filename": "recipe_1786680226.jpg",
+    "date": "2026-08-14 04:05:27",
+    "timestamp": 1786680226,
+    "likes": 0,
+    "views": 306
+  },
+  {
     "id": "recipe_1786670612",
     "category": "dessert",
     "category_ja": "デザート",
