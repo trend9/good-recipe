@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786818071",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ×タッカルビチキン：悪魔の甘辛スパイシーチキンとチーズのハーモニー",
+    "title_en": "Tantalizing cheesy & spicy Chicken with Creamy Tandoori Twist",
+    "description_ja": "とろけるチーズとスパイシーなタッカルビチキンが、絶妙なハーモニーを奏でる、悪魔的に美味しいレシピ！  ",
+    "description_en": "A tantalizing blend of melting cheese and spicy tandoori chicken, creating a culinary symphony for your taste buds! ",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "鶏もも肉",
+        "amount": "200g"
+      },
+      {
+        "name": "タッカルビ",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ハーブ",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "鶏もも肉を薄切りにし、タッカルビ、塩コショウ、レモン汁を加えて混ぜる",
+      "混ぜ合わせた鶏肉をチーズをまぶしたパンチングした器に盛り付ける",
+      "チーズをたっぷりまぶす",
+      "オーブンで15分焼く"
+    ],
+    "prompt": "Close-up shot of a beautifully cooked chicken with melting cheese and a creamy, tangy sauce,  inspired by the Japanese anime style.",
+    "filename": "recipe_1786818071.jpg",
+    "date": "2026-08-15 18:23:12",
+    "timestamp": 1786818071,
+    "likes": 0,
+    "views": 169
+  },
+  {
     "id": "recipe_1786814212",
     "category": "pasta",
     "category_ja": "パスタ",
