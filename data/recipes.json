@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786771282",
+    "category": "sandwich",
+    "category_ja": "サンドイッチ",
+    "title_ja": "抹茶 × ホワイトチョコレート クランブルサンド  -  悪魔の甘辛な魔法で、抹茶とホワイトチョコレートの融合！",
+    "title_en": "Matcha & White Chocolate Crumble Sandwich -  A devilish blend of matcha and white chocolate.",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートの組み合わせは、まさに悪魔的な甘辛な美味しさ！ 意外な組み合わせで、止まらない美味しさを実現します。 今回は、クランブルサンドという新しいアレンジで、抹茶の香りを引き立て、贅沢な味わいに仕上げます。",
+    "description_en": "A devilishly delicious fusion of matcha and white chocolate! An unexpected combination for a satisfying and addictive treat. This time, we're introducing a crumble sandwich with a unique twist, amplifying the matcha's aroma and creating a luxurious taste experience.",
+    "occasion_ja": "特別な日や、ちょっとしたおやつに最適！",
+    "occasion_en": "A perfect treat for special occasions or a little snack! ",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "10g"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "50g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "水",
+        "amount": "30ml"
+      }
+    ],
+    "steps": [
+      "抹茶パウダーとホワイトチョコレートを混ぜ、なめらかになるまでよく混ぜます。",
+      "バター、小麦粉、砂糖を加え、生地をまとめます。",
+      "生地を小さめの丸い形に成形し、オーブンで10分焼く。",
+      "焼き上がった生地を、お好みで抹茶ソースやホワイトチョコレートソースを添えて、食べます。"
+    ],
+    "prompt": "Close-up shot of a matcha and white chocolate crumble sandwich with a fork, showing a delicious texture.",
+    "filename": "recipe_1786771282.jpg",
+    "date": "2026-08-15 05:23:12",
+    "timestamp": 1786771282,
+    "likes": 0,
+    "views": 254
+  },
+  {
     "id": "recipe_1786764920",
     "category": "side",
     "category_ja": "サイド",
