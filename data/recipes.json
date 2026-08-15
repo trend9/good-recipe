@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1786789069",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛サーモンとアボカドのタルタル：海の宝石と緑の華麗さ",
+    "title_en": "Devilishly Delicious Salmon & Avocado Tartare: Ocean Jewels Meet Emerald Elegance",
+    "description_ja": "鮮やかなアボカドと、甘辛に仕上げたサーモンのタルタル。その見た目はまるで宝石のように、口の中でとろける美味しさで、誰もが魅了される！悪魔の魔法で、海の宝石と緑の華麗さを融合させた一品。",
+    "description_en": "Stunning avocado and devilishly delicious salmon tartare. The look of this dish is like a jewel, and the taste melts in your mouth. This fusion of ocean's gems and emerald elegance will captivate everyone.",
+    "occasion_ja": "特別なディナーにぴったりな一品。",
+    "occasion_en": "Perfect for special dinners.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "お好みで",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンは薄切りにする。",
+      "アボカドは細かく刻む。",
+      "サーモンとアボカドを混ぜる。",
+      "レモン汁とマヨネーズを加え、よく混ぜる。",
+      "お好みで、紅ショウガやパプリカなどを加えても良い。"
+    ],
+    "prompt": "Close-up shot of a tartare dish, with salmon and avocado slices artfully arranged, vibrant colors, artistic lighting, food illustration",
+    "filename": "recipe_1786789069.jpg",
+    "date": "2026-08-15 10:20:13",
+    "timestamp": 1786789069,
+    "likes": 0,
+    "views": 356
+  },
+  {
     "id": "recipe_1786785737",
     "category": "サイド",
     "category_ja": "サイド",
