@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786800480",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバターとぷりぷりの海老のピラフ：悪魔の甘辛レシピ",
+    "title_en": "Garlic Butter Shrimp Fried Rice: Devilishly Delicious",
+    "description_ja": "ガーリックバターとぷりぷりの海老が絡み合う、悪魔的な甘辛なピラフ！ 意外な組み合わせだけど、これがまた絶妙！",
+    "description_en": "A devilishly delicious twist on shrimp fried rice with a blend of garlic butter and the satisfying texture of shrimp. It's a unique combination that will delight your taste buds.",
+    "occasion_ja": "パーティーや日常の食事にもおすすめ",
+    "occasion_en": "Perfect for parties or everyday meals.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "にんにく",
+        "amount": "2かけ"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "10g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "にんにくをすりおろして、ご飯と混ぜる。",
+      "フライパンにバターを溶かし、玉ねぎを炒める。",
+      "エビを加え、エビが焼き色がついたら、醤油を加え、煮る。",
+      "ご飯とエビの炒め物を混ぜ合わせ、完成！"
+    ],
+    "prompt": "Close-up shot of the creamy garlic butter shrimp fried rice with shrimp, onions, and a golden glaze, with a slight smoke effect.",
+    "filename": "recipe_1786800480.jpg",
+    "date": "2026-08-15 13:29:39",
+    "timestamp": 1786800480,
+    "likes": 0,
+    "views": 393
+  },
+  {
     "id": "recipe_1786796805",
     "category": "side",
     "category_ja": "サイドdish",
