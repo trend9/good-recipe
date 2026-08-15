@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786814212",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "とろけるデミグラース・ハンバーグのチーズクリームパスタ！悪魔の甘辛な味わい！",
+    "title_en": "Devilishly Delicious: Creamy Pasta with Demi-Glace & Cheese, The Ultimate Temptation! ",
+    "description_ja": "とろける半熟卵をたっぷり使った、デミグラスハンバーグのチーズクリームパスタ！悪魔的な甘辛さとクリーミーな味わいが、一口食べたら止まらない！",
+    "description_en": "Creamy pasta with devilishly delicious demi-glace and cheese, featuring a juicy, melty egg yolk! This recipe will blow your taste buds away with its unique flavor combination.",
+    "occasion_ja": "特別な日にもぴったりな、特別な一品を贈りましょう！",
+    "occasion_en": "The ultimate celebratory dish, perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "ハンバーグ",
+        "amount": "適量"
+      },
+      {
+        "name": "とろける半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグを焼く。",
+      "2. デミグラスソースと卵を混ぜ合わせる。",
+      "3. パスタを茹でる。",
+      "4. ハンバーグと卵のソース、パスタを混ぜ合わせる。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious pasta with a generous serving of juicy demi-glace, cheese, and melted eggs.",
+    "filename": "recipe_1786814212.jpg",
+    "date": "2026-08-15 17:18:38",
+    "timestamp": 1786814212,
+    "likes": 0,
+    "views": 218
+  },
+  {
     "id": "recipe_1786810728",
     "category": "dessert",
     "category_ja": "デザート",
