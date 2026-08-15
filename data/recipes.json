@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1786792531",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛！サクサク唐揚げマヨネーズチーズ！",
+    "title_en": "Devilishly Delicious! Honey-Mayo Fried Chicken with Cheese Crumble",
+    "description_ja": "サクサク唐揚げの美味しさをさらに引き出す！悪魔の甘辛マヨネーズチーズで、一口食べれば虜になる一品です。",
+    "description_en": "Elevate the fried chicken experience! A devilishly delicious concoction of honey-mayo and cheese crumble, guaranteed to leave you craving more.",
+    "occasion_ja": "パーティーやイベント、家族で食べる際におすすめ",
+    "occasion_en": "Perfect for parties, family gatherings, or anytime you crave a delicious indulgence!",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏肉に塩コショウを振る。",
+      "小麦粉を振る。",
+      "ハニーマヨネーズとチーズを混ぜる。",
+      "鶏肉にハニーマヨネーズチーズのクリームを塗る。",
+      "揚げる。"
+    ],
+    "prompt": "Close-up shot of a golden brown fried chicken covered in a creamy cheesy glaze, with a crispy texture and steam coming out.  A rustic, hand-crafted illustration in a dark, dramatic style.",
+    "filename": "recipe_1786792531.jpg",
+    "date": "2026-08-15 11:16:48",
+    "timestamp": 1786792531,
+    "likes": 0,
+    "views": 314
+  },
+  {
     "id": "recipe_1786789069",
     "category": "side",
     "category_ja": "サイド",
