@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786806947",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛！ぷりぷり海老とガーリックバターのピラフ風グラタン",
+    "title_en": "Spicy & Creamy Shrimp & Garlic Butter Gravy - Inspired by Japanese Fried Rice",
+    "description_ja": "ガーリックバターの香り漂う、ぷりぷりの海老とクリーミーなグラタンが、まるでピラフを食べているかのような、悪魔的美味しさの料理。",
+    "description_en": "A creamy, comforting, and slightly spicy shrimp and garlic butter gratin experience, inspired by Japanese fried rice. This dish will transport you to a world of pure comfort food.",
+    "occasion_ja": "パーティーや家庭での特別な日のディナーにぴったり",
+    "occasion_en": "Perfect for parties or special family dinners.",
+    "ingredients": [
+      {
+        "name": "冷凍エビ",
+        "amount": "300g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "100g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. Frozen shrimp (about 300g) and garlic butter (100g) are pre-mixed thoroughly.",
+      "2. In a baking dish, layer the shrimp and garlic butter mixture. Sprinkle with salt and pepper to taste.",
+      "3. Pour the milk over the shrimp and garlic butter mixture. Cover with foil and bake in a preheated oven at 180 degrees Celsius for 20 minutes. ",
+      "4. The gratin is cooked and ready to serve. Enjoy!"
+    ],
+    "prompt": "A close-up shot of a creamy, golden-brown gratin dish filled with shrimp and garlic butter, surrounded by steam. The shrimp are plump and glistening, and the top layer of the gratin is bubbly and melted. A sprinkle of parsley adorns the dish.",
+    "filename": "recipe_1786806947.jpg",
+    "date": "2026-08-15 15:18:21",
+    "timestamp": 1786806947,
+    "likes": 0,
+    "views": 172
+  },
+  {
     "id": "recipe_1786803471",
     "category": "side",
     "category_ja": "サイド",
