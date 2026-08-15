@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786828622",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘辛！サーモンとアボカドのタルタルパスタ",
+    "title_en": "Devilish Sweet & Spicy: Salmon & Avocado Pasta with Creamy Sauce",
+    "description_ja": "サーモンの旨味が凝縮された、アボカドのクリーミーなソースと、意外な組み合わせが食欲をそそる悪魔的パスタ！",
+    "description_en": "An unexpected and delicious combination of salmon's savory flavor with creamy avocado sauce, topped with a devilishly delicious pasta!",
+    "occasion_ja": " parties, dinner parties, date night, everyday meals",
+    "occasion_en": "Parties, dinner parties, date nights, everyday meals",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "和風マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. サーモンを一口サイズに切る。",
+      "2. アボカドは皮をむき、取り分け、なめらかになるように食料繊維を加える。",
+      "3. ボウルに、マヨネーズ、和風マヨネーズ、レモン汁を加え、よく混ぜる。",
+      "4. パスタを茹で、皿に盛り、サーモンとアボカドを盛り付ける。ソースを絡めて完成。"
+    ],
+    "prompt": "A close-up photo of a pasta dish with salmon, avocado, and creamy sauce, garnished with lemon slices.",
+    "filename": "recipe_1786828622.jpg",
+    "date": "2026-08-15 21:19:41",
+    "timestamp": 1786828622,
+    "likes": 0,
+    "views": 260
+  },
+  {
     "id": "recipe_1786825038",
     "category": "丼",
     "category_ja": "丼",
