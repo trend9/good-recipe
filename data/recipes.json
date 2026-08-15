@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786782137",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘辛ハンバーグ卵パスタ！とろとろ半熟卵とデミグラスソースのハーモニー",
+    "title_en": "Devilishly Delicious Beef & Egg Pasta! A Harmonious Blend of Creamy Egg and Demi-glace Sauce",
+    "description_ja": "とろける半熟卵とデミグラスソースが一体となった、悪魔的な美味しさ！パスタに絡めながら、濃厚な旨味を味わえる一品です。",
+    "description_en": "Experience a devilishly delicious combination of creamy egg and demi-glace sauce in a pasta dish!  This dish offers a harmonious blend of richness and savory flavor.",
+    "occasion_ja": "特別な日に、大切な人と食べる時、特別な気分を味わいたいとき",
+    "occasion_en": "Perfect for special occasions, dinners with loved ones, or when you want to elevate your dining experience.",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "2個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パスタ",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグを焼いて、デミグラスソースで味付けする。",
+      "2. 卵は半熟状態に仕上げる。",
+      "3. パスタを茹で、温めて、バターを加え、塩コショウで味を調える。",
+      "4. パスタを皿に盛り、ハンバーグと卵を絡めて、ソースをかければ完成。"
+    ],
+    "prompt": "Close-up shot of Devilishly Delicious Beef & Egg Pasta!  A vibrant scene of steaming pasta with a delicious red sauce and a perfectly cooked egg yolk.  The background is a wooden table with a subtle orange glow.",
+    "filename": "recipe_1786782137.jpg",
+    "date": "2026-08-15 08:24:55",
+    "timestamp": 1786782137,
+    "likes": 0,
+    "views": 382
+  },
+  {
     "id": "recipe_1786778851",
     "category": "dessert",
     "category_ja": "デザート",
