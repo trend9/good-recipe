@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786832183",
+    "category": "巻き寿司",
+    "category_ja": "巻き寿司",
+    "title_ja": "悪魔の甘辛！トマトとモッツァレラのチーズ巻き寿司",
+    "title_en": "Devilishly Delicious: Tomato and Mozzarella Cheese Sushi Rolls",
+    "description_ja": "完熟トマトの甘酸っぱさとモッツァレラのクリーミーな味わいが、巻き寿司で進化！悪魔の甘辛な旨みで、食卓を魅了する一品です。",
+    "description_en": "A fusion of the sweet and tangy tomato's flavor with the creamy mozzarella cheese, wrapped in sushi rolls for a truly devilishly delicious and addictive appetizer. ",
+    "occasion_ja": " parties, gatherings, or a unique snack, a real culinary experience",
+    "occasion_en": "Parties, Gatherings, or a unique snack, a real culinary experience",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "酢",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "寿司飯",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "トマトは塩コショウで軽く下味をつけ、薄切りにする。",
+      "モッツァレラチーズを、スライスしたトマトに挟む。",
+      "寿司飯とトマトチーズを巻き、寿司飯を均等に挟む。",
+      "醤油、酢を加えて、巻き寿司を軽く濡らし、器に盛り付ける。"
+    ],
+    "prompt": "A closeup shot of a sushi roll with vibrant tomato, mozzarella cheese, and seaweed, with a blurred background of people at a party table",
+    "filename": "recipe_1786832183.jpg",
+    "date": "2026-08-15 22:18:06",
+    "timestamp": 1786832183,
+    "likes": 0,
+    "views": 371
+  },
+  {
     "id": "recipe_1786828622",
     "category": "pasta",
     "category_ja": "パスタ",
