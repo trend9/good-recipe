@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786796805",
+    "category": "side",
+    "category_ja": "サイドdish",
+    "title_ja": "トマトの甘酸っぱさとモッツァレラのクリーミーさ、悪魔の魔法が炸裂！",
+    "title_en": "Tomato's Sweet and Sour Harmony with Mozzarella Creaminess: A Delectable Twist!",
+    "description_ja": "完熟トマトの甘酸っぱさとモッツァレラのクリーミーさが、意外な組み合わせで、悪魔的な美味しさに昇華！ 爽やかさと甘酸っぱさが、脳裏を支配する、まさに魔法の料理！",
+    "description_en": "A delightful combination of tomato's sweet and sour flavor and mozzarella's creamy texture! This is a dish that will take your taste buds on a trip to a whole new level of deliciousness! A blend of refreshing and slightly tangy flavors that will leave you wanting more! ",
+    "occasion_ja": "パーティーや家族の食事に、少しだけ特別な一品を添えるのがおすすめです。",
+    "occasion_en": "A perfect side dish for parties or a family dinner. Adding a touch of something special to your meal.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バジル",
+        "amount": "適量"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "トマトの果肉を細かく切り、バジルとパプリカと一緒にオリーブオイルで炒める。",
+      "モッツァレラチーズを細かく刻み、トマトとバジル、パプリカを加えて混ぜる。",
+      "トマトチーズの生地を、平らな皿に広げる。",
+      "冷水で冷やした後に、皿を盛り付けて、チーズの表面を濡らして、冷まして完成。"
+    ],
+    "prompt": "An illustration of a side dish of tomato and mozzarella. It features a plate of the dish with a bright, appetizing presentation, with mozzarella cheese in a smooth texture, and fresh tomato in a vibrant red. The dish is served on a white plate with a slight tilt to showcase the food's shape, with a soft and elegant style.",
+    "filename": "recipe_1786796805.jpg",
+    "date": "2026-08-15 12:29:29",
+    "timestamp": 1786796805,
+    "likes": 0,
+    "views": 246
+  },
+  {
     "id": "recipe_1786792531",
     "category": "side",
     "category_ja": "サイド",
