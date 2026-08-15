@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786810728",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "デミグラスハンバーグ！とろける半熟卵のクリームソースグラタン",
+    "title_en": "Deconstructed Demi-glace Gravy & Creamy Eggs in a Creamy Parmesan Cheese Sauce",
+    "description_ja": "とろける半熟卵とデミグラスソースが絡み合う、悪魔的な美味しさ！濃厚なチーズソースで仕上げたグラタンが、一口食べたら幸せな世界へ飛び込む、まさに魔法のグラタン！",
+    "description_en": "A creamy and decadent lasagna with a semi-cooked egg and a rich demi-glace gravy! The cheesy sauce is a must-have! A unique and delicious twist on classic lasagna with a creamy, cheesy finish. ",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグを焼きます。",
+      "2.  デミグラスソースをフライパンで煮込みます。",
+      "3.  半熟卵をフライパンで炒めます。",
+      "4.  クリームチーズ、パルメザンチーズ、生クリームを混ぜ合わせ、グラタンの材料を盛り付けます。"
+    ],
+    "prompt": "Close-up image of the finished dish, with a beautiful cheese sauce, semi-cooked egg yolk, and meat. A creamy and decadent lasagna. A steaming, delicious, and inviting food. ",
+    "filename": "recipe_1786810728.jpg",
+    "date": "2026-08-15 16:20:33",
+    "timestamp": 1786810728,
+    "likes": 0,
+    "views": 464
+  },
+  {
     "id": "recipe_1786806947",
     "category": "side",
     "category_ja": "サイド",
