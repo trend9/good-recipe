@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786764920",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろける卵の麻婆豆腐丼 - 悪魔の甘辛に、麻婆豆腐の旨味と卵のクリーミーさが融合！",
+    "title_en": "Tofu & Egg Volcano Bowl -  A fusion of spicy, creamy, and umami with a touch of decadence!",
+    "description_ja": "とろける卵と、旨辛麻婆豆腐の組み合わせ、まさに悪魔的な美味しさ！甘辛の旨味を、卵のクリーミーな食感でさらに引き立たせる、特別な丼で、誰もが魅了される一皿を創造してみましょう！",
+    "description_en": "A blend of spicy, creamy, and umami - the perfect fusion of textures and flavors! This tofu and egg bowl is a one-of-a-kind dish that is sure to captivate your taste buds.",
+    "occasion_ja": "特別な日や、一日の疲れを癒す時にピッタリ！",
+    "occasion_en": "Perfect for special occasions or to unwind after a long day!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "麻婆豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "甘辛だれ",
+        "amount": "適量"
+      },
+      {
+        "name": "お好みのソース (例: 醤油, 胡椒, 醤油ベースなど)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "卵を溶き、甘辛だれを加えて混ぜる。",
+      "麻婆豆腐をボウルに入れ、豆腐と混ぜる。",
+      "卵と麻婆豆腐を混ぜ合わせ、お好みのソースを加えて完成。",
+      "ご飯の上に盛り付け、お好みで、ネギやパプリカなどを添えて。"
+    ],
+    "prompt": "Close-up shot of a bowl of the finished dish with a sizzling look. Rich, creamy, and spicy, the ingredients are all in perfect balance. ",
+    "filename": "recipe_1786764920.jpg",
+    "date": "2026-08-15 03:37:44",
+    "timestamp": 1786764920,
+    "likes": 0,
+    "views": 416
+  },
+  {
     "id": "recipe_1786759977",
     "category": "パスタ",
     "category_ja": "パスタ",
