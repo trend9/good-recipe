@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786835771",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ×タッカルビチキン：韓国風チーズクランブルチキン",
+    "title_en": "Melting Cheese x Tacticu Chicken: Korean-Style Cheese Crunch Chicken",
+    "description_ja": "とろけるチーズとタッカルビチキの組み合わせで、韓国風クランブルチキン！スパイシーでクリーミーな味わいが、まるでチーズクランブルの衝撃を味わえる一品。チーズの香ばしさ、タッカルビの旨味が絶妙に調和する、忘れられない美味しさです。",
+    "description_en": "A fusion of melting cheese and Tacticu Chicken with a Korean twist, bringing a new and surprising flavor sensation! This unique dish blends the creamy and cheesy goodness with the spicy and savory taste of Tacticu, delivering a truly unforgettable culinary experience.",
+    "occasion_ja": "パーティーやBBQ、家族で楽しむ！",
+    "occasion_en": "Perfect for parties, BBQs, and family gatherings.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "1個"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "韓国風マッシュルームソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを一口大にカットします。",
+      "タッカルビチキンをチーズと玉ねぎ、パプリカで包み、密閉して冷蔵庫で冷やします。",
+      "冷やしたタッカルビチキンを熱したフライパンで焼きます。",
+      "韓国風マッシュルームソースを加え、混ぜ合わせることで、チーズの香ばしさとタッカルビの旨味を最大限に引き出します。"
+    ],
+    "prompt": "Close-up shot of Korean-style cheese crunch chicken with melted cheese, Tacticu chicken, and vegetables, a vibrant and appealing image",
+    "filename": "recipe_1786835771.jpg",
+    "date": "2026-08-15 23:17:58",
+    "timestamp": 1786835771,
+    "likes": 0,
+    "views": 183
+  },
+  {
     "id": "recipe_1786832183",
     "category": "巻き寿司",
     "category_ja": "巻き寿司",
