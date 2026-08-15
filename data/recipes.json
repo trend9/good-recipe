@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786803471",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油  :  悪魔的甘辛なチーズクランブルサンド",
+    "title_en": "炙りチャーシュー x Rich Garlic Glaze Cheese Crumb Sandwich",
+    "description_ja": "炙りチャーシューの旨味と濃厚焦がしにんにく醤油が、クリーミーチーズの風味が引き立つ、悪魔的な甘辛なサンドイッチ！  チーズと香ばしいチャーシューの組み合わせが、まさに「悪魔の甘辛な魔法」！",
+    "description_en": "Combines the savory flavor of grilled char siu with rich, garlicky, sweet glaze. The creamy cheese flavor adds a touch of decadence to this deliciously savory sandwich. It's an explosion of taste and texture with every bite!",
+    "occasion_ja": "パーティーや、お酒のつまみにぴったり！",
+    "occasion_en": "Perfect for parties or as a side dish for drinks!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パン",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  炙りチャーシューを細かく切り、濃厚焦がしにんにく醤油で味付けする。",
+      "2.  チーズをパンに挟み、バターを塗る。",
+      "3.  炙りチャーシューをパンのチーズ部分に挟む。",
+      "4.  サンドイッチを完成させ、お皿に並べる。"
+    ],
+    "prompt": "Close-up shot of a sandwich made with grilled char siu, rich garlic glaze, and creamy cheese, with a beautiful crust. Background is dark and cozy, with a single slice of cheese on the side.",
+    "filename": "recipe_1786803471.jpg",
+    "date": "2026-08-15 14:19:41",
+    "timestamp": 1786803471,
+    "likes": 0,
+    "views": 318
+  },
+  {
     "id": "recipe_1786800480",
     "category": "side",
     "category_ja": "サイド",
