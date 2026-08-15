@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1786755263",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛海藻グラタン：クリーミーな海の風味が炸裂する！",
+    "title_en": "Devilishly Spicy Seaweed Gratin: The Creamy Ocean Flavor Unleashed!",
+    "description_ja": "海藻の旨味が凝縮された、クリーミーで濃厚なグラタン。意外な組み合わせの甘辛な海の風味で、悪魔的な美味しさに悶絶する！",
+    "description_en": "A creamy and decadent gratin featuring the umami of seaweed, delivering an unexpected yet addictive blend of spicy sweetness and oceanic flavors! Prepare to be blown away by its devilishly delicious taste.",
+    "occasion_ja": "パーティーや、特別な日にぴったりな一品",
+    "occasion_en": "Perfect side dish for parties and special occasions.",
+    "ingredients": [
+      {
+        "name": "新鮮な海藻",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "海藻を洗って、水気を切った。",
+      "アボカドは皮と種を取り除き、細かく切っておく。",
+      "ボウルに、海藻、アボカド、生クリーム、醤油、砂糖、みりん、酒を入れてよく混ぜる。",
+      "グラタン皿に、海藻の具材を敷き詰め、熱したオーブンで15分ほど焼けば完成。"
+    ],
+    "prompt": "A closeup image of the seaweed gratin, a creamy and visually appealing dish with beautiful textures and a tempting aroma.",
+    "filename": "recipe_1786755263.jpg",
+    "date": "2026-08-15 00:55:52",
+    "timestamp": 1786755263,
+    "likes": 0,
+    "views": 254
+  },
+  {
     "id": "recipe_1786745926",
     "category": "dessert",
     "category_ja": "デザート",
