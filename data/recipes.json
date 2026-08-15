@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786785737",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズとタッカルビチキン：悪魔の甘辛スパイシーチキン",
+    "title_en": "Spicy Chicken with Melting Cheese & Tangy Gochujang Sauce",
+    "description_ja": "とろけるチーズとスパイシーなタッカルビチキンが絶妙なハーモニー！甘辛のゴマ油で香ばしい一品に仕上がります。",
+    "description_en": "A spicy chicken with melty cheese and tangy gochujang sauce. This dish features a harmonious blend of melted cheese and spicy gochujang sauce, creating a flavorful and aromatic delight.",
+    "occasion_ja": "パーティー、家族との食事、夜食に最適",
+    "occasion_en": "Party, Family Dinner, Evening snack",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      },
+      {
+        "name": "タッカルビ",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "ゴマ油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "鶏肉は一口大に切り、タッカルビは薄切りにする。",
+      "フライパンにゴマ油を熱し、鶏肉とタッカルビを加えて炒め合わせる。",
+      "砂糖と唐辛子を混ぜ合わせたタレを加えて、甘辛な味に仕上げる。",
+      "チーズをとろけるまで溶かし、鶏肉とタッカルビに混ぜる。"
+    ],
+    "prompt": "Close-up of chicken with melted cheese, spicy gochujang sauce, and cheese drippings.  Image has a vibrant orange color and smoky texture.",
+    "filename": "recipe_1786785737.jpg",
+    "date": "2026-08-15 09:24:47",
+    "timestamp": 1786785737,
+    "likes": 0,
+    "views": 398
+  },
+  {
     "id": "recipe_1786782137",
     "category": "pasta",
     "category_ja": "パスタ",
