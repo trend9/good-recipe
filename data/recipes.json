@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1786775285",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的海老クリームチーズグラタン",
+    "title_en": "Devilish Seafood Cream Cheese Gratin",
+    "description_ja": "悪魔のようなクリーミーで濃厚な味わいが、海藻の風味が爽やかな、意外性あふれるグラタン！",
+    "description_en": "An unexpected and devilishly delicious gratin with a creamy, luxurious cheese and seaweed twist!",
+    "occasion_ja": "特別な日やパーティーに、豪華な一品を演出",
+    "occasion_en": "Perfect for special occasions and parties to add a touch of luxury.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "グラタン皿にバターを敷き、レモン汁を全体にまぶす。",
+      "海老を塩こしょうで味付けし、クリームチーズと混ぜる。",
+      "海老とクリームチーズをグラタン皿に盛る。",
+      "グラタン皿をオーブンで180℃で15分焼く。",
+      "焼き上げたグラタンを皿に盛り、お好みでパセリを飾る。"
+    ],
+    "prompt": "Close-up shot of devilish cream cheese gratin with seaweed garnish, a creamy and decadent seafood dish.",
+    "filename": "recipe_1786775285.jpg",
+    "date": "2026-08-15 06:29:48",
+    "timestamp": 1786775285,
+    "likes": 0,
+    "views": 361
+  },
+  {
     "id": "recipe_1786771282",
     "category": "sandwich",
     "category_ja": "サンドイッチ",
