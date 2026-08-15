@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786825038",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろける卵と旨辛麻婆豆腐の甘辛丼：悪魔の甘辛な丼飯",
+    "title_en": "Spicy Tofu and Soft-Boiled Egg Bowl: An Exotic Spicy & Creamy Bowl",
+    "description_ja": "とろける卵と旨辛麻婆豆腐を丼で楽しむ、まさに悪魔の味わいを味わう！甘辛なソースと卵のふわふわ感が、食欲をそそる一品です。",
+    "description_en": "A bowl filled with creamy, soft-boiled egg and spicy tofu, an explosion of savory and creamy flavors! This bowl will tantalize your taste buds and satisfy your cravings!",
+    "occasion_ja": "家族で楽しめる、特別な日の食事に！",
+    "occasion_en": "A dish perfect for family gatherings, especially on special occasions!",
+    "ingredients": [
+      {
+        "name": "豚ひき肉",
+        "amount": "100g"
+      },
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "甘辛味噌",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "白ごま",
+        "amount": "適量"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 豚ひき肉と豆腐を混ぜ合わせて、甘辛味噌としょうゆで味付けをする。",
+      "2. フライパンで火にかける。豆腐と肉を炒める。",
+      "3. 卵を溶いて、白ごまを加え、ご飯に混ぜる。",
+      "4. ご飯の上に、肉と豆腐の甘辛豆腐を盛り付け、卵を乗せる。"
+    ],
+    "prompt": "A bowl of spicy tofu and soft-boiled egg in a traditional Japanese bowl. The bowl is covered in steam and has a vibrant red and green color scheme. The egg is perfectly cooked and the tofu is spicy and savory.",
+    "filename": "recipe_1786825038.jpg",
+    "date": "2026-08-15 20:19:51",
+    "timestamp": 1786825038,
+    "likes": 0,
+    "views": 477
+  },
+  {
     "id": "recipe_1786821547",
     "category": "pasta",
     "category_ja": "パスタ",
