@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786778851",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテトのクリーミーチーズラテアート！",
+    "title_en": "Creamy Cheese Latte Art with Crispy Potato!",
+    "description_ja": "悪魔的な美味しさに、ラテアートが加わる！サクサクポテトにクリーミーチーズソースを合わせた、見た目も味も一級のデザートレシピ。",
+    "description_en": "A dessert with latte art and a crispy potato twist. It's a unique, devilishly delicious treat.",
+    "occasion_ja": "特別な日、友達と会って食べたい時！",
+    "occasion_en": "Special occasion, perfect for gatherings with friends!",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "ラテソース",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      },
+      {
+        "name": "パウダーチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  ポテトをサクサクに揚げる。",
+      "2.  クリームチーズと砂糖を混ぜる。",
+      "3.  ラテソースを混ぜる。",
+      "4.  ラテソースとクリームチーズとパウダーチーズを混ぜ、ポテトに塗る。"
+    ],
+    "prompt": "Close-up shot of a latte art design featuring a potato, with creamy cheese sauce drizzled on top. The potatoes are crispy and lightly salted.",
+    "filename": "recipe_1786778851.jpg",
+    "date": "2026-08-15 07:29:05",
+    "timestamp": 1786778851,
+    "likes": 0,
+    "views": 220
+  },
+  {
     "id": "recipe_1786775285",
     "category": "side",
     "category_ja": "サイド",
