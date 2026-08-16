@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786900586",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリームパスタの悪魔的スパークリング！",
+    "title_en": "Spicy Lemon Cream Pasta with a Sparkling Twist!",
+    "description_ja": "明太子とレモンクリームの組み合わせが、意外なスパークリングで楽しめる、悪魔的美味しさ！爽やかさと辛さのバランスが絶妙な、パーティーにも最適なパスタレシピ。",
+    "description_en": "A twist on the classic, lemon cream pasta pairing of spicy and sweet, this recipe creates a light and refreshing pasta perfect for parties. The unexpected combination of lemon, cream, and a touch of spice is sure to satisfy your taste buds.",
+    "occasion_ja": "パーティー、特別な日に、夜食にもぴったり",
+    "occasion_en": "Party, special occasion, perfect for a light dinner",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "200g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 明太子と生クリームを混ぜ合わせ、お好みでパルメザンチーズを混ぜる。",
+      "2. 生パスタを茹でる。",
+      "3. パスタを、明太子クリームソースとレモン汁で絡めて、盛り付ける。",
+      "4. スパークリング effect を出すために、レモン汁を少し加え、お好みでレモンの皮を添える。"
+    ],
+    "prompt": "A close-up shot of a plate with steaming pasta topped with a creamy lemon cream sauce and a sprinkle of parmesan cheese. The pasta is adorned with a lemon wedge and the steam is visible. The overall image evokes a sense of vibrancy and elegance.",
+    "filename": "recipe_1786900586.jpg",
+    "date": "2026-08-16 17:17:46",
+    "timestamp": 1786900586,
+    "likes": 0,
+    "views": 429
+  },
+  {
     "id": "recipe_1786897148",
     "category": "pasta",
     "category_ja": "パスタ",
