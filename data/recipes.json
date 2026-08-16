@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786878986",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス！悪魔的デトックスデザート",
+    "title_en": "Black Honey Kinako Mochi Ice! An Unexpectedly Delicious Detox Dessert",
+    "description_ja": "黒蜜の甘さと、きな粉の香ばしさで、まるで魔法で実現するデザート！罪悪感なく、解毒効果も抜群。",
+    "description_en": "A magical dessert that combines the sweetness of black honey with the nutty fragrance of kinako powder. Enjoy guilt-free detox while experiencing a delightful taste sensation.",
+    "occasion_ja": "特別な日には、自分へのご褒美に！",
+    "occasion_en": "A perfect dessert for special occasions, a self-rewarding treat!",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "1個"
+      },
+      {
+        "name": "抹茶",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 黒蜜ときな粉を混ぜて、なめらかになるまで混ぜる。",
+      "2. 抹茶と抹茶パウダーを加え、全体に混ぜる。",
+      "3.  もちもちアイスを、黒蜜抹茶溶液の器に入れて、盛り付ける。",
+      "4.  お好みで、黒蜜を添えて、デザートに仕上げる。"
+    ],
+    "prompt": "Close-up shot of a serving of black honey kinako mochi ice, with a swirl of black honey on top and a sprinkling of kinako powder, captured under soft studio lighting with a playful, whimsical aesthetic.",
+    "filename": "recipe_1786878986.jpg",
+    "date": "2026-08-16 11:18:07",
+    "timestamp": 1786878986,
+    "likes": 0,
+    "views": 157
+  },
+  {
     "id": "recipe_1786875471",
     "category": "side",
     "category_ja": "サイド",
