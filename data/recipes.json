@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1786851858",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子の悪魔的レモンクリームパスタ：レモンの爽快な輝き",
+    "title_en": "Devilishly Lemon Creamy Pasta with Tuna & Lemon",
+    "description_ja": "明太子とレモンの意外な組み合わせで、爽やかな風味と濃厚な味わいが一体となった、悪魔的な美味しさの極上パスタ！",
+    "description_en": "A devilishly delicious pasta with a twist: the perfect blend of the creamy lemon and the umami of tuna. Enjoy the unexpected and addictive flavor! ",
+    "occasion_ja": "パーティーや特別な日にも！",
+    "occasion_en": "Party or special occasions! ",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "1個"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "1袋"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "明太子を細かく刻む。",
+      "生パスタを茹でる。",
+      "レモン汁とバターを混ぜ、牛乳を加えて溶かし、明太子と混ぜる。",
+      "茹で上がったパスタと、明太子クリームを合わせたものを皿に盛り付ける。",
+      "お好みで、レモンの輪切りを添える。"
+    ],
+    "prompt": "A vibrant bowl of devilishly lemon creamy pasta with tuna and lemon, with a burst of lemon juice and a sprinkle of tuna flakes.",
+    "filename": "recipe_1786851858.jpg",
+    "date": "2026-08-16 03:45:30",
+    "timestamp": 1786851858,
+    "likes": 0,
+    "views": 445
+  },
+  {
     "id": "recipe_1786841865",
     "category": "dessert",
     "category_ja": "デザート",
