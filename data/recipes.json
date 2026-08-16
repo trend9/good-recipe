@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1786911378",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレチーズケーキの悪魔的スパークリング！",
+    "title_en": "Devilishly Delicious Banana Caramel Brulee Cheesecake Sparkler!",
+    "description_ja": "完熟バナナの甘さとキャラメルブリュレの香ばしさ、チーズケーキの濃厚さが融合。悪魔的なスパークリングを楽しめる、斬新なデザートレシピです！",
+    "description_en": "Banana caramel brulee cheesecake with a devilishly exciting sparkler twist!  A bold and unexpected dessert with the sweet, smoky, and tangy flavors of ripe bananas and caramelized brulee topped off with a creamy cheesecake base.",
+    "occasion_ja": "特別な日や普段のティータイムに。",
+    "occasion_en": "Perfect for a special occasion or a delightful treat anytime.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "100g"
+      },
+      {
+        "name": "チーズケーキミックス",
+        "amount": "150g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "パウダー状の砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. **バナナをキャラメルで包む:** 完熟バナナをキャラメルで包み、10分程度乾燥させる。\n    2. **キャラメルソースを作る:** キャメルとバターを混ぜて、溶かしながらパウダー状の砂糖を加える。\n    3. **チーズケーキを焼成:** チーズケーキミックスと生クリームを混ぜ、パウダー状の砂糖を加える。\n    4. **スパークリング:** 焦げ付かないよう、チーズケーキ生地をキャラメルソースでコーティング。",
+      "**注意:**  キャラメルソースの量やチーズケーキの厚さに合わせて調整してください"
+    ],
+    "prompt": "Close-up of a beautifully glazed, caramelized cheesecake with a banana slice on top, sparkling with the golden caramel sauce. ",
+    "filename": "recipe_1786911378.jpg",
+    "date": "2026-08-16 20:18:00",
+    "timestamp": 1786911378,
+    "likes": 0,
+    "views": 356
+  },
+  {
     "id": "recipe_1786907945",
     "category": "side",
     "category_ja": "サイド",
