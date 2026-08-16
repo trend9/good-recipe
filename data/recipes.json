@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786922174",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろとろ卵と旨辛麻婆豆腐の悪魔的な丼！",
+    "title_en": "Devilish Spicy Egg and Tofu Overlord Bowl!",
+    "description_ja": "とろとろ卵と旨辛麻婆豆腐の組み合わせで、ご飯を「魔境」に誘う、悪魔的な丼！ 意外な組み合わせながらも、濃厚な味わいがたまらない一品に仕上げます。",
+    "description_en": "A devilish bowl with a creamy egg and spicy pork and tofu. A unexpected but delicious fusion of flavors that will take your taste buds to another level.",
+    "occasion_ja": "パーティーや特別な日の晩御飯にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions like dinner",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ラー油",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "ご飯をどんぶりに盛る。",
+      "卵をゆでる。",
+      "卵を崩して、旨辛麻婆豆腐を加える。",
+      "醤油、砂糖、ラー油を混ぜて、全体に絡める。"
+    ],
+    "prompt": "Close-up shot of a devilish bowl with creamy egg and spicy pork and tofu, a steamy bowl with a rich, flavorful, and mysterious atmosphere",
+    "filename": "recipe_1786922174.jpg",
+    "date": "2026-08-16 23:18:48",
+    "timestamp": 1786922174,
+    "likes": 0,
+    "views": 379
+  },
+  {
     "id": "recipe_1786918564",
     "category": "そば/焼きそば",
     "category_ja": "そば/焼きそば",
