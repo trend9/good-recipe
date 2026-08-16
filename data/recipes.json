@@ -1,5 +1,56 @@
 [
   {
+    "id": "recipe_1786872163",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろーり半熟卵デミグラスハンバーグの和風チーズソース焼きそば",
+    "title_en": "Half-cooked Egg De-mis-grasso Porky Cheese Sauce Ramen",
+    "description_ja": "半熟卵の旨味とデミグラスハンバーグの肉々しさ、和風チーズソースの甘酸っぱさと、独特の食感が楽しめる、悪魔的美味しさの焼きそば。",
+    "description_en": "A savory and unique twist on ramen, combining the richness of half-cooked egg, de-mis-grasso pork patty, and a tangy and sweet Japanese cheese sauce. ",
+    "occasion_ja": "パーティーや夜食におすすめ",
+    "occasion_en": "Perfect for parties and light dinners",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "和風チーズソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "片栗粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "半熟卵を1cm角に切ります。",
+      "デミグラスハンバーグを1cm角に切ります。",
+      "和風チーズソースを混ぜ、醤油とみりんを加えます。",
+      "フライパンに油をひき、ハンバーグの表面を焼き色がつくまで焼く。",
+      "焼き上げたハンバーグに、半熟卵を乗せます。",
+      "和風チーズソースを流し込み、片栗粉で薄く混ぜたものを全体に塗ります。"
+    ],
+    "prompt": "A close-up shot of ramen with half-cooked egg, de-mis-grasso pork patty, and a cheesy sauce. It should be visually appealing and have a slight smoke effect.",
+    "filename": "recipe_1786872163.jpg",
+    "date": "2026-08-16 09:24:32",
+    "timestamp": 1786872163,
+    "likes": 0,
+    "views": 467
+  },
+  {
     "id": "recipe_1786868594",
     "category": "dessert",
     "category_ja": "デザート",
