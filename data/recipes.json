@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786854684",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテトチーズケーキ！悪魔の甘辛なチーズケーキ",
+    "title_en": "Crispy Potato Cheese Cake! A Devilishly Sweet & Spicy Cheese Cake",
+    "description_ja": "サクサクポテトとクリーミーチーズの組み合わせに、悪魔的な甘辛さを加えた、まるでケーキのようなチーズケーキ！ 想像以上に美味しい一品をぜひご堪能ください。",
+    "description_en": "A cheese cake that combines crispy potato and a creamy cheese sauce. Devilishly sweet and spicy, it's a cake-like cheese cake that will leave you wanting more! ",
+    "occasion_ja": "誕生日会やパーティーなど、特別な日にぴったり！",
+    "occasion_en": "Perfect for birthdays or parties! ",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "1kg"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "粉チーズ",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. ポテトを半分に切り、1cm角にカットします。",
+      "2. ポテトをフライパンで両面こんがりと焼きます。",
+      "3. 生クリーム、砂糖、塩を加え、チーズを加えて混ぜます。",
+      "4. 焼いたポテトをチーズソースで包んで、冷蔵庫で冷やします。"
+    ],
+    "prompt": "Close-up photo of a cheese cake with a crispy potato topping.  Rich in texture and flavor with a dark background.",
+    "filename": "recipe_1786854684.jpg",
+    "date": "2026-08-16 04:32:59",
+    "timestamp": 1786854684,
+    "likes": 0,
+    "views": 357
+  },
+  {
     "id": "recipe_1786851858",
     "category": "pasta",
     "category_ja": "パスタ",
