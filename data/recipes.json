@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786889863",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的デミグラスハンバーグ & 半熟卵のチーズソース焼きそば",
+    "title_en": "Devilishly Delicious Demi-glace Hamburger & Cheese Sauce Yakisoba",
+    "description_ja": "とろーり半熟卵とデミグラスソースの組み合わせが、まるで悪魔の料理のように美味しい！濃厚なチーズソース焼きそばを、一口食べたらもう止まらない、悪魔的美味しさにあなたを虜にします！",
+    "description_en": "A devilishly delicious combination of demi-glace hamburger and half-cooked egg with a cheesy sauce. This rich cheese sauce yakisoba will leave you wanting more! ",
+    "occasion_ja": "パーティー、家族との食事、夜食など、何にでも合う、悪魔的美味しさ！",
+    "occasion_en": "Perfect for parties, family dinners, and night snacks, this devilishly delicious recipe is sure to delight everyone.",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "100g"
+      },
+      {
+        "name": "ハンバーグ",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "お好み焼きソース",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼いて、デミグラスソースを絡めて、半分に切って、半熟卵を乗せて、お好み焼きソースを添えて、チーズを乗せて、醤油で味を整えましょう。",
+      "半熟卵を焼き、チーズを溶かし、お好み焼きソースを絡めて、焼きそばの生地に、チーズソースをたっぷり添えて、焼そばを完成させましょう。",
+      "お好み焼きソースを混ぜて、半熟卵とチーズソースとハンバーグを混ぜ合わせ、焼きそばの生地に、チーズソースをたっぷり添えて、焼そばを完成させましょう。",
+      "焼きそばを焼き、半熟卵とチーズソースを添えて、お好み焼きソースを添えて、完成です。"
+    ],
+    "prompt": "Close-up photo of the devilishly delicious yakisoba, with half-cooked eggs and cheese sauce, a warm and inviting scene with red and orange tones",
+    "filename": "recipe_1786889863.jpg",
+    "date": "2026-08-16 14:19:34",
+    "timestamp": 1786889863,
+    "likes": 0,
+    "views": 174
+  },
+  {
     "id": "recipe_1786886891",
     "category": "side",
     "category_ja": "サイド",
