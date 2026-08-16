@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786886891",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的ローストビーフ！オニオンソースの甘辛きゅっと食感焼きそば",
+    "title_en": "Devilishly Delicious Roast Beef!  Sweet and Spicy Crispy Noodle Bake",
+    "description_ja": "普段使いのローストビーフを、意外な甘辛ソースで焼きそば風にした、悪魔的な美味しさのレシピ。濃厚な旨味と、絶妙な食感の組み合わせで、食べごたえ抜群！",
+    "description_en": "Take your everyday roast beef and elevate it to devilishly delicious with a surprising sweet and spicy twist.  This recipe will blow your mind with its unique combination of intense flavors and satisfying textures. ",
+    "occasion_ja": "特別な日にはもちろん、日常の夕食にもぴったり",
+    "occasion_en": "Perfect for special occasions and everyday dinners.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "1枚"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフを一口サイズにカットし、特製オニオンソースで絡める。",
+      "2. 薄力粉と卵を混ぜ合わせた生地を、ローストビーフを敷いた焼きそば麺の上に均等に広げる。",
+      "3. フライパンに油をひき、生地を焼きます。表面が焦げ付くまで焼く。",
+      "4. 焼きそば麺を皿に移し、仕上げに特製オニオンソースをかける。"
+    ],
+    "prompt": "Close-up shot of the finished dish with smoke rising from the noodles, dark background, devilish vibe",
+    "filename": "recipe_1786886891.jpg",
+    "date": "2026-08-16 13:29:50",
+    "timestamp": 1786886891,
+    "likes": 0,
+    "views": 259
+  },
+  {
     "id": "recipe_1786878986",
     "category": "dessert",
     "category_ja": "デザート",
