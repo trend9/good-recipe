@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786865256",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔マヨサクサク！唐揚げ風チーズ焼きそば",
+    "title_en": "Devilish Mayo & Crunch: Fried Chicken-Style Cheese Ramen",
+    "description_ja": "ハラハラドキドキの悪魔的な美味しさ！サクサクと旨辛な唐揚げを、マヨネーズとチーズで包んだ、まるで焼きそばのような、一皿にまとめた一品。",
+    "description_en": "Get ready for a devilish delicious experience!  Crispy and spicy fried chicken is wrapped in creamy, cheesy sauce, for a fun and tasty ramen-like dish. ",
+    "occasion_ja": "パーティーや、お酒との相性も抜群！",
+    "occasion_en": "Perfect for parties or paired with drinks! ",
+    "ingredients": [
+      {
+        "name": "鶏むね肉",
+        "amount": "200g"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "片栗粉",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "鶏むね肉に塩コショウを振り、ハニーマヨネーズと醤油、砂糖で味を調える。",
+      "鶏むね肉を片栗粉で包んで、揚げる。",
+      "揚げた鶏むね肉を、チーズと混ぜ合わせたソースで包む。",
+      "ソースで包んだ鶏むね肉を、焼きそばのように、皿に盛り付ける"
+    ],
+    "prompt": "Fried chicken with a cheese sauce wrap, in the style of a ramen noodle bowl. A single piece, with a delicious, crispy crust. ",
+    "filename": "recipe_1786865256.jpg",
+    "date": "2026-08-16 07:29:17",
+    "timestamp": 1786865256,
+    "likes": 0,
+    "views": 247
+  },
+  {
     "id": "recipe_1786861893",
     "category": "pasta",
     "category_ja": "パスタ",
