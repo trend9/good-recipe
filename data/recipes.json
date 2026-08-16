@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786915047",
+    "category": "ラーメン",
+    "category_ja": "ラーメン",
+    "title_ja": "バナナキャラメルブリュレの悪魔的甘辛風焼きそば",
+    "title_en": "Banana Caramel Brulee's Spicy-Sweet Ramen",
+    "description_ja": "悪魔的な甘さと辛さの融合！完熟バナナとキャラメルブリュレの香りを活かした、まるで焼きそばの様な、濃厚な味わいが楽しめる一品に仕上がりました！",
+    "description_en": "Combining the sweetness and spiciness of banana and caramel, this twist on ramen creates a truly unique and delicious experience! ",
+    "occasion_ja": "週末や特別な日に、ちょっと贅沢な一品が欲しい時にぴったり！",
+    "occasion_en": "Perfect for a special occasion or a luxurious treat on a weekend! ",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "インスタントラーメン",
+        "amount": "1袋"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "完熟バナナの皮を剥き、1cm角に切る。",
+      "キャラメルブリュレを、バナナの皮を挟んだ形で、インスタントラーメンに混ぜる。",
+      "インスタントラーメンの麺とキャラメルブリュレ、砂糖、醤油で炒める。",
+      "麺にキャラメルブリュレとバナナの皮を混ぜて、熱いうちに食べる。"
+    ],
+    "prompt": "Close-up of a bowl of ramen with a caramelized banana and a swirl of caramel sauce, with a steamy, delicious glow.",
+    "filename": "recipe_1786915047.jpg",
+    "date": "2026-08-16 21:19:45",
+    "timestamp": 1786915047,
+    "likes": 0,
+    "views": 418
+  },
+  {
     "id": "recipe_1786911378",
     "category": "dessert",
     "category_ja": "デザート",
