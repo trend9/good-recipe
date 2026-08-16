@@ -1,5 +1,56 @@
 [
   {
+    "id": "recipe_1786841865",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの魔物タルト：悪魔的甘辛なデザート",
+    "title_en": "Banana Caramel Brulee Tart: Devilishly Sweet & Spicy Dessert",
+    "description_ja": "完熟バナナとキャラメルブリュレの組み合わせで、口の中でとろける甘辛なタルト！想像を超える美味しさに、魅惑的な味わいを演出します。",
+    "description_en": "A devilishly sweet and spicy dessert, featuring a combination of ripe bananas and caramel brulee in a stunningly delicious tart! Experience a truly unforgettable treat.",
+    "occasion_ja": "特別な日に、友達と、家族と一緒にお楽しみください！",
+    "occasion_en": "A perfect dessert for any special occasion, enjoyed with friends, family, and even on your own!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. バナナは皮をむき、薄く切り、丸め、1cm角に切る。\n2. キャラメルは鍋に入れて弱火で溶かし、バターを加えて香ばしい香りがするまで混ぜる。\n3. 小麦粉と水を混ぜ、生地を調える。\n4. フライパンに生地を敷き、キャラメルを塗り、バナナを飾る。",
+      "Bake at 180℃ for 20 minutes until golden brown."
+    ],
+    "prompt": "Close-up shot of a tart with caramelized bananas on top, with steam and golden brown color.",
+    "filename": "recipe_1786841865.jpg",
+    "date": "2026-08-16 00:59:34",
+    "timestamp": 1786841865,
+    "likes": 0,
+    "views": 392
+  },
+  {
     "id": "recipe_1786835771",
     "category": "side",
     "category_ja": "サイド",
