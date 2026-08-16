@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1786918564",
+    "category": "そば/焼きそば",
+    "category_ja": "そば/焼きそば",
+    "title_ja": "サクサクポテトチーズソースの魔境焼きそば",
+    "title_en": "Devilish Potato Cheese Sauce Ramen",
+    "description_ja": "サクサクしたポテトとクリーミーなチーズソースが絡み合う、まるで魔境に迷い込んだような、悪魔的な美味しさの焼きそば！",
+    "description_en": "A devilish ramen with crispy potato and creamy cheese sauce, a taste of the underworld.",
+    "occasion_ja": "特別な夜にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. ポテトはサクサクに焼きます。",
+      "2. フライパンにバターを溶かし、チーズを加えて溶かしながら混ぜます。",
+      "3. 牛乳、醤油、塩、コショウを加え、とろみがつくまで混ぜます。",
+      "4. 焼きそばを盛り付け、チーズソースをかけます。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious ramen bowl with crispy potato and creamy cheese sauce,  shot in a stylish dark setting with dramatic lighting",
+    "filename": "recipe_1786918564.jpg",
+    "date": "2026-08-16 22:17:16",
+    "timestamp": 1786918564,
+    "likes": 0,
+    "views": 446
+  },
+  {
     "id": "recipe_1786915047",
     "category": "ラーメン",
     "category_ja": "ラーメン",
