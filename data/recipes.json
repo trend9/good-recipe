@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786893428",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス クラッカー風！",
+    "title_en": "Black Sugar Kinako Crinkle Cookie Ice",
+    "description_ja": "黒蜜ときな粉の組み合わせで、今までにない衝撃的な食感のアイスが誕生！まるでクラッカーのような独特な食感と、黒蜜の甘酸っぱさが絡み合う、悪魔的な美味しさ。",
+    "description_en": "A new level of deliciousness! This ice cream features a surprising and addictive texture inspired by crackers and black sugar with Kinako. The unique flavor will leave you craving for more.",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "クラッカー",
+        "amount": "適量"
+      },
+      {
+        "name": "アイスクリーム",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "黒蜜ときな粉を混ぜ、砂糖と牛乳を加えて溶かし、アイスクリームに混ぜる",
+      "クラッカーを砕いて、混ぜ合わせたアイスにトッピングする",
+      "アイスクリームを、クラッカーで作った、独特な形に盛り付ける",
+      "冷やして、享用"
+    ],
+    "prompt": "Close-up shot of a delicious ice cream cone with a distinct cracker crumble texture, sprinkled with black sugar and kinako, a sweet and savory aesthetic, illustration style",
+    "filename": "recipe_1786893428.jpg",
+    "date": "2026-08-16 15:18:23",
+    "timestamp": 1786893428,
+    "likes": 0,
+    "views": 432
+  },
+  {
     "id": "recipe_1786889863",
     "category": "side",
     "category_ja": "サイド",
