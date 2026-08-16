@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1786907945",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × ハニーマスタードのスパイシーソース焼きそば：悪魔のスパイスと甘さの融合！",
+    "title_en": "Spicy Habanero Honey Garlic Sauce Ramen: Devilishly Delicious Fusion of Spicy & Sweet!",
+    "description_ja": "極厚カツとハニーマスタードのスパイシーな組み合わせは、想像を超える美味しさに進化！甘辛いソースが、焼きそばの美味しさをさらに引き立てます。悪魔のようなスパイスと、甘さに魅了されるあなたへ！",
+    "description_en": "The devilishly delicious fusion of crispy teriyaki pork and the sweet & spicy habanero honey garlic sauce! This unique combination elevates the ramen experience to new heights with an addictive sweetness. Get ready to experience a culinary adventure that will leave you wanting more!",
+    "occasion_ja": "パーティー、夜食、一人暮らしでも楽しめる一品",
+    "occasion_en": "Perfect for parties, snacks, and a satisfying meal for yourself",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ハバネロ",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "100ml"
+      },
+      {
+        "name": "焼きそば",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを一口サイズにカットし、ハニーマスタードとハバネロを混ぜ合わせ、焼きそばのタレを混ぜる",
+      "焼きそばを炒め、熱したフライパンで極厚カツとハニーマスタードのタレを絡める",
+      "焼きそばと極厚カツを盛り付け、お好みで胡椒や青椒パウダーをトッピングする",
+      "焼きそばにスパイシーな風味を加え、悪魔的なスパイスが楽しめる一品に仕上げる"
+    ],
+    "prompt": "A close-up shot of a plate of spicy ramen with a crispy teriyaki pork and a vibrant, smoky habanero glaze.",
+    "filename": "recipe_1786907945.jpg",
+    "date": "2026-08-16 19:20:50",
+    "timestamp": 1786907945,
+    "likes": 0,
+    "views": 189
+  },
+  {
     "id": "recipe_1786904443",
     "category": "dessert",
     "category_ja": "デザート",
