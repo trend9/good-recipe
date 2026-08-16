@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786861893",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油！悪魔の甘辛！焼きそば風！",
+    "title_en": "Smoked Charsiu & Creamy Spicy Garlic Ramen-Inspired  Pasta",
+    "description_ja": "炙りチャーシューの旨味と濃厚焦がしにんにく醤油が、まるで焼きそばのような、悪魔的美味しさの極上アレンジレシピ！",
+    "description_en": "A delicious twist on the classic ramen with a smoky charsiu and creamy spicy garlic flavor, in a pasta format. ",
+    "occasion_ja": "特別な日や夜食に！",
+    "occasion_en": "Perfect for special occasions or an evening treat! ",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "麺",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "ニンニク",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューと濃厚焦がしにんにく醤油を混ぜ合わせ、麺に絡める。",
+      "2. 玉ねぎを細切りにし、ニンニクをみじん切りにする。",
+      "3. 卵を溶き、玉ねぎとニンニクを加えて混ぜる。",
+      "4. 麺を茹でる前に、混ぜ合わせた具材を麺に加える。"
+    ],
+    "prompt": "close up image of the pasta with a smoky charsiu, and creamy spicy garlic sauce, with an anime illustration style",
+    "filename": "recipe_1786861893.jpg",
+    "date": "2026-08-16 06:34:40",
+    "timestamp": 1786861893,
+    "likes": 0,
+    "views": 268
+  },
+  {
     "id": "recipe_1786854684",
     "category": "dessert",
     "category_ja": "デザート",
