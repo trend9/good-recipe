@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786904443",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコレートチーズケーキの悪魔的スパークリング！",
+    "title_en": "Devilish Matcha White Chocolate Cheesecake Sparkle!",
+    "description_ja": "抹茶とホワイトチョコレートの濃厚な味わいが、スパークリングソースでさらに悪魔的な味わいに！見た目も華やかで、思わず一口食べるのがやめられない！",
+    "description_en": "A devilish blend of matcha and white chocolate, elevated by a sparkling sauce!  Visually stunning and irresistibly delicious! This cheesecake is a must-try for any occasion.",
+    "occasion_ja": "特別な日のデザートに！",
+    "occasion_en": "Perfect dessert for special occasions!",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "250ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "スパークリングソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  抹茶粉とホワイトチョコレートを鍋に入れて、弱火で溶かす。",
+      "2.  溶けたチョコレートの湯汁を、生クリームとチーズを混ぜ合わせて、なめらかになるまで混ぜる。",
+      "3.  溶かしバターで作った生地を、抹茶の溶解物を混ぜ合わせて、生地を滑らかにする。",
+      "4.  スパークリングソースを、生地の表面に少量かける。"
+    ],
+    "prompt": "A close-up shot of a beautifully decorated matcha cheesecake with a sparkling, iridescent surface, looking incredibly decadent and delicious.",
+    "filename": "recipe_1786904443.jpg",
+    "date": "2026-08-16 18:22:23",
+    "timestamp": 1786904443,
+    "likes": 0,
+    "views": 288
+  },
+  {
     "id": "recipe_1786900586",
     "category": "pasta",
     "category_ja": "パスタ",
