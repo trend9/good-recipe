@@ -1,5 +1,70 @@
 [
   {
+    "id": "recipe_1786875471",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × ハニーマスタードの悪魔的ソース焼きそば",
+    "title_en": "Devilishly Delicious Honey Mustard Tonkatsu Stir Fry",
+    "description_ja": "極厚カツとハニーマスタードの組み合わせで、想像をはるかに超えた悪魔的美味しさの焼きそば。甘辛いソースと、カリカリとしたカツの食感が、まさに究極の悪魔的料理体験を演出します。",
+    "description_en": "A devilishly delicious stir fry experience that combines the ultimate savory taste of a crispy, pan-fried pork cutlet with a sweet and spicy honey mustard sauce. This unique and innovative stir fry will surely become your new favorite dish.",
+    "occasion_ja": "パーティーやディナーの際にも、お酒のお供にも最適な一品",
+    "occasion_en": "Perfect for parties, dinners, or as a side dish for a cold evening.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2-3切れ"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "きゅうり",
+        "amount": "1本"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "ピーマン",
+        "amount": "1/2個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "極厚カツを小麦粉で衣をつけ、卵で溶き、塩胡椒で調味します。",
+      "フライパンに油をひき、カツを焼きます。",
+      "焼き終わったらハニーマスタードと混ぜ、焼きそばの具材に加えます。",
+      "きゅうり、玉ねぎ、ピーマンを加え、炒め、お好みでハニーマスタードをかけて完成。"
+    ],
+    "prompt": "A close-up image of a plate with a crispy, pan-fried pork cutlet with a honey mustard sauce, surrounded by stir-fried vegetables. The background is dark and stylish.",
+    "filename": "recipe_1786875471.jpg",
+    "date": "2026-08-16 10:19:41",
+    "timestamp": 1786875471,
+    "likes": 0,
+    "views": 385
+  },
+  {
     "id": "recipe_1786872163",
     "category": "side",
     "category_ja": "サイド",
