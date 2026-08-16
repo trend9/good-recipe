@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786868594",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルタルト：悪魔的甘辛なデザート",
+    "title_en": "Banana Caramel Tart: Devilishly Sweet and Savory Dessert",
+    "description_ja": "完熟バナナの甘みとキャラメルの香ばしさで、悪魔的美味しさのタルト。焦げ目を加えれば、まるで魔法のケーキのような魅惑的な仕上がり！",
+    "description_en": "A devilishly sweet and savory dessert, the Caramel Banana Tart features the sweetness of ripe bananas and a caramelized aroma. With a hint of charcoal, the dessert is sure to have you saying ‘Wow!’",
+    "occasion_ja": "特別な日に、特別な人にプレゼントに。",
+    "occasion_en": "A special gift for a special occasion.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "バナナを輪切りにして、皮を剥く。",
+      "キャラメルとバターを混ぜて、バナナの輪切りを包む。",
+      "生地を焼き、キャラメルバナナを乗せて完成。",
+      "焦げ目を加えて、仕上げにキャラメルソースをかけるとより美味しさ倍増！"
+    ],
+    "prompt": "Close-up image of the banana caramel tart with a smoky finish and a drizzle of caramel sauce. It should look artistic and tempting with a focus on the textures and colors.",
+    "filename": "recipe_1786868594.jpg",
+    "date": "2026-08-16 08:24:52",
+    "timestamp": 1786868594,
+    "likes": 0,
+    "views": 466
+  },
+  {
     "id": "recipe_1786865256",
     "category": "side",
     "category_ja": "サイド",
