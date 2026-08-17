@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786976608",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の黒蜜きな粉アイス – 甘辛な衝撃！",
+    "title_en": "Devilish Black Sesame & Kinako Ice - A Sweet & Salty Shock!",
+    "description_ja": "濃厚な黒蜜と、きな粉の独特な香りに、意外な甘辛な味覚が楽しめる、衝撃的なデザートレシピ。",
+    "description_en": "An intriguing dessert recipe that combines the richness of black sesame paste and the unique flavor of kinako. A sweet and salty sensation you won't forget!",
+    "occasion_ja": "特別な日に、特別なデザートを味わいたいとき",
+    "occasion_en": "Perfect for special occasions and adding a unique twist to your dessert.",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "アイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒ごま",
+        "amount": "適量"
+      },
+      {
+        "name": "蜂蜜",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "黒蜜ときな粉を混ぜて、アイスに塗ります。",
+      "黒ごまを振って、アイスをさらにデコレーションします。",
+      "蜂蜜を少し加えて、甘さを調整します。",
+      "お好みで、好きなトッピングを加えて完成！"
+    ],
+    "prompt": "Close-up photo of the devilish ice dessert, showcasing the black sesame, kinako, and unique combination of textures and colors",
+    "filename": "recipe_1786976608.jpg",
+    "date": "2026-08-17 14:26:08",
+    "timestamp": 1786976608,
+    "likes": 0,
+    "views": 360
+  },
+  {
     "id": "recipe_1786969956",
     "category": "ラーメン",
     "category_ja": "ラーメン",
