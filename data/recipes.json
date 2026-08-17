@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786938335",
+    "category": "焼きそば",
+    "category_ja": "焼きそば",
+    "title_ja": "ローストビーフ×特製オニオンソース：悪魔の甘辛焼きそば",
+    "title_en": "Roast Beef x Special Onion Sauce: Devilishly Deliciously Spicy & Sweet Baked Noodles",
+    "description_ja": "悪魔的な甘辛さと濃厚なローストビーフの組み合わせ。とろける食感の焼きそばと、まるで魔法のソースが絡み合う、見た目も鮮やかな一品に！",
+    "description_en": "A devilishly delicious combination of roast beef and a special onion sauce. This devilishly sweet and spicy baked noodles delivers a mouthwatering experience that is both vibrant and visually stunning.",
+    "occasion_ja": "特別な日や、特別な人へのプレゼントにぴったり！",
+    "occasion_en": "Perfect for special occasions or a gift for someone special!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "細切りキャベツ",
+        "amount": "適量"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフは一口大に切り、一口サイズにカット。",
+      "2. 特製オニオンソースを鍋に入れ、沸騰させ、溶かし、溶かし汁で甘辛ソースを作ります。",
+      "3. じゃがいもは薄切りにし、フライパンで炒めます。",
+      "4. 焼きそばを炒め、溶き卵を混ぜて、仕上げます。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious baked noodles, with a glistening roast beef and special onion sauce on a plate. A soft and fluffy egg on top.",
+    "filename": "recipe_1786938335.jpg",
+    "date": "2026-08-17 03:48:01",
+    "timestamp": 1786938335,
+    "likes": 0,
+    "views": 479
+  },
+  {
     "id": "recipe_1786933106",
     "category": "ラーメン",
     "category_ja": "ラーメン",
