@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786962457",
+    "category": "pasta/side",
+    "category_ja": "パスタ/サイド",
+    "title_ja": "焼き芋 × トロけるバターカラメル：悪魔の甘辛焼きそば",
+    "title_en": "Devilish Sweet and Spicy Caramel-Roasted Sweet Potato Pasta",
+    "description_ja": "焼き芋の甘さが、とろけるバターカラメルの甘辛さに包まれ、悪魔的な美味しさ！ 意外な組み合わせが、驚くほど美味しい焼き芋の甘辛焼きそばを体験できるレシピです。",
+    "description_en": "A devilishly sweet and spicy caramel-roasted sweet potato pasta with an unexpected twist! This recipe creates a truly devilish combination that's surprisingly delicious. ",
+    "occasion_ja": "パーティー、特別な夜にぴったり",
+    "occasion_en": "Perfect for parties and special occasions",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "10g"
+      },
+      {
+        "name": "醤油",
+        "amount": "10ml"
+      },
+      {
+        "name": "酒",
+        "amount": "10ml"
+      },
+      {
+        "name": "水",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "焼き芋を耐熱容器に入れ、バター、砂糖、醤油、酒、水を加え、加熱する。",
+      "焼き芋に甘辛い味が染み渡ったら、とろけるバターカラメルを混ぜる。",
+      "焼き芋を煮詰める。",
+      "焼き芋をパスタの代わりに使用。"
+    ],
+    "prompt": "Close-up photo of a devilishly sweet and spicy caramel-roasted sweet potato pasta with a rich, golden color and a delicious, creamy texture. It should be set on a dark wooden table.",
+    "filename": "recipe_1786962457.jpg",
+    "date": "2026-08-17 10:29:15",
+    "timestamp": 1786962457,
+    "likes": 0,
+    "views": 314
+  },
+  {
     "id": "recipe_1786959431",
     "category": "焼きそば",
     "category_ja": "焼きそば",
