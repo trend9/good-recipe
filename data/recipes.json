@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1786948917",
+    "category": "stir-fry",
+    "category_ja": "炒め物",
+    "title_ja": "サクサクポテトチーズソースの魔境焼きそば：悪魔的スパイスと甘さの融合！",
+    "title_en": "Crispy Potato Cheese Sauce Devilish Stir-Fry: Fusion of Spicy and Sweet",
+    "description_ja": "サクサクポテトの食感とクリーミーなチーズソースが、悪魔的なスパイスと甘さの融合で、まるで魔法の焼きそばを味わえます！",
+    "description_en": "A devilish stir-fry with a combination of crispy potatoes, creamy cheese sauce, and a fusion of spicy and sweet flavors, reminiscent of a magic stir-fry.",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "For parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "ポテト",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ケチャップ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "じゃがいもは厚くスライスし、ポテトは細く切る。",
+      "ボウルにチーズ、マヨネーズ、ケチャップを入れ混ぜる。",
+      "ポテトとじゃがいもを炒め、チーズソースを絡める。",
+      "お好みで唐辛子を混ぜる。",
+      "皿に盛り付け、お好みでパプリカやトマトの彩りを添えれば完成。"
+    ],
+    "prompt": "Close-up shot of a sizzling stir-fry with crispy potatoes, creamy cheese sauce, and a spicy red pepper garnish, in a dark, minimalist style, resembling a devil's cooking.",
+    "filename": "recipe_1786948917.jpg",
+    "date": "2026-08-17 06:43:40",
+    "timestamp": 1786948917,
+    "likes": 0,
+    "views": 441
+  },
+  {
     "id": "recipe_1786944700",
     "category": "dessert",
     "category_ja": "デザート",
