@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1787001712",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的クリーミーアボカド＆海老グラタン",
+    "title_en": "Devilishly Creamy Avocado & Shrimp Gratin",
+    "description_ja": "クリーミーなアボカドと海老の甘辛味が、グラタンの王道。チーズの濃厚さと海老の旨味が、悪魔的な美味しさを引き出します。",
+    "description_en": "A creamy avocado and shrimp gratin with a touch of devilish sweetness and spice. This dish is a perfect balance of cheesy richness and shrimpy goodness, creating a truly delicious and unforgettable experience.",
+    "occasion_ja": "パーティー、ディナー、特別な日、特別な人への贈り物に！",
+    "occasion_en": "Perfect for parties, dinners, special occasions, and special people!",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "150g"
+      },
+      {
+        "name": "クリーミーアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. アボカドを小さくカットし、クリーミーなアボカドをボウルに入れて混ぜる。",
+      "2. 150gのエビを塩コショウで味付けし、フライパンで揚げ焼きにする。",
+      "3. パプリカを切る。",
+      "4. フライパンに、エビとパプリカ、アボカドの汁を加え、醤油、みりん、砂糖を混ぜる。グラタン皿に、チーズを敷き詰めた後、エビとパプリカの詰め物を入れ、グラタンを完成させ、オーブンで焼く。"
+    ],
+    "prompt": "A close-up shot of a creamy avocado and shrimp gratin dish, with sizzling shrimp and vibrant green peppers on top. The dish should be presented with a warm, inviting glow, and the cheese should be melted to perfection.",
+    "filename": "recipe_1787001712.jpg",
+    "date": "2026-08-17 21:24:20",
+    "timestamp": 1787001712,
+    "likes": 0,
+    "views": 220
+  },
+  {
     "id": "recipe_1786998055",
     "category": "丼",
     "category_ja": "丼",
