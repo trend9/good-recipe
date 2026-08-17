@@ -1,5 +1,71 @@
 [
   {
+    "id": "recipe_1786941424",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的なハニーマヨ唐揚げ焼きそば",
+    "title_en": "Devilish Honey Mustard Fried Chicken Stir-fry",
+    "description_ja": "サクサクの唐揚げに、ハニーマヨネーズとスパイシーな風味を加え、甘辛な味付けで焼きそばに！見た目もインパクト抜群の悪魔的レシピです。",
+    "description_en": "Crispy fried chicken gets a devilish twist with a sweet and spicy honey mustard sauce, and a stir-fry of delicious noodles. The unexpected combination is a sight to behold and a culinary delight.",
+    "occasion_ja": "パーティー、夜食、特別な日に",
+    "occasion_en": "Party, Dinner, Special Occasions",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "1枚"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "ハニー",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好み"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "焼きそば",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "鶏肉に小麦粉をまぶす。",
+      "ハニー、マヨネーズ、唐辛子、醤油、砂糖を加え、よく混ぜる。",
+      "鶏肉を卵で包み、焼きそばを加えて混ぜる。",
+      "フライパンに油をひき、焼きそばを炒める。",
+      "焼きそばがカリカリに焼き上がったら、完成。"
+    ],
+    "prompt": "Close-up shot of a skillet with crispy fried chicken pieces and stir-fried noodles in a savory sauce, with a golden-yellow glow and steam coming off the dish. The background should be a dark and smoky atmosphere. ",
+    "filename": "recipe_1786941424.jpg",
+    "date": "2026-08-17 04:39:40",
+    "timestamp": 1786941424,
+    "likes": 0,
+    "views": 405
+  },
+  {
     "id": "recipe_1786938335",
     "category": "焼きそば",
     "category_ja": "焼きそば",
