@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786955854",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "悪魔的な麻婆豆腐丼 - ふわとろ卵の魔境",
+    "title_en": "Devilish Spicy Tofu Rice Bowl - Fluffy Egg of Madness",
+    "description_ja": "甘辛な旨辛麻婆豆腐をふっくらと卵で包んで、とろとろ卵の食感と麻婆豆腐の辛さが絶妙なバランスで味わえる、悪魔的な美味しさの丼が誕生！",
+    "description_en": "A devilishly delicious rice bowl combining the flavorful and spicy tofu and the fluffy, creamy egg for a perfectly balanced mix of creamy, salty, and spicy! ",
+    "occasion_ja": "食欲旺盛な時、夜ご飯に最適な一品",
+    "occasion_en": "Perfect for those with a strong appetite, or a nice dinner dish",
+    "ingredients": [
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "白米",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 麻婆豆腐を炒める。",
+      "2. 卵を溶き、白米を炒める。",
+      "3.  麻婆豆腐と卵を混ぜ合わせる。",
+      "4.  盛り付け、お好みでネギ、ごま油などを加える"
+    ],
+    "prompt": "A beautiful and colorful close-up image of a Devilish Spicy Tofu Rice Bowl, with fluffy egg on top and a drizzle of sesame oil on the side",
+    "filename": "recipe_1786955854.jpg",
+    "date": "2026-08-17 08:39:10",
+    "timestamp": 1786955854,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1786952936",
     "category": "麺料理",
     "category_ja": "麺料理",
