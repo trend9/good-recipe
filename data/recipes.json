@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786969956",
+    "category": "ラーメン",
+    "category_ja": "ラーメン",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔的甘辛焼きそば！",
+    "title_en": "Spicy BBQ Smoked Pork Belly & Garlic Spicy Glazed Pork Belly Ramen!",
+    "description_ja": "炙りチャーシューの甘辛味が、濃厚焦がしにんにく醤油で引き締まる！ 濃厚な味わいが、焼きそばの奥深さを際立たせる、悪魔的な美味しさ！",
+    "description_en": "Smoked Pork Belly meets Spicy Garlic Glaze - This is the best ramen recipe you'll ever find!",
+    "occasion_ja": "特別な夜、特別な人との夜にぴったり！",
+    "occasion_en": "Perfect for a special occasion with someone you love!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "中華麺",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ネギ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. チャーシューを炙り、表面に濃い甘辛味付けをする。\n",
+      "2. 濃厚焦がしにんにく醤油を麺につけ、麺とチャーシューの旨味を最大限に引き出す。\n",
+      "3. 熱した中華麺に、炙りチャーシューと濃厚焦がしにんにく醤油を盛り付けて、卵を乗せ、ネギを添える。\n",
+      "4. 最後に、お好みで辛味を調える。\n"
+    ],
+    "prompt": "Close-up shot of a bowl of ramen with a smoking pork belly and a vibrant green onion. Smoky and colorful. Anime style.",
+    "filename": "recipe_1786969956.jpg",
+    "date": "2026-08-17 12:34:19",
+    "timestamp": 1786969956,
+    "likes": 0,
+    "views": 415
+  },
+  {
     "id": "recipe_1786965679",
     "category": "side",
     "category_ja": "サイド",
