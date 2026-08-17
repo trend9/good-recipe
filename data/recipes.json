@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787008736",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "ガーリックバター × ぷりぷりエビのスパイシーピラフ：悪魔の旨み爆発！",
+    "title_en": "Garlic Butter & Shrimpy Spicy Fried Rice: Devilishly Delicious Explosion!",
+    "description_ja": "定番のピラフに、ガーリックバターとぷりぷりのエビを加え、スパイシーな辛味で、悪魔的美味しさのピラフが誕生！",
+    "description_en": "A devilishly delicious twist on the classic fried rice, featuring garlicky butter and shrimpy deliciousness with a spicy kick!",
+    "occasion_ja": "食欲が物足りない時に、手軽に作れて、お酒のお供にぴったりな一品！",
+    "occasion_en": "An easy-to-make side dish perfect for a casual evening or as an accompaniment to your drink!",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "1カップ"
+      },
+      {
+        "name": "ぷりぷりエビ",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "ご飯を炒め、エビとガーリックバターを加え、炒める",
+      "レモン汁と唐辛子を加え、全体に混ぜる",
+      "お好みで、醤油やコチュジャンで味を調整する",
+      "火を止めて、完成"
+    ],
+    "prompt": "Close-up shot of a golden-brown fried rice dish with shrimp and garlicky butter, garnished with lemon slices and a sprinkle of chili flakes, styled like a vibrant, anime illustration",
+    "filename": "recipe_1787008736.jpg",
+    "date": "2026-08-17 23:20:41",
+    "timestamp": 1787008736,
+    "likes": 0,
+    "views": 444
+  },
+  {
     "id": "recipe_1787005202",
     "category": "pasta",
     "category_ja": "パスタ",
