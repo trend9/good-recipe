@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786983704",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバター×ぷりぷり海老ピラフ：悪魔的な旨みExplosion！",
+    "title_en": "Garlicky Butter Shrimp Fried Rice:  An Explosive Deliciousness!",
+    "description_ja": "ぷりぷり海老と濃厚ガーリックバターが融合！悪魔的な旨味とコクが炸裂する、超絶美味なピラフ。おうちで簡単に作れる超絶レシピ！",
+    "description_en": "A fusion of juicy shrimp and rich garlic butter delivers an explosive deliciousness. This is a super easy and tasty recipe that you can make at home! ",
+    "occasion_ja": "パーティー、特別な夜、普段使いにも最適な一品",
+    "occasion_en": "Perfect for parties, special occasions, and everyday meals!",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "2個"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "適量"
+      },
+      {
+        "name": "ご飯",
+        "amount": "2杯"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "海老は一口サイズにカットする。",
+      "ガーリックバターと醤油、砂糖を混ぜ合わせておく。",
+      "ご飯を炊く。",
+      "ご飯と海老を混ぜ合わせ、ガーリックバターと醤油、砂糖の調味料を加え、よく混ぜる。"
+    ],
+    "prompt": "Close-up photo of a steaming bowl of garlicky shrimp fried rice with juicy shrimp and a beautiful golden-brown rice with a slight reddish hue. ",
+    "filename": "recipe_1786983704.jpg",
+    "date": "2026-08-17 16:23:27",
+    "timestamp": 1786983704,
+    "likes": 0,
+    "views": 379
+  },
+  {
     "id": "recipe_1786980079",
     "category": "dessert",
     "category_ja": "デザート",
