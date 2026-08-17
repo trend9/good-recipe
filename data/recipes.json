@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786980079",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろとろ半熟卵とデミグラスハンバーグの魔境焼きそば",
+    "title_en": "Devilishly delicious Devil’s Spaghetti with Half-Cooked Egg and Demi-Glace Burger",
+    "description_ja": "とろとろ半熟卵とデミグラスハンバーグの組み合わせは、意外な美味しさの爆発を遂げる！悪魔的な甘辛風味で、焼きそばの世界に新たな伝説を刻む。",
+    "description_en": "A devilishly delicious combination of half-cooked egg and demi-glace burger in a devilishly delicious Devil's Spaghetti. This combination will create a world of new deliciousness.",
+    "occasion_ja": "特別な日にも、普段の夜食にも",
+    "occasion_en": "For special occasions or just a special night dinner",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "焼きそば",
+        "amount": "1袋"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "焼きそばをフライパンで軽く炒める。",
+      "デミグラスハンバーグを火を通す。",
+      "半熟卵をフライパンでゆでる。",
+      "焼きそば、ハンバーグ、半熟卵を混ぜ合わせ、醤油とみりんで味を調える。"
+    ],
+    "prompt": "A close-up shot of a Devil's Spaghetti with a half-cooked egg and demi-glace burger, with a fiery red sauce, a sprinkle of sesame seeds and chili flakes. A steaming hot bowl of spaghetti with a dramatic, colorful presentation.",
+    "filename": "recipe_1786980079.jpg",
+    "date": "2026-08-17 15:23:00",
+    "timestamp": 1786980079,
+    "likes": 0,
+    "views": 177
+  },
+  {
     "id": "recipe_1786976608",
     "category": "dessert",
     "category_ja": "デザート",
