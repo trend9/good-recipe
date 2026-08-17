@@ -1,5 +1,70 @@
 [
   {
+    "id": "recipe_1786928144",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サーモン × アボカドタルタル：悪魔的甘辛風焼きそば",
+    "title_en": "Salmon & Avocado Tartare: Devilish Sweet & Spicy Ramen",
+    "description_ja": "一見すると普通の焼きそば、しかし悪魔が潜む！サーモンとアボカドのタルタルが、甘辛な醤油だれで焼きそばに絡み、まるで悪魔が作った味覚の饗宴！",
+    "description_en": "A seemingly ordinary ramen, but a devil's touch awaits! A tantalizing salmon and avocado tartar dressing brings a devilish sweet and spicy flavor to the ramen noodles.",
+    "occasion_ja": "パーティーで、お酒を飲む時にもぴったり！",
+    "occasion_en": "Perfect for parties and enjoying drinks!",
+    "ingredients": [
+      {
+        "name": "豚バラ肉",
+        "amount": "100g"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "めんつゆ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "片栗粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "焼きそばを茹でる。",
+      "アボカドはみじん切りにする。サーモンは薄切りにする。",
+      "醤油、砂糖、酒を混ぜ合わせ、タレを作る。",
+      "焼きそばにアボカドとサーモンのタルタルを絡ませる"
+    ],
+    "prompt": "Anime style illustration of a steaming bowl of ramen noodles, topped with salmon and avocado tartar, a drizzle of sweet and spicy sauce and a side of steamed vegetables. The ramen bowl is slightly crooked, creating a dynamic and fun visual.",
+    "filename": "recipe_1786928144.jpg",
+    "date": "2026-08-17 00:57:32",
+    "timestamp": 1786928144,
+    "likes": 0,
+    "views": 322
+  },
+  {
     "id": "recipe_1786922174",
     "category": "丼",
     "category_ja": "丼",
