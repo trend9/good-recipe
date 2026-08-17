@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786959431",
+    "category": "焼きそば",
+    "category_ja": "焼きそば",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛焼きそば (極厚カツの悪魔的な甘辛焼きそばレシピ)",
+    "title_en": "Devilishly Delicious:極厚カツ × 特製ハニーマスタード -  The sweet and savory fusion of deep-fried goodness! ",
+    "description_ja": "極厚カツの旨みを最大限に引き出す、悪魔的な甘辛焼きそばのレシピ！特製ハニーマスタードで、今までにない美味しさに、舌鼓を打ちましょう！",
+    "description_en": "A devilishly delicious recipe that elevates the savory taste of a deep-fried pork cutlet to new heights. The unique honey mustard sauce elevates the pork cutlet to an entirely new level of flavor, a must-try for those seeking a bold culinary experience!",
+    "occasion_ja": "特別な日や、家族と一緒の夜に、最高の一杯！",
+    "occasion_en": "Perfect for special occasions or family gatherings. A culinary experience to remember!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツに特製ハニーマスタードを塗る。",
+      "砂糖、醤油、みりんを加え、ハニーマスタードに溶けやすいように混ぜる。",
+      "溶け込んだハニーマスタードが塗られた極厚カツを焼きそばのソースに漬け込む。",
+      "焼きそばソースで味付けした極厚カツを焼きそば麺の上に載せる。"
+    ],
+    "prompt": "A close-up shot of a devilishly delicious, deep-fried pork cutlet, smothered in a tangy, sweet, and smoky honey mustard sauce, nestled on top of a steaming bed of noodles. The dish is presented in a vibrant, colorful style with a dramatic lighting effect. This image evokes an intense sense of excitement and anticipation for the dish.",
+    "filename": "recipe_1786959431.jpg",
+    "date": "2026-08-17 09:38:59",
+    "timestamp": 1786959431,
+    "likes": 0,
+    "views": 198
+  },
+  {
     "id": "recipe_1786955854",
     "category": "丼",
     "category_ja": "丼",
