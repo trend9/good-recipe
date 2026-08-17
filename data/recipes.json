@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1786944700",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉アイス　魔境焼きそば",
+    "title_en": "Black Honey Kinako Ice - Devilish Ramen",
+    "description_ja": "黒蜜ときな粉が、もちもち食感のアイスに融合！悪魔的な美味しさで、衝撃的な魔境焼きそばが誕生！ 意外な組み合わせが、まさに悪魔的な美味しさに昇格します。",
+    "description_en": "Blending black honey and kinako into a melt-in-your-mouth ice cream! An unexpected fusion of flavors brings a devilishly delicious magic into the world of ramen! This twist will surely redefine the meaning of 'devilish.'",
+    "occasion_ja": "特別な夜に。",
+    "occasion_en": "For a special occasion.",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "白胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "もちもちアイスに黒蜜ときな粉を混ぜる。",
+      "抹茶パウダーを加え、混ぜる。",
+      "醤油と白胡椒で味付けをする。",
+      "魔境焼きそばの麺にアイスを盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a creamy and sweet-looking black honey kinako ice cream, with a sprinkle of kinako and a touch of green tea powder, served on a plate with a devilishly delicious ramen.",
+    "filename": "recipe_1786944700.jpg",
+    "date": "2026-08-17 05:33:20",
+    "timestamp": 1786944700,
+    "likes": 0,
+    "views": 192
+  },
+  {
     "id": "recipe_1786941424",
     "category": "side",
     "category_ja": "サイド",
