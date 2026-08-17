@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1786998055",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "悪魔的麻婆豆腐丼 × ふわとろ卵：とろける卵で隠された激辛！",
+    "title_en": "Devilishly Spicy Mapo Tofu Bowl with Creamy Egg",
+    "description_ja": "今まで味わったことのない、激辛麻婆豆腐の旨味と、ふわとろ卵のクリーミーな味わいが融合！ 意外な組み合わせで、悪魔的な美味しさに驚愕！",
+    "description_en": "A devilishly spicy mapo tofu bowl with a surprising, creamy twist - a combination of the fiery intensity of the mapo tofu and the fluffy, melt-in-your-mouth egg.  Expect a taste explosion you won't find anywhere else!",
+    "occasion_ja": "食欲がない時でも、夜ご飯にぴったりな一品",
+    "occasion_en": "A perfect dish for when you're not feeling hungry, or for a satisfying dinner",
+    "ingredients": [
+      {
+        "name": "麻婆豆腐",
+        "amount": "1 порция"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ごぼう",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "1. 麻婆豆腐を鍋で炒める。",
+      "2. 卵を溶き、醤油と砂糖で味を調える。",
+      "3. 混ぜ合わせた卵と麻婆豆腐を丼に盛り付ける。",
+      "4. ごぼうを炒める。",
+      "5. 仕上げにごぼうをのせる"
+    ],
+    "prompt": "A close-up shot of a devilishly spicy mapo tofu bowl with creamy egg on top, garnished with a piece of fried gyoza, with steam rising from the bowl.",
+    "filename": "recipe_1786998055.jpg",
+    "date": "2026-08-17 20:22:40",
+    "timestamp": 1786998055,
+    "likes": 0,
+    "views": 169
+  },
+  {
     "id": "recipe_1786994764",
     "category": "パスタ",
     "category_ja": "パスタ",
