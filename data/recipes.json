@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1786965679",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛カツソース焼きそば！特製ハニーマスタードで、極厚カツがさらに進化！",
+    "title_en": "Devilish Spicy Pork Cutlet Stir-Fry with Honey Mustard Sauce!",
+    "description_ja": "極厚カツの悪魔的な甘辛な味に、特製ハニーマスタードが激変！ 意外な組み合わせが、想像を超える美味しさへ導きます。",
+    "description_en": "Take your classic pork cutlet stir-fry to a whole new level with our Devilish Spicy Pork Cutlet Sauce!  This unexpected flavor combination is a guaranteed flavor explosion you won't soon forget.",
+    "occasion_ja": "友人と晩御飯に、お酒も進む焼きそばがおすすめ！",
+    "occasion_en": "Perfect for a fun night with friends, this stir-fried pork cutlet with devilish sauce is sure to impress!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "お好みで、唐辛子（小さじ1/2）",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "極厚カツを、醤油、砂糖、ハニーマスタード、唐辛子を加えて、味付けして焼く。",
+      "焼きそばを、特製ハニーマスタードを加えて、炒め合わせる。",
+      "焼きそばを、フライパンで炒める。",
+      "焼きそばを、器に盛り付け、お好みで、マヨネーズをかけ、完成。 "
+    ],
+    "prompt": "Close up shot of the fried pork cutlet, with smoke and a drizzle of honey mustard sauce. ",
+    "filename": "recipe_1786965679.jpg",
+    "date": "2026-08-17 11:23:04",
+    "timestamp": 1786965679,
+    "likes": 0,
+    "views": 460
+  },
+  {
     "id": "recipe_1786962457",
     "category": "pasta/side",
     "category_ja": "パスタ/サイド",
