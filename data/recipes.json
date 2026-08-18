@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787066866",
+    "category": "メイン",
+    "category_ja": "メイン料理",
+    "title_ja": "悪魔的なローストビーフと特製オニオンソースのハーモニー",
+    "title_en": "Devilishly Delicious Roast Beef & Onion Sauce Harmony",
+    "description_ja": "一見普通のローストビーフだけど、特製オニオンソースで激変！ 意外な組み合わせが美味しい！ 悪魔的美味しさの秘訣は、このソースの奥深い風味。",
+    "description_en": "A devilishly delicious twist on a classic roast beef, enhanced by a unique onion sauce!  An unexpected combination that creates a truly unique flavor experience. The secret to this dish's demonic deliciousness lies in this sauce's depth of flavor.",
+    "occasion_ja": "特別な日のディナーに",
+    "occasion_en": "Perfect for a special dinner",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "1kg"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ローストビーフを塩コショウで味付けし、オーブンで焼きます。",
+      "玉ねぎを薄切りにして、特製オニオンソースとバターで炒め合わせます。",
+      "焼いたローストビーフに特製オニオンソースを塗ります。",
+      "お好みで、レモン汁を添えて召し上がれ。"
+    ],
+    "prompt": "Close-up shot of a beautifully roasted beef, a glistening onion sauce, and a touch of lemon, all in a simple, elegant setting.",
+    "filename": "recipe_1787066866.jpg",
+    "date": "2026-08-18 15:29:24",
+    "timestamp": 1787066866,
+    "likes": 0,
+    "views": 158
+  },
+  {
     "id": "recipe_1787063391",
     "category": "side",
     "category_ja": "サイド",
