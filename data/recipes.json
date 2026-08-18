@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787063391",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的な海藻グラタン：クリーミーなアボカドと海の幸のハーモニー",
+    "title_en": "Creamy Avocado Seaweed Gratin: A Harmony of Sea and Cream",
+    "description_ja": "海藻の独特な風味をクリーミーなアボカドと組み合わせる、悪魔的グラタン。海の幸の旨みが広がり、甘辛なハーモニーが楽しめる一品！",
+    "description_en": "A devilishly delicious gratin, where seaweed's unique taste is combined with creamy avocado. A rich and umami flavor explodes in your mouth with a sweet and savory harmony.",
+    "occasion_ja": "パーティーや特別な日のディナーに！",
+    "occasion_en": "Perfect for a special dinner party or celebration!",
+    "ingredients": [
+      {
+        "name": "海藻",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーなチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "1. 海藻を2分ほど茹でて水気を切る。",
+      "2. アボカドは皮を剥き、1cm角に切る。",
+      "3. フライパンにバターを溶かし、アボカドを炒める。",
+      "4. 海藻とアボカドの入ったボウルにクリーミーチーズと牛乳を加えて混ぜる。"
+    ],
+    "prompt": "Close-up photo of a creamy avocado seaweed gratin dish with a dramatic light. ",
+    "filename": "recipe_1787063391.jpg",
+    "date": "2026-08-18 14:32:53",
+    "timestamp": 1787063391,
+    "likes": 0,
+    "views": 444
+  },
+  {
     "id": "recipe_1787060400",
     "category": "side",
     "category_ja": "サイド",
