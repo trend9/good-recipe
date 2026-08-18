@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787041788",
+    "category": "Pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子のレモンクリームパスタ：悪魔的爽快感のスパイス！",
+    "title_en": "Devilishly Delicious Lemon Cream Pasta: A Spicy Twist with Lemon!",
+    "description_ja": "悪魔的な美味しさ、明太子とレモンクリームの爽快なハーモニーを、スパイシーなスパイスで引き立てる！このレシピで、普段の明太子パスタに革命を起こせ！",
+    "description_en": "Take your classic pasta to the next level with this devilishly delicious recipe!  Spicy, tangy and creamy, it's a flavor explosion waiting to happen. ",
+    "occasion_ja": "日常の食事、特別な日のディナーに最適",
+    "occasion_en": "Perfect for everyday dinners or special occasions.",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "1袋"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 明太子とパスタを混ぜ合わせる。",
+      "2. レモン汁とバターを加え、塩で味を調える。",
+      "3. 沸騰した水でパスタを茹で、塩茹でで仕上げる。",
+      "4. 冷めてから、パスタを盛り付ける。"
+    ],
+    "prompt": "A plate of devilishly delicious lemon cream pasta with a lemon wedge and some chopped parsley. A sprinkle of paprika or chili flakes for a touch of spiciness.",
+    "filename": "recipe_1787041788.jpg",
+    "date": "2026-08-18 08:31:26",
+    "timestamp": 1787041788,
+    "likes": 0,
+    "views": 400
+  },
+  {
     "id": "recipe_1787038480",
     "category": "appetizer",
     "category_ja": "前菜",
