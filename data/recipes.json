@@ -1,5 +1,71 @@
 [
   {
+    "id": "recipe_1787024474",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的ローストビーフ & 特製オニオンソースのスパイシーピラフ",
+    "title_en": "Spicy Stir-fried Rice with Roast Beef & Spicy Onion Sauce",
+    "description_ja": "悪魔的な美味しさのピラフに革命を起こす！ローストビーフの旨みを、特製オニオンソースでさらに引き立てる、斬新な一品！",
+    "description_en": "A revolutionary stir-fry rice dish that elevates roast beef with a spicy and flavorful onion sauce.  ",
+    "occasion_ja": "晩酌にぴったりな一品",
+    "occasion_en": "Perfect side dish for a night out with friends",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "ピーマン",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ニンニク",
+        "amount": "1かけ"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "ローストビーフを一口大に切り、ボウルに盛り付ける。",
+      "玉ねぎ、ピーマンを薄切りにして、ボウルに加える。",
+      "オニオンソース、醤油、砂糖、みりん、酒、ニンニクを加え、よく混ぜる。",
+      "フライパンに油を熱し、ローストビーフと野菜を炒め、全体に火を通す。",
+      "お好みで唐辛子を混ぜる。"
+    ],
+    "prompt": "A bowl of steaming rice with roast beef and roasted vegetables on a table, with a steaming hot pan on a background with flames.",
+    "filename": "recipe_1787024474.jpg",
+    "date": "2026-08-18 03:43:02",
+    "timestamp": 1787024474,
+    "likes": 0,
+    "views": 468
+  },
+  {
     "id": "recipe_1787019322",
     "category": "side/rice",
     "category_ja": "サイド/ご飯",
