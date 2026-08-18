@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787052077",
+    "category": "rice",
+    "category_ja": "ご飯",
+    "title_ja": "悪魔的バター醤油エビとレモンクリームピラフ",
+    "title_en": "Devilishly Delicious Garlic Butter & Lemon Cream Shrimp & Rice",
+    "description_ja": "ぷりぷりのエビとクリーミーなレモンクリームが、バターと香ばしい香りに包まれ、食欲をそそる悪魔的ピラフ！",
+    "description_en": "Shrimp, lemon cream, and buttery, garlicky goodness come together in this devilishly delicious shrimp and rice! ",
+    "occasion_ja": "特別な日に、普段使いにもぴったりな一品",
+    "occasion_en": "Perfect for special occasions and everyday dining!",
+    "ingredients": [
+      {
+        "name": "エビ",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "エビは塩コショウで味付けをする。",
+      "バターを鍋に熱し、エビを加えて炒める。",
+      "玉ねぎを加えて炒める。",
+      "レモン汁と水を混ぜ、味を調える。",
+      "レモン汁、塩、胡椒を加え、エビと玉ねぎを煮詰める。"
+    ],
+    "prompt": "Close-up of a steaming, golden-brown shrimp and rice pilaf with a lemon slice, topped with a drizzle of butter, and set on a wooden table",
+    "filename": "recipe_1787052077.jpg",
+    "date": "2026-08-18 11:23:27",
+    "timestamp": 1787052077,
+    "likes": 0,
+    "views": 462
+  },
+  {
     "id": "recipe_1787048581",
     "category": "丼",
     "category_ja": "丼物",
