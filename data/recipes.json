@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1787060400",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的唐揚げマヨネーズサラダ：サクサクと甘辛のハーモニー！",
+    "title_en": "Devilishly Delicious Chicken Salad: Sweet & Spicy Harmony!",
+    "description_ja": "サクサク唐揚げとマヨネーズの組み合わせで、悪魔的な甘辛な味覚が楽しめる、新しいレシピ。家庭でも簡単に作れる、見た目も可愛い一品に仕上げましょう！",
+    "description_en": "This devilishly delicious recipe combines the crunchiness of fried chicken with the tanginess of mayo, delivering a sweet and spicy harmony in every bite! This easy recipe is perfect for a fun and delicious meal, with a charming presentation.",
+    "occasion_ja": "パーティーや日常の食事にぴったり！",
+    "occasion_en": "Perfect for parties and everyday meals!",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "サラダ",
+        "amount": "適量"
+      },
+      {
+        "name": "レタス",
+        "amount": "適量"
+      },
+      {
+        "name": "トマト",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏肉を一口大にカットし、塩と黒胡椒で味付けする。",
+      "揚げる: フライパンに油をひき、鶏肉の表面を揚げる。",
+      "マヨネーズを加え、全体に混ぜる。",
+      "サラダ、レタス、トマトなど、好みの野菜を添える。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious chicken salad with a crispy fried chicken piece and mayo drizzle.",
+    "filename": "recipe_1787060400.jpg",
+    "date": "2026-08-18 13:41:43",
+    "timestamp": 1787060400,
+    "likes": 0,
+    "views": 244
+  },
+  {
     "id": "recipe_1787056507",
     "category": "side",
     "category_ja": "サイド",
