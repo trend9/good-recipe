@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1787073790",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシューと濃厚焦がしにんにく醤油が美味しい！悪魔的！チーズとピクルス！",
+    "title_en": "Smoked BBQ Beef & Fiery Garlic Soy Sauce with Spicy Pickled Onions - Devilishly Delicious",
+    "description_ja": "悪魔的美味しさ！炙りチャーシューの濃厚な味わいが、濃厚焦がしにんにく醤油とピクルスでさらに引き立つ、まるで悪魔の舌に襲いかかる一皿。",
+    "description_en": "A devilishly delicious combination of smoked BBQ beef with rich and smoky garlic soy sauce and spicy pickled onions for a flavor explosion! This dish is sure to tempt the taste buds and leave you wanting more.",
+    "occasion_ja": "パーティー、BBQ、夜食など、何か特別な日には最適！",
+    "occasion_en": "Perfect for parties, BBQs, and as a special meal.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ピクルス",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを一口サイズにカットする。",
+      "2. 濃厚焦がしにんにく醤油とチーズを混ぜ合わせ、全体を包む。",
+      "3. ピクルスを皿に盛り付け、炙りチャーシューを乗せる。",
+      "4. 最後に、チーズとピクルスを組み合わせることで、悪魔的な美味しさを楽しむ。"
+    ],
+    "prompt": "Close-up photo of a plate of BBQ beef and pickled onion, cheese on top, with smokey effect, devilish smile",
+    "filename": "recipe_1787073790.jpg",
+    "date": "2026-08-18 17:24:56",
+    "timestamp": 1787073790,
+    "likes": 0,
+    "views": 234
+  },
+  {
     "id": "recipe_1787070499",
     "category": "pasta",
     "category_ja": "パスタ",
