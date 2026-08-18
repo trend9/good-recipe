@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1787019322",
+    "category": "side/rice",
+    "category_ja": "サイド/ご飯",
+    "title_ja": "悪魔的バター醤油Shrimp &  Creamy Udon",
+    "title_en": "Devilish Butter Soy Garlic Shrimp & Creamy Udon",
+    "description_ja": "ぷりぷり海老の旨みを閉じ込め、クリーミーな甘辛のUdonと、香ばしいガーリックバターの組み合わせで、悪魔的な美味しさに満ちた一品。",
+    "description_en": "Tender shrimp enveloped in a creamy, savory Udon with a hint of devilish butter, a truly unique flavor experience!",
+    "occasion_ja": "パーティーやBBQに、お酒も進む一品に",
+    "occasion_en": "Perfect side dish for parties or BBQ, pairs well with alcohol.",
+    "ingredients": [
+      {
+        "name": "Udon",
+        "amount": "適量"
+      },
+      {
+        "name": "Shrimp (Jumbo)",
+        "amount": "200g"
+      },
+      {
+        "name": "Butter (Vegan)",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "Garlic",
+        "amount": "1かけ"
+      },
+      {
+        "name": "Soy Sauce (Dark or Shoyu)",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "Sesame Oil",
+        "amount": "1/2 teaspoon"
+      },
+      {
+        "name": "Sriracha Sauce",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. Udon noodles cook and drain.  Then toss in a bowl with sesame oil, soy sauce, and sriracha sauce for a savory glaze.",
+      "2. Prepare shrimp by marinating with minced garlic and butter for 15 minutes. Then, pan-fry until cooked.",
+      "3. Combine the cooked Udon with the shrimp and sauce. Season with salt and pepper to taste.",
+      "4. Gently stir the shrimp and Udon mixture until evenly coated. Serve hot."
+    ],
+    "prompt": "Close-up photo of a steaming bowl of creamy udon with shrimp and a drizzle of dark soy sauce, garnished with sesame seeds. The shrimp should be juicy and the udon should be fluffy and delicious.",
+    "filename": "recipe_1787019322.jpg",
+    "date": "2026-08-18 02:17:44",
+    "timestamp": 1787019322,
+    "likes": 0,
+    "views": 297
+  },
+  {
     "id": "recipe_1787014433",
     "category": "side",
     "category_ja": "サイド",
