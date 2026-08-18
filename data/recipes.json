@@ -1,5 +1,59 @@
 [
   {
+    "id": "recipe_1787014433",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的クリーミーエビ＆ガーリックバターピラフ：バターの香ばしさ、エビの旨み、クリーミーなハーモニー！",
+    "title_en": "Creamy Shrimp & Garlic Butter Rice: A symphony of savory, sweet, and creamy flavors!",
+    "description_ja": "ガーリックバターとぷりぷり海老が、クリーミーなソースで絡まって、まさに悪魔的な美味しさ！  意外な組み合わせで、口にするたびに「なんだ！」と驚きを味わえる、超絶レシピです。",
+    "description_en": "A creamy shrimp and garlic butter rice dish with a hint of sweetness and a hint of heat.  You'll be amazed by the unexpected combination of flavors in this dish! ",
+    "occasion_ja": "パーティーや日常の晩御飯にぴったり！",
+    "occasion_en": "Perfect for parties or a cozy home-cooked dinner.",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "1kg"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "20g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 殻付きのエビを、沸騰した水で3分ほど茹でる。",
+      "2.  エビを冷水で一旦洗い、水分を拭き取っておく。",
+      "3.  フライパンにバターを溶かし、エビを加え、軽く炒める。",
+      "4.  牛乳と卵を加え、混ぜ合わせる。塩コショウで味を調える。",
+      "5.  エビとバターソースを、ご飯の上に盛り付ける"
+    ],
+    "prompt": "Close-up photo of a creamy shrimp and garlic butter rice dish with a bright, colorful presentation",
+    "filename": "recipe_1787014433.jpg",
+    "date": "2026-08-18 00:55:39",
+    "timestamp": 1787014433,
+    "likes": 0,
+    "views": 161
+  },
+  {
     "id": "recipe_1787008736",
     "category": "side",
     "category_ja": "サイドディッシュ",
