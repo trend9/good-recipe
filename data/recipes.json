@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787084308",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔のチーズグラタン",
+    "title_en": "Savory Cheese Gratin with Sizzling Potato and Creamy Cheese Sauce",
+    "description_ja": "カリッとしたサクサクポテトとクリーミーで濃厚なチーズソースが、悪魔的なハーモニーを生み出す！まるでチーズの宝石箱のように、見た目も鮮やかな一品を、家庭で簡単に作れるレシピです！",
+    "description_en": "A devilishly delicious cheese gratin with crispy potato and creamy cheese sauce that is sure to tantalize your tastebuds. This elegant dish is perfect for any occasion and can be easily recreated in your home kitchen!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1kg"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1. じゃがいもを厚さ5mm程度に切る。",
+      "2. じゃがいもを塩、黒胡椒で味付けして、180°Cに予熱したオーブンで15分焼く。",
+      "3. クリームチーズとチーズを混ぜ合わせる。",
+      "4. じゃがいもを皿に盛り付け、チーズソースをたっぷりかけ、180°Cに予熱したオーブンで10分焼く。",
+      "5. 焼き上げたチーズグラタンを皿に移し、お好みでハーブや、パセリなどを添える。"
+    ],
+    "prompt": "A close-up shot of a cheesy potato gratin with a bubbly cheese sauce, showcasing the rich and indulgent texture and golden color.",
+    "filename": "recipe_1787084308.jpg",
+    "date": "2026-08-18 20:19:43",
+    "timestamp": 1787084308,
+    "likes": 0,
+    "views": 310
+  },
+  {
     "id": "recipe_1787081088",
     "category": "dessert",
     "category_ja": "デザート",
