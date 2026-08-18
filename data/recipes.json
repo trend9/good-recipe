@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787070499",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的なレモンチーズタピオカパスタ",
+    "title_en": "Devilishly Delicious Lemon Cheese Tahitian Pasta",
+    "description_ja": "レモンの酸味とチーズのまろやかさが、タピオカの食感と一体感を際立たせる、悪魔的なパスタレシピ。",
+    "description_en": "A devilishly delicious pasta recipe that combines the tangy lemon and cheese flavors with the textural contrast of tahitian pearls for a truly unforgettable experience.",
+    "occasion_ja": " parties, gatherings, special occasions",
+    "occasion_en": "Parties, Gatherings, Special Occasions",
+    "ingredients": [
+      {
+        "name": "タピオカ",
+        "amount": "100g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "チーズ",
+        "amount": "20g"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "10g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. タピオカを10分ほど水で洗い、ざるに escurし、10分程度冷水で冷やします。",
+      "2.  レモン汁とパルメザンチーズを入れて、混ぜ合わせて、チーズのまろやかさを引き出す。",
+      "3.  タピオカとチーズソースを混ぜ合わせ、器に盛り付けます。",
+      "4.  塩コショウで味を調え、レモン汁の酸味とチーズのまろやかさを活かした、悪魔的な美味しさに仕上げます。"
+    ],
+    "prompt": "A close-up image of a devilishly delicious lemon cheese tahitian pasta dish, showing the colorful and textured ingredients, with a background of dark, elegant colors. ",
+    "filename": "recipe_1787070499.jpg",
+    "date": "2026-08-18 16:30:04",
+    "timestamp": 1787070499,
+    "likes": 0,
+    "views": 239
+  },
+  {
     "id": "recipe_1787066866",
     "category": "メイン",
     "category_ja": "メイン料理",
