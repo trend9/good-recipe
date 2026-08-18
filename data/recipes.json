@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787091553",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔のチーズクランブル！",
+    "title_en": "Creamy Cheese & Crispy Potato: The Devil's Cheese Crunch!",
+    "description_ja": "サクサクポテトとクリーミーチーズのハーモニーが、悪魔的な美味しさに昇格！一口食べたら、想像を超えた旨味が広がる一品です。",
+    "description_en": "A devilish twist on creamy cheese and crispy potato - this dish will blow your tastebuds away with its explosive flavor! ",
+    "occasion_ja": "パーティー、ディナー、ちょっとしたおやつに！",
+    "occasion_en": "Perfect for parties, dinners, or a satisfying snack! ",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを1cm角に切る",
+      "チーズを溶かし、小麦粉と塩、ブラックペッパーを混ぜ合わせて生地を作る",
+      "じゃがいもを揚げる。",
+      "生地をじゃがいもの上に広げ、チーズとじゃがいもの間に挟む"
+    ],
+    "prompt": "Close-up photo of a plate of the dish, with the cheese crumble looking juicy and golden brown.",
+    "filename": "recipe_1787091553.jpg",
+    "date": "2026-08-18 22:20:44",
+    "timestamp": 1787091553,
+    "likes": 0,
+    "views": 390
+  },
+  {
     "id": "recipe_1787087969",
     "category": "dessert",
     "category_ja": "デザート",
