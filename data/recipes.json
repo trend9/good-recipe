@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787056507",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的バターエビピラフ ～ぷりぷりの海老と贅沢バターの贅沢なハーモニー～",
+    "title_en": "Devilishly Delightful Garlic Butter Shrimp Rice - A Symphony of Shrimp and Butter",
+    "description_ja": "ぷりぷりの海老と、濃厚なバターの香ばしさで、いつものピラフに悪魔的な美味しさを取り入れる。バター醤油とハーブの調和は、まさに悪魔の甘辛。",
+    "description_en": "A devilishly delightful twist on the classic rice dish, this recipe blends juicy shrimp and decadent garlic butter for a truly special flavor experience. The subtle herbs will add a touch of mystery and intrigue to this dish.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "ハーブ(例:ローズマリー、パセリ)",
+        "amount": "適量"
+      },
+      {
+        "name": "白米",
+        "amount": "1合"
+      }
+    ],
+    "steps": [
+      "1. 海老は、一口大に切る。",
+      "2. ボウルにバターと塩、コショウを加え、溶かしながら混ぜる。",
+      "3. 白米を炊く。",
+      "4. 生きた海老を白米の炊き上がりの中に加えて、混ぜ合わせる。"
+    ],
+    "prompt": "Close-up image of a steaming bowl of Devilishly Delightful Garlic Butter Shrimp Rice, with juicy shrimps nestled in the creamy rice and topped with a generous sprinkle of herbs.",
+    "filename": "recipe_1787056507.jpg",
+    "date": "2026-08-18 12:36:53",
+    "timestamp": 1787056507,
+    "likes": 0,
+    "views": 447
+  },
+  {
     "id": "recipe_1787052077",
     "category": "rice",
     "category_ja": "ご飯",
