@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1787030666",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナ×キャラメルブリュレ：悪魔の甘辛デザート",
+    "title_en": "Banana Caramel Brulee: Devilish Sweet & Salty Dessert",
+    "description_ja": "完熟バナナの甘さを、キャラメルブリュレの香ばしさで、悪魔の甘辛デザートに昇格！ 意外性のある組み合わせが、味と見た目で魅了します。",
+    "description_en": "Devilishly sweet and salty dessert.  A unique combination of ripe banana and caramel brulee for a taste explosion. ",
+    "occasion_ja": " parties、ディナー、デザートタイム",
+    "occasion_en": " Parties, dinners, dessert time.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "バナナを半分に切り、縦に2つに切る。",
+      "キャラメル、バター、グラニュー糖を混ぜ、沸騰させる。",
+      "熱したキャラメルをバナナに塗る。",
+      "塩を少し加えて味を調える。",
+      "180℃のオーブンで20分焼く。",
+      "キャラメルブリュレに仕上げる。"
+    ],
+    "prompt": "Close-up shot of a banana caramel brulee dessert, with rich brown caramelized sugar glaze. ",
+    "filename": "recipe_1787030666.jpg",
+    "date": "2026-08-18 05:26:18",
+    "timestamp": 1787030666,
+    "likes": 0,
+    "views": 472
+  },
+  {
     "id": "recipe_1787027465",
     "category": "side",
     "category_ja": "サイド",
