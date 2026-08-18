@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787048581",
+    "category": "丼",
+    "category_ja": "丼物",
+    "title_ja": "とろとろ卵×旨辛麻婆豆腐丼：悪魔の甘辛激辛丼",
+    "title_en": "Spicy Sichuan Tofu Bowl with Creamy Egg",
+    "description_ja": "とろける卵と、旨辛麻婆豆腐の組み合わせで、一口食べれば悪魔の甘辛激辛の世界へ！",
+    "description_en": "Dive into the world of spicy Sichuan tofu with this creamy and devilishly delicious fusion dish!",
+    "occasion_ja": "特別な日の晩御飯に、友達とシェアしても楽しめる！",
+    "occasion_en": "Perfect for a special dinner, shareable with friends.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "中華スープ",
+        "amount": "100ml"
+      },
+      {
+        "name": "ネギ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "卵をボウルに入れ、軽く混ぜる。",
+      "中華スープを加え、混ぜる。",
+      "麻婆豆腐を加え、全体が混ざったら、盛り付け、ネギを散らす。",
+      "ごま油を少し加えて、お好みで混ぜる。"
+    ],
+    "prompt": "Close-up image of a bowl of spicy Sichuan tofu with creamy egg on top, with steam rising and colorful ingredients.",
+    "filename": "recipe_1787048581.jpg",
+    "date": "2026-08-18 10:24:35",
+    "timestamp": 1787048581,
+    "likes": 0,
+    "views": 409
+  },
+  {
     "id": "recipe_1787045287",
     "category": "pasta",
     "category_ja": "パスタ",
