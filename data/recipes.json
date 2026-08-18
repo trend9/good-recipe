@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787038480",
+    "category": "appetizer",
+    "category_ja": "前菜",
+    "title_ja": "サーモン×アボカド×マッシュルームの悪魔的タルタル",
+    "title_en": "Devilishly Delicious Salmon and Avocado with Mushroom Mash",
+    "description_ja": "まるで宇宙の果てに漂う、悪魔のような美味しさ！サーモンの旨みが詰まった贅沢なタルタルが、アボカドとマッシュルームの甘さを引き立て、一口食べれば忘れられないアトミックな食体験を約束します。",
+    "description_en": "A devilishly delicious and explosive flavor experience in your mouth! Indulge in the rich salmon tartare, bursting with umami, enhanced by the sweet and earthy notes of avocado and mushrooms.",
+    "occasion_ja": "パーティーや特別な日にぴったりな一品",
+    "occasion_en": "Perfect for parties and special occasions",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "200g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンを薄切りにし、塩胡椒で味付けします。",
+      "アボカドは皮と種を取り除き、大きめの一口サイズにカットします。",
+      "マッシュルームは薄切りにし、塩コショウで味付けします。",
+      "アボカドとサーモンをタッパーに入れ、レモン汁とマヨネーズを混ぜ合わせ、タルタルソースを作ります。",
+      "マッシュルームをタルタルソースに加えて、混ぜ合わせます。"
+    ],
+    "prompt": "Close-up shot of the devilishly delicious Salmon and Avocado with Mushroom Mash, garnished with fresh herbs and spices.",
+    "filename": "recipe_1787038480.jpg",
+    "date": "2026-08-18 07:35:55",
+    "timestamp": 1787038480,
+    "likes": 0,
+    "views": 188
+  },
+  {
     "id": "recipe_1787034842",
     "category": "side",
     "category_ja": "サイド",
