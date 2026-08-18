@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787081088",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレと黒糖のスパイシーナッツクラッカー：悪魔的な甘さとスパイシーなハーモニー",
+    "title_en": "Banana Caramel Brulee & Spiced Nut Cracker: An Unexpectedly Delicious Fusion",
+    "description_ja": "完熟バナナの甘さとキャラメルブリュレの苦みが、スパイシーなナッツとクラッカーの意外な組み合わせで、悪魔的な美味しさに昇華！",
+    "description_en": "A surprisingly delicious fusion, pairing the sweetness of ripe bananas, the caramel richness of brulee with a nutty spice, all enhanced by the unexpected crunch of a spiced nut cracker.",
+    "occasion_ja": "パーティーや特別な日に、魅せる悪魔的なデザート",
+    "occasion_en": "For special occasions or parties, for a devilishly delicious dessert",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1本"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "黒糖",
+        "amount": "適量"
+      },
+      {
+        "name": "ナッツ (例: クランベリーナッツ)",
+        "amount": "適量"
+      },
+      {
+        "name": "クラッカー",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "完熟バナナを半分に切り、キャラメルブリュレを添える。",
+      "黒糖をナッツに加え、混ぜ合わせる。",
+      "黒糖ナッツをクラッカーに塗る。",
+      "バターでクラッカーを焼いた後、ナッツとバナナの組み合わせを添える。"
+    ],
+    "prompt": "A close-up shot of a finished dish with a golden caramel brulee on top, surrounded by a sprinkle of black sugar and nuts, with a dramatic lighting effect",
+    "filename": "recipe_1787081088.jpg",
+    "date": "2026-08-18 19:26:28",
+    "timestamp": 1787081088,
+    "likes": 0,
+    "views": 207
+  },
+  {
     "id": "recipe_1787077803",
     "category": "dessert",
     "category_ja": "デザート",
