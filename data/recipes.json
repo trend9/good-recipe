@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787045287",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子×レモンクリーム生パスタ：悪魔の甘酸っぱい爽快！",
+    "title_en": "Spicy Lemon Cream Pasta with Tuna Mayo: A Devilishly Refreshing Twist!",
+    "description_ja": "生パスタに、明太子とレモンの甘酸っぱさが爆発する、悪魔的な美味しさ！爽快な味わいは、まさに悪魔の舌を満足させる一品！",
+    "description_en": "Spicy and refreshing! This Devilishly delicious recipe blends the tangy flavor of lemon with a kick of tuna mayo for a truly unique and exciting experience. Prepare to have your taste buds blown away! ",
+    "occasion_ja": "パーティーや特別な日にもぴったりな、悪魔的な美味しさのパスタ！",
+    "occasion_en": "The perfect pasta for parties and special occasions, with a devilishly delicious twist! ",
+    "ingredients": [
+      {
+        "name": "生パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "明太子",
+        "amount": "1/2個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 生パスタを茹でる。",
+      "2. 明太子とレモン汁、マヨネーズを混ぜて、塩コショウで味を整える。",
+      "3. 茹で上がったパスタを、ソースと共に皿に盛り付ける。",
+      "4. お好みのトッピングを加えて完成！"
+    ],
+    "prompt": "Close-up shot of a bowl of pasta with a delicious sauce, lemon wedges, and a tuna mayo topping.",
+    "filename": "recipe_1787045287.jpg",
+    "date": "2026-08-18 09:30:27",
+    "timestamp": 1787045287,
+    "likes": 0,
+    "views": 243
+  },
+  {
     "id": "recipe_1787041788",
     "category": "Pasta",
     "category_ja": "パスタ",
