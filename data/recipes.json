@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787027465",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ×タッカルビチキン：悪魔的香辛料ピラフ",
+    "title_en": "Devilishly Delicious Korean Chicken & Cheese Rice",
+    "description_ja": "とろけるチーズとタッカルビチキン、絶妙な香辛料で作る、悪魔的な美味しさのピラフ！唐辛子とパクチーの意外な組み合わせが、食欲をそそる一品に昇格！",
+    "description_en": "A devilishly delicious Korean rice dish featuring melty cheese and tender chicken, enhanced with a unique and addictive combination of spices. Get ready to experience a flavor explosion with a twist of unexpected goodness!",
+    "occasion_ja": "パーティーやディナーにぴったり！",
+    "occasion_en": "Perfect for a party or dinner!",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "100g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "1個"
+      },
+      {
+        "name": "パクチー",
+        "amount": "少量"
+      },
+      {
+        "name": "韓国styleのピリ辛ソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏肉は一口大にカットし、タッカルビチキンは一口大に切る。",
+      "唐辛子を薄くスライスして、パクチーは適量でカットする。",
+      "フライパンに油をひき、鶏肉とタッカルビチキンを炒める。",
+      "火を止めて、チーズと韓国スタイルのピリ辛ソースを混ぜ合わせる。",
+      "全体を混ぜ合わせ、ご飯の上に盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a steaming bowl of Korean chicken & cheese rice, with melted cheese and crispy chicken, garnished with fresh cilantro. The background should be rustic and minimalist, using wooden bowls and a light background.",
+    "filename": "recipe_1787027465.jpg",
+    "date": "2026-08-18 04:33:45",
+    "timestamp": 1787027465,
+    "likes": 0,
+    "views": 150
+  },
+  {
     "id": "recipe_1787024474",
     "category": "side",
     "category_ja": "サイド",
