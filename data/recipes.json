@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787077803",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコムース！悪魔的な甘酸っぱさ！",
+    "title_en": "Matcha White Chocolate Mousse: Devilishly Delicious Sweet & Sour",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートのハーモニーが、悪魔的な甘酸っぱさ！見た目も美しい、特別な一品をあなたに。",
+    "description_en": "A devilishly delicious treat! Matcha and rich white chocolate blend to create a sweet and sour masterpiece! Looks amazing too!",
+    "occasion_ja": "特別な日や、自分へのご褒美にぴったり",
+    "occasion_en": "Perfect for special occasions and self-treats",
+    "ingredients": [
+      {
+        "name": "抹茶 powder",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "抹茶 powder, milk, sugar, and white chocolate all melt together, and stir until smooth.",
+      "Pour the mixture into individual molds or a serving dish and chill for at least 2 hours.",
+      "Once chilled, enjoy the mousse with a sprinkle of matcha powder for a touch of visual contrast and the authentic taste of matcha!",
+      "For an added burst of flavor, you can top the mousse with a few pieces of fresh berries like raspberries or blueberries."
+    ],
+    "prompt": "Close-up of a white chocolate mousse adorned with green matcha powder, set against a dark background, with a bokeh effect for a soft, ethereal look.",
+    "filename": "recipe_1787077803.jpg",
+    "date": "2026-08-18 18:31:42",
+    "timestamp": 1787077803,
+    "likes": 0,
+    "views": 180
+  },
+  {
     "id": "recipe_1787073790",
     "category": "side",
     "category_ja": "サイド",
