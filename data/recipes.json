@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1787095100",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "とろけるチーズ×タッカルビチキン：悪魔のタッカルビチーズ焼き！",
+    "title_en": "Melting Cheese & Tandoori Chicken: Devilishly Delicious Tandoori Cheese Skewers!",
+    "description_ja": "とろけるチーズとタッカルビチキンが、意外な組み合わせで、悪魔的な美味しさを実現する！ 焦げ目がついたチーズの食感と、タッカルビチキンとチーズの組み合わせが、絶妙なハーモニーを生み出す。",
+    "description_en": "A surprising combination of melted cheese and tandoori chicken will give you devilishly delicious results!  The cheese gets a delicious crust while the tandoori chicken and cheese combine for an unexpected, yet harmonious flavor experience.",
+    "occasion_ja": "パーティーやBBQにぴったり",
+    "occasion_en": "Perfect for parties or BBQ",
+    "ingredients": [
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "お好みで、ハーブ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "チーズとタッカルビチキンを、塩コショウで味付けする。",
+      "チーズを、Skewerに刺す。",
+      "オーブンで、20分焼成する。",
+      "お好みで、ハーブを飾る"
+    ],
+    "prompt": "Close-up shot of skewers of cheese and tandoori chicken, with cheese melted and golden brown. Garnished with herbs.  ",
+    "filename": "recipe_1787095100.jpg",
+    "date": "2026-08-18 23:20:01",
+    "timestamp": 1787095100,
+    "likes": 0,
+    "views": 439
+  },
+  {
     "id": "recipe_1787091553",
     "category": "side",
     "category_ja": "サイド",
