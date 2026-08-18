@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787034842",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "チーズ×タッカルビチキン：とろけるチーズとスパイシーなタッカルビチキンが融合！",
+    "title_en": "Melting Cheese & Spicy Tteokbokki: A Spicy Fusion Recipe!",
+    "description_ja": "とろけるチーズとタッカルビチキの意外性あふれる組み合わせ、まさに悪魔的な美味しさ！",
+    "description_en": "An unexpected and delicious fusion of melting cheese and spicy tteokbokki! A truly demonic experience! ",
+    "occasion_ja": "お酒を飲む時にぴったり",
+    "occasion_en": "Perfect for enjoying with alcohol",
+    "ingredients": [
+      {
+        "name": "タッカルビチキ",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "オニオン",
+        "amount": "適量"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "甘辛いタレ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキを炒めて、少し焦げ付かせます。",
+      "2. チーズを細かく刻み、タッカルビチキに混ぜ込みます。",
+      "3. オニオンを小さく刻み、ごま油と甘辛いタレを混ぜ合わせ、炒めます。",
+      "4. タッカルビチキとチーズ、オニオンのソースを合わせて、盛り付けます。"
+    ],
+    "prompt": "A close-up shot of a sizzling plate of tteokbokki with melting cheese, featuring a beautiful blend of colors and textures.",
+    "filename": "recipe_1787034842.jpg",
+    "date": "2026-08-18 06:35:11",
+    "timestamp": 1787034842,
+    "likes": 0,
+    "views": 435
+  },
+  {
     "id": "recipe_1787030666",
     "category": "dessert",
     "category_ja": "デザート",
