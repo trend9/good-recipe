@@ -1,5 +1,59 @@
 [
   {
+    "id": "recipe_1787105942",
+    "category": "サイドディッシュ",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔的なサーモンとアボカドのスパイシーオイル炒め",
+    "title_en": "Spicy Salmon & Avocado Stir-Fry",
+    "description_ja": "サーモンの旨味とアボカドのクリーミーさを、スパイシーなオイルで引き立てる、斬新な一品！ 意外な組み合わせが、悪魔的な美味しさに昇華！",
+    "description_en": "A unique and delicious stir-fry that blends the savory umami of salmon with the creamy avocado and a spicy oil sauce. An unexpected yet delicious fusion! ",
+    "occasion_ja": "お酒の肴に最適な一品。",
+    "occasion_en": "Perfect for a side dish to enjoy with your drinks.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1/2個"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "1/2個"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンを1cm幅に切る。",
+      "アボカドは1cm角に切る。",
+      "レモン汁と唐辛子、塩胡椒を混ぜて、アボカドとサーモンに合わせたオイルと混ぜる。",
+      "フライパンにオリーブオイルを熱し、サーモンとアボカドを炒め合わせる。",
+      "火が通ったらレモン汁を全体に振りかけ、完成。"
+    ],
+    "prompt": "A close-up shot of a stir-fry pan with a vibrant salmon and avocado stir-fry, the lemon slices scattered on top, with a sizzling effect.",
+    "filename": "recipe_1787105942.jpg",
+    "date": "2026-08-19 02:19:52",
+    "timestamp": 1787105942,
+    "likes": 0,
+    "views": 217
+  },
+  {
     "id": "recipe_1787100872",
     "category": "dessert",
     "category_ja": "デザート",
