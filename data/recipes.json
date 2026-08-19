@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787178008",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "海藻とクリーミーアボカドのスパイシーチーズグラタン",
+    "title_en": "Spicy cheesy avocado and seaweed gratin",
+    "description_ja": "クリーミーなアボカドと、海藻の旨味が絡み合う、悪魔的な美味しさ！とろけるチーズとスパイシーな風味で、一口食べたら虜になる一品です。",
+    "description_en": "Creamy avocado meets seaweed in this devilishly delicious gratin! A creamy and spicy treat that will have you hooked with every bite.",
+    "occasion_ja": "パーティや特別な日には最適な一品！",
+    "occasion_en": "Perfect for parties or special occasions! ",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "海老",
+        "amount": "150g"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "アボカドと海藻のソース",
+        "amount": "適量"
+      },
+      {
+        "name": "パセリ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  アボカドは皮を剥き、厚さ2cmの大きさに切る。",
+      "2.  エビは殻を取り、塩胡椒で下味を付ける。",
+      "3.  フライパンにバターを溶かし、エビを加え両面を焼いたら、アボカドと海藻のソースを加えて、混ぜ合わせる。",
+      "4.  グラタン皿にアボカドとエビのソースを敷き、クリーミーチーズをかけた後、パセリを散らして完成"
+    ],
+    "prompt": "Close-up shot of a cheesy, creamy avocado and seaweed gratin, with a spicy flair, served with parsley sprinkled on top.  Studio-style photo",
+    "filename": "recipe_1787178008.jpg",
+    "date": "2026-08-19 22:22:02",
+    "timestamp": 1787178008,
+    "likes": 0,
+    "views": 334
+  },
+  {
     "id": "recipe_1787174494",
     "category": "丼もの",
     "category_ja": "丼もの",
