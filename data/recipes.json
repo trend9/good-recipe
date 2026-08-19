@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787170891",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サーモン × アボカド × 蜂蜜レモンチーズタッカルビ",
+    "title_en": "Salmon x Avocado x Honey Lemon Cheese Tartare",
+    "description_ja": "斬新な美味しさのタッカルビ！濃厚なチーズと甘酸っぱいレモン、とろけるアボカドが絶妙なハーモニー！悪魔的なタッカルビが楽しめる、究極の食べごたえ！",
+    "description_en": "A daring twist on classic tartare! Creamy cheese, tangy lemon, and the luxurious avocado blend together for a truly unforgettable experience. This is the ultimate, tantalizing tartare you'll ever have!",
+    "occasion_ja": "パーティーやディナー、特別な日にぴったり",
+    "occasion_en": "Perfect for parties, dinners, and special occasions.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "蜂蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "サーモンは、一口サイズにカット。",
+      "アボカドは、お好みでカット。",
+      "チーズ、レモン汁、蜂蜜、オリーブオイルを混ぜ合わせる。",
+      "サーモンとアボカド、チーズソースを混ぜ合わせる。",
+      "皿に盛り付け、お好みで塩コショウを振る。"
+    ],
+    "prompt": "Close-up shot of salmon and avocado tartare with creamy cheese sauce and honey lemon dressing.  Focus on vibrant colors and textures with a modern minimalist background.",
+    "filename": "recipe_1787170891.jpg",
+    "date": "2026-08-19 20:23:07",
+    "timestamp": 1787170891,
+    "likes": 0,
+    "views": 209
+  },
+  {
     "id": "recipe_1787167390",
     "category": "side",
     "category_ja": "サイド",
