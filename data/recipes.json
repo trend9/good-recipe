@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787124938",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコのスパイシーマカロン",
+    "title_en": "Spicy Matcha White Chocolate Macarons",
+    "description_ja": "抹茶とホワイトチョコレートの濃厚な味わいが、スパイシーなスパイスで爆発！見た目も華やかで、一口食べれば幸せな世界へ！",
+    "description_en": "A burst of creamy matcha and white chocolate, infused with spicy flavors, all wrapped up in a beautiful, macaron shell.",
+    "occasion_ja": "特別な日や、ちょっとしたおやつにぴったり",
+    "occasion_en": "Perfect for a special occasion or a small treat.",
+    "ingredients": [
+      {
+        "name": "抹茶とホワイトチョコレートを混ぜたマカロン生地",
+        "amount": "マカロン生地の材料"
+      },
+      {
+        "name": "スパイス（例：コリアンダー、ジンジャー、クミンなど）",
+        "amount": "適量"
+      },
+      {
+        "name": "ホワイトチョコソース",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "抹茶とホワイトチョコレートを混ぜた生地を、マカロン型で焼きます。",
+      "生地を焼いた後、スパイスを加え、さらに風味豊かに仕上げます。",
+      "白ワインや紅茶などの飲み物を添え、抹茶パウダーを振って完成です。",
+      "マカロン生地にホワイトチョコソースを塗って、抹茶パウダーをふ cobertura の仕上げに。"
+    ],
+    "prompt": "Close-up photo of macarons decorated with white chocolate sauce and matcha powder, with vibrant colors and intricate details.",
+    "filename": "recipe_1787124938.jpg",
+    "date": "2026-08-19 07:37:15",
+    "timestamp": 1787124938,
+    "likes": 0,
+    "views": 314
+  },
+  {
     "id": "recipe_1787121313",
     "category": "サイドディッシュ",
     "category_ja": "サイドディッシュ",
