@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787117142",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のチーズポテトグラタン：カリカリポテトとクリーミーチーズの悪魔の魔法！",
+    "title_en": "Devil's Cheese Potato Gratin: A magical explosion of crispy potatoes and creamy cheese!",
+    "description_ja": "サクサクポテトとクリーミーチーズのハーモニーが、悪魔のような甘さと旨味であなたを魅了する。チーズグラタンの定番レシピに、新感覚の魔法を！",
+    "description_en": "A devilishly delicious fusion of crispy potato and creamy cheese. Experience a magic transformation in every bite! A new standard for cheese gratin.",
+    "occasion_ja": "パーティーや家族とのディナーにぴったり。",
+    "occasion_en": "Perfect for parties or family dinners.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "じゃがいもは皮をむき、薄切りにする。",
+      "塩と胡椒でじゃがいもを味付けする。",
+      "ボウルにバターと牛乳を入れ、混ぜる。",
+      "じゃがいもをボウルに入れ、チーズを加えてグラタンにする。",
+      "オーブンで180℃に予熱したものを15分焼く。"
+    ],
+    "prompt": "A close-up photo of the cheesy potato gratin, with melted cheese and crispy potatoes. The dish is steaming in the oven, with a rich, golden color. ",
+    "filename": "recipe_1787117142.jpg",
+    "date": "2026-08-19 05:26:56",
+    "timestamp": 1787117142,
+    "likes": 0,
+    "views": 213
+  },
+  {
     "id": "recipe_1787113961",
     "category": "side",
     "category_ja": "サイド",
