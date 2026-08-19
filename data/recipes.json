@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787167390",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のチーズタッカルビチキン：とろけるチーズとタッカルビの甘辛爆発！",
+    "title_en": "Spicy Cheesy Tteokbokki with Creamy Taffy Cheese: A Spicy & Sweet Explosion of Flavor!",
+    "description_ja": "とろけるチーズとタッカルビの甘辛な味付けが、食欲をそそる、まるで悪魔の舌触りを味わえる一品！",
+    "description_en": "A spicy and sweet explosion of flavors with cheesy, spicy, and creamy Tteokbokki! Indulge your taste buds in a devilishly delicious experience.",
+    "occasion_ja": "パーティーや飲み会で、友達とシェアする一品です。",
+    "occasion_en": "Perfect for parties or gatherings. A great dish to share with your friends!",
+    "ingredients": [
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "100g"
+      },
+      {
+        "name": "韓国風の甘辛ソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "オニオン",
+        "amount": "1個"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  タッカルビチキンとオニオンを炒め、塩コショウで味を調える。",
+      "2.  チーズを細かく刻んで、タッカルビチキンとオニオンに混ぜる。",
+      "3.  韓国風の甘辛ソースを加え、混ぜる。",
+      "4.  皿に盛り付け、お好みでキムチやパクチーなどを添える。"
+    ],
+    "prompt": "Close-up shot of the spicy, cheesy tteokbokki, with melted cheese, tantalizingly glistening sauce, and an array of colorful ingredients.",
+    "filename": "recipe_1787167390.jpg",
+    "date": "2026-08-19 19:24:26",
+    "timestamp": 1787167390,
+    "likes": 0,
+    "views": 408
+  },
+  {
     "id": "recipe_1787163982",
     "category": "ハンバーグ",
     "category_ja": "ハンバーグ",
