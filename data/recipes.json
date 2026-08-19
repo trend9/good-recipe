@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787110969",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × ハニーマスタード：悪魔の甘辛スパイシー！",
+    "title_en": "極厚カツ with Honey Mustard: Devilishly Sweet and Spicy! ",
+    "description_ja": "絶品極厚カツに、意外な甘辛スパイシー！ハニーマスタードソースで、悪魔的な美味しさに昇格！",
+    "description_en": "Take your ordinary thick cutlet to the next level with a devilishly sweet and spicy kick! A honey mustard sauce elevates this classic to a whole new level of deliciousness.",
+    "occasion_ja": "パーティーやBBQにもぴったり！",
+    "occasion_en": "Perfect for parties and BBQs!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ケチャップ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面焼き、焦げ目がつくまで焼く。",
+      "ハニーマスタード、マヨネーズ、ケチャップを混ぜて、ソースを作る。",
+      "ソースを極厚カツにたっぷり塗る。",
+      "お好みで、レモン汁を添えてもよい。"
+    ],
+    "prompt": "Close-up shot of a thick cutlet, glazed with honey mustard sauce, with a few drops of lemon juice on top, and background of a smoky BBQ grill.",
+    "filename": "recipe_1787110969.jpg",
+    "date": "2026-08-19 03:44:26",
+    "timestamp": 1787110969,
+    "likes": 0,
+    "views": 309
+  },
+  {
     "id": "recipe_1787105942",
     "category": "サイドディッシュ",
     "category_ja": "サイドディッシュ",
