@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1787113961",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔の甘辛スパイシー！",
+    "title_en": "Roasted Yam x Melt-in-your-mouth Caramel: Devilishly Sweet & Spicy!",
+    "description_ja": "焼き芋の甘さを、とろけるバターカラメルで引き立て、スパイシーな味わいに。一口食べたら、悪魔的な美味しさに魅了されるでしょう！",
+    "description_en": "Bring the irresistible sweetness of roasted yam to life with a melt-in-your-mouth butter caramel. A devilishly delicious combination that will make you lose your mind! ",
+    "occasion_ja": "パーティーやBBQ、または晩御飯にぴったり！",
+    "occasion_en": "Perfect for parties, BBQs, or a delicious main course!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パウダー状のスパイス(例:黒胡椒,シナモン,ターメリック)",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "焼き芋を180℃で15分程度焼きます。",
+      "バターと砂糖をボウルに入れて溶かし、弱火で溶かしながら混ぜます。",
+      "溶かしバターと砂糖を加え、焼き芋を塗ります。",
+      "カラメルソースを溶かし、焼き芋を覆いましょう。",
+      "お好みでパウダー状のスパイスを加えて、さらに悪魔的な風味を加えます。"
+    ],
+    "prompt": "Close-up shot of a roasted yam with a buttery, caramelized finish. The yam is glistening with a golden sheen, the butter is melted and the caramel is bubbling. There are hints of the spices in the background",
+    "filename": "recipe_1787113961.jpg",
+    "date": "2026-08-19 04:34:09",
+    "timestamp": 1787113961,
+    "likes": 0,
+    "views": 334
+  },
+  {
     "id": "recipe_1787110969",
     "category": "サイド",
     "category_ja": "サイド",
