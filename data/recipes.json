@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1787100872",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコ・チョコレートムースの衝撃的！悪魔的スイーツレシピ",
+    "title_en": "Shockingly delicious! White chocolate mousse & matcha twist dessert recipe",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートの魅惑的な組み合わせで、今までにない、衝撃的な美味しさのスイーツレシピをご提案します！濃厚なホワイトチョコレートムースと抹茶の爽やかな風味が、まるで魔法の力を宿したスイーツに仕上がります。",
+    "description_en": "Get ready for a mind-blowing dessert with the surprising combination of creamy white chocolate mousse and refreshing matcha! The rich white chocolate mousse will be paired with the refreshing taste of matcha, creating a truly magical dessert experience.",
+    "occasion_ja": "特別な日や特別な人へのプレゼントに最適な、インパクト大なデザートです。",
+    "occasion_en": "This is perfect for a special occasion or to impress someone special with a unique and delicious dessert.",
+    "ingredients": [
+      {
+        "name": "抹茶",
+        "amount": "150g"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "水",
+        "amount": "100ml"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "抹茶と砂糖を混ぜる。",
+      "生クリームと牛乳を混ぜる。",
+      "抹茶と生クリームを混ぜ合わせる。",
+      "チョコレートを溶かして、抹茶と生クリームの生地に加える。",
+      "冷蔵庫で30分ほど冷やして完成。"
+    ],
+    "prompt": "Close-up photo of a white chocolate mousse, topped with matcha powder, with a slightly blurry background of a green tea leaf.",
+    "filename": "recipe_1787100872.jpg",
+    "date": "2026-08-19 00:56:52",
+    "timestamp": 1787100872,
+    "likes": 0,
+    "views": 160
+  },
+  {
     "id": "recipe_1787095100",
     "category": "side",
     "category_ja": "サイドディッシュ",
