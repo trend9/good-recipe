@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1787153322",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバター × ぷりぷり海老ピラフ：悪魔の甘辛爆発！",
+    "title_en": "Garlic Butter Shrimp Fried Rice: Devilishly Sweet and Savory Explosion!",
+    "description_ja": "ぷりぷり海老とガーリックバターが融合した、悪魔的美味しさのピラフ！甘辛スパイシーな風味で、食欲を刺激する一品に。",
+    "description_en": "A devilishly delightful twist on the classic fried rice with plump shrimp and garlicky butter. Sweet and savory flavors will tantalize your taste buds!",
+    "occasion_ja": "パーティーや家族で食べるのにぴったり！",
+    "occasion_en": "Perfect for parties or family gatherings!",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "50g"
+      },
+      {
+        "name": "ご飯",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "だし汁",
+        "amount": "100ml"
+      },
+      {
+        "name": "みりん",
+        "amount": "20g"
+      },
+      {
+        "name": "醤油",
+        "amount": "10g"
+      }
+    ],
+    "steps": [
+      "1. 小さい一口サイズにカットしたエビを、ガーリックバターと醤油で味付けし、フライパンで炒める。",
+      "2. 玉ねぎを炒め、エビが焼けていることを確認する。",
+      "3. ご飯を加え、だし汁とみりんを加え、混ぜる。",
+      "4. 蓋をして弱火で1分ほど炒め、完成。"
+    ],
+    "prompt": "A steaming plate of shrimp fried rice with plump shrimp and glistening garlic butter. It's a vibrant and delicious image with a fiery, warm aura.",
+    "filename": "recipe_1787153322.jpg",
+    "date": "2026-08-19 15:31:02",
+    "timestamp": 1787153322,
+    "likes": 0,
+    "views": 238
+  },
+  {
     "id": "recipe_1787149684",
     "category": "サイドディッシュ",
     "category_ja": "サイドディッシュ",
