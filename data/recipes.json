@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787160167",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の旨味！ サーモンとアボカドのスパイシーレモンチーズケーキ",
+    "title_en": "Spicy Lemon Cheese Cake with Salmon and Avocado - The Devilishly Delicious Twist",
+    "description_ja": "サーモンとアボカドのスパイシーレモンチーズケーキは、一見すると普通のチーズケーキに見えても、実は悪魔的な味わいを秘めた一品！レモンの爽やかな酸味とサーモンの旨味が絡み合う、食欲をそそる一品に仕上げます。",
+    "description_en": "This spicy lemon cheese cake with salmon and avocado will turn your perception of a classic cheese cake on its head! A devilishly delicious combination of lemon and salmon, topped with a tangy avocado, will leave your taste buds begging for more.",
+    "occasion_ja": "特別な日に、特別なひとときを演出したいときに",
+    "occasion_en": "For a special occasion and a memorable experience",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "サーモンは塩コショウで下味をつけ、10分程度に置く。",
+      "アボカドは皮を剥き、種を取り除き、薄切りにする。",
+      "レモン汁と砂糖を混ぜて、レモン汁と砂糖の液体を準備する。",
+      "チーズを溶かし、卵と牛乳を加えて混ぜ合わせる。",
+      "準備したサーモン、アボカド、レモン汁、砂糖の液体を混ぜ合わせ、チーズケーキの生地を作る。"
+    ],
+    "prompt": "Close-up photo of a visually appealing lemon cheese cake with salmon and avocado slices. Vibrant colors and interesting textures.",
+    "filename": "recipe_1787160167.jpg",
+    "date": "2026-08-19 17:25:19",
+    "timestamp": 1787160167,
+    "likes": 0,
+    "views": 211
+  },
+  {
     "id": "recipe_1787156785",
     "category": "side",
     "category_ja": "サイド",
