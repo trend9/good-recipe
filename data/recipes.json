@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787121313",
+    "category": "サイドディッシュ",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔的ローストビーフと特製オニオンソースの甘辛スパイス焼き",
+    "title_en": "Spicy & Sweet Roast Beef with Special Onion Sauce",
+    "description_ja": "ローストビーフの甘辛さが際立つ、まるで宝石のように輝く焼き菓子のような一品。特製オニオンソースでさらに美味しく仕上げる。",
+    "description_en": "A dazzling and delicious dish featuring a sweet and savory roast beef.  The special onion sauce elevates the flavor to new heights. ",
+    "occasion_ja": "パーティー、イベント、特別な日に",
+    "occasion_en": "Party, Event, Special Occasion",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "甘辛スパイス",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "ローストビーフを1cm厚さにカット。",
+      "特製オニオンソースを混ぜて、甘辛スパイスと砂糖を加えて味を調える。",
+      "ローストビーフを特製オニオンソースで包み、甘辛スパイスを振りかける。",
+      "オーブンを200℃に予熱。ローストビーフを焼いて完成。"
+    ],
+    "prompt": "Close-up shot of the roasted beef with a unique and dazzling onion sauce in a baking dish, with warm and inviting colors.",
+    "filename": "recipe_1787121313.jpg",
+    "date": "2026-08-19 06:36:27",
+    "timestamp": 1787121313,
+    "likes": 0,
+    "views": 316
+  },
+  {
     "id": "recipe_1787117142",
     "category": "side",
     "category_ja": "サイド",
