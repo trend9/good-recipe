@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787146866",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコのスパイシーマカロン  ：悪魔の甘辛スパイシー！",
+    "title_en": "Spicy Macaroon with Matcha and White Chocolate :  Devilishly Sweet and Spicy!",
+    "description_ja": "抹茶とホワイトチョコレートのスパイシーなマカロンで、あなたを魅了する悪魔の甘辛スパイシーな味覚を体験。見た目も美しく、濃厚な味わいが口いっぱいに広がる、まさに魅惑の料理！",
+    "description_en": "A spicy macaroon with matcha and white chocolate will tantalize your taste buds. The beautiful appearance and the rich and spicy flavor will leave you wanting more! This is a must-try recipe for a devilishly sweet and spicy experience.",
+    "occasion_ja": "特別な日に、特別なひとときを演出するデザート。",
+    "occasion_en": "Perfect for a special occasion, this dessert is sure to elevate your evening. ",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "マカロンミックス",
+        "amount": "1袋"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "唐辛子粉",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. マカロンミックスを混ぜる。",
+      "2. 抹茶パウダーとホワイトチョコレートを加え、混ぜる。",
+      "3. レモン汁と唐辛子粉を加え、混ぜる。",
+      "4. マカロン生地をマカロン型に丸め、オーブンで焼成する。 "
+    ],
+    "prompt": "Close-up shot of spicy macarons with matcha and white chocolate frosting.  Dramatic light with a hint of red chili powder. ",
+    "filename": "recipe_1787146866.jpg",
+    "date": "2026-08-19 13:42:53",
+    "timestamp": 1787146866,
+    "likes": 0,
+    "views": 261
+  },
+  {
     "id": "recipe_1787142932",
     "category": "サイド",
     "category_ja": "サイド",
