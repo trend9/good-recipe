@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787142932",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ×タッカルビチキン：悪魔の甘辛爆発！",
+    "title_en": "Melting Cheese x Ttak-Kal-Bib Chicken: The devil's sweet and spicy explosion!",
+    "description_ja": "とろけるチーズとタッカルビチキン、組み合わせの衝撃！甘辛いタッカルビソースと、チーズのクリーミーな味わいが織りなす、悪魔的な美味しさ！",
+    "description_en": "The devil's sweet and spicy explosion! A cheese and Ttak-Kal-Bib chicken combination that will shock your taste buds.  Creamy cheese and the sweet and spicy Ttak-Kal-Bib sauce combine for an otherworldly deliciousness.",
+    "occasion_ja": "パーティーや飲み会で盛り上がれ！",
+    "occasion_en": "Perfect for parties and gatherings! ",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "韓国風唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンは一口サイズに切り、チーズを乗せてください。",
+      "韓国風唐辛子と醤油、みりんでタレを作ります。",
+      "タッカルビチキンにタレを塗ります。",
+      "チーズを添え、冷やしていただきます。"
+    ],
+    "prompt": "Close-up shot of a tantalizingly delicious Ttak-Kal-Bib Chicken dish with melted cheese, a splash of spicy sauce, and a beautiful cheese crust, shot in a dark, cozy studio.",
+    "filename": "recipe_1787142932.jpg",
+    "date": "2026-08-19 12:37:11",
+    "timestamp": 1787142932,
+    "likes": 0,
+    "views": 176
+  },
+  {
     "id": "recipe_1787138467",
     "category": "pasta",
     "category_ja": "パスタ",
