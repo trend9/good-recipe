@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787163982",
+    "category": "ハンバーグ",
+    "category_ja": "ハンバーグ",
+    "title_ja": "悪魔のハンバーグと卵！とろとろ半熟卵とデミグラスソースの魔法の組み合わせ",
+    "title_en": "The Magic of Half-Cooked Egg and Demi-Glace: A Devilish Delicacy!",
+    "description_ja": "とろける半熟卵と濃厚デミグラスソースが織りなす、悪魔的な美味しさ！一口食べたら、もう二度と普通のハンバーグは食べられない！",
+    "description_en": "A devilishly delicious twist on classic hamburger. Half-cooked egg and rich demi-glace sauce collide for a taste sensation you won't forget!",
+    "occasion_ja": "特別な日にも、日常の食卓にも、ぜひ試してみて欲しい！",
+    "occasion_en": "Perfect for any occasion, whether it's a special day or just a regular meal!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼きます。",
+      "ハンバーグを焼き終わったら、半熟卵を焼きます。",
+      "焼いたハンバーグと半熟卵の間にデミグラスソースを塗ります。",
+      "お好みで醤油とみりんを混ぜて、ハンバーグと卵にかければ完成!"
+    ],
+    "prompt": "A close-up shot of a juicy hamburger with a perfectly cooked, half-cooked egg on top, with a rich demi-glace sauce cascading down.  A soft, inviting glow around the plate.  A warm light and dramatic shadows.",
+    "filename": "recipe_1787163982.jpg",
+    "date": "2026-08-19 18:28:41",
+    "timestamp": 1787163982,
+    "likes": 0,
+    "views": 269
+  },
+  {
     "id": "recipe_1787160167",
     "category": "dessert",
     "category_ja": "デザート",
