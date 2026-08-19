@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787131731",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的アボカドチーズグラタン：クリーミーな衝撃！",
+    "title_en": "Devilishly Creamy Avocado Cheese Gratin: Creamy Shock!",
+    "description_ja": "クリーミーなアボカドとチーズがたっぷり！表面はカリッ、中はとろとろ！悪魔的な美味しさを閉じ込めた、新たなグラタンの誕生！",
+    "description_en": "Creamy avocado and cheese galore!  Crispy on the outside, creamy inside!  A devilishly delicious new gratin has been born! ",
+    "occasion_ja": "パーティーやディナーにも！",
+    "occasion_en": "Perfect for parties and dinners!",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "アボカドを1cm角の大きさに切る。",
+      "チーズを細かく刻む。",
+      "牛乳を混ぜる。卵を加えて混ぜる。",
+      "アボカドとチーズを混ぜる。バターを加えて混ぜる。グラタン皿に流し込み、表面をカリッと焼く。 "
+    ],
+    "prompt": "Close-up shot of devilish creamy avocado cheese gratin, with a crispy top and a cheesy bottom, golden brown, and steam rising from the dish. ",
+    "filename": "recipe_1787131731.jpg",
+    "date": "2026-08-19 09:30:24",
+    "timestamp": 1787131731,
+    "likes": 0,
+    "views": 248
+  },
+  {
     "id": "recipe_1787128287",
     "category": "side",
     "category_ja": "サイドディッシュ",
