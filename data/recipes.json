@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787128287",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油のスパイシーチーズ焼き",
+    "title_en": "Spicy Cheese Wyre of Smoked Pork Belly & Garlic Miso Glaze",
+    "description_ja": "炙りチャーシューの香ばしさ、濃厚焦がしにんにくの旨味、チーズのクリーミーさを合わせた、悪魔的な美味しさのレシピ。家庭で簡単に作れる、特別な一品をお届けします！",
+    "description_en": "Spicy, cheesy, and smoky - this recipe blends the richness of smoked pork belly with a creamy, spicy cheese sauce for an explosion of flavor in your mouth. It's easy to make and perfect for a unique and satisfying meal.",
+    "occasion_ja": "パーティーや特別な日に最適な一品",
+    "occasion_en": "Perfect side dish for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "ピザチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを、濃厚焦がしにんにく醤油で味付けする。",
+      "2. ピザチーズとクリームチーズを混ぜて、小麦粉を混ぜる。",
+      "3. 焼き、チーズとクリームチーズが溶けるまで焼く。",
+      "4. 炙りチャーシューを、濃厚焦がしにんにく醤油で味付けしたチーズソースで包み込み、仕上げる。"
+    ],
+    "prompt": "A close-up shot of a cheesy, smoky pizza-esque cheesy cheese dish with a charbroiled pork belly and a spicy red sauce drizzle. Anime-style illustration, vibrant colors.",
+    "filename": "recipe_1787128287.jpg",
+    "date": "2026-08-19 08:33:13",
+    "timestamp": 1787128287,
+    "likes": 0,
+    "views": 377
+  },
+  {
     "id": "recipe_1787124938",
     "category": "dessert",
     "category_ja": "デザート",
