@@ -1,5 +1,59 @@
 [
   {
+    "id": "recipe_1787149684",
+    "category": "サイドディッシュ",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔的マヨネーズ唐揚げ & ハニーチーズチップス",
+    "title_en": "Devilish Mayonnaise Chicken & Honey-Cheese Chips",
+    "description_ja": "サクサクの唐揚げに、悪魔的な甘辛マヨネーズソースと、カリカリのチーズチップスを組み合わせた、見た目も味も悪魔的な一品。",
+    "description_en": "Devilishly delicious fried chicken with a tangy, sweet and savory mayo sauce and cheesy chips for an extra kick.",
+    "occasion_ja": "パーティーやディナーに最適な一品",
+    "occasion_en": "Perfect for party and dinner",
+    "ingredients": [
+      {
+        "name": "鶏むね肉",
+        "amount": "100g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "蜂蜜",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "片栗粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "油",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏むね肉を一口大に切り、片栗粉をまぶす。",
+      "マヨネーズ、蜂蜜、唐辛子を混ぜ合わせて、鶏肉に塗る。",
+      "油をひいたフライパンで、鶏肉を焼いて、表面がカリカリになるまで焼く。",
+      "チーズをトッピングして、仕上げに焼きチーズをトッピング。",
+      "揚げたての唐揚げに、蜂蜜チーズチップスを添えて完成。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious fried chicken with honey cheese chips on a plate with a knife and fork, close-up view, vibrant and crispy food illustration.",
+    "filename": "recipe_1787149684.jpg",
+    "date": "2026-08-19 14:30:25",
+    "timestamp": 1787149684,
+    "likes": 0,
+    "views": 226
+  },
+  {
     "id": "recipe_1787146866",
     "category": "dessert",
     "category_ja": "デザート",
