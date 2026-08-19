@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1787174494",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "悪魔の卵豆腐丼 - ふわとろ卵と旨辛麻婆豆腐の絶妙なコラボ！",
+    "title_en": "Devil's Egg Tofu Bowl - The Perfect Fusion of Fluffy Egg and Spicy Tofu!",
+    "description_ja": "ふわふわとろける卵と、旨辛麻婆豆腐の意外な組み合わせで、食欲をそそる一皿！ 悪魔的な美味しさの丼を、是非ご試食を！",
+    "description_en": "The unexpected fusion of fluffy, creamy egg and spicy, flavorful tofu in a devilishly delicious bowl! A dish you have to try! ",
+    "occasion_ja": "晩酌にぴったり！",
+    "occasion_en": "Perfect for an after-dinner drink!",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "甘辛豆腐ソース",
+        "amount": "100g"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ラー油",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "豆腐を水切りして、一口大に切ります。",
+      "卵を割りほぐして、ボウルに混ぜます。",
+      "鍋に甘辛豆腐ソース、醤油、ラー油を入れて混ぜ、沸騰させます。",
+      "豆腐を鍋に入れて、煮詰めます。",
+      "卵をボウルに入れて、溶き卵の旨味を加え、豆腐と合わせて丼に盛り付けます。"
+    ],
+    "prompt": "Close-up of a devil's egg tofu bowl with fluffy egg on top, showcasing the spicy sauce and a vibrant color contrast.",
+    "filename": "recipe_1787174494.jpg",
+    "date": "2026-08-19 21:24:19",
+    "timestamp": 1787174494,
+    "likes": 0,
+    "views": 160
+  },
+  {
     "id": "recipe_1787170891",
     "category": "side",
     "category_ja": "サイドディッシュ",
