@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787181570",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的アボカドとサーモンの甘辛スパイシーチーズサラダ",
+    "title_en": "Devilish Avocado & Salmon Spicy Cheese Salad",
+    "description_ja": "意外な組み合わせなのに、まろやかで濃厚な味わい。悪魔的な甘辛スパイシーな風味を楽しめる、特別なサラダレシピ。",
+    "description_en": "A surprising but delicious combination, this salad boasts a creamy and rich flavor, and a devilishly spicy taste. Enjoy a special salad with a unique flavor combination. ",
+    "occasion_ja": "パーティーやディナーのサイドメニューにぴったり",
+    "occasion_en": "A perfect side dish for parties or dinners.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ハラペーニョ",
+        "amount": "お好みで"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンは塩コショウで味付けし、1cm幅に切る。",
+      "アボカドは塩胡椒で軽く味付けし、1cm幅に切る。",
+      "チーズを細かく刻む。",
+      "マヨネーズとハラペーニョ（お好みで）を混ぜ合わせ、サラダに混ぜ込む。"
+    ],
+    "prompt": "A close-up shot of a plate of Devilish Avocado & Salmon Spicy Cheese Salad, with a slightly artistic composition, showcasing the vibrant colors and textures of the ingredients.",
+    "filename": "recipe_1787181570.jpg",
+    "date": "2026-08-19 23:20:23",
+    "timestamp": 1787181570,
+    "likes": 0,
+    "views": 456
+  },
+  {
     "id": "recipe_1787178008",
     "category": "side",
     "category_ja": "サイド",
