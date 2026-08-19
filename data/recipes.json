@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787156785",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツの甘辛スパイシーハニーマスタード！悪魔的な甘辛爆発！",
+    "title_en": "Ultra Thick Cutlet's Spicy Honey Mustard!  An Explosive Sweet & Spicy Experience",
+    "description_ja": "極厚カツの表面に、スパイシーなハニーマスタードを絡めて、悪魔的な甘辛スパイシーな味わいが炸裂します。一口食べれば、想像以上の美味しさが爆発します。",
+    "description_en": "A deep-fried cutlet with a spicy honey mustard glaze will unleash a monstrously delicious combination of sweet and spicy flavor. Prepare to be amazed!",
+    "occasion_ja": "パーティー、夜食、お酒のつまみ、 grigorni  ",
+    "occasion_en": "Appetizer, Side dish, party food, wine pairing, grilling",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面をレモン汁で軽く湿らせて、ハニーマスタードを全面に塗ります。",
+      "加熱する前に、砂糖をハニーマスタードに加え、混ぜ合わせることで、甘辛なスパイシーな味つけを完成させます。",
+      "フライパンに油をひき、中火で加熱する。",
+      "加熱中、極厚カツにハニーマスタードが絡み付く様子を楽しみながら、火を止めてください。"
+    ],
+    "prompt": "A close-up photo of an ultra thick cutlet with a sweet and spicy honey mustard glaze, surrounded by a smoky haze.",
+    "filename": "recipe_1787156785.jpg",
+    "date": "2026-08-19 16:28:43",
+    "timestamp": 1787156785,
+    "likes": 0,
+    "views": 391
+  },
+  {
     "id": "recipe_1787153322",
     "category": "side",
     "category_ja": "サイド",
