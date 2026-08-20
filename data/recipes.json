@@ -1,5 +1,66 @@
 [
   {
+    "id": "recipe_1787250690",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的唐揚げマヨネーズソースとチーズのクリームパスタ",
+    "title_en": "Devilishly Delicious Fried Chicken with Honey Mayo Sauce and Cheesy Cream Pasta",
+    "description_ja": "サクサクの唐揚げと濃厚なマヨネーズソースを合わせた、悪魔的な味わいのクリームパスタ。チーズを加えることでさらにクリーミーな食感が楽しめる一品！",
+    "description_en": "Devilishly delicious fried chicken with a tangy honey mayo sauce and a creamy cheese pasta.  A unique combination of crispy fried chicken and a cheesy cream pasta, offering a creamy and satisfying experience. ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions.",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "1袋"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "鶏肉は一口大に切り、小麦粉、塩、黒胡椒で軽く和える。",
+      "ボウルに卵を加えて混ぜる。",
+      "鶏肉の卵液を包んで、揚げる。",
+      "揚げた鶏肉にマヨネーズソースを絡める。牛乳を加えて混ぜ、チーズを加えることでクリーミーなソースを作ります。"
+    ],
+    "prompt": "Close-up photo of a cheesy, golden fried chicken with a honey mayo sauce,  accompanied by a creamy pasta dish",
+    "filename": "recipe_1787250690.jpg",
+    "date": "2026-08-20 18:33:23",
+    "timestamp": 1787250690,
+    "likes": 0,
+    "views": 245
+  },
+  {
     "id": "recipe_1787246773",
     "category": "pasta",
     "category_ja": "パスタ",
