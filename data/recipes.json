@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787257384",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛ソースパスタ",
+    "title_en": "Devilishly Sweet & Savory: Honey Mustard Glazed Thick Cut Pork Cutlets Pasta",
+    "description_ja": "極厚カツの悪魔的な甘辛さを、ハニーマスタードでさらに進化させた、極上パスタ！濃厚なソースで、今までにない美味しさをご堪能あれ！",
+    "description_en": "Transform the devilish sweetness of a thick cut pork cutlet with our exclusive honey mustard sauce, for a pasta experience you've never had before!  The rich sauce will take your taste buds to another level.",
+    "occasion_ja": "特別な日にぴったりな一品！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パスタ",
+        "amount": "1袋"
+      },
+      {
+        "name": "トマトソース",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツをハニーマスタードで味付けし、両面を焼き、余分な油を落としておく。",
+      "パスタを茹でる。",
+      "フライパンでバターを溶かし、トマトソースを加え、沸騰させ、溶かしながら煮詰める。",
+      "パスタとカツを加え、混ぜ合わせ、最後に塩コショウで味を調える。"
+    ],
+    "prompt": "Close-up shot of a beautiful thick cut pork cutlet glazed with honey mustard sauce, placed on a plate of pasta and a fork. The pasta is bubbling with tomato sauce and a steamy, delicious aroma is coming out from the dish",
+    "filename": "recipe_1787257384.jpg",
+    "date": "2026-08-20 20:24:41",
+    "timestamp": 1787257384,
+    "likes": 0,
+    "views": 200
+  },
+  {
     "id": "recipe_1787254153",
     "category": "pasta",
     "category_ja": "パスタ",
