@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787243380",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的ローストビーフ・オニオンソース・マッシュポテトのチーズリング風グラタン",
+    "title_en": "Devilish Roasted Beef & Onion Mash Potato Cheese Ring-Shaped Graal",
+    "description_ja": "まるでリング状の宝石！ローストビーフとオニオンソースの濃厚な風味を、クリーミーなマッシュポテトで包み込んだ、悪魔的グラタン風アレンジレシピ。",
+    "description_en": "A ring-shaped jewel of flavor! This devilishly delicious recipe combines the intense flavor of roasted beef and onion sauce with creamy mashed potato to create a unique, graal-style twist. ",
+    "occasion_ja": "特別なイベントに、贅沢な一品を添えたい時",
+    "occasion_en": "A special occasion, you want to add a luxurious dish to your celebration.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "オニオン",
+        "amount": "1個"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "200g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフを一口大にカット。",
+      "2. オニオンを薄切りにして、マッシュポテトと混ぜる。",
+      "3. 小さなリング状のチーズをマッシュポテトに包み、小麦粉を混ぜる。",
+      "4. 最後にローストビーフとオニオンのリング状にまとめ、チーズリングを焼く"
+    ],
+    "prompt": "Close-up photo of a ring-shaped cheese-filled potato with a roasted beef and onion filling, with smoke effects. ",
+    "filename": "recipe_1787243380.jpg",
+    "date": "2026-08-20 16:31:20",
+    "timestamp": 1787243380,
+    "likes": 0,
+    "views": 292
+  },
+  {
     "id": "recipe_1787239796",
     "category": "side",
     "category_ja": "サイド",
