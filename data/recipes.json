@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787203591",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバター＆ぷりぷりの海老ピラフの悪魔的変身！",
+    "title_en": "Garlic Butter & Shrimp Risotto with a Twist!",
+    "description_ja": "とろけるようなガーリックバターとぷりぷり海老が、濃厚な旨味とクリーミーなピラフに融合。悪魔的な美味しさに魅了されるでしょう。",
+    "description_en": "A twist on the classic shrimp risotto with rich garlic butter and a creamy, fluffy texture. You'll be hooked on this devilishly delicious dish!",
+    "occasion_ja": "特別な日に、特別な人のために",
+    "occasion_en": "For a special occasion or a special someone",
+    "ingredients": [
+      {
+        "name": "甘辛ガーリックバター",
+        "amount": "適量"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "300g"
+      },
+      {
+        "name": "水",
+        "amount": "200ml"
+      },
+      {
+        "name": "ご飯",
+        "amount": "100g"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  甘辛ガーリックバターを鍋に入れて、火を弱めにしてバターが溶けるまで混ぜる。",
+      "2.  ぷりぷり海老を加え、さらに2分程炒め、海老の水分が減少するまで煮込む。",
+      "3.  ご飯を加え、水を加え、ご飯が全て混ざり、少し水分が出てきたら、弱火で3分煮込む。",
+      "4.  塩を振って味を調える。"
+    ],
+    "prompt": "Close-up of a pan with golden garlic butter and shrimp, with a cloud of steam rising from it, vibrant and delicious. Garnished with fresh parsley, on a wood surface",
+    "filename": "recipe_1787203591.jpg",
+    "date": "2026-08-20 05:28:55",
+    "timestamp": 1787203591,
+    "likes": 0,
+    "views": 406
+  },
+  {
     "id": "recipe_1787200338",
     "category": "dessert",
     "category_ja": "デザート",
