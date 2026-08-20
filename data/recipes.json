@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787264531",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "極厚カツ × ハニーマスタード：悪魔の甘辛チーズクランブルパスタ",
+    "title_en": "Spicy Honey-Mustard Thick-Cut Steak with Cheese Crumble Pasta",
+    "description_ja": "極厚カツの美味しさをさらに一層引き立てる、悪魔的な甘辛チーズクランブルパスタ。意外な組み合わせが、食欲をそそる一品に！",
+    "description_en": "Take the steak-lovers' delight to another level with this unique combination of spicy honey mustard thick-cut steak with cheese crumble pasta. This unexpected pairing will leave you wanting more!",
+    "occasion_ja": "パーティーや特別な日にぴったりな、インパクト大な一品料理",
+    "occasion_en": "Perfect for parties or special occasions, this dish is sure to make a statement!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2枚"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "パスタ",
+        "amount": "200g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "極厚カツをハニーマスタードで味付け。",
+      "チーズを細かく刻んで、パスタに混ぜる。",
+      "パスタに卵を溶き、チーズと混ぜる。",
+      "フライパンでチーズクランブルパスタを炒め、仕上げに極厚カツを添える。"
+    ],
+    "prompt": "Close-up shot of a steaming plate of pasta with a thick-cut steak, a sprinkle of cheese, and a vibrant, colorful cheese crumble on top. Shot in a warm, inviting kitchen with a natural, rustic feel.",
+    "filename": "recipe_1787264531.jpg",
+    "date": "2026-08-20 22:23:53",
+    "timestamp": 1787264531,
+    "likes": 0,
+    "views": 280
+  },
+  {
     "id": "recipe_1787260989",
     "category": "pasta",
     "category_ja": "パスタ",
