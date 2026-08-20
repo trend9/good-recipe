@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787218117",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的ローストビーフとオニオンソースのスパイシーチーズグラタン風グラタン",
+    "title_en": "Spicy Cheese Goulash with Roast Beef and Onion Sauce",
+    "description_ja": "悪魔的美味しさ！ローストビーフと特製オニオンソースが、濃厚なチーズグラタンに融合！クリーミーでスパイシーな味覚に、魅了されること間違いなし。",
+    "description_en": "Experience the devilish delight! A cheesy goulash featuring roast beef and a special onion sauce, all combined into a creamy and spicy masterpiece! You'll be hooked by the unique flavor and texture.",
+    "occasion_ja": "パーティーや特別な日にもおすすめ",
+    "occasion_en": "Perfect for parties and special occasions",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "グラタン用チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフと特製オニオンソースを混ぜ合わせる。",
+      "2. グラタン皿にチーズ、パプリカ、玉ねぎを敷き詰める。",
+      "3.  ローストビーフとオニオンソースを皿に盛り付ける。",
+      "4.  チーズを上に加え、グラタンを焼く。"
+    ],
+    "prompt": "Close-up photo of a cheesy goulash with roast beef and onion sauce, in a beautiful, rustic style. The cheese is melted and bubbly, and the gravy is rich and flavorful.",
+    "filename": "recipe_1787218117.jpg",
+    "date": "2026-08-20 09:30:23",
+    "timestamp": 1787218117,
+    "likes": 0,
+    "views": 272
+  },
+  {
     "id": "recipe_1787214796",
     "category": "dessert",
     "category_ja": "デザート",
