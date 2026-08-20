@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787268125",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のローストビーフ・オニオンソース・チーズリング風グラタン",
+    "title_en": "Devilish Roast Beef Onion Sauce Cheese Ring Grilled Cheese",
+    "description_ja": "悪魔的な甘辛さで舌を踊り、チーズリングがとろける、特別なグラタンに。このレシピは、ローストビーフとオニオンソースの組み合わせで、今までにない新しい美味しさを実現！",
+    "description_en": "Devilishly sweet and savory, melt-in-your-mouth cheese ring grilled cheese. This recipe features a combination of roast beef and onion sauce, creating a new, unprecedented taste experience!",
+    "occasion_ja": "特別なディナー、パーティーにぴったり",
+    "occasion_en": "Perfect for special dinners and parties.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "100g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "マッシュポテト",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフは一口大に切る。",
+      "2. 玉ねぎは薄切りにする。",
+      "3. オニオンソースとチーズを混ぜ合わせ、マッシュポテトを加える。",
+      "4. ローストビーフと玉ねぎの間にチーズリングを挟み、グラタン型皿に盛り付ける。"
+    ],
+    "prompt": "A close-up photo of a cheesy cheese ring grilled cheese filled with a piece of roast beef and onions, melting cheese oozing out, over a rustic, dark background with a slightly smokey atmosphere, inspired by a dark and inviting anime style, illustration art, Ghibli style.",
+    "filename": "recipe_1787268125.jpg",
+    "date": "2026-08-20 23:23:47",
+    "timestamp": 1787268125,
+    "likes": 0,
+    "views": 281
+  },
+  {
     "id": "recipe_1787264531",
     "category": "pasta",
     "category_ja": "パスタ",
