@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787260989",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油！「にんにくチーズ」パスタ風 - 悪魔的極みレシピ",
+    "title_en": "Spicy Garlic & Charred Beef Ramen: The Ultimate Spicy Garlic Beef Ramen Recipe",
+    "description_ja": "悪魔的な旨味と風味、食欲をそそる「にんにくチーズ」パスタ風。炙りチャーシューと濃厚焦がしにんにく醤油が織りなす、驚きの美味しさです！",
+    "description_en": "Experience the ultimate spicy garlic beef ramen with this unique twist. Our signature recipe blends the smokiness of char-grilled beef with the bold flavor of spicy garlic and a creamy cheese sauce. This is a must-try for adventurous foodies.",
+    "occasion_ja": "晩酌、おうちで楽しむ、特別な夜にぴったり！",
+    "occasion_en": "Perfect for a special night in or a relaxed evening with friends!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "200g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚クリーミーな海の宝石",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューは、塩コショウで軽く振る。",
+      "2. 濃厚焦がしにんにく醤油とモッツァレラチーズを、パスタに絡めて混ぜる。",
+      "3. 茹でたパスタを、濃厚クリーミーな海の宝石をトッピングして盛り付ける。",
+      "4. 炙りチャーシューを、パスタの上に載せて、完成です！"
+    ],
+    "prompt": "A close-up shot of a steaming bowl of ramen noodles topped with an artistically crafted char-grilled beef and cheesy swirl, with a smoky, spicy aroma.",
+    "filename": "recipe_1787260989.jpg",
+    "date": "2026-08-20 21:26:16",
+    "timestamp": 1787260989,
+    "likes": 0,
+    "views": 257
+  },
+  {
     "id": "recipe_1787257384",
     "category": "pasta",
     "category_ja": "パスタ",
