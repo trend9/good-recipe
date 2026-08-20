@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787200338",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろけるチーズとタッカルビのスパイシーレモンチーズケーキ",
+    "title_en": "Spicy Lemon Cheese Cake with Cheesy Tartare",
+    "description_ja": "とろけるチーズとタッカルビのスパイシーな美味しさに、爽やかなレモンの風味がアクセント！見た目はまるで魔法のケーキみたいで、食べるのが楽しみすぎる。",
+    "description_en": "Spicy and tangy flavors of cheese and Tartare with a refreshing lemon kick!  This cake looks magical and you're bound to love the combination. ",
+    "occasion_ja": "特別な日に、自分にご褒美を！",
+    "occasion_en": "For a special occasion, treat yourself!",
+    "ingredients": [
+      {
+        "name": "タッカルビ",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ガーリック Powder",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. タッカルビを細かく刻んで、レモン汁、醤油、ガーリック Powder を混ぜる。",
+      "2. 混ぜ合わせたタッカルビを、チーズと混ぜ合わせる。",
+      "3. 生姜、にんにく、しょうがのすりおろしを混ぜる。",
+      "4. 調味料を混ぜ合わせたタッカルビチーズを、ケーキ型に盛り付ける。 "
+    ],
+    "prompt": "Close-up shot of a vibrant cake with a cheesy and tangy texture, showcasing the delicious ingredients. ",
+    "filename": "recipe_1787200338.jpg",
+    "date": "2026-08-20 04:33:57",
+    "timestamp": 1787200338,
+    "likes": 0,
+    "views": 395
+  },
+  {
     "id": "recipe_1787197372",
     "category": "pasta",
     "category_ja": "パスタ",
