@@ -1,5 +1,62 @@
 [
   {
+    "id": "recipe_1787221467",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的ぷりぷり海老ピラフとガーリックバターのチーズクリームパスタ：鮮やかな香辛料とクリーミーなハーモニー",
+    "title_en": "Spicy Shrimp and Garlic Butter Creamy Pasta: Fresh Aromatic Harmony",
+    "description_ja": "ぷりぷり海老とガーリックバターを贅沢に使った、クリーミーチーズクリームパスタ。鮮やかな香辛料とクリーミーなハーモニーが一体となって、悪魔的な美味しさに仕上がります。",
+    "description_en": "Spicy shrimp and garlic butter creamy pasta. Rich shrimp, garlic butter, and creamy cheese create a symphony of flavor. This decadent dish will bring you a new level of deliciousness.",
+    "occasion_ja": "特別な日や、普段使いにもぴったりな、贅沢な一品を味わいたい時。",
+    "occasion_en": "Perfect for a special occasion or for a luxurious dinner. ",
+    "ingredients": [
+      {
+        "name": "パスタ",
+        "amount": "150g"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "20g"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "15g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "20g"
+      },
+      {
+        "name": "塩胡椒",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. パスタを茹でる: 沸騰したお湯にパスタを投入し、パッケージの表示に従って茹でる。",
+      "2. Shrimp and garlic butter sauce: In a separate pan, melt the butter. Add in the shrimp and cook until pink. Stir in the garlic powder and the lemon juice, let simmer for 5 minutes.",
+      "3. Creamy cheese sauce:  Combine the cheese, cream, and salt and pepper in a bowl until smooth. Add the shrimp and garlic butter mixture to the cheese sauce, mix well until everything is evenly coated.",
+      "4. Combine and serve: Add the cooked pasta to the shrimp and cheese sauce. Toss to combine. Garnish with a diced paprika and serve immediately."
+    ],
+    "prompt": "Close-up shot of a bowl of creamy pasta with shrimp and garlic butter, paprika and lemon wedges, a vibrant image with a colorful and appetizing feel.",
+    "filename": "recipe_1787221467.jpg",
+    "date": "2026-08-20 10:26:22",
+    "timestamp": 1787221467,
+    "likes": 0,
+    "views": 457
+  },
+  {
     "id": "recipe_1787218117",
     "category": "side",
     "category_ja": "サイド",
