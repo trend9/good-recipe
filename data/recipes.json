@@ -1,5 +1,63 @@
 [
   {
+    "id": "recipe_1787187255",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔的ローストビーフとオニオンソースのスパイシーチーズグラタン",
+    "title_en": "Spicy Cheese Gratin with Roast Beef and Onion Sauce",
+    "description_ja": "ローストビーフの濃厚な甘味と、オニオンソースの意外な刺激感が融合。とろけるチーズで、食欲をそそる一品です。",
+    "description_en": "Combines the richness of roast beef with a unique onion sauce. The creamy cheese makes this dish irresistible.",
+    "occasion_ja": "特別な日のお料理、パーティー、おもてなしに",
+    "occasion_en": "Perfect for special occasions, parties, or welcoming guests",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パルフェチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ローストビーフを薄切りにして、塩コショウで味付けする。",
+      "玉ねぎとトマトは薄切りにして、オニオンソースを絡めておく。",
+      "フライパンにクリームチーズとパルフェチーズを混ぜ、溶かしておく。",
+      "ローストビーフをチーズで包んで、オニオンソースと玉ねぎトマトを乗せる。",
+      "オーブンで15分加熱し、チーズが溶け、全体が焼けた状態になったら完成。"
+    ],
+    "prompt": "Close-up shot of cheesy gratin dish with a slice of roast beef, topped with onion sauce and cheese, baked in a golden brown oven. ",
+    "filename": "recipe_1787187255.jpg",
+    "date": "2026-08-20 00:56:02",
+    "timestamp": 1787187255,
+    "likes": 0,
+    "views": 366
+  },
+  {
     "id": "recipe_1787181570",
     "category": "side",
     "category_ja": "サイド",
