@@ -1,5 +1,56 @@
 [
   {
+    "id": "recipe_1787224953",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的焼き芋＆とろけるバターカラメルチーズケーキ",
+    "title_en": "Devilish Baked Sweet Potato & Melty Butter Caramel Cheesecake",
+    "description_ja": "焼き芋の甘さとバターカラメルのクリーミーな味わいが、チーズケーキで包まれた、悪魔的な美味しさのスイーツ！",
+    "description_en": "A devilishly delicious cheesecake with the sweet and caramelized flavors of baked sweet potatoes and the creaminess of melted butter. ",
+    "occasion_ja": "クリスマスや誕生日など、特別な日に食べたい！",
+    "occasion_en": "Perfect for special occasions like Christmas or birthdays!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cm角にカット。",
+      "バターと砂糖を混ぜる。",
+      "焼き芋をバターミルクで包んで、電子レンジで2分加熱する。",
+      "チーズと生クリームを加え、混ぜる。",
+      "ケーキ型に生地を流し込む。",
+      "150℃のオーブンで15分焼く。"
+    ],
+    "prompt": "Close-up shot of a creamy cheesecake with a slice of baked sweet potato on top, with a melted butter caramel drizzle. ",
+    "filename": "recipe_1787224953.jpg",
+    "date": "2026-08-20 11:24:12",
+    "timestamp": 1787224953,
+    "likes": 0,
+    "views": 361
+  },
+  {
     "id": "recipe_1787221467",
     "category": "pasta",
     "category_ja": "パスタ",
