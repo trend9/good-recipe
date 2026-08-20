@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787233356",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的海老クリームチーズのグラタン風チーズケーキ",
+    "title_en": "Lobster Cream Cheese Gravy Cheesecake",
+    "description_ja": "クリーミーなアボカドと海老の旨味を、濃厚なチーズで包み込んだ、悪魔的美味しさのチーズケーキ。とろけるチーズと海老のハーモニーは、まさに衝撃！",
+    "description_en": "Lobster cream cheese gravy cheesecake. Rich creamy avocado and lobster flavor wrapped in creamy cheese. This is a devilishly delicious cheesecake with a creamy cheese and lobster harmony. This is sure to be a shock to your taste buds!",
+    "occasion_ja": "特別なディナー、または普段の晩餐に最適な悪魔的なチーズケーキ。",
+    "occasion_en": "Perfect for a special dinner or everyday evening, this devilish cheesecake is a must-try!",
+    "ingredients": [
+      {
+        "name": "淡水海老",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "Cream Cheese",
+        "amount": "100g"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "淡水海老を、小さめに切ります。",
+      "アボカドは、皮をむき、そのまま使用します。",
+      "ボウルに、生クリームとCream Cheeseを入れて、なめらかになるまで混ぜます。",
+      "海老とアボカドのペーストを加え、グラタンソースとチーズを混ぜ込み、チーズケーキの形に。",
+      "オーブンで180度に予熱した皿に、ケーキを流し込み、15分程度焼きます。"
+    ],
+    "prompt": "Close-up image of a creamy, luxurious cheesecake with lobster and avocado inside.",
+    "filename": "recipe_1787233356.jpg",
+    "date": "2026-08-20 13:44:19",
+    "timestamp": 1787233356,
+    "likes": 0,
+    "views": 419
+  },
+  {
     "id": "recipe_1787229398",
     "category": "side",
     "category_ja": "サイド",
