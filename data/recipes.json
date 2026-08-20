@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787197372",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンCream生パスタ  - 明朝を味わえる悪魔の食卓",
+    "title_en": "Lemon Cream Pasta with Spicy Tuna & Ikura - A Devilish Taste of Morning",
+    "description_ja": "明太子とレモンの爽やかな酸味と、クリーミーなクリームソースが、まるで明朝を味わえる、悪魔的な美味しさ。パスタと明太子を組み合わせて、新しい美味しさを見つけ出す！",
+    "description_en": "A devilishly delicious fusion of lemon cream, spicy tuna, and ikura with pasta. A fresh, bright, and savory taste of morning brought to life in this pasta creation! ",
+    "occasion_ja": "特別な日や、日常の特別な時間にぴったり！",
+    "occasion_en": "Perfect for special occasions and special moments in everyday life.",
+    "ingredients": [
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "明太子",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン",
+        "amount": "適量"
+      },
+      {
+        "name": "クリーム",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      },
+      {
+        "name": "イクラ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 明太子とレモン汁を混ぜ、パスタに絡ませる。",
+      "2. 生クリームとバターでクリーミーなソースを作る。",
+      "3.  パスタをソースで包み込む。",
+      "4.  イクラを添えて完成。"
+    ],
+    "prompt": "Close-up photo of the pasta dish, creamy lemon sauce, with tuna flakes and ikura, against a dark background. ",
+    "filename": "recipe_1787197372.jpg",
+    "date": "2026-08-20 03:44:33",
+    "timestamp": 1787197372,
+    "likes": 0,
+    "views": 285
+  },
+  {
     "id": "recipe_1787192164",
     "category": "dessert",
     "category_ja": "デザート",
