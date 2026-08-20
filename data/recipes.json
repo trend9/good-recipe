@@ -1,5 +1,56 @@
 [
   {
+    "id": "recipe_1787239796",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の海老チーズグラタン風 : 濃厚クリーミーな海の宝石",
+    "title_en": "Devilish Lobster Cheese Gratin: A Creamy Ocean Jewel",
+    "description_ja": "クリーミーなアボカドチーズと、濃厚な海老が、濃厚な味わいを演出する、悪魔的なチーズグラタン風。見た目も鮮やかで、一口食べたら幸せな笑顔が guaranteed！",
+    "description_en": "A devilishly creamy lobster cheese gratin with a creamy avocado cheese sauce and a rich lobster flavor. A vibrant and delicious twist on the classic gratin. Prepare to be mesmerized by the deliciousness of this creamy lobster cheese gratin.",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "Perfect for parties and special occasions.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "150g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パウダーチーズ",
+        "amount": "10g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 海老を細かく刻み、熱湯で柔らかく茹でる。",
+      "2. アボカドをすりおろして、クリームチーズ、パウダーチーズ、塩コショウで味付けする。",
+      "3. 海老とアボカドの汁気を軽く絞り、アボカドチーズ液に混ぜる。",
+      "4. フライパンにバターを熱し、アボカドチーズ液を流し込む。",
+      "5. 弱火で2分程度加熱し、チーズが溶け、表面がこんがりと焼き色がつくまで。",
+      "6. 熱いうちに皿に盛り付け、お好みでパセリを添えて完成"
+    ],
+    "prompt": "A close-up shot of a beautifully plated lobster cheese gratin with a creamy avocado cheese sauce.  Golden cheese and lobster meat are beautifully contrasted with a vibrant avocado color. A sprinkle of fresh parsley.",
+    "filename": "recipe_1787239796.jpg",
+    "date": "2026-08-20 15:32:13",
+    "timestamp": 1787239796,
+    "likes": 0,
+    "views": 177
+  },
+  {
     "id": "recipe_1787236294",
     "category": "pasta",
     "category_ja": "パスタ",
