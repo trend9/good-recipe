@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787229398",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔的チーズクランブルの魔法",
+    "title_en": "Smothered Potato & Creamy Cheese Sauce: A Magical Cheese Crumble",
+    "description_ja": "サクサクポテトにクリーミーチーズソースをかけた、シンプルながらも意外性と美味しさを兼ね備えたレシピ。悪魔的美味しさの魔法を体験できるかも！",
+    "description_en": "This simple yet surprisingly delicious recipe combines crispy potato with a creamy cheese sauce.  Experience a magical blend of deliciousness!",
+    "occasion_ja": "パーティーやディナー、日常の食卓に",
+    "occasion_en": "Party, Dinner, Everyday meal",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50cc"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100cc"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを1cm角に切る。",
+      "フライパンに油をひき、じゃがいもを炒める。塩、黒胡椒で味付け。",
+      "生クリームと牛乳を混ぜ、チーズと混ぜ合わせる。",
+      "じゃがいもを皿に盛り、チーズソースをかけた、完成"
+    ],
+    "prompt": "A close-up shot of the dish, with cheese sauce dripping over crispy potato. A dramatic, smoky atmosphere.",
+    "filename": "recipe_1787229398.jpg",
+    "date": "2026-08-20 12:37:57",
+    "timestamp": 1787229398,
+    "likes": 0,
+    "views": 424
+  },
+  {
     "id": "recipe_1787224953",
     "category": "dessert",
     "category_ja": "デザート",
