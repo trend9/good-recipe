@@ -1,5 +1,53 @@
 [
   {
+    "id": "recipe_1787192164",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔的な甘辛チーズケーキ",
+    "title_en": "Devilishly Delicious: Baked Sweet Potato & Melty Butter Caramel Cake",
+    "description_ja": "普段の焼き芋を、とろけるバターと甘酸っぱいチーズで、まるでチーズケーキのような魅惑的な一品に。チーズケーキと焼き芋の組み合わせは、意外な美味しさ！",
+    "description_en": "Transform your usual baked sweet potato into a decadent dessert masterpiece with this devilishly delicious recipe. The combination of sweet potato and melted butter caramel elevates the dish into a unique and captivating treat.",
+    "occasion_ja": "クリスマスディナーや特別な夜にぴったり",
+    "occasion_en": "Perfect for special occasions like Christmas Dinner or a Fancy Evening",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "粉チーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "焼き芋に塩コショウで味付けし、Ovenで180℃で20分焼く。",
+      "溶かしバターと砂糖を混ぜる。",
+      "チーズと水を混ぜる。",
+      "焼き芋に溶かしバターとチーズソースを塗る。",
+      "オーブンで10分焼く。",
+      "焼き芋にソースを塗る。",
+      "10分焼いた後、仕上げに溶き卵を混ぜる。"
+    ],
+    "prompt": "A close-up shot of a beautifully decorated baked sweet potato topped with caramel sauce, adorned with a sprinkle of cheese.",
+    "filename": "recipe_1787192164.jpg",
+    "date": "2026-08-20 02:19:08",
+    "timestamp": 1787192164,
+    "likes": 0,
+    "views": 346
+  },
+  {
     "id": "recipe_1787187255",
     "category": "side",
     "category_ja": "サイドディッシュ",
