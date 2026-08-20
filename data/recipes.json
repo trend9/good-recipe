@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787254153",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油！「にんにくチーズ」パスタ風",
+    "title_en": "炙りチャーシュー & Fiery Garlic Cheese Pasta",
+    "description_ja": "炙りチャーシューの旨味と濃厚焦がしにんにく醤油が、クリーミーチーズソースで絡み合う、悪魔的パスタの味わいが実現！見た目は通常のパスタと変わりません。しかし、その味わいは、まさに「悪魔的」の美味しさです。",
+    "description_en": "A fusion of smoky, savory char-grilled pork belly and a rich, fiery garlic cheese sauce. You can't resist this! It looks like a regular pasta, but it has a unique, devilishly delicious taste.",
+    "occasion_ja": "特別な日のディナーに、お酒のつまみにもおすすめ",
+    "occasion_en": "A great dish for dinner parties or as a side dish to enjoy with drinks. ",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚チーズソース",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを、濃厚焦がしにんにく醤油で味付けします。",
+      "2. パスタを茹で、熱したフライパンで濃厚チーズソースとバターを加え、混ぜ合わせます。",
+      "3. 炙りチャーシューと濃厚チーズソースを、パスタに絡めて盛り付けます。",
+      "4. 完成。"
+    ],
+    "prompt": "Close-up shot of the finished dish with a steaming, rich and cheesy sauce, showcasing the char-grilled pork belly. The noodles are in a generous bowl. ",
+    "filename": "recipe_1787254153.jpg",
+    "date": "2026-08-20 19:30:52",
+    "timestamp": 1787254153,
+    "likes": 0,
+    "views": 392
+  },
+  {
     "id": "recipe_1787250690",
     "category": "pasta",
     "category_ja": "パスタ",
