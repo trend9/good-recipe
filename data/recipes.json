@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787246773",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油！悪魔的「にんにくチーズ」パスタ",
+    "title_en": "Spicy Garlic & Cheese Pasta with Roasted Char Siu",
+    "description_ja": "悪魔的美味しさ！炙りチャーシューと濃厚焦がしにんにく醤油が織りなす、チーズがとろけるパスタ。見た目もインパクト大！",
+    "description_en": "Get ready for a delicious explosion of flavor! This spicy garlic and cheese pasta features a smoky char siu and rich garlic-infused sauce, topped with melty cheese. An eye-catching dish sure to impress.",
+    "occasion_ja": " parties, family gatherings",
+    "occasion_en": "Parties, family gatherings",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ (エダム・チーズなど)",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ (長形パスタなど)",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを、濃厚焦がしにんにく醤油とオリーブオイルで味付けします。",
+      "2. パスタを茹で、アル dente に茹でます。",
+      "3. 茹で上がったパスタと、炙りチャーシューを盛り付け、チーズをのせて、熱で溶かし、混ぜます。",
+      "4.  お好みで、ネギやレモン汁などをトッピングして、召し上がってください。"
+    ],
+    "prompt": "Close-up of a steaming plate of spicy garlic and cheese pasta with a char siu on top, topped with melted cheese, surrounded by green herbs. A mix of cheesy, garlicky, and smoky flavors. ",
+    "filename": "recipe_1787246773.jpg",
+    "date": "2026-08-20 17:27:38",
+    "timestamp": 1787246773,
+    "likes": 0,
+    "views": 262
+  },
+  {
     "id": "recipe_1787243380",
     "category": "side",
     "category_ja": "サイド",
