@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787214796",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サーモン×アボカド×ビターチョコレートチーズクレープ",
+    "title_en": "Devilish Salmon, Avocado, and Bitter Chocolate Cheesecake Crêpe",
+    "description_ja": "一見シンプルに見えて、口にすると驚くほど複雑な味わいが楽しめる！悪魔的な甘辛さとビターチョコレートのハーモニーが、まるで天国の味がするクレープ。",
+    "description_en": "An unexpected and addictive twist on the classic crêpe! A sweet and savory, devilishly rich experience with the perfect balance of bitter chocolate.",
+    "occasion_ja": "特別な日や、普段の夜にぴったりな一品",
+    "occasion_en": "Perfect for a special occasion or a cozy night in",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "ビターチョコレート",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "20g"
+      }
+    ],
+    "steps": [
+      "サーモンを細かく刻み、アボカドと混ぜる。",
+      "薄力粉、砂糖を加え、溶かした生クリームと混ぜる。",
+      "アボカドと混ぜたサーモンを、薄力粉の生地に流し込む。",
+      "クレープを焼き、ビターチョコレートソースを添えて完成。"
+    ],
+    "prompt": "A close-up image of the finished crêpe with a dramatic lighting effect, featuring the decadent layers of salmon, avocado, and dark chocolate. ",
+    "filename": "recipe_1787214796.jpg",
+    "date": "2026-08-20 08:34:57",
+    "timestamp": 1787214796,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1787207888",
     "category": "dessert",
     "category_ja": "デザート",
