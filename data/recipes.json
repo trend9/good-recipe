@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787347169",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔バナナキャラメルブリュレかき氷",
+    "title_en": "Devil Banana Caramel Brulee Ice Cream",
+    "description_ja": "完熟バナナの甘さと、キャラメルブリュレの甘辛さが織りなす、悪魔的なかき氷。とろける食感と、カリカリの食感、そしてキャラメルソースの甘酸っぱさが、まさに悪魔的な美味しさ。",
+    "description_en": "A devilishly delicious ice cream with the sweetness of ripe bananas and caramel brulee.  It offers a unique combination of creamy texture and a crispy caramel,  perfect for a devilishly delicious dessert experience.",
+    "occasion_ja": "特別な日に、特別なデザートを。",
+    "occasion_en": "For special occasions, a special dessert.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを、皮を剥き、滑らかなものにする。",
+      "2.  キャラメルとバターを混ぜる。",
+      "3.  バナナをキャラメルとバターで包み、バターの香りを染み込ませる。",
+      "4.  生クリームと水溶き片栗粉を加えて、かき氷のように滑らかに混ぜる。塩コショウで味を整える。"
+    ],
+    "prompt": "A close-up photo of devil banana caramel brulee ice cream with a dramatic lighting,  showing the unique shape and the creamy texture. ",
+    "filename": "recipe_1787347169.jpg",
+    "date": "2026-08-21 21:21:15",
+    "timestamp": 1787347169,
+    "likes": 0,
+    "views": 214
+  },
+  {
     "id": "recipe_1787343654",
     "category": "dessert",
     "category_ja": "デザート",
