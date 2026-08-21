@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787343654",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろけるチーズ×激辛タッカルビチキン：悪魔的チーズタッカルビかき氷",
+    "title_en": "Spicy Tteokbokki & Cheesy Cheese Ice Cream: A Devilish Treat",
+    "description_ja": "タッカルビの辛さを楽しむのにぴったり！とろけるチーズとタッカルビの旨味をたっぷり配合した、悪魔的かき氷が誕生！",
+    "description_en": "Enjoy the spicy tang of Tteokbokki with this devilishly delicious ice cream! This unique dessert combines melted cheese and spicy Tteokbokki to create a fun and delicious experience.",
+    "occasion_ja": " parties, gatherings, summer festival",
+    "occasion_en": "perfect for parties, gatherings, and summer festivals",
+    "ingredients": [
+      {
+        "name": "チーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "100g"
+      },
+      {
+        "name": "もち米",
+        "amount": "100g"
+      },
+      {
+        "name": "コーンフレーク",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンとチーズを混ぜて、生地に混ぜる。",
+      "2. 混ぜ合わせた生地を、もち米で作った生地を型に流し込む。",
+      "3. さらにコーンフレークを加え、全体を均等に混ぜる。",
+      "4. 冷蔵庫で1時間以上冷やし、かき氷として食べる。"
+    ],
+    "prompt": "A close-up shot of a creamy ice cream cone with a colorful swirl of cheese sauce and chunks of spicy Tteokbokki on top. It should have a vibrant and decadent look.",
+    "filename": "recipe_1787343654.jpg",
+    "date": "2026-08-21 20:23:21",
+    "timestamp": 1787343654,
+    "likes": 0,
+    "views": 440
+  },
+  {
     "id": "recipe_1787340191",
     "category": "dessert",
     "category_ja": "デザート",
