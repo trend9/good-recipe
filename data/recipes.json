@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787286810",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜 きな粉もちもちアイス！悪魔の甘辛風味かき氷",
+    "title_en": "Black Sugar Kinako Mochi Ice! Devilish Sweet & Spicy Snow",
+    "description_ja": "黒蜜の濃厚な甘さと、きな粉の香ばしさ、もちもちとした食感のアイスは、想像をはるかに超える悪魔的美味しさ！",
+    "description_en": "This devilishly sweet and spicy ice cream brings a blend of the rich sweetness of black sugar and the nutty flavor of kinako, with a surprising soft and chewy texture.",
+    "occasion_ja": "夏にぴったり！暑さで息を殺したい時にも、この悪魔的な甘辛の味で気分転換！",
+    "occasion_en": "Perfect for summer! A devilishly good way to get a mood boost in the heat!",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "適量"
+      },
+      {
+        "name": "ココナッツミルク",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "黒蜜ときな粉を混ぜて、溶かしたもちもちアイスに塗る",
+      "抹茶パウダーを少し混ぜて、黒蜜ときな粉アイスに混ぜる",
+      "ココナッツミルクを少し加えて、全体に馴染ませる",
+      "冷やして完成！"
+    ],
+    "prompt": "Close-up shot of the ice cream, dripping with black syrup and sprinkled with kinako. It's melting in the sunlight, with a slightly snowy texture. ",
+    "filename": "recipe_1787286810.jpg",
+    "date": "2026-08-21 04:35:59",
+    "timestamp": 1787286810,
+    "likes": 0,
+    "views": 227
+  },
+  {
     "id": "recipe_1787284002",
     "category": "丼",
     "category_ja": "丼",
