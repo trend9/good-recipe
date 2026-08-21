@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787290087",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス！悪魔の甘辛風かき氷 (極上アレンジレシピ)",
+    "title_en": "Black Sesame Kinako Mochi Ice Cream! Devilishly Delicious & Sweet & Salty Ice Cream (Ultimate Twist)",
+    "description_ja": "黒蜜きな粉もちもちアイス！定番の組み合わせに、悪魔的な甘辛風味を加え、かき氷として楽しめる、極上のアレンジレシピ！",
+    "description_en": "Take your classic black sesame kinako ice cream to the next level! We're adding a devilishly delicious twist with a savory & sweet twist for a truly unforgettable ice cream experience.",
+    "occasion_ja": "暑い日や、特別な日にぴったり！",
+    "occasion_en": "Perfect for hot days or special occasions!",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "200g"
+      },
+      {
+        "name": "きな粉",
+        "amount": "50g"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "1個"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "黒蜜と砂糖を混ぜ、溶かしながら塩を加える。",
+      "もちもちアイスを黒蜜汁に浸し、冷やしておき、冷やした黒蜜汁に浸す。",
+      "きな粉を混ぜ合わせた氷を黒蜜汁の上に盛り付け、黒蜜汁を注ぐ。",
+      "黒蜜きな粉もちもちアイスを楽しむ。"
+    ],
+    "prompt": "Close-up shot of a beautiful black ice cream with a sprinkle of kinako and a devilishly sweet smile, looking slightly melting and dripping, with a backdrop of a summer sunset.",
+    "filename": "recipe_1787290087.jpg",
+    "date": "2026-08-21 05:29:53",
+    "timestamp": 1787290087,
+    "likes": 0,
+    "views": 177
+  },
+  {
     "id": "recipe_1787286810",
     "category": "dessert",
     "category_ja": "デザート",
