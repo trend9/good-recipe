@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787336984",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔のチーズカプレーゼ風かき氷！",
+    "title_en": "Crispy Potato x Creamy Cheese Sauce:  Devil's Cheese Caprese Ice Cream",
+    "description_ja": "サクサクポテトの食感が、クリーミーチーズソースで包まれる、悪魔的なかき氷。甘酸っぱいチーズの風味が、夏の暑さを忘れさせてくれる。",
+    "description_en": "A devilish ice cream with a crispy potato and creamy cheese sauce. Sweet and tangy cheese flavor melts your worries away on a hot summer day.",
+    "occasion_ja": "夏にぴったり！暑さ対策に最適な悪魔的スイーツ",
+    "occasion_en": "Perfect for summer! An ideal devilish dessert for beating the heat.",
+    "ingredients": [
+      {
+        "name": "サクサクポテト",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "1/2カップ"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. サクサクポテトを軽く焼きます。",
+      "2. フライパンでクリーミーチーズソースを弱火で加熱し、溶かし、塩と黒胡椒で味を整えます。",
+      "3. 生クリームとチーズソースを混ぜ合わせ、かき氷を作ります。",
+      "4. 溶かしバターで炒めたサクサクポテトをトッピングし、冷蔵で約1時間ほど冷やします。"
+    ],
+    "prompt": "An ice cream cone with a crispy potato and a creamy cheese sauce, decorated with black pepper and edible flower. (英語で具体的な料理の見た目を描写)",
+    "filename": "recipe_1787336984.jpg",
+    "date": "2026-08-21 18:31:27",
+    "timestamp": 1787336984,
+    "likes": 0,
+    "views": 205
+  },
+  {
     "id": "recipe_1787333047",
     "category": "丼",
     "category_ja": "丼",
