@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787333047",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろける卵黄と旨辛麻婆豆腐の悪魔的丼！",
+    "title_en": "Devilishly delicious egg yolk and spicy pork belly bowl!",
+    "description_ja": "とろける卵黄と旨辛麻婆豆腐の組み合わせは、まさに悪魔的美味しさ！ 意外な組み合わせが、まさに「これぞ！」の究極の丼！",
+    "description_en": "The combination of melting egg yolk and spicy pork belly makes a devilishly delicious bowl! This unexpected pairing creates a truly unique and delicious bowl! ",
+    "occasion_ja": "特別な日の食事にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "卵黄",
+        "amount": "1個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "豆腐",
+        "amount": "1/2個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "豆腐を一口サイズに切り、ご飯と一緒に醤油で味付けする。",
+      "卵黄を混ぜる。",
+      "旨辛麻婆豆腐をご飯の上に盛り付け、卵黄と混ぜた豆腐を乗せる。",
+      "お好みでネギや唐辛子などを加える。"
+    ],
+    "prompt": "Bowl of spicy pork belly and egg yolk, sizzling on the stove, steam rising with a vibrant red sauce. ",
+    "filename": "recipe_1787333047.jpg",
+    "date": "2026-08-21 17:25:53",
+    "timestamp": 1787333047,
+    "likes": 0,
+    "views": 203
+  },
+  {
     "id": "recipe_1787329659",
     "category": "dessert",
     "category_ja": "デザート",
