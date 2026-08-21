@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1787301261",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子 × レモンクリーム生パスタの悪魔的甘酸っぱさ！",
+    "title_en": "Devilish Lemon Cream Pasta with Spicy Tuna Paste",
+    "description_ja": "明太子とレモンクリームソースが、まるで悪魔のささやきを聴かせる、衝撃的な食感と味覚の融合！",
+    "description_en": "A devilishly delicious fusion of lemon cream sauce and spicy tuna paste, a taste sensation that will leave you mesmerized! ",
+    "occasion_ja": "特別な日や、特別な夜にぴったりな一品",
+    "occasion_en": "A perfect dish for special occasions or a night you'll never forget.",
+    "ingredients": [
+      {
+        "name": "生パスタ",
+        "amount": "150g"
+      },
+      {
+        "name": "明太子",
+        "amount": "50g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 生パスタを沸騰したお湯で茹でる。茹で上がったら冷水で洗う。",
+      "2. 明太子をボウルに入れ、レモン汁、牛乳、バター、塩を加え混ぜる。",
+      "3. 冷たいレモン汁と明太子のクリームソースをパスタと混ぜ合わせる。",
+      "4. お皿にパスタを盛り付け、お好みでこしょうをかける。 "
+    ],
+    "prompt": "A plate of pasta with a devilishly bright lemon cream sauce, and a sprinkle of white sesame seeds.",
+    "filename": "recipe_1787301261.jpg",
+    "date": "2026-08-21 08:36:01",
+    "timestamp": 1787301261,
+    "likes": 0,
+    "views": 415
+  },
+  {
     "id": "recipe_1787297952",
     "category": "パスタ",
     "category_ja": "パスタ",
