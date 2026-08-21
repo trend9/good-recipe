@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787294217",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶 × ホワイトチョコ！悪魔の甘酸っぱい衝撃！",
+    "title_en": "A devilish twist of creamy white chocolate & matcha! A sweet and sour shock!",
+    "description_ja": "抹茶とホワイトチョコレートの最強コンビ！甘酸っぱくてクリーミーな味わいが、まさに悪魔の味を創り出します。見た目も美しく、特別な夜にぴったり。",
+    "description_en": "A devilish twist of creamy white chocolate & matcha! Sweet and sour flavor, a shock to your taste buds! Looks beautiful and perfect for a special evening.",
+    "occasion_ja": "特別な夜に。誕生日、記念日、バレンタイン、クリスマスなど。",
+    "occasion_en": "For special occasions. Birthday, anniversaries, Valentine's Day, Christmas, etc.",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "200g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "抹茶粉とホワイトチョコレートを混ぜる",
+      "砂糖を加え、よく混ぜる",
+      "水と牛乳を加え、なめらかになるまで混ぜる",
+      "器に盛り、冷蔵する"
+    ],
+    "prompt": "Close-up photo of a white chocolate and matcha dessert, with a light mist of whipped cream on top, elegant and delicious.",
+    "filename": "recipe_1787294217.jpg",
+    "date": "2026-08-21 06:39:08",
+    "timestamp": 1787294217,
+    "likes": 0,
+    "views": 181
+  },
+  {
     "id": "recipe_1787290087",
     "category": "dessert",
     "category_ja": "デザート",
