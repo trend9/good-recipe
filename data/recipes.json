@@ -1,5 +1,56 @@
 [
   {
+    "id": "recipe_1787279023",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の海賊！ 旨味爆弾！クリーミーアボカド × 海老のグラタン",
+    "title_en": "Octopus-licious! Creamy Avocado &  Grilled Shrimp Casserole",
+    "description_ja": "海賊の秘密のレシピ！クリーミーなアボカドと、旨味を爆発させる、贅沢な海老のグラタン。 悪魔的な美味しさ、この一皿で満足のいく夜を演出！",
+    "description_en": "A secret recipe from the pirate's cove! Creamy avocado and shrimp casserole for ultimate indulgence. Enjoy the devilishly delicious flavors in one dish and experience a truly satisfying night.",
+    "occasion_ja": "パーティーや特別な日にはぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "殻付き海老",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 海老は、殻を剥き、塩コショウで味付け。",
+      "2. アボカドは、皮を取り、種を取り除き、マヨネーズを加えて混ぜる。",
+      "3. パプリカは、種を取り除き、大きめな一口サイズに切る。",
+      "4. グラタン皿にアボカドのペーストを敷き、海老を乗せ、パプリカを散らしてチーズをトッピング。",
+      "5. オーブンで15分ほど焼く。",
+      "6. 焼きあがったら、お好みで、レモン汁をかけ、召し上がれ！"
+    ],
+    "prompt": "A photo of the finished dish: A vibrant and inviting creamy avocado and shrimp casserole, topped with a generous layer of melted cheese. The dish is steaming and visually appealing with contrasting colors of seafood, avocado, and cheese.",
+    "filename": "recipe_1787279023.jpg",
+    "date": "2026-08-21 02:25:04",
+    "timestamp": 1787279023,
+    "likes": 0,
+    "views": 166
+  },
+  {
     "id": "recipe_1787273906",
     "category": "rice/dessert",
     "category_ja": "ご飯/デザート",
