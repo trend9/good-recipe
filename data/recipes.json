@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787307904",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜 きな粉もちもちアイス！悪魔の甘辛風かき氷 (極上アレンジレシピ)",
+    "title_en": "Black Honey Kinako Mochi Ice Cream! (Ultimate Remix Recipe)",
+    "description_ja": "黒蜜の独特な甘さと、きな粉の香ばしさ、そしてもちもちとしたアイスが、悪魔的な美味しさへと昇華！極上の甘辛風味かき氷を、あなたの舌で体験せよ！",
+    "description_en": "The unique sweetness of black honey and the savory aroma of kinako, coupled with the irresistible melt-in-your-mouth texture of ice cream, create an ultimate, decadent, and unexpected flavor experience! Indulge in this exquisite, sweet and savory, ice cream experience.",
+    "occasion_ja": "特別な日や、日常のちょっとした幸せを演出する、特別な一品が欲しいとき",
+    "occasion_en": "Perfect for special occasions or adding a unique touch of delight to your everyday life",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "パインジュース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. Black honey and kinako are whisked into a smooth paste. ",
+      "2. The smooth paste is gently blended with a small amount of milk until a homogenous mixture is achieved. ",
+      "3. This mixture is poured into ice cream molds, or directly onto a plate, and frozen for at least 2 hours to allow the ice cream to set. ",
+      "4. When ready, a sprinkle of kinako over the top and a drizzle of pine juice will enhance the flavors and appearance."
+    ],
+    "prompt": "Close-up shot of a beautiful black ice cream with a sprinkle of kinako, against a backdrop of a minimalist wooden table, with a small glass of pine juice on the side.",
+    "filename": "recipe_1787307904.jpg",
+    "date": "2026-08-21 10:28:15",
+    "timestamp": 1787307904,
+    "likes": 0,
+    "views": 386
+  },
+  {
     "id": "recipe_1787304732",
     "category": "pasta",
     "category_ja": "パスタ",
