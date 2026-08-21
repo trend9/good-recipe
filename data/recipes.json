@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787340191",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の旨辛アボカドタルタル風かき氷！",
+    "title_en": "Devilish Spicy Avocado Tartare Ice Cream",
+    "description_ja": "サーモンとアボカドの旨辛タッカルビ風！ 悪魔的美味しさ！SNS映えも抜群！かき氷は、濃厚クリーミーソースで仕上げる！",
+    "description_en": "Devilishly spicy and refreshing. A taste of tartare with a twist! Creamy, cheesy ice cream with a spicy kick!  Be amazed at the visual appeal and the flavor.",
+    "occasion_ja": "特別な日には、友達とシェアもおすすめ！",
+    "occasion_en": "Perfect for sharing with friends on special days.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "タマネギ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "濃厚クリーミーソース",
+        "amount": "適量"
+      },
+      {
+        "name": "氷",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンを細かく刻み、タマネギは薄切りにして、アボカドは皮をむき、細かく刻みます。",
+      "アボカドとサーモンをタマネギと一緒に炒めます。",
+      "唐辛子を混ぜ、お好みで辛さを調整します。",
+      "濃厚クリーミーソースを混ぜ合わせ、かき氷に盛り付けて、お好みで塩コショウを振ります。"
+    ],
+    "prompt": "A vibrant, close-up shot of an ice cream cone with a dollop of creamy, cheesy ice cream. The ice cream features a layer of chili pepper flakes, a splash of avocado tartare, and a sprinkle of black sesame seeds. The background is a colorful summer sunset.",
+    "filename": "recipe_1787340191.jpg",
+    "date": "2026-08-21 19:25:45",
+    "timestamp": 1787340191,
+    "likes": 0,
+    "views": 259
+  },
+  {
     "id": "recipe_1787336984",
     "category": "dessert",
     "category_ja": "デザート",
