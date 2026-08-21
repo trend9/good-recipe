@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787319742",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス！悪魔の甘辛風かき氷 (極上アレンジレシピ)",
+    "title_en": "Black Honey Kinako Mochi Ice! Devilishly Sweet and Salty Dessert (Ultimate Remix Recipe)",
+    "description_ja": "黒蜜きな粉もちもちアイス！悪魔的な甘辛さで、誰もが虜になるかき氷が誕生！とろけるアイスに、黒蜜の甘さと、きな粉の香ばしさ、そしてもちもちとした食感のコントラストが、まさに悪魔的な美味しさ！",
+    "description_en": "Black honey kinako mochi ice! Devilishly sweet and salty ice cream is born!  A contrast of sweet, salty, and soft mochi ice.  This dessert is a devilish delight!",
+    "occasion_ja": "特別な日や、特別な人との時間を演出するのにぴったりなデザート",
+    "occasion_en": "Perfect for celebratory dessert or special occasions",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "もちもちアイスを器に盛り付け、黒蜜をたっぷり塗る",
+      "黒蜜の甘さをさらに引き立てるように、きな粉を少しまぶす",
+      "抹茶を少しだけ混ぜることで、さらに複雑な味わいが生まれる",
+      "抹茶を薄く塗り、きな粉をまぶすことで、悪魔的な味わいを完成させる"
+    ],
+    "prompt": "A close-up shot of a black honey kinako mochi ice bowl, with a spoon and some black honey drippings",
+    "filename": "recipe_1787319742.jpg",
+    "date": "2026-08-21 13:45:27",
+    "timestamp": 1787319742,
+    "likes": 0,
+    "views": 440
+  },
+  {
     "id": "recipe_1787315761",
     "category": "dessert",
     "category_ja": "デザート",
