@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787322630",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛チーズクランブル！",
+    "title_en": "Gourmet Fried Pork Cutlet with Honey Mustard Crumble: Devilishly Sweet & Savory! ",
+    "description_ja": "極厚カツを贅沢に味わえる、悪魔的甘辛チーズクランブル！ハニーマスタードの香りが食欲をそそります。\n",
+    "description_en": "A devilishly good twist on the classic fried pork cutlet: a rich and savory, honey mustard crumble topping with an irresistible touch of decadence.",
+    "occasion_ja": " parties, special occasions, home gathering",
+    "occasion_en": "For parties, special occasions, or a home gathering.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "片栗粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 極厚カツを両面で小麦粉を薄く塗って、10分ほどおくと、衣がより美味しくなります。",
+      "2. 特製ハニーマスタードを混ぜ、チーズと混ぜて、片栗粉と牛乳を加えて、なめらかになるまで混ぜます。",
+      "3. 極厚カツに、特製ハニーマスタードチーズクランブルを乗せます。",
+      "4. 熱々の状態で、1分程度加熱します。"
+    ],
+    "prompt": "Close-up shot of a plate with a golden-brown crispy fried pork cutlet topped with a honeycomb-like cheese crumble, sprinkled with a drizzle of honey mustard sauce, against a white background.",
+    "filename": "recipe_1787322630.jpg",
+    "date": "2026-08-21 14:32:25",
+    "timestamp": 1787322630,
+    "likes": 0,
+    "views": 213
+  },
+  {
     "id": "recipe_1787319742",
     "category": "dessert",
     "category_ja": "デザート",
