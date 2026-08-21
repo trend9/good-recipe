@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787297952",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛チーズクランブル！",
+    "title_en": "Ultimate Beef Cutlet with Honey Mustard & Cheese Crumble: Devilish Sweet & Spicy Cheese Bomb!",
+    "description_ja": "極厚カツを、特製ハニーマスタードで甘辛く仕上げた、悪魔的なチーズクランブルパスタが誕生！とろけるチーズと、甘辛のソースが、まるで悪魔の舌を刺激する美味しさ！",
+    "description_en": "Prepare for a devilishly delicious experience! Our new signature recipe combines the richness of beef cutlets with the addictive sweetness of honey mustard, and a cheesy crumble topping that explodes with flavor! ",
+    "occasion_ja": "特別な日にも、普段の食事にもぴったりな、悪魔的な美味しさ！",
+    "occasion_en": "Enjoy this devilishly delicious pasta recipe at any special occasion or everyday meal! ",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1枚"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "パプリカの種",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "極厚カツを、特製ハニーマスタードで甘辛く味付けする。",
+      "パプリカを1/4個の大きさに切り、卵を1個混ぜる。",
+      "チーズとパプリカの種を、卵で包み込み、極厚カツの表面に塗る。",
+      "予熱したオーブンで20分焼く。チーズが溶け、口の中で、悪魔的な甘辛な香りが広がる。"
+    ],
+    "prompt": "Close-up shot of the finished dish, devilishly delicious and tempting.  Cheese crumbles are visible, and steam is rising from the top. ",
+    "filename": "recipe_1787297952.jpg",
+    "date": "2026-08-21 07:40:58",
+    "timestamp": 1787297952,
+    "likes": 0,
+    "views": 453
+  },
+  {
     "id": "recipe_1787294217",
     "category": "dessert",
     "category_ja": "デザート",
