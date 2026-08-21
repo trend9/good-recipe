@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787326178",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘辛アボカドタルタル風アイス！",
+    "title_en": "Devilishly Spicy Avocado Tartare Ice Cream!",
+    "description_ja": "サーモンの旨味とアボカドのクリーミーさが、意外な組み合わせで、悪魔的な美味しさ！ 濃厚なアイスに、タルタルの爽やかさと、甘辛さが融合！",
+    "description_en": "A devilishly delicious ice cream experience with the bold flavors of salmon, avocado, and a creamy, spicy twist! Indulge in the unexpected fusion of sweet, salty, and savory!",
+    "occasion_ja": "特別な日にも、普段使いにも、悪魔的な美味しさをお届けします！",
+    "occasion_en": "The perfect treat for special occasions and everyday indulgence! Experience the devilishly delicious.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "1. サーモンは一口大に切り、塩コショウで味付けします。",
+      "2. アボカドは石づきを取り、薄くスライスします。",
+      "3. フライパンにマヨネーズと砂糖を加え、火にかける。水を加え、とろみがつくまで加熱します。",
+      "4. 氷水で冷やしたサーモンとアボカドを、溶けたアイスソースで盛り付けます。"
+    ],
+    "prompt": "Close-up shot of a scoop of devilishly spicy ice cream, with a slice of salmon and avocado artfully arranged on top, against a white background.",
+    "filename": "recipe_1787326178.jpg",
+    "date": "2026-08-21 15:31:25",
+    "timestamp": 1787326178,
+    "likes": 0,
+    "views": 223
+  },
+  {
     "id": "recipe_1787322630",
     "category": "side",
     "category_ja": "サイド",
