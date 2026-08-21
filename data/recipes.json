@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787315761",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろけるチーズと激辛タッカルビチキン：悪魔的チーズタッカルビかき氷",
+    "title_en": "Spicy Tteokbokki & Cheesy Grilled Cheese Ice Cream",
+    "description_ja": "とろけるチーズと激辛タッカルビチキンを組み合わせた、極上かき氷！悪魔的な甘辛さとチーズのクリーミーさが爆発！",
+    "description_en": "Spicy Tteokbokki and cheesy grilled cheese ice cream, the ultimate Korean-style ice cream dessert! Sweet and spicy, cheesy and ice-cold!",
+    "occasion_ja": "夏の暑さを吹き飛ばす、特別なデザートにぴったり！",
+    "occasion_en": "Perfect for a summer's day treat!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "きゅうり",
+        "amount": "適量"
+      },
+      {
+        "name": "白玉粉",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを炒める。",
+      "2. 溶きチーズを混ぜる。",
+      "3. きゅうりを細かく切るか、丸め、白玉粉と牛乳で溶き、お好みのサイズに作る。",
+      "4. タッカルビチキンとチーズを、かき氷の上に盛り付け、お好みで砂糖で甘味を加える。"
+    ],
+    "prompt": "A close-up shot of a vibrant ice cream with grilled cheese and spicy tteokbokki topping, inspired by Korean-style art.",
+    "filename": "recipe_1787315761.jpg",
+    "date": "2026-08-21 12:37:46",
+    "timestamp": 1787315761,
+    "likes": 0,
+    "views": 359
+  },
+  {
     "id": "recipe_1787311298",
     "category": "dessert",
     "category_ja": "デザート",
