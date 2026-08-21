@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787284002",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろとろ卵と激辛麻婆豆腐の超激辛丼 ～悪魔の激辛祭～",
+    "title_en": "Super Spicy Devil's Spicy Bowl: Creamy Egg & Spicy Mapo Tofu",
+    "description_ja": "普段の麻婆豆腐に、とろとろ卵がとろける！激辛な麻婆豆腐と卵の組み合わせで、食欲を刺激する超激辛丼が登場！",
+    "description_en": "The ultimate spicy bowl! Creamy egg meets spicy mapo tofu for a flavor explosion. Get ready for a devilishly spicy experience!",
+    "occasion_ja": "辛いものが好きな人へ。食欲を刺激する一品",
+    "occasion_en": "For spice lovers! A dish to awaken your appetite.",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "激辛麻婆豆腐のタレ",
+        "amount": "100ml"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "白米",
+        "amount": "100g"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "豆腐を1cm角に切る。",
+      "激辛麻婆豆腐のタレを加えて混ぜる。",
+      "フライパンに油をひき、豆腐を炒め、卵を溶き加え、とろけるまで炒める。",
+      "ご飯を盛り付ける。激辛麻婆豆腐丼完成"
+    ],
+    "prompt": "Close-up of a bowl of spicy mapo tofu with a fluffy egg on top, sizzling hot, with a red chili pepper on the side. Anime style illustration, bold and vibrant colors, high contrast.",
+    "filename": "recipe_1787284002.jpg",
+    "date": "2026-08-21 03:49:10",
+    "timestamp": 1787284002,
+    "likes": 0,
+    "views": 395
+  },
+  {
     "id": "recipe_1787279023",
     "category": "side",
     "category_ja": "サイド",
