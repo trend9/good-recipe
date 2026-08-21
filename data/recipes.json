@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787311298",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油  悪魔的甘辛風かき氷",
+    "title_en": "Spicy Char Siu Ice Cream with Spicy Garlic Sauce",
+    "description_ja": "炙りチャーシューの甘辛な風味が、濃厚焦がしにんにく醤油との相性抜群！かき氷で味わう悪魔的甘辛風！",
+    "description_en": "Spicy char siu and creamy garlic ice cream with a splash of spicy sauce, this recipe brings a delicious twist to your taste buds!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "アイスクリーム",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶",
+        "amount": "適量"
+      },
+      {
+        "name": "白いパウダー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  炙りチャーシューを小さくカットします。",
+      "2.  濃厚焦がしにんにく醤油を、アイスクリームに混ぜて、味を調えます。",
+      "3.  抹茶を砕き、白いパウダーを加えて混ぜます。",
+      "4.  アイスクリームを盛り、炙りチャーシューと濃厚焦がしにんにく醤油をトッピングします。抹茶パウダーをふFinishing"
+    ],
+    "prompt": "A close-up image of a beautiful ice cream, featuring a small piece of char siu, a splash of spicy sauce, and a dusting of green tea powder, all on top of a vibrant ice cream base.",
+    "filename": "recipe_1787311298.jpg",
+    "date": "2026-08-21 11:24:09",
+    "timestamp": 1787311298,
+    "likes": 0,
+    "views": 226
+  },
+  {
     "id": "recipe_1787307904",
     "category": "dessert",
     "category_ja": "デザート",
