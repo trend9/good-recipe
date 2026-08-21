@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787329659",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔的黒蜜きな粉もちもちアイス！",
+    "title_en": "Decadent Charcoal-Grilled Pork + Spicy Garlic & Honey Ice Cream",
+    "description_ja": "炙りチャーシューの旨味と濃厚焦がしにんにく醤油が、もちもちとしたきな粉アイスに溶け込む！悪魔的な甘酸っぱさが、脳みそを支配する！？",
+    "description_en": "Charcoal-grilled pork and a rich, spicy garlic and honey sauce combine with a sweet and savory matcha ice cream, creating a mind-blowing dessert experience.",
+    "occasion_ja": "特別な夜、特別な人に贈る一品",
+    "occasion_en": "Perfect for special occasions, a dessert worthy of a king.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "もちもちきな粉アイス",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶アイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.炙りチャーシューを、濃厚焦がしにんにく醤油で味付けし、焼成する。",
+      "2.もちもちきな粉アイスを、抹茶アイスと混ぜ合わせる。",
+      "3.黒蜜を混ぜて、アイスに塗る。",
+      "4.炙りチャーシューと、アイスを交互に盛り、仕上げに黒蜜を散らす。"
+    ],
+    "prompt": "A close-up shot of a beautiful serving of the dessert on a white plate. It should have a smoky, almost-melted appearance.",
+    "filename": "recipe_1787329659.jpg",
+    "date": "2026-08-21 16:30:08",
+    "timestamp": 1787329659,
+    "likes": 0,
+    "views": 195
+  },
+  {
     "id": "recipe_1787326178",
     "category": "dessert",
     "category_ja": "デザート",
