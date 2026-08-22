@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1787393925",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろとろ卵旨辛麻婆豆腐丼の魔法のかき氷！",
+    "title_en": "Creamy Egg & Spicy Kung Pao Tofu Rice Ball Ice Cream!",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の融合、かき氷で実現！甘辛いタレを混ぜ込み、ふわふわの卵と麻婆豆腐を贅沢にトッピング。",
+    "description_en": "Fusion of creamy egg and spicy Kung Pao tofu rice ball.  Creamy and sweet savory sauce is mixed with the fluffy egg and spicy Kung Pao tofu. ",
+    "occasion_ja": "特別な日、特別な人への贈り物に最適！",
+    "occasion_en": "Perfect gift for a special occasion! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "3個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "150g"
+      },
+      {
+        "name": "白米",
+        "amount": "200g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "かき氷",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 卵を溶き、白米と醤油を混ぜて、白米を溶き卵で包みます。",
+      "2. 旨辛麻婆豆腐を、卵で包んだ白米の上に、かき氷と一緒に盛り付けます。",
+      "3. 砂糖を加え、かき氷と一緒に混ぜます。",
+      "4. 器に盛り付け、お好みでソースを添えてください。"
+    ],
+    "prompt": "Close-up image of the silky egg and spicy Kung Pao tofu rice ball ice cream with a fluffy cloud of ice cream and colorful toppings on top. A creative, whimsical illustration style, inspired by anime and fantasy.",
+    "filename": "recipe_1787393925.jpg",
+    "date": "2026-08-22 10:20:29",
+    "timestamp": 1787393925,
+    "likes": 0,
+    "views": 202
+  },
+  {
     "id": "recipe_1787390549",
     "category": "dessert",
     "category_ja": "デザート",
