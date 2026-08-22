@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787437011",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的なクリーミーアボカド＆海老グラタン風チーズケーキ",
+    "title_en": "Devilishly Creamy Avocado & Shrimp Gratin Cheesecake",
+    "description_ja": "クリーミーなアボカドと海老のグラタンを、チーズケーキの生地で包み込んだ、衝撃的な悪魔的なスイーツ。濃厚でクリーミーな味わいが、口いっぱいに広がる。",
+    "description_en": "Creamy avocado and shrimp gratin in a cheesecake crust. It's a devilishly delicious sweet with a unique and decadent flavor. ",
+    "occasion_ja": "特別な日に、パーティー、特別な時間にお楽しみください。",
+    "occasion_en": "Perfect for special occasions, parties, and special moments.",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "300g"
+      },
+      {
+        "name": "海老",
+        "amount": "100g"
+      },
+      {
+        "name": "グラタンチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1. アボカドと海老を炒め、塩コショウで味付けする。",
+      "2. 混ぜ合わせるように、チーズ生地と混ぜ合わせる。",
+      "3. フライパンにバターを流し込み、生地を均等に広げる。",
+      "4. オーブンで180℃で15分焼く。",
+      "5. 焼きあがったら、お好みでトッピング（例：レモン汁、ハーブ）を添える"
+    ],
+    "prompt": "Close-up shot of a cheesecake with a creamy avocado and shrimp filling, surrounded by a fluffy cheese crust, with a hint of black pepper",
+    "filename": "recipe_1787437011.jpg",
+    "date": "2026-08-22 22:19:14",
+    "timestamp": 1787437011,
+    "likes": 0,
+    "views": 296
+  },
+  {
     "id": "recipe_1787433461",
     "category": "dessert",
     "category_ja": "デザート",
