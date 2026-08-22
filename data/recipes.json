@@ -1,5 +1,68 @@
 [
   {
+    "id": "recipe_1787390549",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテトチーズのクリーミーソースかき氷！",
+    "title_en": "Creamy Cheese & Crispy Potato Ice Cream!",
+    "description_ja": "サクサク食感のポテトとクリーミーチーズソースが、冷たくても食べごたえ満点のかき氷！\n悪魔的な美味しさで、誰もが笑顔になれる一品です。",
+    "description_en": "Creamy cheese and crispy potato ice cream for a tastebud-tingling experience! This ice cream will give you a devilishly delicious treat you won't be able to resist. ",
+    "occasion_ja": "夏の夜に、特別な一日のデザートにぴったり！",
+    "occasion_en": "The perfect dessert for a special occasion on a summer night.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "溶かしバター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "塩胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "お好みで",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "じゃがいもを、1cm角にカットして、乾燥させます。",
+      "小麦粉、塩、溶かしバター、卵を加え、混ぜ合わせます。",
+      "ポテト生地を、薄く、丸く、平らにします。",
+      "チーズ、牛乳を加え、なめらかになるまで混ぜます。",
+      "かき氷台に、チーズソースを、均等に塗り、ポテト生地を乗せます。",
+      "お好みで、砂糖を添えて、冷やします。"
+    ],
+    "prompt": "Close-up of the ice cream with a crispy potato shape. Creamy cheese sauce flows on the surface, with a snow-white background. ",
+    "filename": "recipe_1787390549.jpg",
+    "date": "2026-08-22 09:25:40",
+    "timestamp": 1787390549,
+    "likes": 0,
+    "views": 381
+  },
+  {
     "id": "recipe_1787386987",
     "category": "dessert",
     "category_ja": "デザート",
