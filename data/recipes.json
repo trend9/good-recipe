@@ -1,5 +1,66 @@
 [
   {
+    "id": "recipe_1787369908",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "ハニーマヨネーズ サクサク唐揚げの魔法のかき氷",
+    "title_en": "Honey Mayo Fried Chicken Ice Cream",
+    "description_ja": "悪魔的な甘酸っぱさとサクサクとした食感の、かき氷はもはや常識を超えた衝撃！ ハニーマヨネーズと唐揚げの組み合わせで、今までにない、想像をはるかに超えた美味しさに浸ってください。",
+    "description_en": "This unique ice cream brings a whole new level of flavor. A combination of honey mayo and crispy fried chicken will surprise your taste buds and take your ice cream experience to a whole new level. ",
+    "occasion_ja": "特別な日に、特別なデザートで心を満たそう！",
+    "occasion_en": "The perfect dessert for a special occasion.",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "少々"
+      },
+      {
+        "name": "アイス",
+        "amount": "適量"
+      },
+      {
+        "name": "ココナッツミルク",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏肉を一口大に切り、小麦粉と塩をまぶす。",
+      "卵を割りほぐし、ハニーマヨネーズと砂糖を加えて混ぜる。",
+      "鶏肉の片面にハニーマヨネーズ液を塗り、揚げる。",
+      "揚げた鶏肉をアイスとココナッツミルクで仕上げる。"
+    ],
+    "prompt": "Close-up shot of the fried chicken ice cream with a whimsical, cartoon-like appearance, with a splash of ice cream and coconut milk, in a modern, bright kitchen setting.",
+    "filename": "recipe_1787369908.jpg",
+    "date": "2026-08-22 03:41:51",
+    "timestamp": 1787369908,
+    "likes": 0,
+    "views": 397
+  },
+  {
     "id": "recipe_1787364863",
     "category": "dessert",
     "category_ja": "デザート",
