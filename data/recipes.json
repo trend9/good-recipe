@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787426411",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的な海老グラタンかき氷",
+    "title_en": "Devilish Crab & Avocado Grilled Cheese Ice Cream",
+    "description_ja": "クリーミーなアボカドグラタンを、かき氷で、さらに悪魔的な甘辛な風味で。見た目もインパクト抜群。",
+    "description_en": "Creamy avocado grilled cheese transformed into a decadent ice cream with a devilishly unique twist.  An eye-catching and devilishly delicious treat.",
+    "occasion_ja": "特別な日や、パーティーなど、特別な日に食べたい悪魔の美味しさ",
+    "occasion_en": "Special occasions or parties, a devilishly delicious treat for special days",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "アイスクリーム (ミルクや抹茶など)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "海老は塩コショウで味付けし、オリーブオイルで焼きます。",
+      "アボカドはみじん切りにして、グラタンソースと混ぜ合わせ、チーズをトッピングします。",
+      "アイスクリーム（ミルクや抹茶など）を、かき氷台で少し凍らせて、グラタンソースとアボカドの生地を乗せます。",
+      "かき氷台の上から、アイスクリームを乗せて、完成。"
+    ],
+    "prompt": "Close-up image of a devilishly beautiful ice cream with a crab and avocado grilled cheese creation,  a decadent and whimsical ice cream dessert",
+    "filename": "recipe_1787426411.jpg",
+    "date": "2026-08-22 19:22:29",
+    "timestamp": 1787426411,
+    "likes": 0,
+    "views": 393
+  },
+  {
     "id": "recipe_1787422897",
     "category": "dessert",
     "category_ja": "デザート",
