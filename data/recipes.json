@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787433461",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油  -  悪魔的な甘辛かき氷",
+    "title_en": "Smoked Brisket x Rich Garlic & Peppercorn Ice Cream - Devilishly Delicious and Creamy Ice Cream",
+    "description_ja": "甘辛な炙りチャーシューの旨味と、濃厚な焦がしにんにく醤油が、氷の中に溶け込むような、悪魔的な甘辛かき氷！",
+    "description_en": "A devilishly delicious and creamy ice cream combining the savory and rich flavors of smoked brisket with a decadent,  intensely flavored garlic and peppercorn sauce, all blended into a smooth ice cream. ",
+    "occasion_ja": "特別な夜に、特別な人へプレゼント！",
+    "occasion_en": "For a special occasion, the perfect treat for someone special.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "300ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "抹茶粉",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1.炙りチャーシューを小さくカットする。",
+      "2.生クリームと砂糖を入れて混ぜる。",
+      "3.濃厚焦がしにんにく醤油と抹茶粉を加え、混ぜる。",
+      "4.抹茶の風味とにんにくの香りが溶け込むように、氷の上に盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a beautiful ice cream with a smoky, decadent flavor, topped with a generous amount of carefully arranged slices of smoked brisket, and drizzle of rich garlic and peppercorn sauce, with a sprinkle of green tea powder. ",
+    "filename": "recipe_1787433461.jpg",
+    "date": "2026-08-22 21:19:20",
+    "timestamp": 1787433461,
+    "likes": 0,
+    "views": 320
+  },
+  {
     "id": "recipe_1787429880",
     "category": "dessert",
     "category_ja": "デザート",
