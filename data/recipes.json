@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787418998",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜×きな粉もちもちアイス：悪魔の甘辛スイーツ",
+    "title_en": "Black Sugar & Kinako Mochi Ice Cream: Devilishly Delicious Sweet Treats",
+    "description_ja": "一見すると普通のアイスだが、黒蜜の濃厚な甘さときな粉のほろ苦さが、衝撃的な美味しさに！  悪魔的な甘辛さに、誰もが魅了される一品です。",
+    "description_en": "A seemingly ordinary ice cream, but the intense sweetness of black sugar and the delicate bitterness of kinako come together for a shockingly delicious experience!  Everyone will be captivated by its devilishly delicious flavor.",
+    "occasion_ja": "特別な日や、ちょっとした贅沢にぴったり",
+    "occasion_en": "Perfect for special occasions or a little indulgence",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "1個"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "きな粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "溶かしバター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "もちもちアイスに黒蜜ときな粉を混ぜる。",
+      "抹茶パウダーを混ぜる。",
+      "溶かしバターを溶かして、アイスと混ぜる。",
+      "冷蔵庫で冷やしたアイスを盛り付ける。"
+    ],
+    "prompt": "Close-up image of ice cream with a rich, dark black color, sprinkled with kinako and dusted with matcha powder, against a white background.  The ice cream is melting slightly and the texture is visible.",
+    "filename": "recipe_1787418998.jpg",
+    "date": "2026-08-22 17:18:54",
+    "timestamp": 1787418998,
+    "likes": 0,
+    "views": 337
+  },
+  {
     "id": "recipe_1787415521",
     "category": "side",
     "category_ja": "サイド",
