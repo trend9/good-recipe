@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787411776",
+    "category": "rice",
+    "category_ja": "ご飯",
+    "title_ja": "ガーリックバター × ぷりぷり海老ピラフ：悪魔の甘辛な香りに満ちたピラフ",
+    "title_en": "Garlic Butter Shrimp Rice Pilaf: An Exquisitely Delicious and Spicy Delight",
+    "description_ja": "ガーリックバターの香ばしさ、ぷりぷり海老の食感、ピラフの甘辛な味付けが絶妙なハーモニー。見た目は普通なのに、悪魔的な美味しさで魅了します。",
+    "description_en": "A combination of garlic butter's savory scent, the bouncy shrimp, and a sweet and spicy rice pilaf creates a delicious harmony. The unexpected but truly amazing taste will leave you mesmerized. ",
+    "occasion_ja": "特別な日や、日常の晩御飯に最適な一品。",
+    "occasion_en": "An excellent choice for special occasions or everyday dinner. ",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. ご飯を炊きます。",
+      "2. ぷりぷり海老をガーリックバターと混ぜ、塩と砂糖で味を調えます。",
+      "3. 炊いたご飯をフライパンで熱し、海老とガーリックバターソースを混ぜます。",
+      "4. 器に盛り付け、お好みでパクチーやレモン汁を添えてください。"
+    ],
+    "prompt": "A close-up shot of the delicious garlic butter shrimp rice pilaf, with a generous amount of shrimp and garlicky flavor.  Camera focuses on the creamy texture and appealing color of the rice pilaf with a sprinkle of greenery, evoking a sense of warmth and comfort.",
+    "filename": "recipe_1787411776.jpg",
+    "date": "2026-08-22 15:17:59",
+    "timestamp": 1787411776,
+    "likes": 0,
+    "views": 247
+  },
+  {
     "id": "recipe_1787408189",
     "category": "dessert",
     "category_ja": "デザート",
