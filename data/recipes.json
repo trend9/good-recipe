@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1787405296",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコガトーショコラ：悪魔の甘さの秘密  ",
+    "title_en": "Matcha White Chocolate Gateau Chocolat: The Secret of a Devious Sweetness",
+    "description_ja": "抹茶とホワイトチョコレートの、濃厚な甘さが凝縮された、悪魔のガトーショコラ！  見た目は華やかで、一口食べると、口の中に広がる意外な甘辛な味が忘れられない一品です。",
+    "description_en": "A decadent matcha and white chocolate gateau chocolat, where the sweetness is concentrated to the point of devilishly delicious. This dessert looks as stunning as it tastes, with an unexpected and wonderful mix of sweet and savory flavors.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion.",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "100g"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1.  抹茶粉とホワイトチョコレートを混ぜ合わせ、溶かす。",
+      "2.  溶かしたチョコレートを、溶かしバターと混ぜ合わせる。",
+      "3.  卵と砂糖を混ぜる。",
+      "4.  混ぜ合わせたチョコレートと卵の生地を、焼成型に流し込む。",
+      "5.  180℃に予熱したオーブンで約15分焼く。",
+      "6.  焼きあがったら、冷蔵庫で冷やす。"
+    ],
+    "prompt": "Close-up shot of a beautiful dark chocolate ganache gateau, with a subtle swirl of green matcha powder. It has a beautiful glossy finish, and the contrast between the dark chocolate and green matcha is striking.",
+    "filename": "recipe_1787405296.jpg",
+    "date": "2026-08-22 13:30:00",
+    "timestamp": 1787405296,
+    "likes": 0,
+    "views": 260
+  },
+  {
     "id": "recipe_1787401684",
     "category": "dessert",
     "category_ja": "デザート",
