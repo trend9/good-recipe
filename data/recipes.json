@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787383681",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔のポテトチーズクリームかき氷！",
+    "title_en": "Devilish Potato & Cheese Cream Ice-cream!",
+    "description_ja": "サクサクポテトとクリーミーチーズの贅沢な組み合わせ。悪魔的甘酸っぱさの中に、甘酸っぱさとクリーミーさを味わえる、まるで魔法のかき氷！",
+    "description_en": "A devilishly delicious combination of crispy potato and creamy cheese, with a sweet and sour magic that will transport your taste buds!  ",
+    "occasion_ja": "特別な日や、日常のちょっとしたリフレッシュにぴったり！",
+    "occasion_en": "Perfect for special occasions or a little pick-me-up in your daily life!",
+    "ingredients": [
+      {
+        "name": "サツマイモ",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "お好みで",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. サツマイモは、皮をむき、厚さ1cm程度に切る。",
+      "2. フライパンに油をひき、サツマイモを中火で焼き、表面に焼き色がつくまで焼く。",
+      "3. 砂糖と塩を混ぜて、牛乳を加えて混ぜる。",
+      "4. 混ぜ合わせたチーズクリームを、サツマイモの焼き面に注ぐ。かき氷のトッピングとして、お好みで彩り豊かに飾り付ける。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious potato and cheese cream ice cream, with fluffy cloud-like texture, showcasing a sprinkle of herbs and spices on top.",
+    "filename": "recipe_1787383681.jpg",
+    "date": "2026-08-22 07:31:02",
+    "timestamp": 1787383681,
+    "likes": 0,
+    "views": 363
+  },
+  {
     "id": "recipe_1787376189",
     "category": "dessert",
     "category_ja": "デザート",
