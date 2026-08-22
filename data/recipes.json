@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1787360098",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの悪魔的衝撃！ - とろけるバナナの超絶甘辛タッカルビかき氷",
+    "title_en": "Banana Caramel Brulee Explosion - Sweet and Spicy Tteokbokki Ice Cream",
+    "description_ja": "完熟バナナとキャラメル、そして意外なタッカルビが融合！ 悪魔的な甘辛タッカルビ風味のかき氷、まさに衝撃の味。",
+    "description_en": "A shockingly delightful combination of ripe banana, caramel, and spicy Tteokbokki. This sweet and spicy Tteokbokki ice cream will surely shock your taste buds.",
+    "occasion_ja": "夏の夜、特別なイベントに、特別なデザートを。",
+    "occasion_en": "A special dessert for a summer night or a special event.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1本"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "1/2カップ"
+      },
+      {
+        "name": "タッカルビのソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "氷",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  完熟バナナを1cm角にカット。",
+      "2.  バナナをキャラメルソースで包んで、キャラメルソースの甘さとバナナの甘さを絡ませる。",
+      "3.  タッカルビのソースと混ぜ合わせ、氷と一緒にかき氷のように盛り付ける。",
+      "4.  タッカルビのソースを添えて、一粒をトッピングする。 "
+    ],
+    "prompt": "Close-up image of a decadent ice cream with banana, caramel, and a sprinkle of spicy Tteokbokki sauce. The ice cream is melting and dripping with a vibrant, golden color.",
+    "filename": "recipe_1787360098.jpg",
+    "date": "2026-08-22 00:56:40",
+    "timestamp": 1787360098,
+    "likes": 0,
+    "views": 344
+  },
+  {
     "id": "recipe_1787347169",
     "category": "dessert",
     "category_ja": "デザート",
