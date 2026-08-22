@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787397426",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろとろデミハンバーグかき氷：悪魔の甘辛ソースに、半熟卵の魔法",
+    "title_en": "Devilishly Delicious Deconstructed Hamburger & Egg Shaved Ice",
+    "description_ja": "とろとろ半熟卵と濃厚デミグラスソースが、冷たくて爽やかなかき氷に。悪魔の甘辛ソースと半熟卵の魔法が、あなたを魅了！",
+    "description_en": "A decadent shaved ice that mixes a rich, savory and slightly sweet sauce with a soft and creamy egg yolk. This is a true game-changer for dessert lovers. ",
+    "occasion_ja": "特別な日に、特別なデザートに。",
+    "occasion_en": "Special occasion dessert.",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼いて、デミグラスソースを絡めて、冷やす。",
+      "卵を半熟状態にする。",
+      "生クリームと砂糖で甘味とコクを調える。",
+      "かき氷台にハンバーグと卵、生クリームソースを盛り付ける。"
+    ],
+    "prompt": "A close-up shot of a shaved ice with a soft, creamy half-cooked egg yolk and a juicy, slightly charred hamburger patty. The dark, rich sauce flows around the patty, and a few drops of demitasse sauce drip down the side.",
+    "filename": "recipe_1787397426.jpg",
+    "date": "2026-08-22 11:19:27",
+    "timestamp": 1787397426,
+    "likes": 0,
+    "views": 242
+  },
+  {
     "id": "recipe_1787393925",
     "category": "dessert",
     "category_ja": "デザート",
