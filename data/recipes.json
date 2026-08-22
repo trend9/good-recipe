@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787386987",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔バナナキャラメルブリュレかき氷：甘辛タッカルビ風デザート",
+    "title_en": "Korean-Inspired Banana Caramel Brulee Ice Cream: Spicy & Sweet Delight",
+    "description_ja": "完熟バナナの甘さと、キャラメルブリュレの濃厚な甘さと、タッカルビの辛さを融合させた、悪魔的な美味しさのかき氷レシピ。",
+    "description_en": "This recipe combines the sweet, caramelized flavor of banana with the spicy, tangy notes of Korean-style bulgogi, topped with a caramel brulee finish for a truly addictive ice cream dessert. ",
+    "occasion_ja": "特別な日や、普段のデザートとして、特別な時間を演出したい時におすすめです。",
+    "occasion_en": "A perfect dessert option for special occasions or when you want to elevate your everyday desserts. ",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "タッカルビ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "バナナを薄切りにして、バターで炒めます。",
+      "タッカルビを炒めます。",
+      "キャラメルソースを加え、混ぜます。",
+      "かき氷台にバナナとタッカルビを盛り付け、キャラメルソースを散らします。"
+    ],
+    "prompt": "Close-up shot of a beautifully crafted ice cream dessert with banana, caramel, and bulgogi, with smoke and a soft, warm glow.",
+    "filename": "recipe_1787386987.jpg",
+    "date": "2026-08-22 08:26:38",
+    "timestamp": 1787386987,
+    "likes": 0,
+    "views": 451
+  },
+  {
     "id": "recipe_1787383681",
     "category": "dessert",
     "category_ja": "デザート",
