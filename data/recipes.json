@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787415521",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバター × ぷりぷり海老ピラフ：悪魔の旨辛ソース！",
+    "title_en": "Garlicky Butter Shrimp Fried Rice: Devilishly Spicy & Delicious",
+    "description_ja": "ガーリックバターとぷりぷり海老が織りなす、悪魔的な旨辛な味わいが爆発！ピラフに、甘辛ソースでさらに美味しさを引き出す！",
+    "description_en": "A devilishly spicy and delicious shrimp fried rice with garlicky butter! Sweet and sour sauce amplifies the flavor of this unique dish.",
+    "occasion_ja": "パーティーや夕食、特別な日にぴったり！",
+    "occasion_en": "Perfect for parties, dinners, or special occasions.",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "10g"
+      },
+      {
+        "name": "甘辛ソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1.  ご飯に甘辛ソースと醤油を混ぜて、混ぜ合わせる。",
+      "2.  エビを揚げ、ガーリックバターで和えて、ご飯と混ぜる。",
+      "3.  熱したフライパンで、ご飯とエビを炒め、仕上げに甘辛ソースを混ぜる。",
+      "4.  お好みで、レモン汁を少し加えて完成。"
+    ],
+    "prompt": "A close-up shot of a sizzling pan with garlicky butter and shrimp fried rice, featuring shrimp and a beautiful golden brown color.  The rice is fluffy, and the sauce has a delicious red color. ",
+    "filename": "recipe_1787415521.jpg",
+    "date": "2026-08-22 16:20:19",
+    "timestamp": 1787415521,
+    "likes": 0,
+    "views": 265
+  },
+  {
     "id": "recipe_1787411776",
     "category": "rice",
     "category_ja": "ご飯",
