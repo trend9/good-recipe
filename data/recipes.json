@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787401684",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘辛デザート  ",
+    "title_en": "Roasted Sweet Potato × Buttery Caramel: Devilishly Delicious Dessert",
+    "description_ja": "焼き芋の甘さと、とろけるバターカルメルのコクが、悪魔の美味しさに進化！異次元デザートの誕生。",
+    "description_en": "A devilishly delicious dessert featuring the sweet and savory goodness of roasted sweet potato with a buttery caramel. A totally new dimension of dessert experience.",
+    "occasion_ja": "特別な日に、悪魔的美味しさをお届けします。",
+    "occasion_en": "Indulge in devilishly delicious dessert for special occasions.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "500g"
+      },
+      {
+        "name": "バター",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "水",
+        "amount": "100ml"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "焼き芋を、皮を剥き、約10分間、オーブンで焼きます。",
+      "焼いた焼き芋を、すり鉢で細かく砕きます。",
+      "バターと砂糖を混ぜる。",
+      "焼き芋とバターの溶きバターを混ぜ合わせて、カラメルソースで仕上げます。"
+    ],
+    "prompt": "Close-up of roasted sweet potato with a swirl of buttery caramel sauce, with a warm glow and steam, and a hint of orange color on a black background (英語で料理の詳細を描写)",
+    "filename": "recipe_1787401684.jpg",
+    "date": "2026-08-22 12:29:44",
+    "timestamp": 1787401684,
+    "likes": 0,
+    "views": 338
+  },
+  {
     "id": "recipe_1787397426",
     "category": "dessert",
     "category_ja": "デザート",
