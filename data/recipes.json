@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787376189",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油 :  悪魔的黒蜜きな粉もちもちアイス！",
+    "title_en": "炙りチャーシュー x Rich Brown Garlic Glaze:  Devilish Black Honey Mochi Ice Cream",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を組み合わせ、黒蜜で味付けしたもちもちアイスに、悪魔的な甘さと香りをプラス！まるで魔法のデザートに！",
+    "description_en": "A devilishly delicious twist on the classic ice cream.  Sweet and savory flavors of smoked pork belly and rich garlic glaze come together with a hint of black honey and a melt-in-your-mouth mochi base. This is ice cream dessert with a touch of magic! ",
+    "occasion_ja": "特別な日のデザートにぴったりな悪魔的デザート！",
+    "occasion_en": "The perfect dessert for a special occasion.  ",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "2切れ"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを一口サイズにカットし、濃厚焦がしにんにく醤油で味付けします。",
+      "2.  もちもちアイスを器に盛り、黒蜜を溶かして表面に塗ります。",
+      "3.  炙りチャーシューをアイス上にトッピングし、きな粉を散らします。",
+      "4.  一口サイズにカットした炙りチャーシューをアイスの上にトッピングして、黒蜜ときな粉を添えます。"
+    ],
+    "prompt": "A close-up shot of the devilish ice cream, showcasing the contrast of black sesame and ice cream.  The smoky aroma of the pork belly and a dash of red spice. ",
+    "filename": "recipe_1787376189.jpg",
+    "date": "2026-08-22 05:24:52",
+    "timestamp": 1787376189,
+    "likes": 0,
+    "views": 178
+  },
+  {
     "id": "recipe_1787372870",
     "category": "dessert",
     "category_ja": "デザート",
