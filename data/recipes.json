@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787364863",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマトモッツァレラかき氷：悪魔的甘酸っぱさ",
+    "title_en": "Tomato Mozzarella Ice Cream: An Unexpectedly Delicious Twist",
+    "description_ja": " 完熟トマトの甘酸っぱさに、モッツァレラチーズのクリーミーな風味で、まるで天国のようなかき氷。 意外な組み合わせだけど、これが悪魔的な美味しさ！",
+    "description_en": "Experience the unexpected deliciousness of tomato and mozzarella ice cream with this unique and delightful twist.  A combination of sweet and sour flavors, topped with creamy mozzarella, this is a true masterpiece of taste.",
+    "occasion_ja": "特別な日にも、日常にも、おすすめ",
+    "occasion_en": "Perfect for special occasions and everyday indulgences.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1.  完熟トマトを細かく刻み、ミキサーでなめらかになるまで。",
+      "2.  生クリームと砂糖を混ぜ、塩を少々加え、なめらかになるまで混ぜる。",
+      "3.  モッツァレラチーズを細かく刻み、なめらかになるまで混ぜる。",
+      "4.  トマトとモッツァレラチーズの乳液を氷で冷やして、かき氷の形に盛り付ける。"
+    ],
+    "prompt": "Close-up shot of tomato and mozzarella ice cream on a white plate.  Fresh and vibrant colors.  A bit of steam from the ice cream.  A soft-focus background.",
+    "filename": "recipe_1787364863.jpg",
+    "date": "2026-08-22 02:16:48",
+    "timestamp": 1787364863,
+    "likes": 0,
+    "views": 161
+  },
+  {
     "id": "recipe_1787360098",
     "category": "dessert",
     "category_ja": "デザート",
