@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787422897",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的なサーモンとアボカドのタルタル風かき氷",
+    "title_en": "Salmon & Avocado Tartare Ice Cream - Devilish Delight",
+    "description_ja": "甘辛なタッカルビの風味が、かき氷で楽しむ悪魔的な一品。サーモンとアボカドのタルタル風、クリーミーな氷と意外な組み合わせが食欲をそそる！",
+    "description_en": "A devilish ice cream experience with a twist: Salmon & Avocado Tartare, bringing a sweet & savory burst in every bite. Creamy ice cream with an unexpected twist.",
+    "occasion_ja": "パーティーやイベントにぴったりな、特別なデザート！",
+    "occasion_en": "Perfect for parties and events, for a unique dessert experience.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "少々"
+      },
+      {
+        "name": "アイスクリーム (クリーミーな味)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンは、薄切りにしてレモン汁と塩で味付け。",
+      "アボカドは、すりおろし、タルタルソースを作る。",
+      "アイスクリームは、かき氷の器に入れて、サーモンとアボカドのタルタルソースを乗せる。",
+      "お好みで、レモン汁とブラックペッパーを添えて完成。"
+    ],
+    "prompt": "A close-up shot of the ice cream with salmon and avocado tartare, garnished with a few black pepper flakes, in a pink and blue ice cream cup.",
+    "filename": "recipe_1787422897.jpg",
+    "date": "2026-08-22 18:23:51",
+    "timestamp": 1787422897,
+    "likes": 0,
+    "views": 237
+  },
+  {
     "id": "recipe_1787418998",
     "category": "dessert",
     "category_ja": "デザート",
