@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787372870",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマトの魔法、モッツァレラとの出会い。悪魔的甘酸っぱいかき氷",
+    "title_en": "Tomato's Magic, An Encounter with Fresh Mozzarella. A Devilish Sweet and Sour Ice Cream",
+    "description_ja": "とろけるモッツァレラと、完熟トマトの甘酸っぱさが、かき氷の魔法に。悪魔的美味しさ満載！",
+    "description_en": "A devilishly sweet and sour ice cream magic with the melting mozzarella and the ripe tomatoes. A taste of the otherworldly.",
+    "occasion_ja": "特別な日には、ぜひ味わってみてください。",
+    "occasion_en": "Perfect for special occasions.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "500g"
+      },
+      {
+        "name": "フレッシュモッツァレラ",
+        "amount": "500g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "完熟トマトを細かく刻み、モッツァレラと混ぜる。",
+      "牛乳と砂糖を混ぜ、塩で味を調える。",
+      "溶き卵を混ぜ合わせ、かき氷の形に型を取る。",
+      "冷凍庫で冷やして、召し上がれ。"
+    ],
+    "prompt": "A close-up of a vibrant ice cream mold with a layer of red tomato and white mozzarella, with a sprinkle of salt and sugar on top. The ice cream mold has a creative, unique design, giving a magical and otherworldly feel.",
+    "filename": "recipe_1787372870.jpg",
+    "date": "2026-08-22 04:29:37",
+    "timestamp": 1787372870,
+    "likes": 0,
+    "views": 444
+  },
+  {
     "id": "recipe_1787369908",
     "category": "dessert",
     "category_ja": "デザート",
