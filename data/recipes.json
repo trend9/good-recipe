@@ -1,5 +1,42 @@
 [
   {
+    "id": "recipe_1787462688",
+    "category": "揚げ物",
+    "category_ja": "揚げ物",
+    "title_ja": "極厚カツ × ハニーマスタード：悪魔的な甘辛風味が炸裂する！",
+    "title_en": "Ultimate Deep-fried Katsu Curry: Devilishly Sweet and Savory",
+    "description_ja": "極厚カツの旨味を際立たせる、超スパイシーなハニーマスタードソースで仕上げる。甘辛な風味が炸裂する、悪魔的な味わいが楽しめる一品！",
+    "description_en": "Deep-fried Katsu Curry with a Devilishly sweet and spicy Honey Mustard sauce. This will elevate the flavor of the Katsu to the next level. It's a taste of the devil, but in the best way possible! ",
+    "occasion_ja": " parties, gatherings, or a casual weeknight dinner.",
+    "occasion_en": "Perfect for parties, gatherings, or a casual weeknight dinner.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマスタードソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "お好みで",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを揚げる。",
+      "ハニーマスタードソースとお好みで、混ぜて、ソースをカツに塗る。",
+      "カツをフライパンで両面を焼き、仕上げに、ハニーマスタードソースを塗る。",
+      "お好みで、ソースをたっぷり付けて、召し上がれ。"
+    ],
+    "prompt": "Close-up shot of deep-fried Katsu with a vibrant, red Honey Mustard sauce on top. The Katsu's crispy texture and the vibrant sauce combination create an alluring visual.  Anime style illustration with detailed food digital art",
+    "filename": "recipe_1787462688.jpg",
+    "date": "2026-08-23 05:26:28",
+    "timestamp": 1787462688,
+    "likes": 0,
+    "views": 437
+  },
+  {
     "id": "recipe_1787459533",
     "category": "Side",
     "category_ja": "サイド",
