@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787527028",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろける卵と旨辛麻婆豆腐の融合！悪魔の甘辛丼！",
+    "title_en": "Fusion of Creamy Egg and Spicy Mapo Tofu! Devilish Spicy Don!",
+    "description_ja": "とろとろ卵と、旨辛麻婆豆腐の組み合わせで、悪魔的な甘辛さが広がる丼ぶり！意外な美味しさに驚嘆！",
+    "description_en": "A fusion of creamy egg and spicy Mapo Tofu creates a devilishly delicious bowl of spicy and comforting goodness! Prepare to be amazed by the unexpected flavor combination!",
+    "occasion_ja": "特別な日にはもちろん、日常でも楽しめる！",
+    "occasion_en": "Perfect for special occasions, but also enjoyable everyday! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "麻婆豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "ご飯を炊く。",
+      "卵をボウルに入れ、軽く混ぜる。",
+      "麻婆豆腐と卵を炒める。",
+      "醤油、砂糖、酒を混ぜ合わせ、卵と麻婆豆腐を炒める。"
+    ],
+    "prompt": "Close-up shot of a sizzling plate of spicy mapo tofu with a creamy egg yolk drizzled on top, surrounded by fluffy rice and garnished with sesame seeds. A close-up of the egg yolk drizzled on top of the spicy mapo tofu, with a side of rice and sesame seeds.",
+    "filename": "recipe_1787527028.jpg",
+    "date": "2026-08-23 23:19:26",
+    "timestamp": 1787527028,
+    "likes": 0,
+    "views": 188
+  },
+  {
     "id": "recipe_1787523466",
     "category": "グラタン",
     "category_ja": "グラタン",
