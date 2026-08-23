@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787466727",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト×クリーミーチーズソース：悪魔のチーズグラタン風",
+    "title_en": "Sunchunky Potatoes & Creamy Cheese Sauce: Devil's Cheese Gratin",
+    "description_ja": "サクサクとクリーミーな組み合わせが悪魔的に美味しい！カリッとしたポテトにクリーミーチーズソースを絡めて、一口食べたら幸せな衝撃！",
+    "description_en": "The devilishly delicious combination of crispy potato and creamy cheese sauce!  Enjoy the satisfying explosion of crispy potato in creamy cheese sauce. ",
+    "occasion_ja": " parties,  dinner  ",
+    "occasion_en": "parties, dinner",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1kg"
+      },
+      {
+        "name": "ポテトチップス",
+        "amount": "適量"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを皮ごと、1cm幅に切る。",
+      "じゃがいもを油で揚げる。",
+      "ポテトチップスを軽く混ぜる。",
+      "クリームチーズ、牛乳、塩、こしょうを加え、混ぜる。"
+    ],
+    "prompt": "Close-up shot of delicious cheesy gratin, golden brown and crispy potatoes, creamy cheese sauce, and sprinkle of potato chips. Photo taken in studio, with soft lighting",
+    "filename": "recipe_1787466727.jpg",
+    "date": "2026-08-23 06:33:43",
+    "timestamp": 1787466727,
+    "likes": 0,
+    "views": 201
+  },
+  {
     "id": "recipe_1787462688",
     "category": "揚げ物",
     "category_ja": "揚げ物",
