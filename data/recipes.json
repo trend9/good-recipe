@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787519850",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛チーズ焼き！",
+    "title_en": "Spicy cheesy grilled pork with garlic & onion glaze",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油で作る、まるでチーズケーキのような一品。甘辛な風味とチーズのクリーミーな味わいが、一口食べたら虜になる美味しさ！",
+    "description_en": "Spicy and cheesy grilled pork with garlic & onion glaze. This recipe creates a cheesy, melt-in-your-mouth treat. A taste of heaven in every bite!",
+    "occasion_ja": "パーティー、BBQ、特別な日に",
+    "occasion_en": "Party, BBQ, special occasions",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "お好みで",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  炙りチャーシューは、厚さ1cm程度にカットします。",
+      "2.  濃厚焦がしにんにく醤油を、熱したフライパンで混ぜて溶かし、チーズを混ぜます。",
+      "3.  焼いたチャーシューを、チーズ醤油とバターで包み込み、お好みでハーブやレタスなどを飾ります。",
+      "4.  両面を焼く。表面に焦げ目が付くまで、3分程度焼きます。"
+    ],
+    "prompt": "Close-up photo of a grilled pork steak with melted cheese and a drizzle of garlic and onion glaze, with rosemary and lettuce as decoration",
+    "filename": "recipe_1787519850.jpg",
+    "date": "2026-08-23 21:19:07",
+    "timestamp": 1787519850,
+    "likes": 0,
+    "views": 344
+  },
+  {
     "id": "recipe_1787516203",
     "category": "dessert",
     "category_ja": "デザート",
