@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787516203",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろろデミハンバーグ！悪魔の甘辛ピラフ",
+    "title_en": "Devilishly Delicious Demi-Grounds in Creamy Mushroom Gravy! ",
+    "description_ja": "とろける半熟卵とデミグラスハンバーグが、クリーミーなマッシュルームグラvyで一体感を爆発させる！まるで魔法のような悪魔的なピラフが誕生する！",
+    "description_en": "A devilishly delicious combination of creamy demi-ground beef and a half-cooked egg with a luscious mushroom gravy for a truly magical, surprising, and utterly delicious mushroom-infused creamy mashed potato! ",
+    "occasion_ja": "週末のディナー、特別な日に、パーティーにもぴったり",
+    "occasion_en": "Perfect for weekend dinners, special occasions, and parties!",
+    "ingredients": [
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "200g"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグの表面を焦げ目が付くように焼く。",
+      "2. ハンバーグを皿に盛り、半熟卵をトッピングする。",
+      "3. マッシュルームをバターと牛乳で炒めて、とろみがついたソースを作る。",
+      "4. ハンバーグの上にマッシュルームソースをかける。"
+    ],
+    "prompt": "Close-up image of a sizzling demi-ground beef patty with a poached egg on top, garnished with creamy mushroom gravy, against a dark background.",
+    "filename": "recipe_1787516203.jpg",
+    "date": "2026-08-23 20:17:54",
+    "timestamp": 1787516203,
+    "likes": 0,
+    "views": 356
+  },
+  {
     "id": "recipe_1787512821",
     "category": "side",
     "category_ja": "サイド",
