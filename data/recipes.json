@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787480391",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "完熟トマト × フレッシュモッツァレラ：悪魔のチーズクリームパスタ",
+    "title_en": "Tomato & Fresh Mozzarella: A Devilish Creamy Pasta",
+    "description_ja": "完熟トマトの甘酸っぱさと、モッツァレラチーズのクリーミーさ、そして悪魔的な香辛料の組み合わせで、まるで地獄の美味しさを味わえるパスタレシピ！",
+    "description_en": "A devilishly delicious pasta recipe that combines the tangy sweetness of ripened tomatoes with the creamy richness of fresh mozzarella, and a dash of spicy goodness. A taste of the underworld awaits you!",
+    "occasion_ja": "特別な夜にぴったりな、一皿で魅せる悪魔的パスタレシピ！",
+    "occasion_en": "Perfect for a special night, this devilishly delicious pasta recipe will wow your guests with a single dish.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "20g"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトを洗って、ヘタを取り除き、薄切りにする。",
+      "2. 150gのフレッシュモッツァレラチーズを、ボウルに入れて、軽く混ぜる。",
+      "3. 生クリームとパルメザンチーズを混ぜ、塩コショウで味を整える。",
+      "4. 2.に、1.のトマトを混ぜ込み、全体にクリームソースを絡める。"
+    ],
+    "prompt": "Close-up shot of a devilishly beautiful pasta dish with tomato chunks and a beautiful swirl of cream sauce. The pasta is coated in a creamy sauce and the cheese is melting on top.",
+    "filename": "recipe_1787480391.jpg",
+    "date": "2026-08-23 10:21:12",
+    "timestamp": 1787480391,
+    "likes": 0,
+    "views": 194
+  },
+  {
     "id": "recipe_1787477019",
     "category": "pasta",
     "category_ja": "パスタ",
