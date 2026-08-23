@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787494752",
+    "category": "メイン",
+    "category_ja": "メイン料理",
+    "title_ja": "とろけるチーズとタッカルビチキン：悪魔の甘辛スパイシーチキン",
+    "title_en": "Melting Cheese & Ttc: A Spicy Korean Chicken Adventure",
+    "description_ja": "とろけるチーズとタッカルビチキンを組み合わせた、スパイシーな悪魔的な一品。甘辛なタレで、今までにない驚きと感動を味わえるよ。",
+    "description_en": "A spicy and unexpected twist on traditional cheese and chicken, this recipe combines the melting richness of cheese with the unique tang of Korean BBQ. Get ready for a flavor explosion you won't soon forget.",
+    "occasion_ja": "パーティー、家族との食事、夜食、ランチ",
+    "occasion_en": "Parties, Family gatherings, Dinner, Lunch",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      },
+      {
+        "name": "タッカルビソース",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "韓国風ピクルス",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ケチャップ",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "鶏肉をタッカルビソースでマリネします。",
+      "フライパンで鶏肉を焼きます。",
+      "チーズを乗せ、軽く焼きます。",
+      "韓国風ピクルスとマヨネーズを混ぜ合わせ、鶏肉に盛り付けて、ケチャップを添えて完成。"
+    ],
+    "prompt": "Close-up shot of a beautifully arranged plate of spicy Korean chicken with melting cheese, topped with Korean pickle and a dollop of mayonnaise.  A sizzling, mouthwatering, smoky, and delicious scene.",
+    "filename": "recipe_1787494752.jpg",
+    "date": "2026-08-23 14:21:30",
+    "timestamp": 1787494752,
+    "likes": 0,
+    "views": 269
+  },
+  {
     "id": "recipe_1787491729",
     "category": "pasta",
     "category_ja": "パスタ",
