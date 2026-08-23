@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787512821",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ×タッカルビチキン：悪魔の甘辛スパイシーピラフ",
+    "title_en": "Melting Cheese & Spicy Tteokbokki: A Devilishly Delicious Spicy Rice",
+    "description_ja": "とろけるチーズとタッカルビチキンのコクと辛味が絶妙な融合！悪魔的な甘辛スパイシーなピラフ、家庭で簡単に作れるレシピ。",
+    "description_en": "A blend of melted cheese and spicy tteokbokki - a devilishly delicious and surprisingly tasty spicy rice dish!  Easy to make at home! ",
+    "occasion_ja": "パーティーや週末の夜ご飯に！",
+    "occasion_en": "Perfect for parties and weekend dinners!",
+    "ingredients": [
+      {
+        "name": "白米",
+        "amount": "200g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "韓国唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "ゴマ油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "白米を炊く。",
+      "タッカルビチキンを一口大にカット。",
+      "タッカルビチキンをゴマ油と塩コショウで味付けし、フライパンで炒める。",
+      "とろけるチーズを混ぜ合わせ、火が通るまで炒める。",
+      "ご飯にチーズとタッカルビチキン、韓国唐辛子を混ぜる"
+    ],
+    "prompt": "A close-up shot of a creamy rice bowl topped with melted cheese and spicy tteokbokki, with a fork and chopsticks ready.  Vibrant colours and a beautiful texture, the image should be in a bright, clean style.",
+    "filename": "recipe_1787512821.jpg",
+    "date": "2026-08-23 19:21:42",
+    "timestamp": 1787512821,
+    "likes": 0,
+    "views": 398
+  },
+  {
     "id": "recipe_1787509320",
     "category": "side",
     "category_ja": "サイド",
