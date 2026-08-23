@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1787505442",
+    "category": "rice",
+    "category_ja": "ご飯",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛ピラフ",
+    "title_en": "Grilled Char Siu x Spicy Garlic Soy Sauce: Devilishly Delicious Rice",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油で作る、悪魔的にも優しい味わいのピラフ。濃厚な甘辛でご飯を一瞬で食べ尽くしてしまう、まさに悪魔の味！",
+    "description_en": "A devilishly delicious rice recipe featuring grilled char siu and a spicy garlic soy sauce. This unique and unexpected combination delivers a rich, savory, and utterly irresistible taste experience.",
+    "occasion_ja": "晩酌にぴったりな、一皿で満足感満点の悪魔的料理。",
+    "occasion_en": "Perfect for evening meal, this single serving dish delivers an explosion of flavor that will satisfy you completely.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "ご飯",
+        "amount": "適量"
+      },
+      {
+        "name": "水",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを細かく刻む。",
+      "2. 濃厚焦がしにんにく醤油とご飯を混ぜ合わせる。",
+      "3. 炊きたてのご飯に刻んだ炙りチャーシューと、濃厚焦がしにんにく醤油を混ぜる。",
+      "4.  お好みで、水を加えて好みの固さに調整する"
+    ],
+    "prompt": "Close-up shot of devilishly delicious rice with char siu and a spicy garlic soy sauce, a steaming bowl of rice with a burst of flavor in the background",
+    "filename": "recipe_1787505442.jpg",
+    "date": "2026-08-23 17:18:36",
+    "timestamp": 1787505442,
+    "likes": 0,
+    "views": 164
+  },
+  {
     "id": "recipe_1787501979",
     "category": "side",
     "category_ja": "サイド",
