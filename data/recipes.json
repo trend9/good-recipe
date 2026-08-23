@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787483826",
+    "category": "メイン料理",
+    "category_ja": "メイン料理",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛風味が炸裂する！",
+    "title_en": "極厚カツ with Special Honey Mustard Sauce: A Devilish Sweet and Spicy Delight!",
+    "description_ja": "極厚カツの表面を、まるで悪魔の爪で刻んだような、特製ハニーマスタードでコーティング！甘辛な風味が食欲をそそる一品に、きっと誰もが魅了されるでしょう。",
+    "description_en": "Coat the thick cutlet with a special honey mustard sauce that looks like a devil's claw, and unleash a devilish sweet and spicy taste explosion! This dish will surely captivate everyone.",
+    "occasion_ja": "パーティーや特別な日にもぴったり",
+    "occasion_en": "Perfect for parties and special occasions",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを、特製ハニーマスタードを塗り、ごま油とマヨネーズでコーティングする。",
+      "トングでカツを挟み、表面を挟み込むように、塩を振りかける。",
+      "フライパンで両面を焼き、カリッとした表面と焼き色がついたカツに仕上げる。",
+      "熱々のカツを皿に盛り、ハニーマスタードソースを添える。"
+    ],
+    "prompt": "A close-up shot of a devilish looking, golden brown, and crispy deep-fried cutlet with a honey mustard glaze, garnished with a sprinkle of salt.",
+    "filename": "recipe_1787483826.jpg",
+    "date": "2026-08-23 11:18:46",
+    "timestamp": 1787483826,
+    "likes": 0,
+    "views": 461
+  },
+  {
     "id": "recipe_1787480391",
     "category": "パスタ",
     "category_ja": "パスタ",
