@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787491729",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンCream生パスタの悪魔的冒険！",
+    "title_en": "Devilish Adventure: Lemon Cream Pasta with Spicy Mayo",
+    "description_ja": "明太子とレモンクリームを生パスタに、悪魔的冒険の旨味を加え、誰もが魅了される驚きの一品に仕上げます。",
+    "description_en": "Transform ordinary pasta into an exciting devilish treat with this unexpected twist of lemon cream and spicy mayo. It's a taste bud adventure you won't forget.",
+    "occasion_ja": "特別な日や、普段使いにもぴったりな、悪魔的な美味しさのレシピです。",
+    "occasion_en": "A devilishly delicious recipe that's perfect for special occasions and everyday meals.",
+    "ingredients": [
+      {
+        "name": "生パスタ",
+        "amount": "150g"
+      },
+      {
+        "name": "明太子",
+        "amount": "100g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. 生パスタを茹でる。",
+      "2. 明太子を細かく刻んで、レモン汁、バター、マヨネーズを混ぜる。",
+      "3. 茹で上がったパスタを混ぜ合わせ、レモン汁を絡める。",
+      "4. 仕上げにレモンを添える。"
+    ],
+    "prompt": "A close-up shot of a steaming bowl of lemon cream pasta with spicy mayo, showcasing its bright colors and devilishly delicious appearance.",
+    "filename": "recipe_1787491729.jpg",
+    "date": "2026-08-23 13:29:41",
+    "timestamp": 1787491729,
+    "likes": 0,
+    "views": 239
+  },
+  {
     "id": "recipe_1787488095",
     "category": "丼もの",
     "category_ja": "丼もの",
