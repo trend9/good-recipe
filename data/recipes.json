@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1787459533",
+    "category": "Side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバター × ぷりぷり海老ピラフ：悪魔的旨辛ソース！",
+    "title_en": "Garlicky Butter & Shrimp Rice Pilaf: Devilish Spicy Sauce!",
+    "description_ja": "衝撃的な旨辛ソースで、ぷりぷりの海老とガーリックバターが融合！家庭で簡単に作れる、悪魔的な一皿を完成させましょう。",
+    "description_en": "Get ready for a devilishly delicious experience! A unique, spicy sauce with garlicky butter and shrimp creates an addictive flavor! Prepare this easy-to-make dish for a truly devilishly delicious meal.",
+    "occasion_ja": "パーティやディナーにも、お弁当にも最適",
+    "occasion_en": "Perfect for parties, dinners, or lunches",
+    "ingredients": [
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ご飯",
+        "amount": "2合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 殻付きのぷりぷり海老を一口サイズにカットします。",
+      "2. フライパンにごま油を熱し、ガーリックバターを加え、香りが立ったら、エビを炒めます。",
+      "3. 混ぜるためにご飯と調味料を加え、よく混ぜ合わせます。",
+      "4.  ご飯とエビを盛り付け、お好みでレモンを添えて召し上がってください。"
+    ],
+    "prompt": "A close-up shot of the delicious garlicky butter shrimp rice pilaf with a bright lemon wedge on top, the rice is fluffy and has a slight crispy texture, and shrimp is cooked to perfection.",
+    "filename": "recipe_1787459533.jpg",
+    "date": "2026-08-23 04:34:57",
+    "timestamp": 1787459533,
+    "likes": 0,
+    "views": 205
+  },
+  {
     "id": "recipe_1787456766",
     "category": "dessert",
     "category_ja": "デザート",
