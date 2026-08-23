@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787456766",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油のチーズケーキ風グラタン",
+    "title_en": "Cheese Cake-Style Graplan with Char Siu and Spicy Garlic Sauce",
+    "description_ja": "炙りチャーシューの香ばしさに、濃厚焦がしにんにく醤油がマッチする、チーズケーキ風グラタン。見た目も鮮やかで、悪魔的な美味しさです！",
+    "description_en": "A cheese cake-style graplan with char siu and a savory spicy garlic sauce. The vibrant appearance is sure to delight your senses, and this dish will deliver a devilishly delicious experience.",
+    "occasion_ja": "特別な日に、特別なデザートを。",
+    "occasion_en": "For special occasions, enjoy a delectable dessert.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "150ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを一口サイズにカットする。",
+      "2. 牛乳と濃厚焦がしにんにく醤油を混ぜる。",
+      "3. 生クリームとチーズを混ぜる。",
+      "4. チーズケーキの型にチーズと生クリームを流し込む。",
+      "5. 炙りチャーシューを表面に散らして、チーズケーキの表面に飾る。"
+    ],
+    "prompt": "A close-up image of a cheesecake-style graplan with char siu and a savory spicy garlic sauce. The texture and ingredients should be clearly visible.",
+    "filename": "recipe_1787456766.jpg",
+    "date": "2026-08-23 03:47:51",
+    "timestamp": 1787456766,
+    "likes": 0,
+    "views": 400
+  },
+  {
     "id": "recipe_1787446686",
     "category": "dessert",
     "category_ja": "デザート",
