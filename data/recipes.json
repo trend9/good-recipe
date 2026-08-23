@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787523466",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔の甘辛 海老アボカドグラタン",
+    "title_en": "Devilishly Delicious: Crab & Avocado Cream Cheese Gratin",
+    "description_ja": "クリーミーなアボカドと、旨みのあるホイルで包んだ新鮮な海老と、濃厚なチーズの組み合わせ。甘辛な風味で、悪魔のような食欲をそそる一品です！",
+    "description_en": "Creamy avocado and fresh shrimp wrapped in foil, with a cheesy sauce and devilishly delicious flavor. This creamy, decadent gratin will satisfy your cravings with a devilishly good twist! ",
+    "occasion_ja": "パーティーや特別な日に。",
+    "occasion_en": "Perfect for parties or special occasions. ",
+    "ingredients": [
+      {
+        "name": "殻付きの生海老",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "Cream Cheese",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "1. 生海老は殻を剥き、片栗粉をまぶして、一口サイズに切る。",
+      "2. アボカドは皮をむいて、食べやすい大きさに切る。",
+      "3.  Cream Cheeseと濃厚チーズを混ぜる。生クリームを加え、なめらかになるまで混ぜる。",
+      "4. 生海老とアボカドを、グラタン皿に盛り付け、チーズソースをたっぷりかけて焼く。"
+    ],
+    "prompt": "Close-up image of a beautifully plated crab and avocado cream cheese gratin with a cheesy sauce and a golden-brown crust, vibrant colors and a tempting look.",
+    "filename": "recipe_1787523466.jpg",
+    "date": "2026-08-23 22:19:12",
+    "timestamp": 1787523466,
+    "likes": 0,
+    "views": 383
+  },
+  {
     "id": "recipe_1787519850",
     "category": "side",
     "category_ja": "サイド",
