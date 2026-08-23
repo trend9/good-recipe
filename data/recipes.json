@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787446686",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的な海老とクリーミーアボカドのチーズケーキグラタン",
+    "title_en": "Devilish Shrimp & Creamy Avocado Cheesecake Gratin",
+    "description_ja": "クリーミーなアボカドと、濃厚なチーズのグラタンに、海老の旨味がプラス！見た目は優雅で、悪魔的な美味しさ。家庭で簡単に作れる、特別な一品を演出します。",
+    "description_en": "Creamy avocado and rich cheese gratin with shrimp! A decadent yet elegant dish that's easy to make. This is a special treat for you and your loved ones.",
+    "occasion_ja": "特別な日やパーティーに、特別な一品を演出したいとき",
+    "occasion_en": "For special occasions or parties, this is a special dish.",
+    "ingredients": [
+      {
+        "name": "厚揚げ",
+        "amount": "1個"
+      },
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "厚揚げは、1cm角に切る。",
+      "海老は、小さめに切る。",
+      "アボカドは、半分に切って、ナイフで細かく切る。",
+      "ボウルに、クリームチーズ、パルメザンチーズ、牛乳を加え、混ぜ合わせる。"
+    ],
+    "prompt": "Close-up of creamy avocado and shrimp gratin with cheese on a plate, styled in a culinary arts photography style, with a dramatic dark lighting",
+    "filename": "recipe_1787446686.jpg",
+    "date": "2026-08-23 00:59:43",
+    "timestamp": 1787446686,
+    "likes": 0,
+    "views": 249
+  },
+  {
     "id": "recipe_1787440570",
     "category": "dessert",
     "category_ja": "デザート",
