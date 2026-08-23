@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787501979",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ × 麻婆豆腐の悪魔的 fusion!",
+    "title_en": "Spicy & Creamy Fusion: A Cheesy Delight!",
+    "description_ja": "とろけるチーズと旨辛麻婆豆腐の組み合わせは、今までに見たことのない悪魔的な美味しさに。一口食べれば、あなたの人生が変わるかも！",
+    "description_en": "A fusion of melted cheese and spicy, savory mapo tofu, that will transform your taste buds and change your life! ",
+    "occasion_ja": "パーティーや日常食に最適！",
+    "occasion_en": "Perfect for party or everyday meal!",
+    "ingredients": [
+      {
+        "name": "濃厚とろけるチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "味噌",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 麻婆豆腐を煮込み、溶解したチーズを加えて混ぜる。",
+      "2. 卵を溶き、調味料を加えて混ぜる。",
+      "3. チーズと麻婆豆腐を混ぜる。",
+      "4. お皿に盛り付け、お好みでパクチーやハーブで飾る。"
+    ],
+    "prompt": "Close-up shot of spicy cheese and mapo tofu fusion dish, topped with green herbs and colorful ingredients, vibrant food photography, Ghibli style",
+    "filename": "recipe_1787501979.jpg",
+    "date": "2026-08-23 16:20:25",
+    "timestamp": 1787501979,
+    "likes": 0,
+    "views": 249
+  },
+  {
     "id": "recipe_1787498297",
     "category": "Side",
     "category_ja": "サイド",
