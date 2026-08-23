@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1787488095",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "ふわとろ卵と旨辛麻婆豆腐丼の悪魔的 fusion！",
+    "title_en": "Fusion of Fluffy Egg and Spicy Kung Pao Tofu Bowl",
+    "description_ja": "ふわとろ卵と旨辛麻婆豆腐の組み合わせが、新たな悪魔的な美味しさを実現！ 意外な組み合わせでも、旨味ととろける卵のハーモニーがたまらない！",
+    "description_en": "The fusion of fluffy egg and spicy kung pao tofu is a new, devilish deliciousness!  The unexpected combination is a harmony of flavor and melting egg, you will be amazed.",
+    "occasion_ja": "特別な日や夜食に最適！",
+    "occasion_en": "Perfect for special days or late-night snack!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "水",
+        "amount": "200ml"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "しょうが",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. 鍋にごま油としょうがを入れて弱火で炒める。",
+      "2. 水と醤油、砂糖を混ぜ合わせ、煮詰めて旨辛麻婆豆腐を作る。",
+      "3. 卵を1個、ふんわりと炒める。",
+      "4. 旨辛麻婆豆腐丼に卵を乗せる。"
+    ],
+    "prompt": "Close-up shot of a bowl of spicy kung pao tofu with a fluffy egg on top, with steaming steam and a delicious aroma.",
+    "filename": "recipe_1787488095.jpg",
+    "date": "2026-08-23 12:31:20",
+    "timestamp": 1787488095,
+    "likes": 0,
+    "views": 367
+  },
+  {
     "id": "recipe_1787483826",
     "category": "メイン料理",
     "category_ja": "メイン料理",
