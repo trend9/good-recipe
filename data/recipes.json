@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787509320",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛唐揚げピラフ！ ハニーマヨネーズ × サクサク唐揚げの意外な融合！",
+    "title_en": "Devilish Sweet and Sour Chicken Fried Rice! A Fusion of Honey Mayo and Crispy Fried Chicken! ",
+    "description_ja": "普段の唐揚げと、甘辛ピラフの意外な組み合わせで、悪魔の美味しさ体験！甘辛タレの風味とサクサクとした唐揚げの食感、ピラフの意外な美味しさに、食欲をそそる一品。",
+    "description_en": "A devilishly delicious fusion! Combines the crispy fried chicken and sweet and sour sauce in a savory fried rice. This unexpected combination will satisfy your cravings and elevate your fried rice experience to a whole new level.",
+    "occasion_ja": " parties, weeknight meals, date night, dinner",
+    "occasion_en": "Party meals, weeknight dinners, date night, weekend dinners.",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "鶏肉にハニーマヨネーズと醤油、砂糖を混ぜる。",
+      "鶏肉を揚げる。",
+      "ご飯を炒める。",
+      "鶏肉とご飯を炒める。"
+    ],
+    "prompt": "Close-up photo of a beautifully crafted devilish sweet and sour chicken fried rice. The chicken is crispy and golden brown. The rice is cooked and steamed.",
+    "filename": "recipe_1787509320.jpg",
+    "date": "2026-08-23 18:23:38",
+    "timestamp": 1787509320,
+    "likes": 0,
+    "views": 398
+  },
+  {
     "id": "recipe_1787505442",
     "category": "rice",
     "category_ja": "ご飯",
