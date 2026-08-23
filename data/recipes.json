@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1787473392",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコ濃厚チーズケーキの悪魔的タルト",
+    "title_en": "Devilishly Delicious White Chocolate Matcha Cheese Cake Tart",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートの組み合わせで、まるでタルトの層を覗き込むような、悪魔的な美味しさのチーズケーキ。一口食べれば、その奥深さに魅了されるでしょう。",
+    "description_en": "A decadent cheesecake with a layer of matcha and white chocolate. Dive into this devilishly delicious dessert with an irresistible flavor combination.",
+    "occasion_ja": "特別な日、そして日常でも楽しめる、特別な一品",
+    "occasion_en": "Perfect for special occasions and everyday indulgence, this unique treat is sure to impress.",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "グラノーラ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1.  抹茶粉と濃厚ホワイトチョコレートを混ぜて、なめらかになるまで混ぜる。",
+      "2.  クリームチーズを混ぜる。",
+      "3.  グラノーラを加え、なめらかになるまで混ぜる。",
+      "4.  バターを加え、生地を均等に混ぜる。",
+      "5.  生地をタルト型に流し込み、冷蔵庫で1時間以上冷やす。"
+    ],
+    "prompt": "A close-up photo of a devilishly delicious white chocolate matcha cheesecake tart, with a layer of matcha powder and white chocolate, against a black background. ",
+    "filename": "recipe_1787473392.jpg",
+    "date": "2026-08-23 08:26:12",
+    "timestamp": 1787473392,
+    "likes": 0,
+    "views": 389
+  },
+  {
     "id": "recipe_1787470215",
     "category": "dessert",
     "category_ja": "デザート",
