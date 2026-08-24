@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787543431",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛ぷりぷり海老ピラフ：ガーリックバターと海老のハーモニーに、新たな章を刻む！",
+    "title_en": "Devilishly Delicious Shrimp & Garlic Butter Rice: A new chapter in Shrimp & Garlic Butter Rice!",
+    "description_ja": "ぷりぷり海老と、ガーリックバターの香ばしいハーモニーで、新たな味覚を体験！悪魔的な甘辛さが、ご飯と一体となって、忘れられない食の冒険に導く。",
+    "description_en": "Dive into a world of shrimpy goodness with a touch of garlicky sweetness and a new dimension of flavor. This devilishly delicious recipe will leave you craving more.",
+    "occasion_ja": "晩御飯、特別な日にもぴったり",
+    "occasion_en": "Perfect for special occasions and everyday meals.",
+    "ingredients": [
+      {
+        "name": "冷凍エビ",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "10g"
+      },
+      {
+        "name": "白米",
+        "amount": "100g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "エビを洗い、水気を切ります。",
+      "ガーリックバターと塩、こしょうを混ぜ、エビと混ぜます。",
+      "白米を炊きます。",
+      "炊きあがったご飯にエビとガーリックバターを混ぜ合わせます。"
+    ],
+    "prompt": "Close-up photo of the shrimp and garlic butter rice with a sizzling visual effect, inspired by anime and manga art.",
+    "filename": "recipe_1787543431.jpg",
+    "date": "2026-08-24 03:52:09",
+    "timestamp": 1787543431,
+    "likes": 0,
+    "views": 349
+  },
+  {
     "id": "recipe_1787538134",
     "category": "side",
     "category_ja": "サイド",
