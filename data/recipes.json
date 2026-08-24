@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787549691",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉アイスデザート：悪魔の甘辛な風味が溶けるハーモニー",
+    "title_en": "Black Sesame Kinako Ice Cream Dessert: Harmony of Sweet and Salty Delight",
+    "description_ja": "見た目も華やかで、黒蜜の甘酸っぱさときな粉の香ばしさの組み合わせは、意外性と美味しさの両方で魅了するデザート。悪魔的美味しさの新しい章を開く、忘れられない一品です。",
+    "description_en": "This dessert is a mesmerizing combination of sweet and salty flavors. The black sesame's bitterness and the nutty flavor of kinako create a unique and delicious harmony. It's a new chapter in devilishly delicious desserts.",
+    "occasion_ja": "特別な日にぴったりなデザート。友人や家族と共有する特別な時間",
+    "occasion_en": "Perfect dessert for special occasions. Enjoy this dessert with friends and family",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "アイスクリーム",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶",
+        "amount": "適量"
+      },
+      {
+        "name": "黒ごま",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "黒蜜ときな粉を混ぜ、アイスクリームの表面に塗ります。",
+      "黒ごまを散らして、アイスクリームの表面を覆います。",
+      "抹茶パウダーを振って、黒蜜ときな粉アイスに緑色のアクセントを添えます。",
+      "完成！"
+    ],
+    "prompt": "Close-up of a beautifully crafted ice cream dessert, showcasing the dark brown black sesame and kinako flavors, with a delicate green matcha powder on top.",
+    "filename": "recipe_1787549691.jpg",
+    "date": "2026-08-24 05:36:37",
+    "timestamp": 1787549691,
+    "likes": 0,
+    "views": 334
+  },
+  {
     "id": "recipe_1787546415",
     "category": "dessert",
     "category_ja": "デザート",
