@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787613561",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のデミグラスハンバーグ & 半熟卵のスパイシーチーズオムレツ：甘辛にスパイスを！",
+    "title_en": "Spicy Cheese Omelet with Demi-Glace & Half-Cooked Egg: A spicy, cheesy, and delicious twist! ",
+    "description_ja": "とろける半熟卵とスパイシーなデミグラスソースが絡まる、オムレツの魔法使い！ 意外な組み合わせで、悪魔的な美味しさに包まれた、特別な一品！",
+    "description_en": "A magical omelet with half-cooked egg and spicy demi-glace sauce!  An unexpected but incredibly delicious combination, this dish delivers an addictive flavor. ",
+    "occasion_ja": "特別な夜にぴったり！",
+    "occasion_en": "Perfect for a special occasion! ",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "適量"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "お好みでスパイシーなスパイス(チリパウダー、ケチャップなど)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ハンバーグをフライパンで焼きます。デミグラスソースを加え、混ぜ合わせます。",
+      "半熟卵を、お好みでスパイスを加え、フライパンで焼きます。",
+      "オムレツをハンバーグの上に、チーズを乗せます。",
+      "お好みで、スパイシーなスパイスを加えて、召し上がれ。"
+    ],
+    "prompt": "A close-up shot of a spicy cheese omelet with a demi-glace sauce, topped with a half-cooked egg and cheese.  It shows the beautiful texture and colors of the dish with a slightly smoky effect.",
+    "filename": "recipe_1787613561.jpg",
+    "date": "2026-08-24 23:20:46",
+    "timestamp": 1787613561,
+    "likes": 0,
+    "views": 180
+  },
+  {
     "id": "recipe_1787610112",
     "category": "Rice",
     "category_ja": "ご飯",
