@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787582250",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘辛食感！",
+    "title_en": "Melting Cheese x Korean-Style Grilled Chicken: The Devil's Spicy Crunch!",
+    "description_ja": "とろけるチーズとタッカルビチキンの、意外な組み合わせで、悪魔的な食感と味覚のハーモニー！ 爽やかなレモン汁で仕上げる。",
+    "description_en": "A unique fusion of melted cheese and Korean-style grilled chicken, creating a devilishly spicy and crunchy experience! A burst of zesty lemon adds a touch of freshness.",
+    "occasion_ja": "パーティーや BBQ で、インパクトのある一品を演出したいとき",
+    "occasion_en": "Impress your guests with a unique and flavorful dish at parties or BBQs",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンの両面に、塩とごま油を塗る。",
+      "とろけるチーズをタッカルビチキンの表面全体に塗る。",
+      "レモン汁を全体に塗る。",
+      "軽く焼いて、完成。"
+    ],
+    "prompt": "Close-up shot of Korean-style grilled chicken covered with melted cheese, topped with a lemon drizzle, against a black background. Grunge style, illustration, realistic, high quality",
+    "filename": "recipe_1787582250.jpg",
+    "date": "2026-08-24 14:39:12",
+    "timestamp": 1787582250,
+    "likes": 0,
+    "views": 204
+  },
+  {
     "id": "recipe_1787579208",
     "category": "dessert",
     "category_ja": "デザート",
