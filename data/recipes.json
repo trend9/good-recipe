@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787599518",
+    "category": "丼",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵×旨辛麻婆豆腐丼：悪魔の甘辛ハーモニー！",
+    "title_en": "Devilishly Delicious: Egg-cellent Spicy Mao Tofu Bowl",
+    "description_ja": "とろける卵と旨辛麻婆豆腐のハーモニー！濃厚な旨辛で、卵の甘さと組み合わせると、止まらない美味しさ！",
+    "description_en": "A devilishly delicious fusion of creamy egg and spicy Mao tofu! This unique bowl packs a punch of flavor with a balance of sweet, tangy, and spicy goodness! ",
+    "occasion_ja": "特別な日や夜食にぴったり！",
+    "occasion_en": "Perfect for a special occasion or a late-night snack!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "お好みの辛味",
+        "amount": "適量"
+      },
+      {
+        "name": "ご飯",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ご飯を器に盛り、旨辛麻婆豆腐を乗せ、卵を散らす。",
+      "塩コショウを混ぜ合わせて卵を溶き、ご飯の上に乗せる。",
+      "お好みで、お好みの辛味を加えて混ぜる。",
+      "一口食べると、卵の甘さと麻婆豆腐の辛味が絶妙にマッチする。"
+    ],
+    "prompt": "Close-up image of the bowl with soft scrambled egg, spicy Mao tofu, and a mound of fluffy rice. It features a vibrant, rich, and appetizing presentation.",
+    "filename": "recipe_1787599518.jpg",
+    "date": "2026-08-24 19:27:01",
+    "timestamp": 1787599518,
+    "likes": 0,
+    "views": 248
+  },
+  {
     "id": "recipe_1787596340",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
