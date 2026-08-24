@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787558056",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろとろデミハンバーグ！卵黄のデミソースと、クリーミーな半熟卵のハーモニー",
+    "title_en": "Tofu-Filled Demi-Hamburger! Creamy, Half-Soft Egg and Creamy Deconstructed Sauce",
+    "description_ja": "とろとろハンバーグに、半熟卵黄を包んだデミソースと、クリーミーな半熟卵のハーモニーが楽しめる、悪魔的美味しさのレシピです！",
+    "description_en": "Devilishly delicious! This recipe combines a creamy demi-sauce with a half-soft egg and a creamy demi-sauce, for a truly unique and decadent experience!",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼きます。",
+      "ハンバーグの表面に塩コショウを振ります。",
+      "半熟卵を茹でます。",
+      "卵にデミソースを混ぜ、ハンバーグの上に載せます。"
+    ],
+    "prompt": "A person holding a half-cooked hamburger, with a half-soft egg and a demi-sauce inside, against a background of red and white, in a retro, anime-style illustration.",
+    "filename": "recipe_1787558056.jpg",
+    "date": "2026-08-24 07:56:40",
+    "timestamp": 1787558056,
+    "likes": 0,
+    "views": 422
+  },
+  {
     "id": "recipe_1787553897",
     "category": "dessert",
     "category_ja": "デザート",
