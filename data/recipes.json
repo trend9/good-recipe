@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1787592443",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋×とろけるバター caramelの悪魔的な甘辛マシュマロデザート",
+    "title_en": "Spicy Caramel Marshmallow Dessert with Roasted Sweet Potatoes",
+    "description_ja": "悪魔的な甘辛なマシュマロが、焼き芋の優しい甘さと、とろけるバターカラメルとの絶妙なハーモニーを演出！ 意外な組み合わせながらも、本当に美味しいデザートに仕上がります。",
+    "description_en": "Spicy and sweet marshmallow dessert with roasted sweet potatoes, featuring a buttery caramel sauce. The combination of sweet potato, caramelized marshmallow, and rich butter creates an unexpected yet incredibly delicious dessert experience. ",
+    "occasion_ja": "特別な日のデザートにぴったり",
+    "occasion_en": "Perfect for special occasions",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "マシュマロ",
+        "amount": "1袋"
+      }
+    ],
+    "steps": [
+      "焼き芋を、焼きすぎないように、火を通す。",
+      "フライパンにバターを溶かし、砂糖を加えて混ぜる。",
+      "溶かしバターと砂糖が全体に混ざったら、水溶き片栗粉を少しずつ加えて混ぜる。",
+      "マシュマロを加え、全体を絡める。",
+      "焼き芋を乗せ、バターカルメルをたっぷりかける。",
+      "冷ましてから食べよう。"
+    ],
+    "prompt": "Close-up image of the dessert with a caramel glaze and a roasted sweet potato on top. The marshmallow is melting slightly and looks fluffy and tempting.",
+    "filename": "recipe_1787592443.jpg",
+    "date": "2026-08-24 17:28:49",
+    "timestamp": 1787592443,
+    "likes": 0,
+    "views": 389
+  },
+  {
     "id": "recipe_1787589118",
     "category": "メイン",
     "category_ja": "メイン料理",
