@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787606680",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵×旨辛麻婆豆腐丼：悪魔の甘辛ハーモニー！",
+    "title_en": "Spicy Tofu Bowl with Creamy Egg: Devilishly Delicious! ",
+    "description_ja": "とろける卵と旨辛麻婆豆腐のハーモニー！！  悪魔的な甘辛な味わいを実現。  意外な組み合わせが美味しい！",
+    "description_en": "Spicy tofu bowl with a creamy egg topping!  A devilishly delicious combination of flavors! ",
+    "occasion_ja": "夜ご飯にぴったりな、一皿で満足感がある一品",
+    "occasion_en": "Perfect for a satisfying one-dish meal",
+    "ingredients": [
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "白米",
+        "amount": "1杯"
+      },
+      {
+        "name": "ゴマ油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ネギ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  旨辛麻婆豆腐を温める。",
+      "2.  卵を溶き、ゴマ油を混ぜる。",
+      "3.  ご飯と卵を混ぜる。",
+      "4.  旨辛麻婆豆腐丼を盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a bowl of spicy tofu bowl with a swirl of creamy egg topping. Steam and vibrant colors capture the essence of this delicious dish. ",
+    "filename": "recipe_1787606680.jpg",
+    "date": "2026-08-24 21:26:05",
+    "timestamp": 1787606680,
+    "likes": 0,
+    "views": 469
+  },
+  {
     "id": "recipe_1787603070",
     "category": "dessert",
     "category_ja": "デザート",
