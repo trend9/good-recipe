@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787564573",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレアイスケーキ（悪魔的美味しさ）",
+    "title_en": "Banana Caramel Brulee Ice Cake (Devilishly Delicious)",
+    "description_ja": "完熟バナナの甘美さと、キャラメルブリュレの絶妙な香ばしさ。まるで悪魔が作ったデザート！",
+    "description_en": "The perfect balance of sweet banana and caramelized brulee. A devilishly delicious dessert that'll make you question your taste buds!",
+    "occasion_ja": "特別な日に、特別なデザートを。",
+    "occasion_en": "Perfect for a special occasion, a dessert to remember.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "100g"
+      },
+      {
+        "name": "アイスケーキの型",
+        "amount": "1個"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを2～3cm幅に切る。",
+      "2.  キャラメルをボウルに入れて、弱火で溶かす。",
+      "3.  溶けたキャラメルをアイスケーキの型に入れて、バナナを飾る。",
+      "4.  砂糖と水を混ぜて、キャラメルを塗る。溶けたキャラメルで仕上げる"
+    ],
+    "prompt": "Close-up shot of a beautifully decorated ice cake with caramelized bananas, a rich and decadent dessert with a hint of devilish allure. ",
+    "filename": "recipe_1787564573.jpg",
+    "date": "2026-08-24 09:45:15",
+    "timestamp": 1787564573,
+    "likes": 0,
+    "views": 312
+  },
+  {
     "id": "recipe_1787560937",
     "category": "dessert",
     "category_ja": "デザート",
