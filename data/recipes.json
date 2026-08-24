@@ -1,5 +1,56 @@
 [
   {
+    "id": "recipe_1787546415",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘辛 海老アボカドグラタン（超濃厚とろリッチグラタン）",
+    "title_en": "Ultra Creamy Lobster Avocado Gratin (Lobster-Avocado Supreme Gravy)",
+    "description_ja": "クリーミーなアボカドと旨味の効いた海老が、濃厚なグラタンで包まれる！とろとろの食感と、クリーミーな味わいが一体となって、究極の悪魔的美味しさ！",
+    "description_en": "Lobster and avocado create the ultimate creamy indulgence with a decadent and rich gravy. This ultra creamy gratin offers a lusciously smooth and creamy experience with each bite.",
+    "occasion_ja": "特別なディナーにぴったり！",
+    "occasion_en": "Perfect for a special dinner party.",
+    "ingredients": [
+      {
+        "name": "殻付きの生海老",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "Cream cheese",
+        "amount": "150g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1. 生海老を10分ほど水で洗って、塩コショウで味を調え、バターで炒める。",
+      "2. アボカドは皮を剥き、1cm幅の薄切りにする。",
+      "3. 鍋に牛乳、バター、チーズ、Cream cheeseを混ぜて煮詰める。",
+      "4. 生海老とアボカドを、グラタン皿に並べ、ソースをたっぷりかける。",
+      "5. 180°Cで15分焼く。",
+      "6. 溶かしバターで仕上げる。"
+    ],
+    "prompt": "Close up photo of a creamy, decadent Lobster-Avocado gratin. A beautiful golden crust with a smooth, velvety texture. The creamy white sauce with chunks of lobster and avocado is in a perfect, elegant dish.",
+    "filename": "recipe_1787546415.jpg",
+    "date": "2026-08-24 04:42:06",
+    "timestamp": 1787546415,
+    "likes": 0,
+    "views": 344
+  },
+  {
     "id": "recipe_1787543431",
     "category": "side",
     "category_ja": "サイド",
