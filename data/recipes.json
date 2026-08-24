@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787570579",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメル brûlée × 黒蜜の甘辛アイス",
+    "title_en": "Black Honey Caramel Brûlée Ice",
+    "description_ja": "バナナの甘酸っぱさとキャラメルブリュレの濃厚さが、黒蜜の甘辛な味わいを引き立て、衝撃的な味わいを演出。まるで悪魔が作ったような、その神秘的な美味しさに魅了されるでしょう！",
+    "description_en": "A unique blend of sweet, tangy banana, rich caramel brûlée, and black honey's intense flavor, creating a dessert that's both intriguing and deliciously sinful. Prepare to be captivated by the mysterious flavors of this decadent creation!",
+    "occasion_ja": "特別な夜に。",
+    "occasion_en": "Special occasion dessert.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを薄くスライスして、それぞれに黒蜜を少量つけて黒蜜の甘さとバナナの甘さを合わせます。",
+      "2. キャラメルブリュレを、バナナの甘酸っぱさに合うように、少量の黒蜜と混ぜて、表面に焦げ付くまで焼きます。",
+      "3. 生クリームと抹茶パウダーを混ぜ、バナナの甘酸っぱさとキャラメルブリュレの濃厚さを引き立てます。",
+      "4. 冷蔵庫で1時間ほど冷やし、最終的な味わいを完成させます。"
+    ],
+    "prompt": "A close-up photo of the dessert, highlighting the contrasting textures of the caramelized sugar, creamy ice cream and fresh banana slices, with a touch of black honey drizzle on the side.  Use a warm light to create a cozy, intimate atmosphere.",
+    "filename": "recipe_1787570579.jpg",
+    "date": "2026-08-24 11:24:44",
+    "timestamp": 1787570579,
+    "likes": 0,
+    "views": 402
+  },
+  {
     "id": "recipe_1787567576",
     "category": "dessert",
     "category_ja": "デザート",
