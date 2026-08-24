@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787567576",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコクリーミーチーズケーキ（悪魔的美味しさ）",
+    "title_en": "White Chocolate Matcha Cream Cheese Cake (Devilishly delicious)",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートが織りなす、クリーミーで甘酸っぱいチーズケーキの悪魔的な美味しさ！とろけるチーズと、抹茶の甘酸っぱさとホワイトチョコレートのクリーミーな味わいが絶妙なハーモニーを奏でます。",
+    "description_en": "A creamy, tangy cheesecake with the devilishly delicious flavors of matcha and white chocolate. This cheesecake features a melting cheese, a tangy and sweet matcha flavor and a creamy white chocolate taste. ",
+    "occasion_ja": "特別な日にぴったりな、優雅なデザート。",
+    "occasion_en": "A special occasion dessert. ",
+    "ingredients": [
+      {
+        "name": "厚切りチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "50g"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "10g"
+      }
+    ],
+    "steps": [
+      "1.  厚切りチーズをボウルに入れ、電子レンジで30秒加熱。",
+      "2.  抹茶パウダーと砂糖を混ぜ合わせ、溶かし、生クリームと混ぜ合わせる。",
+      "3.  加熱したチーズを混ぜ込んだ生地を、ケーキ型に流し込み、180℃で15分焼く。",
+      "4.  焼き上がったチーズケーキにホワイトチョコレートを溶かし、表面を飾る。"
+    ],
+    "prompt": "A close-up shot of a creamy white chocolate matcha cheesecake with a swirl of white chocolate on top, with a bokeh effect on the background.",
+    "filename": "recipe_1787567576.jpg",
+    "date": "2026-08-24 10:34:49",
+    "timestamp": 1787567576,
+    "likes": 0,
+    "views": 174
+  },
+  {
     "id": "recipe_1787564573",
     "category": "dessert",
     "category_ja": "デザート",
