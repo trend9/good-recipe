@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787610112",
+    "category": "Rice",
+    "category_ja": "ご飯",
+    "title_ja": "悪魔的海老のバターピラフ ～甘辛海老とガーリックバターのハーモニー～",
+    "title_en": "Shrimpy Butter Rice - Sweet and Spicy Shrimp and Garlic Butter Harmony",
+    "description_ja": "ぷりぷりの海老と、濃厚なガーリックバターのハーモニーが楽しめる、悪魔的な美味しさのピラフレシピ！ 意外な組み合わせの美味しさに、きっと虜になります！",
+    "description_en": "Shrimpy and buttery delight! This recipe blends the sweetness of shrimp with rich garlic butter for an unexpectedly delicious and addictive experience! You'll be hooked! ",
+    "occasion_ja": "特別な日のおDinnerに、贅沢な一品を！",
+    "occasion_en": "Perfect for a special occasion dinner, treat yourself to this luxurious dish!",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "250g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "ガーリック",
+        "amount": "1チューブ"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "海老を一口サイズに切る。",
+      "フライパンにバターを熱し、海老を加えて炒める。",
+      "ガーリックを加え、香りが立ってきたら塩とコショウを振る。",
+      "卵を溶き、海老とバターの炒め物を混ぜる。",
+      "ご飯を盛り、海老とバターピラフを乗せる"
+    ],
+    "prompt": "Close-up shot of creamy shrimp rice with a golden-brown crust and a steam plume rising from the top. It's artfully plated, with a sprinkle of black pepper and chopped green onions on top.",
+    "filename": "recipe_1787610112.jpg",
+    "date": "2026-08-24 22:23:13",
+    "timestamp": 1787610112,
+    "likes": 0,
+    "views": 365
+  },
+  {
     "id": "recipe_1787606680",
     "category": "丼もの",
     "category_ja": "丼もの",
