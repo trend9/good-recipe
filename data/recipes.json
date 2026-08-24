@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787585835",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘辛チーズアイスケーキ",
+    "title_en": "Cheesy and Spicy Tartare Ice Cream Cake with Korean BBQ",
+    "description_ja": "とろけるチーズとタッカルビチキンを組み合わせた、衝撃的な甘辛なアイスケーキ。チーズの濃厚な風味とタッカルビチンの辛さが、口の中で絶妙に絡み合い、悪魔的な美味しさに仕上がります。",
+    "description_en": "A cheesy and spicy ice cream cake featuring Tartear chicken and melted cheese. It delivers a flavor explosion of cheesy richness and spicy kick for a truly demonic dessert experience.",
+    "occasion_ja": "特別な日に、友達とシェアする特別なデザート",
+    "occasion_en": "A dessert for special occasions, to share with friends.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "150g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "ゼラチン",
+        "amount": "10g"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを細かく刻み、チーズと混ぜる。",
+      "生クリームと黒蜜を混ぜて、ゼラチンを溶かす。",
+      "ゼラチンを溶かした生クリームとチーズを混ぜる。",
+      "タッカルビチキンとチーズの生地を、アイスケーキ型に流し込み、冷凍する。"
+    ],
+    "prompt": "Close-up shot of a frozen ice cream cake with melted cheese and spicy chicken, decorated with colorful sprinkles and a drizzle of black sugar syrup.",
+    "filename": "recipe_1787585835.jpg",
+    "date": "2026-08-24 15:39:41",
+    "timestamp": 1787585835,
+    "likes": 0,
+    "views": 227
+  },
+  {
     "id": "recipe_1787582250",
     "category": "side",
     "category_ja": "サイドメニュー",
