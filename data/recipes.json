@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787533003",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛スパイシーチーズ焼き！",
+    "title_en": "Smoked Char Siu x Spicy Garlic Sauce: Spicy Cheesy Skewers!",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油の組み合わせに、スパイシーチーズを絡めて、悪魔的な甘辛スパイシーな味わいが炸裂！\n意外性のある一品に、魅せる焼き料理を完成させましょう！",
+    "description_en": "A fiery twist on the classic combo of smoked char siu and spicy garlic sauce!  Add a touch of cheesy magic to create a taste sensation that will leave your tastebuds screaming for more! Prepare to be amazed by this unique and delicious dish! ",
+    "occasion_ja": "パーティーやBBQに！",
+    "occasion_en": "Perfect for parties and BBQ gatherings! ",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "50g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを細く切って、軽く焼きます。",
+      "2.  濃厚焦がしにんにく醤油を混ぜ合わせ、チーズと生クリームを加え、混ぜて溶かし、生地を作りましょう。",
+      "3.  チーズ生地を、焼きそばの型に敷き詰め、10分程度焼きます。",
+      "4.  焼きたてのチーズ生地に炙りチャーシューを乗せて、熱々の完成！"
+    ],
+    "prompt": "Close-up of a skewer with a smoky char siu piece and melted cheese on a wooden background. A mix of smoke and red cheese in a dramatic setting with red and orange tones.",
+    "filename": "recipe_1787533003.jpg",
+    "date": "2026-08-24 00:58:29",
+    "timestamp": 1787533003,
+    "likes": 0,
+    "views": 398
+  },
+  {
     "id": "recipe_1787527028",
     "category": "丼",
     "category_ja": "丼",
