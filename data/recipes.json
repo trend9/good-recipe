@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787603070",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的なサーモンとアボカドのタルタルソースが包む、とろけるチーズの甘辛マシュマロデザート",
+    "title_en": "Devilishly Delicious Smoked Salmon & Avocado Tartare Surprise: A Creamy Cheese Dessert with a Twist",
+    "description_ja": "このレシピは、サーモンとアボカドのタルタルソースを、とろけるチーズで包み込んだ、まるでデザートのような、悪魔的な美味しさのデザートです。",
+    "description_en": "This recipe blends the smoky flavors of smoked salmon and avocado with a creamy cheese filling and a dessert twist! A devilishly delicious combination you'll never forget!",
+    "occasion_ja": "特別な日やパーティーにぴったり！",
+    "occasion_en": "Perfect for a special occasion or party!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンは、塩コショウで味付けをする。",
+      "アボカドは、薄切りにして、塩コショウで味付けする。",
+      "生クリームと卵を混ぜて、とろけるチーズを加えて混ぜる。",
+      "サーモンとアボカドを、とろけるチーズのソースで包み込む。",
+      "デザートとして、アイスクリームやソースを添えても美味しい。"
+    ],
+    "prompt": "Close-up shot of a creamy cheese dessert with smoked salmon, avocado, and cheese filling. A whimsical, devilishly delicious dessert with a bright, white background.",
+    "filename": "recipe_1787603070.jpg",
+    "date": "2026-08-24 20:26:18",
+    "timestamp": 1787603070,
+    "likes": 0,
+    "views": 190
+  },
+  {
     "id": "recipe_1787599518",
     "category": "丼",
     "category_ja": "丼もの",
