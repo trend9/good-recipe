@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787538134",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛デミハンバーグ！とろとろ卵と、濃厚デミソースのハーモニー",
+    "title_en": "Devilish Sweet and Spicy Demi-Hamburger! Creamy Egg and Rich Demi Sauce Harmony",
+    "description_ja": "とろける卵と、濃厚デミソースが融合した、悪魔的な美味しさ！ 意外な組み合わせで、口の中に広がる、幸せな驚きを味わおう！",
+    "description_en": "A devilishly delicious experience! The creamy egg and rich demi-sauce combine to create a harmonious dish of unexpected flavors and a burst of happiness in your mouth.",
+    "occasion_ja": "特別な日のディナーに！",
+    "occasion_en": "A perfect side dish for special occasions! ",
+    "ingredients": [
+      {
+        "name": "ハンバーグ (Demi-hamburger)",
+        "amount": "1個"
+      },
+      {
+        "name": "とろける卵",
+        "amount": "1個"
+      },
+      {
+        "name": "濃厚デミソース",
+        "amount": "適量"
+      },
+      {
+        "name": "パセリ",
+        "amount": "お好みで"
+      },
+      {
+        "name": "塩こしょう",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼きます。",
+      "溶かし卵を混ぜて、卵焼きを作ります。",
+      "焼けたハンバーグに、濃厚デミソースを添え、お好みでパセリを飾り付けます。",
+      "卵焼きの上に、ハンバーグを乗せ、塩こしょうで味を調えます。"
+    ],
+    "prompt": "A close-up shot of a juicy demi-hamburger topped with a perfectly runny fried egg, surrounded by rich demi-sauce and sprinkled with parsley.",
+    "filename": "recipe_1787538134.jpg",
+    "date": "2026-08-24 02:23:54",
+    "timestamp": 1787538134,
+    "likes": 0,
+    "views": 355
+  },
+  {
     "id": "recipe_1787533003",
     "category": "side",
     "category_ja": "サイドディッシュ",
