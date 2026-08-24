@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787579208",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイスと黒蜜の甘辛マシュマロデザート：悪魔の甘辛なハーモニー！",
+    "title_en": "Black Sesame Ice Cream with Black Sugar and Honey Caramel - A Devilishly Delicious Dessert",
+    "description_ja": "黒蜜きな粉もちもちアイスと黒蜜の甘辛マシュマロが、悪魔的な美味しさのハーモニーを奏でるデザート。もちもちとしたアイスと、マシュマロの食感が楽しめる一品です。",
+    "description_en": "This devilishly delicious dessert features black sesame ice cream with black sugar and honey caramel for a decadent and surprising flavor combination. The ice cream is soft and chewy, while the caramel adds a delightful crunch and rich sweetness to the dessert.",
+    "occasion_ja": "特別な日に、友達とシェアするのに最適なデザート！",
+    "occasion_en": "The perfect dessert to share with friends for a special occasion.",
+    "ingredients": [
+      {
+        "name": "黒蜜きな粉アイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒糖マシュマロ",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "黒豆",
+        "amount": "適量"
+      },
+      {
+        "name": "白玉粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 黒蜜きな粉アイスを器に盛り、黒糖マシュマロをトッピングする。",
+      "2. 黒蜜を少し加え、黒豆と白玉粉を混ぜる。",
+      "3. 仕上げに黒蜜を少し加えて、黒糖マシュマロをトッピングする。",
+      "4. 冷蔵庫で10分ほど冷やし、完成。"
+    ],
+    "prompt": "A beautiful close-up photo of the black sugar and honey caramel ice cream with black sesame ice cream, topped with black sugar marshmallows. The ice cream should look creamy and inviting, and the marshmallows should be plump and fluffy.",
+    "filename": "recipe_1787579208.jpg",
+    "date": "2026-08-24 13:48:36",
+    "timestamp": 1787579208,
+    "likes": 0,
+    "views": 316
+  },
+  {
     "id": "recipe_1787575060",
     "category": "side",
     "category_ja": "サイド",
