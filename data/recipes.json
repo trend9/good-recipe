@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787589118",
+    "category": "メイン",
+    "category_ja": "メイン料理",
+    "title_ja": "悪魔のデミソースハンバーグととろける卵のハーモニー！",
+    "title_en": "Devilish Demi-Sauce & Creamy Egg Harmony! ",
+    "description_ja": "悪魔的な甘辛な風味のデミソースハンバーグに、とろける半熟卵の優しいハーモニーが、食欲をそそる一皿に！",
+    "description_en": "A devilishly delicious combination of demi-sauce and creaminess! This dish is sure to tantalize your tastebuds with the savory demi-sauce and the delightful harmony of a runny egg yolk.",
+    "occasion_ja": "特別な日、パーティー、家族での食事、友人と楽しむ時におすすめ",
+    "occasion_en": "Perfect for special occasions, parties, family dinners, or sharing with friends!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "200g"
+      },
+      {
+        "name": "デミソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "お好みで",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグを焼きます。デミソースを少し加えて、塩コショウで味をつけます。",
+      "2. 溶き卵を混ぜ、クリームチーズと混ぜ合わせ、卵の表面に軽く塗ります。",
+      "3. ハンバーグの表面に卵の溶き卵を塗ります。",
+      "4. 熱したオーブンで約10分焼きます。表面が焦げ付かないように注意してください。"
+    ],
+    "prompt": "A close-up photo of a devilishly delicious demi-sauce & creaminess burger with a runny egg yolk. The burger has a rich, savory color, and the egg yolk is oozing out.  The sauce is dripping down the burger and a hint of chili powder is visible.",
+    "filename": "recipe_1787589118.jpg",
+    "date": "2026-08-24 16:34:20",
+    "timestamp": 1787589118,
+    "likes": 0,
+    "views": 356
+  },
+  {
     "id": "recipe_1787585835",
     "category": "dessert",
     "category_ja": "デザート",
