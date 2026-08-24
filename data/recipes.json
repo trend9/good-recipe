@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787553897",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的甘辛トマトとモッツァレラチーズのハーモニー",
+    "title_en": "Devilishly Delicious Tomato & Mozzarella Cheese Fusion",
+    "description_ja": "完熟トマトの甘酸っぱさとモッツァレラのクリーミーな味わいが、悪魔的な美味しさに。意外な組み合わせが、食欲をそそる一皿に。",
+    "description_en": "A devilishly delicious fusion of sweet and tangy tomato and creamy mozzarella cheese. An unexpected combination that will entice your tastebuds.",
+    "occasion_ja": "特別な日や特別な時にもぴったりなデザート",
+    "occasion_en": "A perfect dessert for special occasions or for when you want something special.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "ハーブ",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトを一口サイズに切って、軽く塩コショウで味を調え、オリーブオイルで軽く炒める。",
+      "2. モッツァレラチーズを薄くスライスし、ハーブを添えて盛り付ける。",
+      "3. それぞれの食材を盛り付け、オリーブオイルをかければ完成。",
+      "4. 悪魔的な美味しさに浸透した、トマトとモッツァレラチーズのハーモニーを楽しむ。"
+    ],
+    "prompt": "Close-up shot of a dessert plate with tomato slices and mozzarella slices, garnished with herbs and drizzled with olive oil. Photo styled in a modern and creative way, capturing the visual intrigue.",
+    "filename": "recipe_1787553897.jpg",
+    "date": "2026-08-24 06:48:11",
+    "timestamp": 1787553897,
+    "likes": 0,
+    "views": 415
+  },
+  {
     "id": "recipe_1787549691",
     "category": "dessert",
     "category_ja": "デザート",
