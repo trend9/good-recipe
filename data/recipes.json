@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1787596340",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛チーズのハーモニー！",
+    "title_en": "Devilishly Delicious:  Thick-Cut Fried Pork Cutlet with Honey Mustard Sauce",
+    "description_ja": "極厚カツの持つ濃厚な旨味と、特製ハニーマスタードの甘辛さが、まるで悪魔が作り出した、至高のハーモニー！ 誰もが虜になる、究極の悪魔的美味しさ！",
+    "description_en": "Experience the devil's delight!  Thick-cut fried pork cutlet with our special honey mustard sauce will blow your mind. A symphony of flavors for a culinary masterpiece.",
+    "occasion_ja": "特別な日に、特別な料理を味わいたいとき",
+    "occasion_en": "Perfect for a special occasion",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツに塩を振る。",
+      "特製ハニーマスタードを、極厚カツに塗り、熱を加えてチーズをのせる。",
+      "チーズが溶けたら、仕上げにハニーマスタードを添える。",
+      "完成。"
+    ],
+    "prompt": "A close-up shot of a sizzling thick-cut pork cutlet coated in special honey mustard sauce, with melted cheese on top. Smoke and steam create a dramatic, delicious effect.",
+    "filename": "recipe_1787596340.jpg",
+    "date": "2026-08-24 18:34:40",
+    "timestamp": 1787596340,
+    "likes": 0,
+    "views": 232
+  },
+  {
     "id": "recipe_1787592443",
     "category": "dessert",
     "category_ja": "デザート",
