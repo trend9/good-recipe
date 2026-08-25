@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1787668822",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバターぷりぷり海老ピラフ：悪魔の甘辛ハーモニー！",
+    "title_en": "Garlic Butter Shrimp Fried Rice: Devilish Sweet & Sour Harmony!",
+    "description_ja": "ガーリックバターとぷりぷりの海老が、甘辛なハーモニーを奏でる！意外な組み合わせだけど、これは悪魔の味！",
+    "description_en": "Garlicky butter shrimp fried rice with a devilish sweet and sour harmony! This unexpected combination will take your taste buds to another level.",
+    "occasion_ja": "特別な日のディナーに、お酒と一緒にどうぞ。",
+    "occasion_en": "A perfect side dish for special occasions or a night-cap.",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "50g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "ピーマン",
+        "amount": "1/2個"
+      },
+      {
+        "name": "白米",
+        "amount": "150g"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 海老は一口大に切る。玉ねぎは薄切り、ピーマンは小さめに切る。",
+      "2. フライパンにガーリックバターを熱し、海老を炒める。",
+      "3. 玉ねぎ、ピーマンを加え、炒める。",
+      "4. ご飯を加え、醤油とみりんを加え、よく混ぜる。"
+    ],
+    "prompt": "Close-up shot of sizzling garlic butter shrimp fried rice, with a golden crust, steam coming out from the top, surrounded by vibrant green vegetables.  A burst of colorful ingredients.",
+    "filename": "recipe_1787668822.jpg",
+    "date": "2026-08-25 14:42:44",
+    "timestamp": 1787668822,
+    "likes": 0,
+    "views": 366
+  },
+  {
     "id": "recipe_1787665554",
     "category": "dessert",
     "category_ja": "デザート",
