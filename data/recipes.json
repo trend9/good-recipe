@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787661451",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテト×チーズクリームの悪魔的ドリア",
+    "title_en": "Crispy Potato & Cream Cheese Delights: A Devilish D-R-I-A",
+    "description_ja": "サクサクポテトとクリーミーチーズの組み合わせが、悪魔的な美味しさに昇華！とろけるチーズとサクサクしたポテトのハーモニーが、口の中で爆発！",
+    "description_en": "A devilishly delicious twist on classic comfort food - Crispy potatoes and creamy cheese blended into a smooth and decadent experience! The sweet and savory flavors explode in your mouth with every bite.",
+    "occasion_ja": "特別な日に、特別なデザートを！",
+    "occasion_en": "Perfect for special occasions or just a treat yourself moment!",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "1kg"
+      },
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1. ポテトを1cm角に切り、油で揚げる。",
+      "2. チーズをボウルに入れて、牛乳とバターを加え、なめらかに混ぜる。",
+      "3. フライパンに小麦粉を混ぜ、生地を均等に塗る。",
+      "4. 揚げたポテトを生地の中に詰め、チーズクリームで包み込む。 "
+    ],
+    "prompt": "Close-up shot of a rich, creamy, and decadent cheese-filled potato pastry with a golden crust. ",
+    "filename": "recipe_1787661451.jpg",
+    "date": "2026-08-25 12:39:12",
+    "timestamp": 1787661451,
+    "likes": 0,
+    "views": 398
+  },
+  {
     "id": "recipe_1787656996",
     "category": "Side",
     "category_ja": "サイド",
