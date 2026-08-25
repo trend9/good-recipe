@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787696583",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "ローストビーフ×特製オニオンソース：悪魔の甘辛ハーモニー！",
+    "title_en": "Roast Beef with Special Onion Sauce: Devilishly Sweet & Spicy Harmony!",
+    "description_ja": "とろけるローストビーフと、甘辛な特製オニオンソースが、悪魔的美味しさのハーモニーを奏でます！見た目も華やかで、食べごたえ抜群のレシピです。",
+    "description_en": "Enjoy the devilishly sweet & spicy harmony of melt-in-your-mouth roast beef and special onion sauce! This recipe boasts a beautiful presentation and delicious results. ",
+    "occasion_ja": "パーティーや特別な日にもぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "パン",
+        "amount": "適量"
+      },
+      {
+        "name": "オニオン",
+        "amount": "適量"
+      },
+      {
+        "name": "アボカド",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ローストビーフは、塩コショウで味付けし、オーブンで焼きます。",
+      "特製オニオンソースを準備します。玉ねぎとニンニクを炒め、甘辛味で味付けします。",
+      "焼いたローストビーフをパンにつけて、特製オニオンソースをたっぷり添えます。",
+      "オニオン、アボカドを飾り付けます。"
+    ],
+    "prompt": "Close-up photo of a roast beef sandwich with a decadent special onion sauce on a slice of bread, topped with avocado, and adorned with a sprinkle of onion rings, in a warm and inviting setting with a beautiful color palette.",
+    "filename": "recipe_1787696583.jpg",
+    "date": "2026-08-25 22:24:45",
+    "timestamp": 1787696583,
+    "likes": 0,
+    "views": 288
+  },
+  {
     "id": "recipe_1787693069",
     "category": "dessert",
     "category_ja": "デザート",
