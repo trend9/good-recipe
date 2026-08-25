@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787656996",
+    "category": "Side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の唐揚げマヨネーズ丼：甘辛のハーモニー！",
+    "title_en": "Devilish Fried Chicken Mayonnaise Donburi: Sweet & Spicy Harmony!",
+    "description_ja": "サクサクの唐揚げと、甘辛なハニーマヨネーズがたまらない！濃厚な味わいが、丼ぶりで一層、美味しさを引き立てます。",
+    "description_en": "Crispy fried chicken and sweet and spicy honey mayonnaise! This dish offers a dense and enjoyable flavor explosion in a convenient bowl.",
+    "occasion_ja": "パーティーや一人暮らしでも！",
+    "occasion_en": "Perfect for parties or solo dining!",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "お好みの野菜",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "唐揚げを一口サイズにカットします。",
+      "ハニーマヨネーズを加え、味を確認します。",
+      "ご飯にレモン汁を加え、混ぜます。",
+      "唐揚げをご飯の上に乗せ、好みの野菜を添えて完成！"
+    ],
+    "prompt": "A close-up shot of a devilish fried chicken mayonnaise donburi bowl, with crispy chicken, honey mayo drizzle, and a scattering of colorful vegetables.",
+    "filename": "recipe_1787656996.jpg",
+    "date": "2026-08-25 11:24:56",
+    "timestamp": 1787656996,
+    "likes": 0,
+    "views": 243
+  },
+  {
     "id": "recipe_1787653711",
     "category": "揚げ物",
     "category_ja": "揚げ物",
