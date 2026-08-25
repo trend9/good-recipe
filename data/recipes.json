@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1787686114",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "ハニーマヨ唐揚げ丼：悪魔の甘辛ハーモニー！",
+    "title_en": "Honey Mayonnaise Fried Chicken Bowl: Devilish Sweet and Spicy Harmony!",
+    "description_ja": "サクサクの唐揚げに、ハニーマヨネーズの甘辛いハーモニーを！食欲と心を掴む、悪魔的な美味しさの丼！",
+    "description_en": "A devilishly delicious bowl with crispy fried chicken, honey-mayo dressing, and a sweet and savory harmony that will entice your taste buds. ",
+    "occasion_ja": "パーティー、家族ご飯、一人でも楽しめる一皿",
+    "occasion_en": "Party, family dinner, and a delicious one-person dish.",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "適量"
+      },
+      {
+        "name": "ネギ",
+        "amount": "適量"
+      },
+      {
+        "name": "生姜",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "唐揚げを揚げる。",
+      "ハニーマヨネーズと卵を混ぜる。",
+      "ご飯にネギと生姜を混ぜる。",
+      "唐揚げをご飯の上に盛る。",
+      "ハニーマヨネーズをかけた、悪魔の甘辛ハーモニー丼を完成させる"
+    ],
+    "prompt": "A close-up of a golden fried chicken burger topped with a creamy honey-mayo dressing, surrounded by a bed of rice and fresh green onions. The background is blurred and has a soft, earthy tone, reminiscent of a warm kitchen.",
+    "filename": "recipe_1787686114.jpg",
+    "date": "2026-08-25 19:30:18",
+    "timestamp": 1787686114,
+    "likes": 0,
+    "views": 226
+  },
+  {
     "id": "recipe_1787678908",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
