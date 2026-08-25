@@ -1,5 +1,59 @@
 [
   {
+    "id": "recipe_1787629474",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテトチーズクリームグラタン：悪魔の甘辛なハーモニー！",
+    "title_en": "Scampi and Cheese Cream Gratin: An Exotic Delight",
+    "description_ja": "サクサクしたポテトとクリーミーチーズソースを組み合わせた、悪魔的な美味しさ！濃厚な味わいがたまらない！",
+    "description_en": "A creamy and decadent gratin with a savory and sweet combination of crispy potatoes and a rich cheesy sauce.",
+    "occasion_ja": "パーティーや特別な夜におすすめ！",
+    "occasion_en": "Perfect for parties or a special occasion!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "粉チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを一口大にカットし、バターで炒めます。",
+      "牛乳とクリームチーズを加え、なめらかになるまで混ぜます。",
+      "塩こしょうで味を調え、チーズクリームをポテトに塗り広げます。",
+      "グラタンを180℃のオーブンで15分ほど焼きます。",
+      "完成！熱々のサクサクポテトチーズクリームグラタンを召し上がってください。"
+    ],
+    "prompt": "Close-up shot of a savory gratin dish with melted cheese and crispy potatoes in a golden brown glaze, vibrant, inviting, high-resolution",
+    "filename": "recipe_1787629474.jpg",
+    "date": "2026-08-25 03:46:22",
+    "timestamp": 1787629474,
+    "likes": 0,
+    "views": 279
+  },
+  {
     "id": "recipe_1787624275",
     "category": "side",
     "category_ja": "サイド",
