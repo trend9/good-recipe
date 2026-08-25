@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1787693069",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔のサーモンアボカドタルト",
+    "title_en": "Devilish Salmon Avocado Tart",
+    "description_ja": "サーモンとアボカドの組み合わせは、悪魔的な美味しさに！甘辛ソースと、とろけるバターで仕上げたこのタルトは、まさに異界の料理。",
+    "description_en": "A devilishly delicious combination of salmon and avocado, this tart features a sweet and savory sauce, topped with melted butter. A taste that will transport you to another world!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "タルト生地",
+        "amount": "1個"
+      },
+      {
+        "name": "甘辛ソース",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "サーモンは一口サイズに切り、塩コショウで味付けをする。",
+      "アボカドは皮をむいて、種と内側を取り除き、食べやすい大きさに切り、醤油で甘辛味を調える。",
+      "タルト生地を焼いて、バターを塗り、サーモンとアボカドを乗せる。",
+      "甘辛ソースを混ぜ合わせ、タルトに流し込む。",
+      "180℃で15分焼く。"
+    ],
+    "prompt": "Close-up image of a devilishly delicious devil's food tart with salmon, avocado, and a golden glaze",
+    "filename": "recipe_1787693069.jpg",
+    "date": "2026-08-25 21:26:11",
+    "timestamp": 1787693069,
+    "likes": 0,
+    "views": 157
+  },
+  {
     "id": "recipe_1787689379",
     "category": "side",
     "category_ja": "サイド",
