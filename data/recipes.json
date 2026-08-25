@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787678908",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "悪魔のハンバーグオムレツ：とろける卵の甘辛ハーモニー！",
+    "title_en": "Devil's Hamburg Steak Omelet: Tumbling Egg's Sweet and Spicy Harmony!",
+    "description_ja": "とろける卵と、悪魔的な甘辛なデミグラスソースのハーモニーを、オムレツで包んで、あなたを魅了する、悪魔の料理が誕生！",
+    "description_en": "A devilish harmony of sweet and spicy demi-glace sauce and a silky, perfectly poached egg in a fluffy omelette, this dish will surely seduce your tastebuds!",
+    "occasion_ja": "週末の特別なディナー、特別な日にぴったりな一品！",
+    "occasion_en": "Perfect for special dinners on weekends or any special occasions!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "200g"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ハンバーグをデミグラスソースで焼きます。",
+      "フライパンに卵を溶き、塩で味を調えます。",
+      "ハンバーグを卵のオムレツに、デミグラスソースを添えて盛り付けます。",
+      "お好みでマヨネーズをトッピングします。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious, creamy and fluffy omelette with a perfectly poached egg nestled inside a juicy, savory hamburger patty, topped with a generous drizzle of demitasse sauce, and garnished with a swirl of creamy mayo.",
+    "filename": "recipe_1787678908.jpg",
+    "date": "2026-08-25 17:29:44",
+    "timestamp": 1787678908,
+    "likes": 0,
+    "views": 374
+  },
+  {
     "id": "recipe_1787675477",
     "category": "dessert",
     "category_ja": "デザート",
