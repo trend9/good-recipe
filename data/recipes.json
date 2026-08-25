@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787700100",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "とろり半熟卵のデミグラスハンバーグステーキ：悪魔の甘辛ハーモニー！",
+    "title_en": "Devilishly Delicious Demi-Glace Hamburger Steak with Soft-Boiled Egg: An Extreme Take on the Classics",
+    "description_ja": "とろとろ半熟卵と濃厚デミグラスソースで作る、悪魔的な美味しさ！甘辛のハーモニーで、一口食べるともう止まらない！",
+    "description_en": "An intensely delicious combination of demi-glace sauce and a perfectly soft-boiled egg, this devilishly delightful dish will leave you wanting more. The sweet and savory blend is a real treat!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグを焼く: フライパンにバターを溶かし、ハンバーグを焼く。",
+      "2. デミグラスソースと半熟卵を混ぜる: 卵を溶き、デミグラスソースに混ぜる。",
+      "3. ステーキ: ハンバーグを焼いた後、デミグラスソースと半熟卵を乗せる。",
+      "4. 上品に: 生クリームを混ぜて、ステーキを飾り付ける"
+    ],
+    "prompt": "A close-up shot of a perfectly cooked steak with a soft-boiled egg nestled on top, drizzled with a rich demi-glace sauce, with steam rising from the dish. ",
+    "filename": "recipe_1787700100.jpg",
+    "date": "2026-08-25 23:23:19",
+    "timestamp": 1787700100,
+    "likes": 0,
+    "views": 385
+  },
+  {
     "id": "recipe_1787696583",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
