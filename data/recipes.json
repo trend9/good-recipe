@@ -1,5 +1,59 @@
 [
   {
+    "id": "recipe_1787672323",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカラメル！悪魔の甘辛クリームパンケーキ",
+    "title_en": "Sweet and Spicy Cinnamon Bread Pudding with Caramelized Butter",
+    "description_ja": "焼き芋の甘さと、とろけるバターの香ばしい香りが、まるで魔法の空間にいるような、悪魔的美味しさのパンケーキ！",
+    "description_en": "A delicious and magical cinnamon bread pudding with caramelized butter and sweet potato! ",
+    "occasion_ja": "特別な日のおやつにぴったり！",
+    "occasion_en": "Perfect for a special occasion dessert.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "シナモン",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "焼き芋は、皮を剥いて、一口大に切る。",
+      "ボウルに、バター、砂糖、シナモンを混ぜ合わせる。",
+      "牛乳と卵を加え、よく混ぜる。",
+      "焼き芋をボウルに入れ、全体に混ぜる。",
+      "熱したフライパンで、焼き芋の生地を流し込み、両面が焼けるまで焼く。"
+    ],
+    "prompt": "Close-up shot of the pan cake, glowing in a warm, comforting light, with a hint of cinnamon spice.",
+    "filename": "recipe_1787672323.jpg",
+    "date": "2026-08-25 15:40:23",
+    "timestamp": 1787672323,
+    "likes": 0,
+    "views": 215
+  },
+  {
     "id": "recipe_1787668822",
     "category": "side",
     "category_ja": "サイド",
