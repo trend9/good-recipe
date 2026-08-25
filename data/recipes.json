@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1787639817",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの甘辛スパイシー！",
+    "title_en": "Spicy Caramel Brulee Banana Delight",
+    "description_ja": "完熟バナナの甘美な香りと、キャラメルブリュレの濃厚な甘さが、スパイシーな風味で、新たな美味しさに昇り詰めた、悪魔的なスイーツレシピ！",
+    "description_en": "Take the sweet and smokey notes of ripe bananas and pair it with the caramelized richness of the brulee, then add a kick of spice for a devilishly delicious dessert that you'll never forget!",
+    "occasion_ja": "特別な日に、または特別な気分に！",
+    "occasion_en": "For a special occasion or when you feel like treating yourself!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "適量"
+      },
+      {
+        "name": "スパイス (例: ハバネロ, ジンジャー, etc.)",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "完熟バナナを半分にカットします。",
+      "バナナの表面にスパイスを振り、バターでコーティングします。",
+      "キャラメルをバナナの表面に塗り、オーブンで10分焼きます。",
+      "キャラメルが固まったら、スパイスを振り、さらに10分焼きます。"
+    ],
+    "prompt": "A close-up shot of caramelized banana slices with a sprinkle of spices. A golden brown crust with a soft, moist center, evoking a sense of luxury and delight.",
+    "filename": "recipe_1787639817.jpg",
+    "date": "2026-08-25 06:38:39",
+    "timestamp": 1787639817,
+    "likes": 0,
+    "views": 433
+  },
+  {
     "id": "recipe_1787635713",
     "category": "dessert",
     "category_ja": "デザート",
