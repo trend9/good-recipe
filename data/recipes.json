@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1787619383",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛チーズのハーモニー！",
+    "title_en": "Devilishly Delicious: Honey Mustard Glazed Thick-Cut Pork Cutlet",
+    "description_ja": "極厚カツに、意外な甘辛マスタードソースで、悪魔的な美味しさのハーモニー！とろけるチーズの食感と、マスタードの甘辛さが絶妙な組み合わせ。",
+    "description_en": "Experience the devilishly delicious fusion of sweet, smoky, and savory with our Honey Mustard Glazed Thick-Cut Pork Cutlet.  The creamy cheese and tangy honey mustard make for an unforgettable taste experience.",
+    "occasion_ja": "パーティーやBBQにも最適な一品",
+    "occasion_en": "Perfect for parties and barbecues.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1本"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面を薄くスライスした特製ハニーマスタードで、全体に塗る。",
+      "チーズを挟む。",
+      "マヨネーズを塗る。",
+      "オーブンで10分焼く。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious thick-cut pork cutlet glazed with honey mustard sauce, topped with melted cheese, in a warm oven, with steam rising. ",
+    "filename": "recipe_1787619383.jpg",
+    "date": "2026-08-25 00:57:59",
+    "timestamp": 1787619383,
+    "likes": 0,
+    "views": 378
+  },
+  {
     "id": "recipe_1787613561",
     "category": "side",
     "category_ja": "サイド",
