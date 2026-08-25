@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787650249",
+    "category": "サイドディッシュ",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "トマトモッツァレラチーズの悪魔的サンドイッチ",
+    "title_en": "Devilish Tomato Mozzarella Cheese Sandwich",
+    "description_ja": "鮮やかな赤のトマトとモッツァレラチーズを組み合わせ、悪魔的な美味しさで魅了する、見た目もインパクトのあるサンドイッチレシピ。",
+    "description_en": "A devilishly delicious sandwich featuring juicy tomatoes and creamy mozzarella cheese, with a captivating visual appeal.",
+    "occasion_ja": "パーティーやランチにぴったり！",
+    "occasion_en": "Perfect for parties and lunches.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "バジル",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. トマトはヘタを取り、薄切りにします。",
+      "2. モッツァレラチーズは、小さく切ります。",
+      "3. バジルを軽くみじん切りにします。",
+      "4. 2. にオリーブオイルと塩コショウを加え、トマトに包みます。  3. にバジルを加え、チーズを乗せてサンドイッチに。  "
+    ],
+    "prompt": "A close-up shot of a devilishly delicious sandwich, featuring juicy tomatoes and creamy mozzarella cheese, with a captivating visual appeal.",
+    "filename": "recipe_1787650249.jpg",
+    "date": "2026-08-25 09:32:30",
+    "timestamp": 1787650249,
+    "likes": 0,
+    "views": 297
+  },
+  {
     "id": "recipe_1787646973",
     "category": "グラタン",
     "category_ja": "グラタン",
