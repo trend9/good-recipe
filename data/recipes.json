@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787653711",
+    "category": "揚げ物",
+    "category_ja": "揚げ物",
+    "title_ja": "極厚カツ × 特製ハニーマスタード: 悪魔の甘辛チーズのハーモニー！",
+    "title_en": "Extreme Thick Cutlet with Special Honey Mustard: Devilish Sweet & Spicy Cheese Harmony!",
+    "description_ja": "極厚カツと特製ハニーマスタードの組み合わせは、まさに悪魔の甘辛なハーモニー！とろけるチーズと、香ばしいハニーマスタードが、一口食べたら止まらない、衝撃の美味しさです！",
+    "description_en": "A devilishly delicious harmony of extreme thick cutlets and special honey mustard sauce. A melt-in-your-mouth cheese with a spicy kick, this dish will leave you wanting more! ",
+    "occasion_ja": "パーティーやディナーに、インパクトのある一品を盛りたい時！",
+    "occasion_en": "Perfect for parties and dinners, this dish adds a dramatic twist to your meal!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ (プロセスチーズ)",
+        "amount": "20g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 極厚カツを両面を軽く塩コショウで振ります。",
+      "2. フライパンに油を熱し、極厚カツを両面を焼きます。",
+      "3.  特製ハニーマスタードを混ぜた生クリームとチーズを加え、混ぜながら煮詰めます。",
+      "4.  焼き上げた極厚カツに特製ハニーマスタードソースをたっぷりかけて、チーズを乗せます。"
+    ],
+    "prompt": "Close-up photo of a plate of extreme thick cutlets with special honey mustard sauce, a cheese slice, and a sprinkle of salt and pepper on top, background blurred with a dark and cozy aesthetic. ",
+    "filename": "recipe_1787653711.jpg",
+    "date": "2026-08-25 10:30:19",
+    "timestamp": 1787653711,
+    "likes": 0,
+    "views": 462
+  },
+  {
     "id": "recipe_1787650249",
     "category": "サイドディッシュ",
     "category_ja": "サイドディッシュ",
