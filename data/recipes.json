@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787665554",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマトモッツァレラチーズの悪魔的ハーモニー！",
+    "title_en": "Tomato Mozzarella Cheese Devilish Harmony!",
+    "description_ja": "完熟トマトの酸味とフレッシュモッツァレラのクリーミーな味わいが、意外な美味しさで爆発！悪魔的ハーモニーを味わえる一品を、ぜひ試して確かめてください。",
+    "description_en": "Tomato's acidity and fresh mozzarella's creamy taste explode in a surprising harmony! Unforgettable devilish harmony awaits you, try it out!",
+    "occasion_ja": "特別な日に、または、特別な人へのプレゼントにぴったり！",
+    "occasion_en": "Perfect for a special occasion or a gift for someone special!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラ",
+        "amount": "200g"
+      },
+      {
+        "name": "グラویシャローチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バジル",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "トマトを輪切りにし、オリーブオイルとバジルで風味付けます。",
+      "モッツァレラチーズを薄切りにします。",
+      "グラویシャローチーズを薄切りにし、トマトとモッツァレラチーズを一緒に乗せます。",
+      "皿に盛り付け、お好みでローズマリーやバジルを飾ります。"
+    ],
+    "prompt": "Close-up shot of a plate of pizza with tomato mozzarella cheese, basil, and olive oil. High-quality photo, focus on the texture and detail.",
+    "filename": "recipe_1787665554.jpg",
+    "date": "2026-08-25 13:48:14",
+    "timestamp": 1787665554,
+    "likes": 0,
+    "views": 456
+  },
+  {
     "id": "recipe_1787661451",
     "category": "dessert",
     "category_ja": "デザート",
