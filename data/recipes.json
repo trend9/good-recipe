@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787689379",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のバターエビピラフ：甘辛のハーモニー！",
+    "title_en": "Devilish Butter Shrimp Rice: Sweet and Spicy Harmony!",
+    "description_ja": "ぷりぷりエビと、濃厚なガーリックバターの香ばしい香りがたまらない！甘辛で悪魔的な旨味と、濃厚な味わいが融合した、一皿の満足感！",
+    "description_en": "Enjoy the delicious savory and spicy notes of shrimp and a garlicky butter aroma! This one dish satisfies your cravings with a sweet and spicy harmony, leaving you wanting more.",
+    "occasion_ja": "パーティーに、お酒の肴にぴったり！",
+    "occasion_en": "Perfect as an appetizer or side dish for parties or drinks!",
+    "ingredients": [
+      {
+        "name": "エビ",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "20g"
+      },
+      {
+        "name": "白米",
+        "amount": "200g"
+      },
+      {
+        "name": "水",
+        "amount": "100ml"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "エビを10分ほど塩コショウで下味をつけます。",
+      "鍋に水と醤油、砂糖を混ぜ、中火で沸騰させます。",
+      "エビを加え、弱火で約5分煮ます。",
+      "ガーリックバターを混ぜ、全体を炒め合わせます。"
+    ],
+    "prompt": "Close-up shot of shrimp rice with garlicky butter and vibrant colors, evoking an inviting, mouthwatering feel. ",
+    "filename": "recipe_1787689379.jpg",
+    "date": "2026-08-25 20:25:24",
+    "timestamp": 1787689379,
+    "likes": 0,
+    "views": 291
+  },
+  {
     "id": "recipe_1787686114",
     "category": "丼",
     "category_ja": "丼",
