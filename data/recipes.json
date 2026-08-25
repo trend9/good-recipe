@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787632583",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテトチーズクリームの悪魔的ドリップ！",
+    "title_en": "Sizzling Potato Cheese Drizzle - A Devilish Delight!",
+    "description_ja": "サクサク食感のポテトとクリーミーなチーズソースが、まるで悪魔の雫のように、絶妙なハーモニーを奏でます！まるで魔法の料理に魅了されるでしょう。",
+    "description_en": "A devilish twist on potato and cheese, this dish delivers a mouthwatering combination that resembles a magical drizzle, leaving you wanting more!",
+    "occasion_ja": "パーティー、ディナー、特別な日など、どんなシーンにも相性抜群！",
+    "occasion_en": "Perfect for parties, dinners, or special occasions, this side dish adds a touch of devilish delight to any meal!",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "クリームソース",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "ハーブ",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. ポテトを1〜2cmにカットし、揚げる。",
+      "2. 仕上げに、チーズとクリームソースを混ぜて、ソースを添え、お好みでハーブを混ぜる。",
+      "3. ポテトを盛り付け、ソースをたっぷりかける。",
+      "4. お好みのハーブを加えて、仕上げる。"
+    ],
+    "prompt": "A plate of sizzly potato, cheese drizzle with a magical effect. The cheese drip is in a swirl, with herbs and a golden potato color, and a close up view of the cheese drizzled on top of the potatoes. ",
+    "filename": "recipe_1787632583.jpg",
+    "date": "2026-08-25 04:37:39",
+    "timestamp": 1787632583,
+    "likes": 0,
+    "views": 435
+  },
+  {
     "id": "recipe_1787629474",
     "category": "side",
     "category_ja": "サイド",
