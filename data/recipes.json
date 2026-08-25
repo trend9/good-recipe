@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787646973",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔の海藻チーズグラタン：クリーミーな甘辛が海を揺らす！",
+    "title_en": "Devil's Seaweed Cheese Gratin: Creamy Sweetness That Swims in the Ocean!",
+    "description_ja": "濃厚なチーズと海藻の組み合わせで、クリーミーな甘辛が口に広がる、悪魔的な美味しさ。一見すると、意外な組み合わせの海藻とチーズが、絶妙なハーモニーを奏でます！",
+    "description_en": "Creamy sweetness with the combination of cheese and seaweed that takes you on a journey. An unexpected combo of seaweed and cheese comes together to create a devilishly delicious harmony!",
+    "occasion_ja": "パーティーや特別な日に。",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "チーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "海藻 (わかめ)",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "1. チーズと海藻を混ぜ、バターで炒める。",
+      "2. 卵を溶いて牛乳を加え、混ぜる。",
+      "3. グラタン皿にチーズと海藻の生地を敷き詰め、蓋をする。",
+      "4. 予熱したオーブンで30分焼く。"
+    ],
+    "prompt": "Close-up photo of a devilishly delicious seaweed and cheese gratin with steam coming out of it, showcasing its creamy and beautiful texture. Anime style illustration, vibrant and inviting.",
+    "filename": "recipe_1787646973.jpg",
+    "date": "2026-08-25 08:37:29",
+    "timestamp": 1787646973,
+    "likes": 0,
+    "views": 216
+  },
+  {
     "id": "recipe_1787643656",
     "category": "side",
     "category_ja": "サイド",
