@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787643656",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろける卵×旨辛麻婆豆腐丼：悪魔の甘辛ハーモニー！再進化！",
+    "title_en": "Tofu and Egg Delight: A Spicy and Creamy Twist on the Classic",
+    "description_ja": "とろける卵と旨辛麻婆豆腐を合わせた、悪魔的な甘辛なハーモニー！さらに、ご飯と混ぜて、丼で食べる、究極の悪魔的レシピ！",
+    "description_en": "A spicy and creamy fusion of tofu and egg, this recipe delivers a taste sensation! A delicious twist on the classic, this dish is ready to be devoured in a bowl. ",
+    "occasion_ja": "食欲旺盛な時や、ちょっと特別な日にお召し上がりください！",
+    "occasion_en": "Perfect for those wanting a spicy and creamy side dish, or a little something special. ",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "甘辛麻婆豆腐のタレ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "ご飯",
+        "amount": "100g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "豆腐は軽く水切り、一口大に切り、熱湯で1分茹でる。",
+      "卵を割りほぐし、塩、こしょうで味付けする。",
+      "フライパンにご飯と卵、麻婆豆腐のタレを入れ、よく混ぜる。",
+      "豆腐を乗せ、ご飯と卵の麻婆豆腐丼を完成。"
+    ],
+    "prompt": "Bowl of creamy, spicy tofu and egg salad with a delicious sesame sauce drizzled over. Top with a sprinkle of chopped scallions. ",
+    "filename": "recipe_1787643656.jpg",
+    "date": "2026-08-25 07:43:15",
+    "timestamp": 1787643656,
+    "likes": 0,
+    "views": 288
+  },
+  {
     "id": "recipe_1787639817",
     "category": "dessert",
     "category_ja": "デザート",
