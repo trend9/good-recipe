@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787635713",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの秘密結晶Dessert",
+    "title_en": "Banana Caramel Brulee Secret Crystal Dessert",
+    "description_ja": "完熟バナナの甘さを、キャラメルブリュレで閉じ込め、その結晶が口の中で溶ける、悪魔的デザート。一見シンプルだが、意外な甘辛で奥が深い味わいを堪能できる。",
+    "description_en": "A simple dessert with a secret, caramelized banana crystals.  This will have an unexpected sweetness and savory taste in your mouth.  ",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "3個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1.完熟バナナを半分に切り、両面にキャラメルを塗る。",
+      "2.それぞれにバターを溶かして、バナナを包む。",
+      "3.生クリームと牛乳を混ぜて、バナナを包む。",
+      "4.オーブンで10分加熱し、キャラメルが溶け、バナナの結晶が形成される。"
+    ],
+    "prompt": "Close-up shot of a dessert dish with caramelized banana crystals and a golden glaze.  Anime style with a colorful and dynamic look.",
+    "filename": "recipe_1787635713.jpg",
+    "date": "2026-08-25 05:29:56",
+    "timestamp": 1787635713,
+    "likes": 0,
+    "views": 295
+  },
+  {
     "id": "recipe_1787632583",
     "category": "side",
     "category_ja": "サイド",
