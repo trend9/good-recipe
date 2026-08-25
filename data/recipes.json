@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787624275",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の海老＆アボカドグラタン：クリーミーな甘辛がたまらない！",
+    "title_en": "Devilish Lobster & Avocado Gratin: Creamy Sweet & Spicy You'll Never Forget!",
+    "description_ja": "一見すると、普通のグラタンだけど、この悪魔的な一品は、クリーミーなアボカドと、贅沢な海老のハーモニーが炸裂する！",
+    "description_en": "A seemingly ordinary gratin, but this devilish dish explodes with the creamy avocado and luxurious lobster symphony! ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "ホタテ",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "クリーミーなチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ホタテは洗って、軽く塩コショウを振る。",
+      "2. アボカドは皮をむいて、大きめなサイズにカットする。",
+      "3. 1. はオリーブオイルで炒める。",
+      "4. 3. にクリーミーなチーズを混ぜる。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious lobster and avocado gratin with steam rising from it, a warm glow and vibrant colors",
+    "filename": "recipe_1787624275.jpg",
+    "date": "2026-08-25 02:19:08",
+    "timestamp": 1787624275,
+    "likes": 0,
+    "views": 258
+  },
+  {
     "id": "recipe_1787619383",
     "category": "side",
     "category_ja": "サイド",
