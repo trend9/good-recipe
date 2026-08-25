@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787675477",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコムースケーキ：悪魔の甘美なハーモニー",
+    "title_en": "Matcha White Chocolate Mousse Cake: A Devilish Sweet Harmony",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートの組み合わせは、今までにない、悪魔的な甘美さ。まるで宝石のように美しいムースケーキは、見た目も味も魅惑的な一品！",
+    "description_en": "A devilishly sweet harmony awaits in this matcha and white chocolate mousse cake! Its beauty, both in appearance and taste, will leave you mesmerized.",
+    "occasion_ja": "特別な日にもぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "300ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "100g"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1.  抹茶とホワイトチョコレートを混ぜる。",
+      "2.  生クリームを砂糖と混ぜる。",
+      "3.  混ぜ合わせた抹茶とホワイトチョコレートを生クリームに混ぜる。",
+      "4.  薄力粉を混ぜて、ムースケーキの型に流し込む。"
+    ],
+    "prompt": "A close-up photo of a beautiful white chocolate mousse cake with green matcha swirls, a vibrant and artistic depiction in a style reminiscent of anime or illustration.",
+    "filename": "recipe_1787675477.jpg",
+    "date": "2026-08-25 16:32:53",
+    "timestamp": 1787675477,
+    "likes": 0,
+    "views": 455
+  },
+  {
     "id": "recipe_1787672323",
     "category": "dessert",
     "category_ja": "デザート",
