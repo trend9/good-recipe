@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787705851",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマトモッツァレラチーズの贅沢チーズケーキ！悪魔の甘辛ハーモニー！",
+    "title_en": "Gourmet Tomato & Mozzarella Cheese Cake with Devilish Sweet & Spicy Harmony!",
+    "description_ja": "熟したトマトの甘酸っぱさとモッツァレラのクリーミーさが、チーズケーキの王道を再定義！悪魔的美味しさのチーズケーキ体験をお届けします！",
+    "description_en": "This decadent cheese cake features the sweet and tangy of ripe tomatoes and the creamy richness of mozzarella cheese. It redefines the classic cheese cake experience with a devilishly delicious twist! ",
+    "occasion_ja": "特別な日のデザートにぴったり！",
+    "occasion_en": "Perfect for dessert occasions! ",
+    "ingredients": [
+      {
+        "name": "トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "パウダーチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. トマトを薄切りにし、モッツァレラチーズと砂糖を混ぜる。\n",
+      "2. 生クリームとパウダーチーズを加え、混ぜる。\n",
+      "3. 混ぜ合わせたチーズ生地を型に流し込む。\n",
+      "4. 180℃のオーブンで15分焼く。\n"
+    ],
+    "prompt": "Close-up shot of a decadent cheese cake with a smooth and creamy texture, surrounded by a light and airy effect, with red tomato and white mozzarella cheese on top. An anime illustration style with a vibrant and realistic feel.",
+    "filename": "recipe_1787705851.jpg",
+    "date": "2026-08-26 00:59:11",
+    "timestamp": 1787705851,
+    "likes": 0,
+    "views": 190
+  },
+  {
     "id": "recipe_1787700100",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
