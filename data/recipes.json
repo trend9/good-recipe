@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1787730145",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの悪魔的アレンジ！とろけるキャラメルソースとバナナの甘酸っぱさ、最高のハーモニーが実現！",
+    "title_en": "Devilishly Delicious: Banana Caramel Brulee with a Twist!",
+    "description_ja": "完熟バナナの甘酸っぱさを、キャラメルブリュレで表現した、究極の悪魔的デザートレシピ！とろけるキャラメルソースとバナナの甘酸っぱさが、最高のハーモニーを奏でる！",
+    "description_en": "Devilishly delicious: A twist on classic banana caramel brulee! This decadent dessert uses the sweet and tangy flavor of ripe bananas and the rich caramelized flavors of a brulee, for a truly unforgettable experience. ",
+    "occasion_ja": "特別な日に、自分へのご褒美にぴったりな一品",
+    "occasion_en": "Perfect for a special occasion treat or a delicious self-reward!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1.  バナナを薄くスライスして、キャラメルでコーティングする。",
+      "2.  フライパンでバターを溶かし、生クリームを加え、とろみがつくまで煮詰める。",
+      "3.  キャラメルにバナナを浸し、キャラメルソースがバナナに染み渡るように置く。",
+      "4.  キャラメルソースとバナナが馴染み、とろけるようなキャラメルブリュレを作り出す。"
+    ],
+    "prompt": "Close-up photo of a caramelized banana brulee, with a rich, golden caramel glaze. The banana slices should be arranged artfully, and a sprinkle of cinnamon might be added for visual appeal.",
+    "filename": "recipe_1787730145.jpg",
+    "date": "2026-08-26 07:43:14",
+    "timestamp": 1787730145,
+    "likes": 0,
+    "views": 238
+  },
+  {
     "id": "recipe_1787726323",
     "category": "side",
     "category_ja": "サイドメニュー",
