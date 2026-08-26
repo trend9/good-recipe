@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787733479",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油！悪魔のチーズフィリングピラフ",
+    "title_en": "Smoked Char Siu & Spicy Garlic Cream Cheese Stuffed Pilaf",
+    "description_ja": "濃厚焦がしにんにく醤油をたっぷり使い、炙りチャーシューとチーズが一体となった、ピラフに新たな次元をもたらす悪魔的な味わいを演出。",
+    "description_en": "Smoked char siu and creamy garlic cheese filling in a flavorful pilaf, delivers a devilishly delicious twist on this classic dish.",
+    "occasion_ja": "ディナーやパーティーに最適！",
+    "occasion_en": "Perfect for dinner or party",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "じゃがいもと玉ねぎを薄切りにして、炒め合わせる。",
+      "濃厚焦がしにんにく醤油を混ぜ合わせ、炙りチャーシューを混ぜ込む。",
+      "チーズと生クリームを加え、全体を混ぜる。",
+      "ご飯にチーズフィリングを盛り付け、完成。"
+    ],
+    "prompt": "Close-up shot of a pilaf dish with a beautiful, smoky char siu topping and creamy cheese filling.  Warm and inviting, with a cheesy smile and a hint of smoky goodness.",
+    "filename": "recipe_1787733479.jpg",
+    "date": "2026-08-26 08:39:39",
+    "timestamp": 1787733479,
+    "likes": 0,
+    "views": 397
+  },
+  {
     "id": "recipe_1787730145",
     "category": "dessert",
     "category_ja": "デザート",
