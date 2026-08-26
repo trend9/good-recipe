@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1787718928",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のバター海老グラタン：甘酸っぱい海の幸のハーモニー",
+    "title_en": "Devilishly Delicious Creamy Avocado Clam Gratin: The Sweet and Salty Symphony",
+    "description_ja": "このレシピは、クリーミーなアボカドと、海の幸であるホタテの濃厚な味わいが、甘酸っぱいハーモニーで融合する悪魔的なグラタンです。一口食べたら、あなたを虜にするでしょう。",
+    "description_en": "This devilishly delicious creamy avocado clam gratin brings the sweet and salty symphony of flavors together. A unique blend of creamy avocado and decadent clam will leave you wanting more.",
+    "occasion_ja": "パーティーや特別な日のディナーに最適な一品",
+    "occasion_en": "Perfect for parties or special occasions",
+    "ingredients": [
+      {
+        "name": "ホタテ",
+        "amount": "250g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "100g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "1/2個"
+      }
+    ],
+    "steps": [
+      "1. Clam shells are steamed for 5 minutes. While steaming, prepare the sauce by mixing in butter, lemon juice, salt and pepper to the clam shells.",
+      "2. In a bowl, mix avocado with cream cheese and season with salt and pepper to your taste.",
+      "3. Transfer the prepared sauce and clam shells into a baking dish, and top with the avocado mixture.",
+      "4. Bake at 180°C for 20 minutes. Serve warm and enjoy the devilishly delicious result."
+    ],
+    "prompt": "Close-up shot of a creamy avocado and clam gratin with a golden brown crust, surrounded by steam and a vibrant, colorful presentation, anime illustration style.",
+    "filename": "recipe_1787718928.jpg",
+    "date": "2026-08-26 04:37:11",
+    "timestamp": 1787718928,
+    "likes": 0,
+    "views": 203
+  },
+  {
     "id": "recipe_1787716215",
     "category": "Side",
     "category_ja": "サイド",
