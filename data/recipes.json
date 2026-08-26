@@ -1,5 +1,60 @@
 [
   {
+    "id": "recipe_1787736994",
+    "category": "ご飯",
+    "category_ja": "ご飯",
+    "title_ja": "とろけるチーズとタッカルビチキン：悪魔のチーズピラフ風！",
+    "title_en": "Spicy Cheese & Ttukbaegi Chicken: Devilish Cheesy Pilaf",
+    "description_ja": "とろけるチーズとタッカルビチキの組み合わせで、ピラフに新たな悪魔的な美味しさを演出！辛味とチーズのハーモニーが、誰もが虜になる一皿に。",
+    "description_en": "A devilish fusion of creamy cheese and ttukbaegi chicken, creating a cheesy pilaf that will leave you wanting more! A taste bud-tickling harmony of spice and creamy cheese.",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "100g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを1cm角の大きさに切る。",
+      "玉ねぎは薄切りにし、パプリカは quarters に切る。",
+      "鍋に油をひき、玉ねぎとパプリカを炒める。",
+      "溶かしバターを加え、チーズと塩胡椒を加え混ぜ合わせる。",
+      "タッカルビチキンを加え、混ぜる。",
+      "ご飯を入れて混ぜ合わせる"
+    ],
+    "prompt": "A close-up shot of the cheesy pilaf, with the ttukbaegi chicken, paprika, and cheese. The focus should be on the cheese melting and the vibrant colors of the ingredients.",
+    "filename": "recipe_1787736994.jpg",
+    "date": "2026-08-26 09:38:18",
+    "timestamp": 1787736994,
+    "likes": 0,
+    "views": 269
+  },
+  {
     "id": "recipe_1787733479",
     "category": "side",
     "category_ja": "サイド",
