@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1787752252",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろける卵と激辛麻婆豆腐丼の意外性あふれる悪魔的丼",
+    "title_en": "Spicy & Creamy Egg over Spicy Tofu Rice Bowl - An Unexpectedly Delicious Devilish Bowl",
+    "description_ja": "とろける卵と激辛麻婆豆腐が意外性あふれる組み合わせ。濃厚な麻婆豆腐と卵の甘酸っぱさが絶妙なハーモニーを奏でる、悪魔的丼。",
+    "description_en": "Spicy and creamy egg over spicy tofu rice bowl: an unexpected but delicious devilish bowl! The creamy egg and spicy tofu rice bowl create a surprisingly delightful harmony!",
+    "occasion_ja": "特別な日に、お友達とシェアする時にも最適",
+    "occasion_en": "Perfect for a special occasion or sharing with friends",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "2合"
+      },
+      {
+        "name": "激辛麻婆豆腐",
+        "amount": "1人分"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "卵黄",
+        "amount": "1個"
+      },
+      {
+        "name": "ネギ",
+        "amount": "1/2本"
+      }
+    ],
+    "steps": [
+      "ご飯を炊く。",
+      "激辛麻婆豆腐を熱した鍋に入れ、卵を1個加えて混ぜる。",
+      "卵黄を別容器に入れて、溶き卵を加える。",
+      "ご飯と麻婆豆腐に卵黄を混ぜる。",
+      "ネギを乗せ、お好みでソースをかける。"
+    ],
+    "prompt": "An anime illustration of a bowl of spicy and creamy egg over spicy tofu rice bowl with a steaming hot appearance. The bowl is decorated with green onions, and a vibrant and flavorful sauce.  ",
+    "filename": "recipe_1787752252.jpg",
+    "date": "2026-08-26 13:52:36",
+    "timestamp": 1787752252,
+    "likes": 0,
+    "views": 212
+  },
+  {
     "id": "recipe_1787748096",
     "category": "side",
     "category_ja": "サイド",
