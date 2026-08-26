@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787770713",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "サーモン×アボカドの悪魔的タルタルパスタ",
+    "title_en": "Salmon & Avocado Devilish Pasta",
+    "description_ja": "とろけるアボカドと鮮やかなサーモンが、濃厚なチーズソースで絡み合う、悪魔的なパスタレシピ！",
+    "description_en": "A devilish pasta recipe with creamy avocado and a flavorful salmon, all drizzled with a rich and cheesy sauce. ",
+    "occasion_ja": "週末のお祝いのディナーにぴったりな一品",
+    "occasion_en": "Perfect for a weekend dinner party! ",
+    "ingredients": [
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "ニンニク",
+        "amount": "1かけ"
+      }
+    ],
+    "steps": [
+      "1. パスタを茹でる。",
+      "2. サーモンは塩コショウで味付けし、フライパンで焼き、アボカドを飾り付ける。",
+      "3. 混ぜる。トマト、ニンニク、チーズを混ぜ合わせる。",
+      "4. パスタを皿に盛り、アボカドとサーモン、チーズソースを絡める。"
+    ],
+    "prompt": "A close-up image of a creamy, cheesy, and flavorful pasta dish with salmon, avocado, and a bright red tomato sauce. ",
+    "filename": "recipe_1787770713.jpg",
+    "date": "2026-08-26 19:00:07",
+    "timestamp": 1787770713,
+    "likes": 0,
+    "views": 269
+  },
+  {
     "id": "recipe_1787760891",
     "category": "丼",
     "category_ja": "丼物",
