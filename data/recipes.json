@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1787716215",
+    "category": "Side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のバターエビピラフ：甘辛のハーモニー！×甘酸っぱいエビのスパイシーソース！",
+    "title_en": "Devilishly Delicious Shrimp & Garlic Butter Rice Bowl: a Twist of Spice & Acid",
+    "description_ja": "エビとガーリックバターのピラフに、甘酸っぱいスパイシーソースを絡めて、悪魔的な美味しさを実現。見た目も鮮やかで、食べ応え抜群のレシピです。",
+    "description_en": "Shrimp & Garlic Butter Rice Bowl with a tangy, spicy twist. This recipe delivers both a savory, comforting dish with a unique and exciting flavor profile. It's an unforgettable treat with an addictive visual appeal.",
+    "occasion_ja": "パーティや特別な日の、一皿で魅せる一品",
+    "occasion_en": "A showstopping dish for parties or special occasions. ",
+    "ingredients": [
+      {
+        "name": "エビ",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリック",
+        "amount": "50g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "白米",
+        "amount": "100g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "お好みで",
+        "amount": "少量"
+      }
+    ],
+    "steps": [
+      "1. 大きなボウルにエビ、ガーリック、バターを加え、混ぜる。",
+      "2.  白米をボウルに入れて、塩と黒胡椒で味付け。",
+      "3.  混ぜ合わせたエビとバターをご飯に加え、全体を混ぜる。",
+      "4.  熱したフライパンでご飯とエビとバターを炒め、仕上げにお好みでレモン汁を添える。"
+    ],
+    "prompt": "A close-up image of a sizzling shrimp and garlic butter rice bowl, with a vibrant green garnish, a sprinkle of black pepper, and a lemon wedge for a finishing touch.  ",
+    "filename": "recipe_1787716215.jpg",
+    "date": "2026-08-26 03:52:04",
+    "timestamp": 1787716215,
+    "likes": 0,
+    "views": 280
+  },
+  {
     "id": "recipe_1787705851",
     "category": "dessert",
     "category_ja": "デザート",
