@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787740218",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の揚げたハニーマヨネーズチキン",
+    "title_en": "Honey Mayo Chicken Nuggets - Devilish Delight!",
+    "description_ja": "サクサクと甘辛いハニーマヨネーズが融合した、悪魔的な美味しさ！揚げたてのチキンは、まさに悪魔の舌を魅了する一品に！",
+    "description_en": "Crispy, tangy honey mayo chicken nuggets that will tantalize your taste buds!  A devilishly delicious fried chicken treat that will leave your tongue wanting more!",
+    "occasion_ja": "パーティやパーティーなど、みんなで食べるのに最適な一品！",
+    "occasion_en": "Perfect for parties and gatherings! ",
+    "ingredients": [
+      {
+        "name": "鶏むね肉",
+        "amount": "250g"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "片栗粉",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏むね肉を一口大に切る。",
+      "ハニーマヨネーズを加え、全体を包んで、10分程度混ぜる。",
+      "小麦粉と片栗粉を混ぜ合わせ、鶏むね肉を裹く。",
+      "揚げる前に、油を熱し、鶏むね肉を揚げる。カリッとした表面が完成したら、揚げ油から取り出す。"
+    ],
+    "prompt": "Close-up image of golden brown chicken nuggets, drizzled with honey mayo sauce. Photo should have an enticing, slightly blurred background",
+    "filename": "recipe_1787740218.jpg",
+    "date": "2026-08-26 10:33:12",
+    "timestamp": 1787740218,
+    "likes": 0,
+    "views": 449
+  },
+  {
     "id": "recipe_1787736994",
     "category": "ご飯",
     "category_ja": "ご飯",
