@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787743488",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリームパスタ　悪魔のチーズソースで！",
+    "title_en": "Devilishly Delicious Lemon Cream Pasta with Spicy Cheese Sauce",
+    "description_ja": "明太子とレモンの組み合わせ、誰もが予想外の美味しさ！チーズソースでさらに悪魔的に！",
+    "description_en": "A devilishly delicious lemon cream pasta with a spicy cheese sauce! This unexpected combination will blow your mind!",
+    "occasion_ja": "特別な夜に！",
+    "occasion_en": "For a special night!",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "50g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "チーズ (クリームチーズなど)",
+        "amount": "100g"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 明太子の粒をボウルに入れ、レモン汁を加え、混ぜる。",
+      "2. 生クリームを加え、混ぜる。",
+      "3. チーズをボウルに入れた明太子とクリームソースに加えて、よく混ぜる。",
+      "4. パスタを茹で、皿に盛り、チーズソースをかけ、お好みで刻んだ海苔を添える。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious lemon cream pasta with a spicy cheese sauce. A beautiful plate of pasta with cheese sauce dripping on it. A devilish, luxurious look!",
+    "filename": "recipe_1787743488.jpg",
+    "date": "2026-08-26 11:26:24",
+    "timestamp": 1787743488,
+    "likes": 0,
+    "views": 295
+  },
+  {
     "id": "recipe_1787740218",
     "category": "side",
     "category_ja": "サイド",
