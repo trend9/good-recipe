@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787748096",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "海老とクリーミーアボカドの悪魔グラタン  - 海老の甘酸っぱさが爆発！",
+    "title_en": "Deconstructed Sea Urchin & Creamy Avocado Grilled Cheese - A Sea Urchin Explosion of Flavor!",
+    "description_ja": "海の幸とクリーミーなアボカドの組み合わせは意外性抜群！酸味と甘さが絡み合った悪魔的な味わいに、チーズの濃厚な旨味が加わる！",
+    "description_en": "A surprising and delicious mashup of sea urchin and creamy avocado with an unexpected twist of a cheesy tang! Rich umami from the cheese complements the sweet and savory flavors for a truly unique and delicious experience!",
+    "occasion_ja": "パーティーや飲み会にも最適！",
+    "occasion_en": "Perfect for parties or gatherings!",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "1/2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "海老を軽く塩で味付けし、180度に熱したオーブンで10分焼く。",
+      "アボカドは薄切りにする。",
+      "チーズを溶かし、アボカドと混ぜ合わせる。",
+      "焼いた海老とアボカドチーズを、好きな形に重ねてチーズを乗せてオーブンで20分焼く。"
+    ],
+    "prompt": "A close-up shot of a beautifully plated grilled cheese, featuring a smoky sea urchin, creamy avocado, and melted cheese. The cheese is oozing out of the bread, with a bit of salt and pepper sprinkled on top.",
+    "filename": "recipe_1787748096.jpg",
+    "date": "2026-08-26 12:44:01",
+    "timestamp": 1787748096,
+    "likes": 0,
+    "views": 281
+  },
+  {
     "id": "recipe_1787743488",
     "category": "パスタ",
     "category_ja": "パスタ",
