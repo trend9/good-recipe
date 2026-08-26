@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787726323",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "ガーリックバターエビ・ぷりぷりのピラフ: デートに最適！",
+    "title_en": "Garlic Butter Shrimp & Rice: Perfect Date Night Recipe",
+    "description_ja": "ガーリックバターとぷりぷり海老のピラフに、贅沢なチーズで深みを加え、デートに最適な悪魔的美味しさ！",
+    "description_en": "This garlicky shrimp & rice dish is perfect for a date night, with a touch of luxurious cheese and a touch of devilishly delicious!",
+    "occasion_ja": "デートに最適！",
+    "occasion_en": "Perfect for a date night!",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "1カップ"
+      },
+      {
+        "name": "ぷりぷりエビ",
+        "amount": "150g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "ご飯を炊く。",
+      "エビをガーリックバターと塩コショウで炒める。",
+      "エビをご飯と一緒に混ぜる。",
+      "チーズをご飯に加えて混ぜ、バターを加え、全体を混ぜる。"
+    ],
+    "prompt": "A close-up shot of a steaming plate of the recipe, garnished with a piece of melted cheese, on a rustic wooden table.",
+    "filename": "recipe_1787726323.jpg",
+    "date": "2026-08-26 06:40:59",
+    "timestamp": 1787726323,
+    "likes": 0,
+    "views": 337
+  },
+  {
     "id": "recipe_1787718928",
     "category": "side",
     "category_ja": "サイド",
