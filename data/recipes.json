@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787873427",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵と旨辛麻婆豆腐の悪魔的丼 - 旨辛の爆発力に、卵がとろける！",
+    "title_en": "Spicy Kung Pao Chicken Egg Bowl - Spicy explosion meets creamy egg yolk!",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の意外な組み合わせ！甘酸っぱいタレと卵の濃厚な味わいが、まさに悪魔的な美味しさ！",
+    "description_en": "A surprising combination of creamy eggs and spicy Kung Pao Chicken! The sweet and sour sauce and the richness of the egg yolk create a devilishly delicious dish!",
+    "occasion_ja": "週末の夜ご飯に、ちょっと変わった一品を楽しみたい時に！",
+    "occasion_en": "For a different and exciting dinner this weekend!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1合"
+      },
+      {
+        "name": "甘辛タレ",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "ごま油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. 卵を溶き、醤油を混ぜて、1/4カップ程度のボールにまとめる。",
+      "2. 麻婆豆腐を鍋で熱し、卵液を混ぜる。",
+      "3. 混ぜ合わせた卵と麻婆豆腐を丼に移し、甘辛タレを散らして混ぜる。",
+      "4. お好みのトッピング（例：ネギ、唐辛子など）を乗せる"
+    ],
+    "prompt": "A close-up image of a bowl of Spicy Kung Pao Chicken Egg Bowl with a creamy white egg yolk in the middle and a spicy and tangy sauce covering the top",
+    "filename": "recipe_1787873427.jpg",
+    "date": "2026-08-27 23:32:07",
+    "timestamp": 1787873427,
+    "likes": 0,
+    "views": 339
+  },
+  {
     "id": "recipe_1787837482",
     "category": "dessert",
     "category_ja": "デザート",
