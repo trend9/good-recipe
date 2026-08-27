@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1787798934",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉×もちもちアイス：悪魔の甘酸っぱさ爆発！",
+    "title_en": "Black Honey Kinako Pocky Ice Cream: Devilishly Delicious Sweet & Sour",
+    "description_ja": "黒蜜の甘さときな粉のまろやかさが、もちもちアイスに合う！超簡単アレンジレシピで、悪魔的な美味しさをお楽しみください。",
+    "description_en": "The sweet and tangy combination of black honey and kinako in a smooth ice cream will blow your mind! A simple yet addictive recipe for you to enjoy the devilishly delicious flavor.",
+    "occasion_ja": "特別な日に、友達とシェアする、アイスクリームに飽き飽きしない、新しいデザートが誕生！",
+    "occasion_en": "Perfect for a special occasion, share with friends and family, a completely new dessert experience with ice cream.",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "1個"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "きな粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "もちもちアイスを準備します。",
+      "黒蜜ときな粉を混ぜて溶かします。",
+      "溶かした黒蜜ときな粉を、もちもちアイスの上で散らします。",
+      "お好みで砂糖を加えて甘さを調整します。"
+    ],
+    "prompt": "Close-up shot of black honey kinako ice cream with a drizzle of caramel sauce, melting ice cream with kinako and black honey topping, and a sprinkle of cinnamon.",
+    "filename": "recipe_1787798934.jpg",
+    "date": "2026-08-27 02:51:04",
+    "timestamp": 1787798934,
+    "likes": 0,
+    "views": 399
+  },
+  {
     "id": "recipe_1787780136",
     "category": "dessert",
     "category_ja": "デザート",
