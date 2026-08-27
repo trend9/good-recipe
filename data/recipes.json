@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1787837482",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘酸っぱさ！",
+    "title_en": "Baked Apple × Melt-in-your-Mouth Butter Caramel: An Epic Sweet and Salty Delight",
+    "description_ja": "秋の味覚の焼き芋と、とろけるバターの甘酸っぱさが、あなたを魅了する！このレシピは、悪魔的な甘酸っぱさと、ほろほろとした食感のハーモニーを味わえる一品。",
+    "description_en": "Get ready to be amazed by the sweet and salty combination of baked apples and melt-in-your-mouth butter caramel! This recipe is a symphony of flavors, a delicious mix of sweet and sour, and a unique, melt-in-your-mouth texture.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions! ",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "10ml"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cm幅にカットし、レモン汁を全体に塗る。",
+      "バターと砂糖を混ぜて、溶けたら塩を加える。",
+      "焼き芋をバターの溶け具合に合わせた大きさに、バターの溶液で包む。",
+      "オーブンを180度に予熱し、焼き芋を盛り付ける。",
+      "15分焼く。その後、冷ましてから、いただきます。"
+    ],
+    "prompt": "A close-up shot of a plate with a baked apple on it with a golden caramel sauce, sprinkled with salt and pepper.",
+    "filename": "recipe_1787837482.jpg",
+    "date": "2026-08-27 13:33:02",
+    "timestamp": 1787837482,
+    "likes": 0,
+    "views": 305
+  },
+  {
     "id": "recipe_1787798934",
     "category": "dessert",
     "category_ja": "デザート",
