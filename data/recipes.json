@@ -1,5 +1,62 @@
 [
   {
+    "id": "recipe_1787949484",
+    "category": "麺料理",
+    "category_ja": "麺料理",
+    "title_ja": "サクサクポテトチーズソースがヤバすぎる！悪魔的焼きそば",
+    "title_en": "Unbelievable cheesy potato baked noodles!  Devilish Baked Noodles",
+    "description_ja": "カリッとしたサクサク食感のポテトをチーズソースで包み込む、悪魔的焼きそば。見た目も美味しさも爆発！",
+    "description_en": "Baked noodles with crispy and cheesy potato, a devilishly delicious fusion dish!  See how the visual and taste explodes!",
+    "occasion_ja": "パーティー、夜食、ディナーなど、誰にでもおすすめ！",
+    "occasion_en": "Great for parties, a side dish, or main course!",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "200g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "焼きそば麺",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ポテトは一口大に切り、塩コショウで味付け。\n",
+      "2. フライパンに小麦粉、塩、黒胡椒を入れて混ぜる。\n",
+      "3. ポテトを水で洗って、小麦粉の溶液に浸す。\n",
+      "4. 弱火で、チーズと焼きそば麺を加え、チーズが溶け始めたら焼きそば麺を絡める。"
+    ],
+    "prompt": "Close-up of the finished noodles with melted cheese and a crispy texture. Devilish vibes",
+    "filename": "recipe_1787949484.jpg",
+    "date": "2026-08-28 20:39:43",
+    "timestamp": 1787949484,
+    "likes": 0,
+    "views": 343
+  },
+  {
     "id": "recipe_1787905854",
     "category": "ラーメン",
     "category_ja": "ラーメン",
