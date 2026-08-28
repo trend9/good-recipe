@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1787905854",
+    "category": "ラーメン",
+    "category_ja": "ラーメン",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油の悪魔的焼きそば",
+    "title_en": "Spicy BBQ Ramen with Fiery Garlic Butter",
+    "description_ja": "炙りチャーシューの旨味と濃厚焦がしにんにく醤油の甘辛な味わいが、焼きそばの麺と絡み合う悪魔的焼きそば！見た目も鮮やかで食欲をそそる一品。",
+    "description_en": "The smoky BBQ flavor of the char siu pork meets the rich and spicy garlic butter sauce, creating a uniquely delicious and stunning ramen experience.",
+    "occasion_ja": "晩ご飯やパーティに、インパクト大な一品を味わいたいとき",
+    "occasion_en": "Perfect for a special occasion dinner or party, this dish is sure to make a bold statement.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "2枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "焼きそば麺",
+        "amount": "袋の麺量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "にんにく",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. チャーシューは、焼きそば麺に焼成します。",
+      "2. 濃厚焦がしにんにく醤油を混ぜ合わせたタレを作り、焼きそば麺を加えます。",
+      "3. 卵を溶き、ごま油と混ぜます。",
+      "4. 焦がしにんにく醤油の焼きそば麺と卵を混ぜ、完成。"
+    ],
+    "prompt": "Close-up image of ramen bowl with char siu pork, garlic butter sauce and chewy noodles, vibrant colors and smoke effect.  ",
+    "filename": "recipe_1787905854.jpg",
+    "date": "2026-08-28 08:33:11",
+    "timestamp": 1787905854,
+    "likes": 0,
+    "views": 336
+  },
+  {
     "id": "recipe_1787873427",
     "category": "丼もの",
     "category_ja": "丼もの",
