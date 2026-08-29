@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788039027",
+    "category": "サイド",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔的ポテトチーズソース、とろけるチーズとサクサクポテトの衝撃！",
+    "title_en": "The shock of creamy, crispy, and cheesy potato! (with a delicious new sauce)",
+    "description_ja": "サクサクポテトにクリーミーチーズソースを絡めて、とろけるチーズとサクサク感の衝撃！見た目もインパクト抜群のレシピです。",
+    "description_en": "Imagine a crispy, cheesy, and creamy potato, but with a creamy cheese sauce that melts in your mouth! This recipe is visually appealing as well! ",
+    "occasion_ja": "パーティー、お酒のつまみにピッタリ",
+    "occasion_en": "Perfect for parties and appetizers! ",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを一口大にカットし、塩で味付けする。",
+      "フライパンに油をひき、じゃがいもを焼いてカリカリになるまで焼く。",
+      "チーズを溶かし、牛乳を加え、とろみがつくまで混ぜる。",
+      "じゃがいもを皿に盛り付け、チーズソースを絡める。"
+    ],
+    "prompt": "Close-up of golden-brown crispy potato with creamy cheese sauce drizzled over it. A fork ready to dive into it.",
+    "filename": "recipe_1788039027.jpg",
+    "date": "2026-08-29 21:32:01",
+    "timestamp": 1788039027,
+    "likes": 0,
+    "views": 452
+  },
+  {
     "id": "recipe_1788026988",
     "category": "side",
     "category_ja": "サイドディッシュ",
