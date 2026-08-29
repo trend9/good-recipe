@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788026988",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔のタルタル焼き",
+    "title_en": "Smashed Potato with Creamy Cheese Sauce: Devil's Tater Tot",
+    "description_ja": "クリーミーチーズソースに包まれたサクサクポテトの悪魔的なタルタル焼きは、止まらない美味しさ！  このレシピは、サクサクポテトとクリーミーチーズソースの意外な組み合わせで、誰もが虜になるはず！",
+    "description_en": "A devilishly delicious twist on the classic potato salad!  This recipe blends the satisfying crunch of smashed potatoes with a creamy, cheesy sauce for a dish that will leave you wanting more.",
+    "occasion_ja": "パーティーやBBQに最適！",
+    "occasion_en": "Perfect for parties and barbecues!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "胡椒",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "じゃがいもを、厚さ5mmにカットします。",
+      "じゃがいもを180度に焼きます。",
+      "バターと小麦粉を加え、混ぜ合わせます。",
+      "塩胡椒を加え、クリーミーチーズを加えて混ぜます。"
+    ],
+    "prompt": "Close-up image of a devilishly delicious tater tot with a creamy cheese sauce.  Golden brown and crispy, with a vibrant cheese sauce that oozes out from the potato.",
+    "filename": "recipe_1788026988.jpg",
+    "date": "2026-08-29 18:11:31",
+    "timestamp": 1788026988,
+    "likes": 0,
+    "views": 217
+  },
+  {
     "id": "recipe_1788015336",
     "category": "side",
     "category_ja": "サイド",
