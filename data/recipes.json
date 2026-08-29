@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788015336",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油と、唐辛子のスパイシーな甘酸っぱさ！ ",
+    "title_en": "Spicy Sweet and Sour BBQ-style Asari Crabs with Creamy Garlic Sauce",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油が融合！唐辛子でスパイシーな甘酸っぱさが、一口で魅せる悪魔的料理。",
+    "description_en": "This recipe combines the smoky flavor of BBQ-style crab with a creamy garlic sauce, finished with a spicy kick of chili flakes.",
+    "occasion_ja": "パーティーやBBQ、特別な日に",
+    "occasion_en": "Party or BBQ, great for special occasions.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "白ワイン",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューと濃厚焦がしにんにく醤油を混ぜ合わせる。",
+      "2. 混ぜ合わせたチャーシューと醤油を、白ワインとバターで炒め合わせる。",
+      "3. 唐辛子でスパイシーな味に、パプリカを添えて、味を確認する。",
+      "4. 冷却後、お好みで唐辛子を加えて、仕上げる。"
+    ],
+    "prompt": "A close-up photo of sizzling crab meat and a creamy garlic sauce with a sprinkle of red chili flakes, with a smoky background.",
+    "filename": "recipe_1788015336.jpg",
+    "date": "2026-08-29 14:56:48",
+    "timestamp": 1788015336,
+    "likes": 0,
+    "views": 376
+  },
+  {
     "id": "recipe_1787997377",
     "category": "dessert",
     "category_ja": "デザート",
