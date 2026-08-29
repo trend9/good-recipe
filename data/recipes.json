@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788047519",
+    "category": "サイドディッシュ",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "極厚カツ × ハニーマスタードの悪魔的甘酸っぱさ！",
+    "title_en": "The Devilishly Sweet & Tangy Honey Mustard Glaze for Thick Cut Katsu Curry",
+    "description_ja": "極厚カツに、スパイシーで甘酸っぱいハニーマスタードが絶妙に絡み合い、一口食べれば悪魔的な美味しさに虜になる！",
+    "description_en": "This recipe takes the classic crispy katsu and elevates it with a spicy and tangy honey mustard glaze that's utterly addictive.",
+    "occasion_ja": " parties, barbecues, potlucks",
+    "occasion_en": "Parties, barbecues, potlucks",
+    "ingredients": [
+      {
+        "name": "極厚カツ (katsu)",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマスタード (honey mustard sauce)",
+        "amount": "1/2カップ"
+      },
+      {
+        "name": "砂糖 (sugar)",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩 (salt)",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "レモン汁 (lemon juice)",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツにハニーマスタードを塗る。",
+      "砂糖、塩、レモン汁を加えて混ぜる。",
+      "カツにハニーマスタードソースを塗る。",
+      "180℃のオーブンで10分焼く。"
+    ],
+    "prompt": "A close-up shot of a thick cut katsu, coated with a honey mustard glaze, in an oven. A warm orange hue and glistening sauce create an alluring image.",
+    "filename": "recipe_1788047519.jpg",
+    "date": "2026-08-29 23:54:26",
+    "timestamp": 1788047519,
+    "likes": 0,
+    "views": 253
+  },
+  {
     "id": "recipe_1788039027",
     "category": "サイド",
     "category_ja": "サイドディッシュ",
