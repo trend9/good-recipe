@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788126605",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × ハニーマスタード：悪魔の甘酸っぱさ、唐辛子のスパイスとチーズのハーモニー！",
+    "title_en": "Ultimate Crispy Katsu: Honey Mustard with Spicy Tangy and Cheesy Surprise!",
+    "description_ja": "極厚カツの食感と、ハニーマスタードの甘酸っぱさと、唐辛子のスパイスが織りなす、悪魔的な美味しさ！\nカリカリの食感と、濃厚なチーズのハーモニーが、食欲をそそる一品に！",
+    "description_en": "Experience a heavenly fusion of crispy katsu, tangy honey mustard, and spicy heat! This dish combines the crunchy texture with a creamy cheese and spice-infused taste! ",
+    "occasion_ja": "パーティー、ディナーなど、特別な夜にぴったり！",
+    "occasion_en": "Perfect for special occasions such as dinner parties!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面焼き、ハニーマスタードを塗る。",
+      "唐辛子を適量入れる。",
+      "チーズを溶かしたバターを混ぜて、カツに塗る。",
+      "完成！”"
+    ],
+    "prompt": "Close-up shot of crispy katsu with honey mustard glaze, chili flakes, and melted cheese, with steam rising from the dish. Glowing orange and golden lights in background, photo with food styling",
+    "filename": "recipe_1788126605.jpg",
+    "date": "2026-08-30 21:52:55",
+    "timestamp": 1788126605,
+    "likes": 0,
+    "views": 189
+  },
+  {
     "id": "recipe_1788114230",
     "category": "side",
     "category_ja": "サイド",
