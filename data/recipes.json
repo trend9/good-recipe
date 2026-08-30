@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788114230",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "完熟トマト＆モッツァレラチーズの悪魔的ハーブソルトグリル",
+    "title_en": "Devilishly Delicious Herb-Salted Grilled Tomato & Mozzarella",
+    "description_ja": "鮮やかな完熟トマトとフレッシュモッツァレラの組み合わせで、ハーブの香りが食欲をそそります。チーズの香ばしさとトマトの甘酸っぱさが絶妙な悪魔的味わいを演出します。",
+    "description_en": "A devilishly delicious herb-salted grilled tomato and mozzarella combination, featuring a delightful aroma of herbs that tantalizes your taste buds. It delivers a perfect balance of cheesy savory and sweet tomato tang for a unique and exciting flavor experience.",
+    "occasion_ja": "パーティーやBBQにピッタリ！",
+    "occasion_en": "A perfect side dish for parties and barbecues!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "ハーブ（ローズマリー、バジル、タイムなど）",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "トマトを半分に切り、ハーブを全体に揉み込む。塩、ブラックペッパーを軽く振りかける。",
+      "両面を、ハーブと塩、ブラックペッパーで和える。",
+      "両面を、ハーブと塩、ブラックペッパーで和える。",
+      "オーブンで15分程度焼く。チーズが溶けて香ばしい香りが漂うまで焼く。"
+    ],
+    "prompt": "Close-up shot of grilled tomato and mozzarella with herbs and spices, glowing with a warm red light and steam. High-quality photography with a natural texture and vibrant colors.",
+    "filename": "recipe_1788114230.jpg",
+    "date": "2026-08-30 18:26:24",
+    "timestamp": 1788114230,
+    "likes": 0,
+    "views": 174
+  },
+  {
     "id": "recipe_1788100732",
     "category": "rice",
     "category_ja": "ご飯",
