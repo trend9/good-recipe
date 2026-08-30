@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788100732",
+    "category": "rice",
+    "category_ja": "ご飯",
+    "title_ja": "ガーリックバターぷりぷり海老ピラフ：悪魔的甘酸っぱさ",
+    "title_en": "Garlic Butter Shrimp Fried Rice: A Sweet and Sour Delight",
+    "description_ja": "ガーリックバターとぷりぷり海老のピラフに、甘酸っぱさとクリーミーさ、そして意外な美味しさをお届け！",
+    "description_en": "A savory and sweet shrimp fried rice infused with garlic butter and bursting with unexpected flavor.",
+    "occasion_ja": "週末家族の会食、特別な日にぴったり！",
+    "occasion_en": "Perfect for family dinner or special occasions.",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "1カップ"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "100g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ご飯を炒める",
+      "エビを炒める",
+      "ガーリックバターとマヨネーズを加え、混ぜる",
+      "塩コショウで味を調える"
+    ],
+    "prompt": "Close-up shot of a bowl of garlic butter shrimp fried rice with a sprinkle of parsley and chili flakes, vibrant color, gourmet food photography",
+    "filename": "recipe_1788100732.jpg",
+    "date": "2026-08-30 14:40:25",
+    "timestamp": 1788100732,
+    "likes": 0,
+    "views": 219
+  },
+  {
     "id": "recipe_1788058922",
     "category": "side",
     "category_ja": "サイド",
