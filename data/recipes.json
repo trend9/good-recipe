@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788058922",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × チーズクリームソース：悪魔のタルタル焼き風",
+    "title_en": "Sizzling Potato × Creamy Cheese Sauce: Devilish Tartare-style",
+    "description_ja": "サクサクポテトにクリーミーチーズソースが絡み合う、悪魔的なタルタル焼き風！ 意外な組み合わせに、驚愕の美味しさ！",
+    "description_en": "The devilish combination of crispy potato and creamy cheese sauce, styled as a tartare-like dish! Unpredictable flavor explosion awaits you.",
+    "occasion_ja": "パーティーやディナーにもぴったり。",
+    "occasion_en": "Perfect for parties and dinners.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "300g"
+      },
+      {
+        "name": "チーズ (クリームチーズ)",
+        "amount": "100g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを1cm幅に切り、薄くスライスします。",
+      "中火で油を熱し、じゃがいもを揚げます。",
+      "揚げたじゃがいもをボウルに盛ります。",
+      "クリームチーズとマヨネーズと塩、黒胡椒を混ぜて、じゃがいもに絡めます。"
+    ],
+    "prompt": "Close-up image of the crispy potato with creamy cheese sauce drizzled, devilishly delicious, anime-style illustration, illustration, ghibli style, bold color palette, smoke effect.",
+    "filename": "recipe_1788058922.jpg",
+    "date": "2026-08-30 03:05:38",
+    "timestamp": 1788058922,
+    "likes": 0,
+    "views": 235
+  },
+  {
     "id": "recipe_1788047519",
     "category": "サイドディッシュ",
     "category_ja": "サイドディッシュ",
