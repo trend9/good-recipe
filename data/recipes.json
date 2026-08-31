@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788135067",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "ガーリックバター・ぷりぷり海老・ピラフ　悪魔の甘酸っぱさ！",
+    "title_en": "Garlic Butter Shrimp Fried Rice: Devilishly Delicious!",
+    "description_ja": "ぷりぷり海老と香ばしいガーリックバターが融合した、悪魔的甘酸っぱさ！家庭でも簡単に作れるレシピ。",
+    "description_en": "A devilishly delicious shrimp fried rice with garlicky goodness and a hint of sweetness. Easy to make at home.",
+    "occasion_ja": "パーティや、夜食にぴったりな一品。",
+    "occasion_en": "Perfect for parties or a casual dinner.",
+    "ingredients": [
+      {
+        "name": "えび",
+        "amount": "2個"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "えびは塩コショウで味付けをして、軽く焼きます。",
+      "ご飯を炊きます。",
+      "玉ねぎは薄切りにし、熱したフライパンで炒め、醤油と酒で味付けします。",
+      "エビと玉ねぎをご飯に加え、ガーリックバターを混ぜ込み、全体が混ざったら完成。"
+    ],
+    "prompt": "Close-up shot of a golden-brown and fluffy fried rice with shrimp, garlic butter, and a hint of sweetness.  A sunny day aesthetic.",
+    "filename": "recipe_1788135067.jpg",
+    "date": "2026-08-31 00:12:42",
+    "timestamp": 1788135067,
+    "likes": 0,
+    "views": 220
+  },
+  {
     "id": "recipe_1788126605",
     "category": "side",
     "category_ja": "サイド",
