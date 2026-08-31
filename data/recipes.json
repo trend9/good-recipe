@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1788158122",
+    "category": "丼",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵と辛味麻婆豆腐丼の悪魔的甘酸っぱさ！",
+    "title_en": "Decadent Creamy Spicy Miso Tofu Bowl with Onsen Egg",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の組み合わせ、甘酸っぱい umami  が食欲を刺激する！  特別な卵料理で、日常をちょっとだけ悪魔的に変えてみよう！",
+    "description_en": "Creamy and spicy miso tofu bowl, topped with a runny egg, is a unique and delicious twist on the classic comfort food.  Enjoy this special egg dish and elevate your daily meals with a touch of devilish flavor!",
+    "occasion_ja": "特別な日や、週末ランチにぴったり！",
+    "occasion_en": "Perfect for a special occasion or a weekend lunch.",
+    "ingredients": [
+      {
+        "name": "もちもち麻婆豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "だし汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "辛味料",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. 旨辛麻婆豆腐を作る。具材を炒める。",
+      "2. 卵をほぐし、醤油、みりん、砂糖、だし汁を加え、混ぜる。",
+      "3. 麻婆豆腐を丼に盛り、卵を乗せる。",
+      "4. 辛味料を適量加え、お好みでソースやパクチーなどを添えて完成"
+    ],
+    "prompt": "A close-up photo of a steaming bowl of miso tofu and a runny egg with chili flakes and fresh herbs, styled in a minimalist and inviting way. ",
+    "filename": "recipe_1788158122.jpg",
+    "date": "2026-08-31 06:37:05",
+    "timestamp": 1788158122,
+    "likes": 0,
+    "views": 299
+  },
+  {
     "id": "recipe_1788135067",
     "category": "side",
     "category_ja": "サイドディッシュ",
