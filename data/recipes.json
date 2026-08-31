@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1788208694",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的ポテトチーズソース風チーズクリームパスタ",
+    "title_en": "Devilishly Delicious Cheese Cream Pasta",
+    "description_ja": "サクサクポテトをクリーミーチーズソースで包み込み、濃厚チーズソースでさらに魅惑的なパスタ！ これは、まるで悪魔が作ったような、食べごたえ抜群のレシピです。",
+    "description_en": "A devilishly delicious pasta where crispy potato is wrapped in a creamy cheese sauce and topped with a more intense cheese sauce. This recipe offers an unbelievable taste sensation that will leave you wanting more.",
+    "occasion_ja": "パーティーや特別な日にぴったり",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ポテトをサクサクに調理する。",
+      "チーズと牛乳を混ぜ、小麦粉を加えてなめらかになるまで混ぜる。",
+      "熱したフライパンでチーズソースを回し炒める。",
+      "ポテトをチーズソースで包み込む。",
+      "器に盛り付け、お好みでハーブやパセリで飾る。"
+    ],
+    "prompt": "A close-up shot of the cheesy pasta dish, with crispy potatoes, melted cheese sauce, and a sprinkle of herbs.",
+    "filename": "recipe_1788208694.jpg",
+    "date": "2026-08-31 20:40:31",
+    "timestamp": 1788208694,
+    "likes": 0,
+    "views": 212
+  },
+  {
     "id": "recipe_1788187573",
     "category": "その他",
     "category_ja": "その他",
