@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788222103",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の海藻グラタン：クリーミーなアボカドと海藻のハーモニー",
+    "title_en": "Devilish Seaweed Gratin: Creamy Avocado and Seaweed Harmony",
+    "description_ja": "クリーミーなアボカドと、海藻の鮮やかな風味で、想像を超える悪魔的な美味しさを実現！",
+    "description_en": "A devilishly delicious fusion of creamy avocado and seaweed, delivering a taste sensation beyond your wildest imagination.",
+    "occasion_ja": "パーティーや特別な日に、そして普段の夕食にもピッタリ",
+    "occasion_en": "Perfect for parties, special occasions, and everyday dinners.",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "海藻（エノキなど）",
+        "amount": "100g"
+      },
+      {
+        "name": "生醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "アボカドと生クリームを混ぜて、なめらかにする",
+      "海藻を水で洗って、軽く水気を切り、アボカドと生クリームのペーストに加える",
+      "塩と生醤油を少々加え、全体に混ぜる",
+      "耐熱皿にアボカドペーストを盛り、オーブンで15分焼く"
+    ],
+    "prompt": "Close-up shot of a beautiful seaweed and avocado gratin dish, steaming and glistening with rich color, a tempting culinary masterpiece",
+    "filename": "recipe_1788222103.jpg",
+    "date": "2026-09-01 00:23:00",
+    "timestamp": 1788222103,
+    "likes": 0,
+    "views": 243
+  },
+  {
     "id": "recipe_1788208694",
     "category": "pasta",
     "category_ja": "パスタ",
