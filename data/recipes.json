@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788301236",
+    "category": "main course",
+    "category_ja": "メイン料理",
+    "title_ja": "悪魔的ローストビーフとオニオンソースのハーモニー！",
+    "title_en": "Devilishly Delicious Roast Beef & Onion Sauce",
+    "description_ja": "悪魔の旨味が詰まった、とろけるローストビーフと、スパイシーで甘酸っぱいオニオンソースが最高のハーモニー！\nまるで悪魔が作った料理！",
+    "description_en": "An unexpected combination of devilishly delicious roast beef and a unique onion sauce that creates a symphony of flavors! A dish sure to awaken your taste buds!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "1kg"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "2個"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "ローストビーフを焼き、タレを作ります。醤油、みりん、砂糖を混ぜて、ローストビーフに絡めます。",
+      "玉ねぎを薄切りにして、熱したフライパンで炒めます。",
+      "玉ねぎにオニオンソースを加え、煮詰めます。",
+      "ローストビーフと玉ねぎを交互に盛り付け、オニオンソースをたっぷりかける。"
+    ],
+    "prompt": "A close-up image of the finished roast beef and onion sauce, with smoky, caramelized roast beef and a vibrant, glistening onion sauce. The contrast between the dark meat and the bright sauce creates a visually appealing and enticing image.",
+    "filename": "recipe_1788301236.jpg",
+    "date": "2026-09-01 22:22:54",
+    "timestamp": 1788301236,
+    "likes": 0,
+    "views": 162
+  },
+  {
     "id": "recipe_1788289829",
     "category": "pasta",
     "category_ja": "パスタ",
