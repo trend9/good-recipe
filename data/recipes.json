@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788278207",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "ガーリックバター × ぷりぷり海老・ピラフ：悪魔的甘酸っぱさとスパイシーなハーモニー！",
+    "title_en": "Garlic Butter & Crispy Shrimp Fried Rice: Devilishly Sweet & Spicy Harmony!",
+    "description_ja": "定番のピラフに、ガーリックバターとぷりぷり海老をプラス。甘酸っぱさにスパイシーなアクセントを加え、悪魔的な美味しさに仕上げます。",
+    "description_en": "A devilishly sweet and spicy twist on classic fried rice, featuring garlic butter and crispy shrimp. This recipe combines a familiar, comforting base with unexpected flavor combinations for a truly unique and satisfying dish.",
+    "occasion_ja": "パーティーや晩酌にぴったり！",
+    "occasion_en": "Perfect for parties and evening meals!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "じゃがいもを薄切りにして、10分程度水につける。",
+      "ぷりぷり海老はキッチンペーパーで水気をふき取り、1cm角に切る。",
+      "ガーリックバターと薄力粉、水、醤油を混ぜ合わせ、じゃがいもを包んで、蓋をして10分程度休ませる。",
+      "フライパンに油をひき、じゃがいもとぷりぷり海老を加えて炒める。"
+    ],
+    "prompt": "Close-up shot of garlic butter and shrimp fried rice with a sprinkle of chopped green onions, served in a dinner plate. The dish is steaming, glistening with oil, and topped with a swirl of garlicky butter.",
+    "filename": "recipe_1788278207.jpg",
+    "date": "2026-09-01 15:58:30",
+    "timestamp": 1788278207,
+    "likes": 0,
+    "views": 231
+  },
+  {
     "id": "recipe_1788261074",
     "category": "pasta",
     "category_ja": "パスタ",
