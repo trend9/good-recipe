@@ -1,5 +1,56 @@
 [
   {
+    "id": "recipe_1788326606",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔的クリーミーアボカド・海老グラタン",
+    "title_en": "Creamy Avocado & Shrimp Gratin: An Out-of-This-World Flavor!",
+    "description_ja": "普段はあまり考えられない組み合わせの、クリーミーなアボカドと海老のグラタン。一口食べたら、悪魔的な美味しさに魅了されるはず！",
+    "description_en": "A creamy avocado and shrimp gratin with an unexpected and delectable twist. One bite will leave you wanting more! ",
+    "occasion_ja": "特別な日に、贅沢なひとときを演出しましょう。",
+    "occasion_en": "Celebrate a special occasion with this luxurious dish.",
+    "ingredients": [
+      {
+        "name": "殻付きエビ",
+        "amount": "200g"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. エビを茹で、殻を取り除き、キッチンペーパーで水気を拭き取り、別皿に置きます。",
+      "2. アボカドをみじん切りにし、バターと牛乳を加えて混ぜ、なめらかになるまでよく混ぜます。",
+      "3. パプリカを薄切りにする。アボカドのソースに加え、混ぜます。",
+      "4. 仕上げに、エビをグラタン皿に配置し、アボカドソースを全体に塗ります。グラタンを焼く前に、軽く塩コショウを振る。",
+      "5. 予熱したオーブンで15分間焼きます。",
+      "6. 仕上げに、お好みでパセリやハーブなどを飾る。"
+    ],
+    "prompt": "Close-up photo of a creamy avocado and shrimp gratin with a beautiful presentation. The dish is surrounded by beautiful herbs and garnished with a sprinkle of paprika. ",
+    "filename": "recipe_1788326606.jpg",
+    "date": "2026-09-02 05:26:03",
+    "timestamp": 1788326606,
+    "likes": 0,
+    "views": 332
+  },
+  {
     "id": "recipe_1788310031",
     "category": "side",
     "category_ja": "サイド",
