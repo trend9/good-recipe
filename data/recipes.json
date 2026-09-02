@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788310031",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "バナナキャラメルブリュレの悪魔的グリル",
+    "title_en": "Banana Caramel Brulee Grilled Delight",
+    "description_ja": "完熟バナナの甘酸っぱさとキャラメルブリュレの濃厚な甘さが、悪魔的な美味しさに昇華！このレシピは、まるで魔法のグリルで焼き上げたバナナの贅沢な味わいを、家庭で再現できる、特別な一品を創り出します。",
+    "description_en": "A delightful fusion of ripe banana's sweetness with caramel's richness, captured in a magical grilled delight! This recipe allows you to recreate the decadent taste of a caramelized banana in your own kitchen.",
+    "occasion_ja": "特別な日、パーティー、プレゼントに最適な一品",
+    "occasion_en": "Perfect for special occasions, parties, and gifting.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. バナナは、Peelする。",
+      "2. バナナは、裏返して、キャラメルソースを塗る。",
+      "3.  バターを加え、弱火で焼き、キャラメルが溶けてバナナに染み渡るまで焼く。",
+      "4.  焼きあがったら、生クリームとグラニュー糖を混ぜて、キャラメルソースを混ぜる。バナナにキャラメルソースを塗る。 "
+    ],
+    "prompt": "Close-up image of grilled banana with a caramel glaze, a single piece of caramelized banana, and a smooth and buttery glaze, like a golden brown",
+    "filename": "recipe_1788310031.jpg",
+    "date": "2026-09-02 00:48:51",
+    "timestamp": 1788310031,
+    "likes": 0,
+    "views": 297
+  },
+  {
     "id": "recipe_1788301236",
     "category": "main course",
     "category_ja": "メイン料理",
