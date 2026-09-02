@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788344734",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔的甘酸っぱいハーモニー！",
+    "title_en": "Baked Sweet Potato with Melting Butter Caramel: Devilishly Sweet and Sour Harmony!",
+    "description_ja": "焼き芋の甘さと、とろけるバターカラメルの甘酸っぱさに、悪魔的な美味しさ! 意外な組み合わせが、まさに「悪魔的」なハーモニーを醸し出す！",
+    "description_en": "The devilishly sweet and sour harmony of baked sweet potato with melting butter caramel!  A surprising combination for an absolutely devilish treat!",
+    "occasion_ja": "パーティーやディナーにぴったり！",
+    "occasion_en": "Perfect for parties or dinner!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "シナモン",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "焼き芋を180度に予熱したオーブンで15分ほど焼きます。",
+      "焼き芋を型に並べ、溶けたバターと砂糖を混ぜ合わせたものを塗ります。",
+      "シナモンを混ぜ合わせたものを焼き芋全体に塗ります。",
+      "175度に予熱したオーブンで15分ほど焼きます。焼きあがったら、少し冷ましてから盛り付けます。"
+    ],
+    "prompt": "Close-up shot of a baked sweet potato with a melting butter caramel glaze, with a steam rising from the top and a slightly orange glow.",
+    "filename": "recipe_1788344734.jpg",
+    "date": "2026-09-02 10:27:12",
+    "timestamp": 1788344734,
+    "likes": 0,
+    "views": 348
+  },
+  {
     "id": "recipe_1788326606",
     "category": "グラタン",
     "category_ja": "グラタン",
