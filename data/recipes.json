@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788392900",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜 × きな粉もちもちアイス：悪魔的甘酸っぱさ！",
+    "title_en": "Black Honey × Kinako Mochi Ice Cream: Devilishly Sweet and Tangy!",
+    "description_ja": "黒蜜の甘さと、きな粉の香ばしさが織り成す、 utterly devilishly delicious アイスクリーム！もちもちとした食感と、悪魔的な組み合わせに、思わず唸ってしまう！",
+    "description_en": "A devilishly delicious ice cream that blends the sweet and tangy flavor of black honey with the delightful mochi texture! Get ready to be amazed by this unexpected, yet totally mouthwatering combination.",
+    "occasion_ja": "特別な日や、普段の晩酌に最適なデザートです。",
+    "occasion_en": "A perfect dessert for special occasions or a casual evening treat.",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "水",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶パウダー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "黒蜜ときな粉を混ぜる。",
+      "もちもちアイスを黒蜜ときな粉の溶液で包む。",
+      "牛乳と水を混ぜて、抹茶パウダーを加えて、アイスに染み込ませる。",
+      "アイスクリームに黒蜜ときな粉の溶液を染み込ませる。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious ice cream with a drizzle of black honey and sprinkled kinako, showing a beautiful glaze and texture. The ice cream is served on a plate with a spoon and a drizzle of black honey, showcasing the visual appeal.",
+    "filename": "recipe_1788392900.jpg",
+    "date": "2026-09-02 23:50:23",
+    "timestamp": 1788392900,
+    "likes": 0,
+    "views": 189
+  },
+  {
     "id": "recipe_1788384735",
     "category": "メイン料理",
     "category_ja": "メイン料理",
