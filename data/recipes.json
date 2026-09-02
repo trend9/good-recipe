@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788360924",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的クリーミーアボカド・黒胡椒海老グラタンのグリル",
+    "title_en": "Grilled Creamy Avocado and Black Pepper Shrimp Gratin",
+    "description_ja": "クリーミーなアボカドと、黒胡椒の辛味が絶妙なハーモニー！ 悪魔的な美味しさのグリルグラタン。 さらに、チーズでとろける仕上げで、まさに「悪魔的」な一品に仕上がります。",
+    "description_en": "A creamy avocado and black pepper shrimp gratin with a heavenly taste, a unique and devilishly delicious treat. Finish with cheese for extra melting goodness. ",
+    "occasion_ja": "特別なディナーに！",
+    "occasion_en": "Perfect for a special dinner party!",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "300g"
+      },
+      {
+        "name": "海老",
+        "amount": "100g"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. アボカドは皮をむき、厚さ約1cmの塊にします。",
+      "2. エビは水洗いし、黒胡椒で味を調えます。",
+      "3. それぞれをフライパンで焼きます。アボカドは中火で、エビは高火で、焦げ付かないように注意します。",
+      "4. チーズを溶かし、グラタンソースを加え、グラタンを完成させます。"
+    ],
+    "prompt": "Close-up shot of grilled creamy avocado and shrimp gratin with cheese and a few pieces of shrimp on top.",
+    "filename": "recipe_1788360924.jpg",
+    "date": "2026-09-02 14:57:43",
+    "timestamp": 1788360924,
+    "likes": 0,
+    "views": 330
+  },
+  {
     "id": "recipe_1788344734",
     "category": "side",
     "category_ja": "サイド",
