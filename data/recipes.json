@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788373380",
+    "category": "丼",
+    "category_ja": "丼もの",
+    "title_ja": "とろとろ卵の旨辛麻婆豆腐丼：悪魔的甘辛爆発！",
+    "title_en": "Devilishly Delicious Spicy & Creamy Tofu Bowl: A Taste Explosion!",
+    "description_ja": "とろとろ卵と旨辛麻婆豆腐が最強の組み合わせ！濃厚な甘辛味がたまらない丼！悪魔的美味しさで、ご飯が進む一品です。",
+    "description_en": "The ultimate combination of creamy scrambled eggs and spicy Sichuan tofu in a bowl! A rich, savory, and addictive bowl.  Get ready for a devilishly delicious experience! ",
+    "occasion_ja": "一人暮らしでも、特別な日に、夜ご飯にぴったり！",
+    "occasion_en": "Perfect for solo living or special occasions! Ideal for dinner.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1合"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 卵を溶き、ごま油と醤油、みりんを加えて混ぜる。",
+      "2. 旨辛麻婆豆腐の具材をご飯の上に盛り付ける。",
+      "3. 溶き卵を全面に広げる。",
+      "4. お好みの野菜やハーブを添えて、お好みの味に仕上げる。"
+    ],
+    "prompt": "A close-up shot of a bowl of spicy and creamy Sichuan tofu bowl, topped with a perfectly cooked egg, with a steaming bowl in the background and a dramatic light source.",
+    "filename": "recipe_1788373380.jpg",
+    "date": "2026-09-02 18:25:24",
+    "timestamp": 1788373380,
+    "likes": 0,
+    "views": 271
+  },
+  {
     "id": "recipe_1788360924",
     "category": "dessert",
     "category_ja": "デザート",
