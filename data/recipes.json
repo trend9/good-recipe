@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788384735",
+    "category": "メイン料理",
+    "category_ja": "メイン料理",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔的スパイシーハーモニー！",
+    "title_en": "Tantalizing Spicy Harmony: Creamy Cheese & Gochujang Chicken",
+    "description_ja": "とろけるチーズとタッカルビチンの組み合わせで、悪魔的なスパイシーなハーモニーが楽しめます！口どけも良く、簡単で美味しいレシピです。",
+    "description_en": "Experience the tantalizing spicy harmony of melted cheese and gochujang chicken! This recipe is easy and delicious, with amazing flavor and texture.",
+    "occasion_ja": "パーティーやディナー、特別な日におすすめ。",
+    "occasion_en": "Perfect for parties, dinners, or special occasions.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "ゴマ油",
+        "amount": "適量"
+      },
+      {
+        "name": "しょうが",
+        "amount": "適量"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "甘辛ダレ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンは、ゴマ油としょうが、唐辛子を入れて甘辛ダレと混ぜる。",
+      "2. 溶けるチーズをタッカルビチキンに塗る。",
+      "3. オーブンで15分焼く。",
+      "4. チーズが溶け、タッカルビチキンに味が染み込むように焼く。"
+    ],
+    "prompt": "Close-up shot of a cheesy, gooey, gochujang chicken dish with melted cheese and a crispy texture, shot with a soft, warm light, Ghibli-style illustration",
+    "filename": "recipe_1788384735.jpg",
+    "date": "2026-09-02 21:33:59",
+    "timestamp": 1788384735,
+    "likes": 0,
+    "views": 455
+  },
+  {
     "id": "recipe_1788373380",
     "category": "丼",
     "category_ja": "丼もの",
