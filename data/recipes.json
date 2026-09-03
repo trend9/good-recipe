@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788464171",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレチーズケーキ：悪魔的甘酸っぱいハーモニー！",
+    "title_en": "Banana Caramel Brulee Cheesecake: A Devilishly Delicious Sweet & Sour Harmony!",
+    "description_ja": "完熟バナナの甘酸っぱさが、キャラメルブリュレとチーズのクリーミーなハーモニーに。  一見普通のチーズケーキですが、一口食べると、悪魔のような美味しさに驚嘆！",
+    "description_en": "A devilishly delicious cheesecake featuring the sweet & sour taste of ripe bananas with a caramel brulee and creamy cheese. This cheesecake is an unexpected but heavenly experience! ",
+    "occasion_ja": "特別な日には、ぜひ試してみてね！",
+    "occasion_en": "Perfect for special occasions, give it a try!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1.  完熟バナナは皮を剥き、くりをくり抜き、細かく砕きます。",
+      "2.  キャラメルを鍋に入れ、弱火で溶かし、キャラメルソースを作ります。",
+      "3.  クリームチーズと牛乳を混ぜ合わせ、泡立てます。",
+      "4.  バナナ、キャラメルソース、そして生地を混ぜ合わせ、型に流し込み、180℃で15分焼きます。"
+    ],
+    "prompt": "Close-up photo of a delicious cheesecake, with banana, caramel sauce, and whipped cream, with a steam coming out.  Focus on the texture and color.",
+    "filename": "recipe_1788464171.jpg",
+    "date": "2026-09-03 19:38:36",
+    "timestamp": 1788464171,
+    "likes": 0,
+    "views": 219
+  },
+  {
     "id": "recipe_1788454406",
     "category": "dessert",
     "category_ja": "デザート",
