@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788454406",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔的スパイシーチーズタッカルビチキンチーズケーキ",
+    "title_en": "Spicy Cheese Stuffed Taccubbi Chicken Cheese Cake",
+    "description_ja": "濃厚なタッカルビチキンととろけるチーズが融合した、悪魔的なチーズケーキ。スパイシーな風味とチーズの組み合わせが、食欲をそそります。",
+    "description_en": "A spicy cheese stuffed Taccubbi chicken cheesecake with a rich, cheesy texture. The fusion of the spicy Taccubbi Chicken and melting cheese, will awaken your taste buds.",
+    "occasion_ja": "特別な日に、特別な人を招待するなら、このチーズケーキがぴったりです。",
+    "occasion_en": "Perfect for a special occasion where you want to impress your guest.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを細かく刻みます。",
+      "とろけるチーズを細かく刻みます。",
+      "生クリームと牛乳を混ぜ合わせます。",
+      "タッカルビチキンとチーズを混ぜ合わせ、薄力粉と砂糖を加えて生地を作ります。"
+    ],
+    "prompt": "Close-up photo of the cheesy chicken cake with a molten cheese center and flaky crust. The cake is being sliced open to reveal the creamy center.",
+    "filename": "recipe_1788454406.jpg",
+    "date": "2026-09-03 16:54:43",
+    "timestamp": 1788454406,
+    "likes": 0,
+    "views": 401
+  },
+  {
     "id": "recipe_1788438580",
     "category": "dessert",
     "category_ja": "デザート",
