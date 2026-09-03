@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788402730",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "チーズタッカルビチキンオムレツ:  悪魔的甘辛のハーモニー！",
+    "title_en": "Spicy and Creamy Tartare Chicken Omelette: Devilish Spice and Sweetness!",
+    "description_ja": "とろけるチーズとタッカルビチキンを、オムレツに包み込んだ悪魔的な一品！甘辛のスパイシーなハーモニーが、舌を魅了する！",
+    "description_en": "A devilishly delicious omelette filled with melting cheese and spicy Tartare Chicken!  Spicy and sweet harmonies will tantalize your taste buds.",
+    "occasion_ja": "パーティーやBBQにぴったり！",
+    "occasion_en": "Perfect for parties and BBQs!",
+    "ingredients": [
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "150g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏肉を細かく刻んで、タッカルビソースと混ぜる。",
+      "卵を溶き、小麦粉と塩で混ぜる。",
+      "チーズとタッカルビチキンを卵液で包み込む。",
+      "フライパンで両面を焼き、オムレツを完成させる。"
+    ],
+    "prompt": "Close-up shot of a spicy Tartare Chicken Omelette with melted cheese and cheese crumbles, served on a plate with a knife and fork, close-up shot, bright and delicious,  a burst of colors, vibrant",
+    "filename": "recipe_1788402730.jpg",
+    "date": "2026-09-03 02:33:57",
+    "timestamp": 1788402730,
+    "likes": 0,
+    "views": 394
+  },
+  {
     "id": "recipe_1788392900",
     "category": "dessert",
     "category_ja": "デザート",
