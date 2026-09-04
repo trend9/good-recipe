@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788553669",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコレートマカロンケーキ ～悪魔的甘酸っぱさ～",
+    "title_en": "Matcha White Chocolate Macaron Cake: Devilishly Sweet & Tart",
+    "description_ja": "抹茶とホワイトチョコレートの甘酸っぱさが爆発！マカロンケーキで、幸せな悪魔の舌を刺激する一品。",
+    "description_en": "Exploding with matcha and white chocolate's sweet and tangy goodness, this macaron cake brings you a devilishly delightful treat!",
+    "occasion_ja": "特別な日や、特別なひとときを盛り上げるデザート",
+    "occasion_en": "A dessert to elevate special occasions and moments",
+    "ingredients": [
+      {
+        "name": "抹茶マカロン",
+        "amount": "1個"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "100g"
+      },
+      {
+        "name": "バニラエッセンス",
+        "amount": "1/2 teaspoon"
+      },
+      {
+        "name": "卵白",
+        "amount": "3個"
+      }
+    ],
+    "steps": [
+      "マカロン生地を作る - 卵白と砂糖を泡立て、抹茶とホワイトチョコレートを加えて混ぜる。",
+      "生地を piping してマカロンの形に成形する - マカロンの形に成形した後、10分程度冷やす。",
+      "マカロンを焼く - オーブンを 180℃に設定し、マカロンを焼くと同時に、抹茶とホワイトチョコレートのソースを作り、マカロンに塗る。",
+      "ケーキを作る - マカロンをケーキ型に入れた後、抹茶とホワイトチョコレートのソースを塗る。ケーキを冷まして、完成。"
+    ],
+    "prompt": "Close-up shot of a beautifully decorated matcha white chocolate macaron cake. The cake should be light, fluffy and have a subtle green sheen. A dusting of powdered sugar adds a final touch of elegance.",
+    "filename": "recipe_1788553669.jpg",
+    "date": "2026-09-04 20:29:06",
+    "timestamp": 1788553669,
+    "likes": 0,
+    "views": 156
+  },
+  {
     "id": "recipe_1788544943",
     "category": "side",
     "category_ja": "サイド",
