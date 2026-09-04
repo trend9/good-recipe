@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788482380",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "完熟トマト × フレッシュモッツァレラ  -  悪魔的甘酸っぱいハーモニー！",
+    "title_en": "Perfect Balance of Sweet & Tangy -  Tomato & Fresh Mozzarella  -  A Delightful Devilish Recipe",
+    "description_ja": "完熟トマトの甘酸っぱさと、フレッシュモッツァレラのクリーミーさを、悪魔的なハーモニーで表現！見た目も鮮やかな一品に仕上がります。",
+    "description_en": "Experience the perfect balance of sweet and tangy with this unique and devilishly delicious recipe! Its vibrant and visually stunning! ",
+    "occasion_ja": "特別な日やちょっとしたお祝いにも！",
+    "occasion_en": "Perfect for special occasions or a celebratory treat! ",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラ",
+        "amount": "200g"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1.  トマトはヘタを取り、薄切りにする。",
+      "2.  モッツァレラチーズをボウルに入れ、オリーブオイルと塩を混ぜる。",
+      "3.  トマトをチーズのボウルに敷き詰め、ブラックペッパーを振りかける。",
+      "4.  お好みで、モッツァレラチーズのボウルにトマトをのせる。"
+    ],
+    "prompt": "Close-up shot of a beautifully crafted tomato mozzarella salad with a vibrant, juicy red tomato and a fluffy mozzarella ball, sprinkled with black pepper, on a white background, inspired by a dark and dramatic art style.",
+    "filename": "recipe_1788482380.jpg",
+    "date": "2026-09-04 00:41:24",
+    "timestamp": 1788482380,
+    "likes": 0,
+    "views": 258
+  },
+  {
     "id": "recipe_1788464171",
     "category": "dessert",
     "category_ja": "デザート",
