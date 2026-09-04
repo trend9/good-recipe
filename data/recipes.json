@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788544943",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバターぷりぷり海老ピラフ：悪魔的甘辛のハーモニー！",
+    "title_en": "Garlic Butter Shrimp Rice: Devilishly sweet and savory harmony!",
+    "description_ja": "ガーリックバターの香ばしさで、ぷりぷりの海老が溶け出す、悪魔的甘辛なピラフ。見た目も華やかで、一口食べたら止まらない一品！",
+    "description_en": "Garlicky butter shrimp rice with a devilishly sweet and savory twist! This dish features plump shrimp, a delightful aroma of garlic butter, and a unique and addictive flavor that's sure to leave you wanting more!",
+    "occasion_ja": " parties, gatherings, family meals",
+    "occasion_en": "Parties, get-togethers, family gatherings",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "150g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "15g"
+      },
+      {
+        "name": "白米",
+        "amount": "200g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "20g"
+      },
+      {
+        "name": "醤油",
+        "amount": "1.5g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "1g"
+      }
+    ],
+    "steps": [
+      "1. エビを10分ほど水に浸す。",
+      "2. 鍋に牛乳と醤油を入れ、弱火で加熱する。",
+      "3. 柔らかく煮込んだ後、エビを加え、全体を混ぜる。",
+      "4. 白米を加え、ご飯が水に浸透するまで加熱する。"
+    ],
+    "prompt": "A close-up shot of a piping hot bowl of the shrimp rice, with a sprinkle of chopped parsley on top. The shrimp is cooked to perfection, and the creamy sauce is glistening with garlic butter.",
+    "filename": "recipe_1788544943.jpg",
+    "date": "2026-09-04 18:04:20",
+    "timestamp": 1788544943,
+    "likes": 0,
+    "views": 366
+  },
+  {
     "id": "recipe_1788533056",
     "category": "メイン",
     "category_ja": "メイン料理",
