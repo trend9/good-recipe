@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788499375",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油  -  悪魔的甘辛チーズグラタン",
+    "title_en": "Smoked Bacon & Garlic-Roasted Soy Glaze Cheesy Pasta",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油の組み合わせが、チーズグラタンに、新たな悪魔的美味しさをもたらします。濃厚な味わいが、飽きさせない一品に仕上がります。",
+    "description_en": "Smoked bacon and garlic-roasted soy glaze cheese sauce elevates cheesy pasta to a whole new level of decadent, with a unique and delicious fusion of flavors.",
+    "occasion_ja": "特別な日に、贅沢に食べたい時に最適な一品",
+    "occasion_en": "Perfect for special occasions and those who crave a decadent indulgence.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューと濃厚焦がしにんにく醤油を混ぜて、パスタの材料に加える。",
+      "2. チーズを加え、全体を混ぜる。",
+      "3. フライパンにバターを溶かし、パスタを炒める。",
+      "4. チーズが溶けたら、完成。"
+    ],
+    "prompt": "Close-up image of a cheesy pasta dish with a smoky, savory aroma.  Rich, melted cheese and crispy char on the bacon, topped with garlic roasted soy glaze.",
+    "filename": "recipe_1788499375.jpg",
+    "date": "2026-09-04 05:25:56",
+    "timestamp": 1788499375,
+    "likes": 0,
+    "views": 174
+  },
+  {
     "id": "recipe_1788482380",
     "category": "dessert",
     "category_ja": "デザート",
