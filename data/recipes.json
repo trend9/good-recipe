@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788533056",
+    "category": "メイン",
+    "category_ja": "メイン料理",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔的甘辛炸裂！",
+    "title_en": "Extreme Honey Mustard Glazed Deep-Fried Pork Cutlets: Devilishly Spicy & Sweet Explosion!",
+    "description_ja": "極厚カツに、特製ハニーマスタードのタレをたっぷり絡めて、カリッとした食感を満喫！悪魔的な甘辛のハーモニーが味わえる、インパクト抜群のレシピ！",
+    "description_en": "Deep-fried pork cutlets coated in a tangy, spicy honey mustard sauce. A taste explosion with crispy texture and devilishly sweet and savory flavor. ",
+    "occasion_ja": "特別な日に、家族とみんなでシェアする！",
+    "occasion_en": "Perfect for special occasions with family. ",
+    "ingredients": [
+      {
+        "name": "豚肉",
+        "amount": "1枚"
+      },
+      {
+        "name": "パン粉",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "油",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "豚肉を薄く切り、パン粉をまぶす。",
+      "卵を溶き、パン粉に混ぜる。",
+      "熱した油でパン粉した豚肉を揚げる。",
+      "揚げた豚肉をハニーマスタードで仕上げる。"
+    ],
+    "prompt": "Close-up shot of deep-fried pork cutlets coated in a spicy honey mustard sauce, with steam rising from the surface.",
+    "filename": "recipe_1788533056.jpg",
+    "date": "2026-09-04 14:45:37",
+    "timestamp": 1788533056,
+    "likes": 0,
+    "views": 227
+  },
+  {
     "id": "recipe_1788517380",
     "category": "dessert",
     "category_ja": "デザート",
