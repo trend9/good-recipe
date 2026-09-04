@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788517380",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス × タッカルビチキンオムレツ：悪魔的スパイシー食感！",
+    "title_en": "Black Sesame Kinako Ice Cream with Spicy Tamer Chicken Omelet: Spicy and Crunchy Delight!",
+    "description_ja": "悪魔的美味しさの新たな世界へ！黒蜜きな粉もちもちアイスとタッカルビチキンオムレツの組み合わせは、スパイシーな食感と甘酸っぱいハーモニーが楽しめる、まさに悪魔的レシピ！",
+    "description_en": "Experience a new world of deliciousness with this unholy pairing!  Black sesame kinako ice cream with spicy tamer chicken omelette: A spicy and crunchy delight that will have you craving more! ",
+    "occasion_ja": "特別な日に、友達とシェア！",
+    "occasion_en": "A perfect treat for special occasions with friends!",
+    "ingredients": [
+      {
+        "name": "黒蜜きな粉もちもちアイス",
+        "amount": "100g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "150g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "片栗粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "油",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. きな粉もちもちアイスを4等分し、それぞれを冷蔵します。",
+      "2. 卵を割りほぐし、片栗粉をまぶして、卵と片栗粉のペーストを作ります。",
+      "3. タッカルビチキンをフライパンで焼きます。",
+      "4. 4等分した黒蜜きな粉もちもちアイスを、タッカルビチキンとオムレツに乗せます。お好みで黒蜜をかけるとさらに美味しくなります。"
+    ],
+    "prompt": "Close-up shot of the black sesame kinako ice cream with spicy tamer chicken omelette, vibrant and enticing, with a sprinkle of black sesame seeds and a drizzle of black sesame sauce, a visually stunning masterpiece.",
+    "filename": "recipe_1788517380.jpg",
+    "date": "2026-09-04 10:24:44",
+    "timestamp": 1788517380,
+    "likes": 0,
+    "views": 184
+  },
+  {
     "id": "recipe_1788499375",
     "category": "pasta",
     "category_ja": "パスタ",
