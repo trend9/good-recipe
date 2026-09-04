@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788561853",
+    "category": "丼",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵の悪魔的辛味麻婆豆腐丼",
+    "title_en": "Devilishly Delicious Spicy and Creamy Tofu Rice Bowl",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の組み合わせで、悪魔的な美味しさの丼が完成！  甘辛な風味と卵のクリーミーな味わいが、まさに食欲をそそる一品",
+    "description_en": "A devilishly delicious rice bowl featuring creamy tofu and a devilishly spicy topping with silky, runny egg - a unique and addictive taste sensation.",
+    "occasion_ja": "疲れた日にぴったり！",
+    "occasion_en": "Perfect for a tiring day!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "ご飯を炊く。",
+      "鍋に醤油と砂糖を混ぜ、麻婆豆腐を加え、煮詰める。",
+      "卵を溶き、熱した麻婆豆腐の汁に混ぜる。",
+      "ご飯の上に卵と麻婆豆腐の汁を盛り付け、お好みで刻んだネギを添える。"
+    ],
+    "prompt": "Close-up shot of a bowl of spicy and creamy tofu rice bowl topped with runny egg, a sprinkle of green onions and a rich sauce, in a warm and inviting kitchen setting.",
+    "filename": "recipe_1788561853.jpg",
+    "date": "2026-09-04 22:45:55",
+    "timestamp": 1788561853,
+    "likes": 0,
+    "views": 273
+  },
+  {
     "id": "recipe_1788553669",
     "category": "dessert",
     "category_ja": "デザート",
