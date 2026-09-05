@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788568536",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的クリーミーアボカド海老グラタン",
+    "title_en": "Devilishly Creamy Avocado Sea Urchin Gratin",
+    "description_ja": "クリーミーなアボカドと、海の幸が融合！悪魔的クリーミーアボカド海老グラタン。見た目も美しい、想像を超える味わいを演出します。",
+    "description_en": "Creamy avocado and seafood come together in this devilishly delicious creation! An eye-catching and flavorful dish that will blow your mind.",
+    "occasion_ja": "特別なディナーにぴったり",
+    "occasion_en": "Perfect for a special dinner",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "海老",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. アボカドは皮をむき、中身を半分にカットする。",
+      "2. 海老は皮をむき、身を薄切りにする。",
+      "3. フライパンにバターを熱し、海老と塩コショウで味付けしたアボカドを炒める。",
+      "4. 1.と2.の材料をグラタン皿に盛り、クリーミーチーズを混ぜ込み、チーズが溶けたら完成。"
+    ],
+    "prompt": "A close-up photo of the creamy avocado sea urchin gratin, with a luxurious and decadent presentation.",
+    "filename": "recipe_1788568536.jpg",
+    "date": "2026-09-05 00:38:10",
+    "timestamp": 1788568536,
+    "likes": 0,
+    "views": 291
+  },
+  {
     "id": "recipe_1788561853",
     "category": "丼",
     "category_ja": "丼もの",
