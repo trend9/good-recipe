@@ -1,5 +1,56 @@
 [
   {
+    "id": "recipe_1788625812",
+    "category": "side",
+    "category_ja": "サイドdish",
+    "title_ja": "悪魔的甘辛唐揚げチーズグラタン",
+    "title_en": "Devilishly Sweet & Spicy Chicken Cheese Gratin",
+    "description_ja": "サクサク唐揚げの旨味を、甘辛チーズグラタンで表現。悪魔の美味しさに、思わず笑顔になってしまう一品です。",
+    "description_en": "Experience a devilishly sweet and spicy chicken cheese gratin with the crunch of fried chicken. This dish will surely bring a smile to your face.",
+    "occasion_ja": "パーティーや夜食に最適な一品",
+    "occasion_en": "Great for parties or dinner.",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パン粉",
+        "amount": "100g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "鶏肉を一口大にカットし、ハニーマヨネーズで味付けする。",
+      "鶏肉を小麦粉で軽く coating し、薄くパプリカの火を付ける。",
+      "チーズをグラタン皿に均等に敷き、鶏肉を乗せる。",
+      "水を溶き片栗粉を混ぜて、チーズの上に注ぎ、全体を均等に塗る。",
+      "180度に予熱したオーブンで15分焼く。",
+      "余熱でチーズが溶け、鶏肉の旨味が凝縮したグラタンを完成させます。"
+    ],
+    "prompt": "Close-up image of a cheesy gratin, with caramelized chicken pieces, and cheese melted on top, in a rustic oven dish. The cheese looks golden and bubbly, with a slight smoky effect, against a dark background. ",
+    "filename": "recipe_1788625812.jpg",
+    "date": "2026-09-05 16:32:02",
+    "timestamp": 1788625812,
+    "likes": 0,
+    "views": 239
+  },
+  {
     "id": "recipe_1788613944",
     "category": "パスタ",
     "category_ja": "パスタ",
