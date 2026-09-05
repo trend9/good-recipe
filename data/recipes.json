@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788647790",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカルダモン : 悪魔的甘辛な魔法",
+    "title_en": "Caramelized Butter & Caraway with Roasted Sweet Potatoes: A Devilish Sweet & Salty Delight",
+    "description_ja": "焼き芋の甘さと、バターカルダモンの香ばしい風味が、悪魔的な美味しさに昇華！とろける食感のカラメルソースで、口の中いっぱいに幸せな甘酸っぱさを味わえる一品。",
+    "description_en": "Experience the devilish sweetness of caramelized sweet potatoes paired with a decadent, buttery, and earthy caraway topping. This dish features a meltingly smooth caramel sauce that elevates your tastebuds to new heights of happiness!  ",
+    "occasion_ja": "特別な日のディナーに、そして、特別な人への贈り物に最適",
+    "occasion_en": "Perfect for a special dinner or as a gift to someone special.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "100g"
+      },
+      {
+        "name": "カルダモン",
+        "amount": "10g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "焼き芋を約20分、オーブンで焼き、表面に焦げ目をつけます。",
+      "バターをボウルに入れて、カルダモン、砂糖、水を混ぜて、溶かす。",
+      "焼き芋に、溶かしたバターカルダモンを塗ります。",
+      "焼き芋を冷やして、カラメルソースをたっぷり添え、一口食べたら、悪魔的な美味しさに酔いしれます。"
+    ],
+    "prompt": "Close-up photo of a roasted sweet potato with a caramel topping and a sprinkle of caraway seeds. Focus on the texture of the caramelized butter and the vibrant color. ",
+    "filename": "recipe_1788647790.jpg",
+    "date": "2026-09-05 22:38:54",
+    "timestamp": 1788647790,
+    "likes": 0,
+    "views": 457
+  },
+  {
     "id": "recipe_1788625812",
     "category": "side",
     "category_ja": "サイドdish",
