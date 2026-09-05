@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788601827",
+    "category": "rice/curry",
+    "category_ja": "ご飯/カレー",
+    "title_ja": "悪魔的甘辛バターチキンカレーライス：ぷりぷり海老のアクセント！",
+    "title_en": "Devilishly Spicy Butter Chicken Curry Rice: Shrimp's Surprise!",
+    "description_ja": "悪魔的辛味と甘辛の融合が、食欲をそそる一品！ぷりぷりの海老と、バターチキンカレーに合わせた、新しい美味しさを発見。",
+    "description_en": "A devilishly spicy and sweet fusion, this curry rice will excite your taste buds! Shrimp adds a surprise element to the butter chicken curry, unlocking a new level of deliciousness.",
+    "occasion_ja": "夜ご飯にぴったりな、特別な一品",
+    "occasion_en": "A perfect dish for a special dinner",
+    "ingredients": [
+      {
+        "name": "バターチキンカレー",
+        "amount": "1人分"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "にんにく",
+        "amount": "1かけ"
+      }
+    ],
+    "steps": [
+      "玉ねぎを薄切りにし、にんにくをすりおろしてバターと炒める。",
+      "バターチキンカレーを加え、沸騰したら弱火で約15分煮詰める。",
+      "エビを10分ほど茹でて、器に盛り付ける。",
+      "カレーライスにエビを乗せて、バターを塗る。"
+    ],
+    "prompt": "A close-up image of a curry rice with shrimp on top, golden and savory. The curry is bubbling, and the shrimp is glistening.  Focus on the textures: the fluffy rice, the juicy shrimp, and the creamy sauce.",
+    "filename": "recipe_1788601827.jpg",
+    "date": "2026-09-05 09:52:10",
+    "timestamp": 1788601827,
+    "likes": 0,
+    "views": 233
+  },
+  {
     "id": "recipe_1788585125",
     "category": "dessert",
     "category_ja": "デザート",
