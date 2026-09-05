@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788585125",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス × タッカルビチキンオムレツ：悪魔的スパイシー食感！",
+    "title_en": "Black Sesame Ice Cream with Korean Chicken Omelette: Devilish Spicy Texture!",
+    "description_ja": "黒蜜きな粉もちもちアイスと、タッカルビチキンオムレツの意外性あふれる組み合わせ！スパイシーな味わい、悪魔的美味しさに、一層まで魅了！",
+    "description_en": "A devilishly delicious combination of black sesame ice cream with a Korean chicken omelette! This unexpected combination packs a spicy punch, offering a unique and addictive flavor experience.",
+    "occasion_ja": "特別な日のディナーに、ちょっと冒険心を刺激したい時！",
+    "occasion_en": "For a special dinner, to bring a bit of adventure to your palate!",
+    "ingredients": [
+      {
+        "name": "黒蜜きな粉もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "片栗粉",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを焼きます。",
+      "2. 卵を、小麦粉と片栗粉で溶き、生地を作ります。",
+      "3. 生地をタッカルビチキンオムレツの形に成形します。",
+      "4. 黒蜜きな粉もちもちアイスの上にオムレツを盛り付け、召し上がれ！"
+    ],
+    "prompt": "Close-up shot of the delicious black sesame ice cream with a Korean chicken omelette. Dramatic lighting, slightly messy appearance, and a focus on the texture of the ingredients.",
+    "filename": "recipe_1788585125.jpg",
+    "date": "2026-09-05 05:13:46",
+    "timestamp": 1788585125,
+    "likes": 0,
+    "views": 175
+  },
+  {
     "id": "recipe_1788568536",
     "category": "side",
     "category_ja": "サイド",
