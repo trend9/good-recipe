@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788689198",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ×タッカルビチキン：スパイシーチーズの甘辛豆腐グラタン",
+    "title_en": "Spicy Cheese Tofu Gratin with Tteokbokki & Cheese",
+    "description_ja": "タッカルビチキンとチーズのスパイシーなハーモニーが、とろけるチーズの甘辛豆腐グラタンに昇格！ 意外な組み合わせが、悪魔的な美味しさに。",
+    "description_en": "A spicy and cheesy comfort food with a twist! Tteokbokki and cheese combine for a unique and delicious experience, sure to tantalize your taste buds. ",
+    "occasion_ja": "パーティーやディナーにぴったり！",
+    "occasion_en": "Perfect for parties or dinners! ",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "300g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "300g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 豆腐は崩して、タッカルビチキンは細かく刻む。",
+      "2. 他の材料は混ぜ合わせ、小さめのお鍋に注ぐ。",
+      "3. 火が通ったら、チーズを散らして、チーズが溶け始めるまで加熱する。",
+      "4. 器に盛り、お好みで唐辛子や醤油で味を調える。"
+    ],
+    "prompt": "A creamy and cheesy dish with a hint of spiciness. Close-up of a gratin with a generous layer of cheese, and a sprinkle of red pepper flakes, and a satisfied chef's smile.",
+    "filename": "recipe_1788689198.jpg",
+    "date": "2026-09-06 10:08:24",
+    "timestamp": 1788689198,
+    "likes": 0,
+    "views": 446
+  },
+  {
     "id": "recipe_1788672380",
     "category": "丼",
     "category_ja": "丼",
