@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1788654685",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "とろけるチーズ×タッカルビチキン：悪魔的スパイシーチーズクリームパスタ",
+    "title_en": "Spicy Cheese Cream Pasta with Tteokbokki Chicken",
+    "description_ja": "とろけるチーズとタッカルビチキンが、スパイシーなクリームソースで融合した、悪魔的美味しさの極上パスタレシピ。見た目も鮮やかで、まるで魔法の料理が生まれる！",
+    "description_en": "A spicy and cheesy pasta creation blending melt-in-your-mouth cheese and tteokbokki chicken with a creamy and spicy sauce.  A beautiful, magical dish with a bold flavor! ",
+    "occasion_ja": "特別な日、友人とディナー、家庭での特別な夜に。",
+    "occasion_en": "For special occasions, friends' gatherings, and a special dinner at home.",
+    "ingredients": [
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "Cream cheese",
+        "amount": "適量"
+      },
+      {
+        "name": "パセリ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  パスタを茹でる。",
+      "2.  タッカルビチキンと玉ねぎを炒める。",
+      "3.  トマトを小さく刻む。Cream cheeseを溶き、混ぜ合わせる。",
+      "4.  パスタを盛り、タッカルビチキンと玉ねぎを乗せ、クリームチーズソースを絡める。"
+    ],
+    "prompt": "A closeup shot of a steaming bowl of pasta with tteokbokki chicken and a smooth, creamy sauce, cheese melting on top, vibrant colors, and a slightly dark background",
+    "filename": "recipe_1788654685.jpg",
+    "date": "2026-09-06 00:33:07",
+    "timestamp": 1788654685,
+    "likes": 0,
+    "views": 423
+  },
+  {
     "id": "recipe_1788647790",
     "category": "dessert",
     "category_ja": "デザート",
