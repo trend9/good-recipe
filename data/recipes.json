@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788712864",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔的焼き芋バターチーズグラタン：とろけるチーズと焼き芋の甘辛魔法",
+    "title_en": "Devilishly Delicious Baked Sweet Potato & Cheese Gratin: The Sweet & Spicy Magic",
+    "description_ja": "焼き芋の甘辛な旨味が、とろけるバターチーズのクリーミーな味わいを引き立て、まるで魔法の食べ物を味わえる。悪魔的な美味しさ間違いなし！",
+    "description_en": "A devilishly delicious baked sweet potato & cheese gratin that combines the sweetness and spice of baked potatoes with a creamy, melt-in-your-mouth cheese, creating a culinary magic that will leave your tastebuds wanting more.",
+    "occasion_ja": "パーティーやディナーにぴったり！",
+    "occasion_en": "Great for parties and dinners!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 焼き芋は、皮をむき、小さめにカットします。",
+      "2. バターとチーズを溶かし、牛乳、醤油、みりんを加えて混ぜます。",
+      "3. 焼き芋をチーズソースに包んで、オーブンで180℃で15分焼きます。",
+      "4. 焦げ付かないよう、定期的に様子を見ながら焼きます。"
+    ],
+    "prompt": "Close-up photo of the finished gratin, a cheesy and caramelized delight, with a dramatic presentation and warm lighting (英語で料理の雰囲気を表現)",
+    "filename": "recipe_1788712864.jpg",
+    "date": "2026-09-06 16:43:22",
+    "timestamp": 1788712864,
+    "likes": 0,
+    "views": 391
+  },
+  {
     "id": "recipe_1788702897",
     "category": "メイン料理",
     "category_ja": "メイン料理",
