@@ -1,5 +1,49 @@
 [
   {
+    "id": "recipe_1788735139",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的クリーミー海老グラタン：甘辛スパイシーな海の魔法",
+    "title_en": "Devilish Creamy Crab Gratin: Sweet & Spicy Ocean Magic",
+    "description_ja": "海老の旨味とクリーミーなアボカドが、スパイシーな甘辛ソースで、最高の悪魔的美味しさに昇格！見た目も鮮やかなグラタンは、インスタ映えも抜群！",
+    "description_en": "A devilishly delicious crab gratin with creamy avocado and a spicy, sweet and sour sauce!  Visually stunning and a must-try for foodies! ",
+    "occasion_ja": "パーティー、食事会、特別な日のテーブルに",
+    "occasion_en": "For parties, gatherings, special occasions",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "100g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. 海老の身を軽く洗い、塩こしょうで味付けする。\n2. アボカドは皮を剥き、みじん切りにする。\n3. アボカドとチーズを混ぜ合わせ、お好みで黒胡椒を少々加える。\n4. グラタン皿に、海老を敷き詰めて、アボカドチーズの層を作る。",
+      "5. Ovenで180°Cで15分焼く。",
+      "6. 最後にチーズを振りかけ、さらに1分焼く。"
+    ],
+    "prompt": "Close-up photo of a creamy crab gratin with a golden crust and vibrant, delicious, ingredients in a white ceramic dish.",
+    "filename": "recipe_1788735139.jpg",
+    "date": "2026-09-06 22:54:09",
+    "timestamp": 1788735139,
+    "likes": 0,
+    "views": 440
+  },
+  {
     "id": "recipe_1788728511",
     "category": "side",
     "category_ja": "サイド",
