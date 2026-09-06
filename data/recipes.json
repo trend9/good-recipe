@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788720587",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "黒蜜きな粉もちもちアイス×タッカルビチキンオムレツ：悪魔的スパイシー食感！",
+    "title_en": "Black Honey Kinako Mochi Ice Cream with Korean-style Chicken Omelet: Spicy Delightful Texture!",
+    "description_ja": "とろけるチーズとタッカルビチキン、そして黒蜜きな粉もちもちアイスを組み合わせた、悪魔的スパイシー食感オムレツ！ 意外な組み合わせで、新しい美味しさが楽しめるレシピです。",
+    "description_en": "A spicy, delightful texture with a twist: Black honey kinako mochi ice cream combined with Korean-style chicken omelet! This unexpected combination will bring you an unforgettable taste experience! ",
+    "occasion_ja": "パーティーや夜食にぴったり！",
+    "occasion_en": "Perfect for parties or dinner time! ",
+    "ingredients": [
+      {
+        "name": "黒蜜きな粉もちもちアイス",
+        "amount": "1個"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを一口大に切り、チーズをたっぷりまぶして塩を振る。",
+      "2. 卵を溶き、チーズと一緒に混ぜる。",
+      "3.  黒蜜きな粉もちもちアイスをオムレツの生地全体に広げる。",
+      "4.  オムレツを両面を焼き、仕上げに黒蜜きな粉を振る。"
+    ],
+    "prompt": "Close-up image of a fluffy chicken omelette topped with a layer of black honey kinako mochi ice cream, sprinkled with kinako powder. The omelette is golden brown and looks like a work of art with a dramatic presentation.",
+    "filename": "recipe_1788720587.jpg",
+    "date": "2026-09-06 18:51:31",
+    "timestamp": 1788720587,
+    "likes": 0,
+    "views": 312
+  },
+  {
     "id": "recipe_1788712864",
     "category": "side",
     "category_ja": "サイドディッシュ",
