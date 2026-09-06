@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1788728511",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト×クリーミーチーズソース：悪魔のチーズドッペルゲンガー",
+    "title_en": "Crispy Potato x Creamy Cheese Sauce: Devilish Cheese Doppelgänger",
+    "description_ja": "サクサクポテトとクリーミーチーズソースが、悪魔的な美味しさであなたの味覚を魅了！ 想像を超える美味しさに心奪われる。",
+    "description_en": "Crispy potato and creamy cheese sauce, unleashing a devilishly delicious taste sensation! Prepare to be captivated by a culinary experience unlike any other.",
+    "occasion_ja": "パーティーや夜食にぴったり！",
+    "occasion_en": "Perfect for parties and night snacks!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "じゃがいもを薄くスライスする。",
+      "じゃがいもをマヨネーズで coating する。",
+      "フライパンで油をひき、じゃがいもを焼く。",
+      "クリーミーチーズソースを軽く混ぜ合わせ、じゃがいもを盛り付ける。"
+    ],
+    "prompt": "Close-up shot of crispy potato and creamy cheese sauce, with a slight drizzle of cheese sauce over the surface, on a white background",
+    "filename": "recipe_1788728511.jpg",
+    "date": "2026-09-06 21:03:03",
+    "timestamp": 1788728511,
+    "likes": 0,
+    "views": 373
+  },
+  {
     "id": "recipe_1788720587",
     "category": "side",
     "category_ja": "サイド",
