@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788702897",
+    "category": "メイン料理",
+    "category_ja": "メイン料理",
+    "title_ja": "極厚カツ × 特製ハニーマスタードの悪魔的甘辛ソース！",
+    "title_en": "Devilishly Sweet & Spicy Sauce for Thick-Cut Pork Cutlets with Honey Mustard!",
+    "description_ja": "極厚カツに、意外な組み合わせのハニーマスタードソースが、悪魔的な甘辛さに昇格！とろける肉と香ばしいソース、最高のハーモニーがあなたを魅了します。",
+    "description_en": "Take your thick-cut pork cutlets to a whole new level with this devilishly sweet and spicy honey mustard sauce! The combination of crispy pork and savory sauce creates a perfect balance of textures and tastes.",
+    "occasion_ja": "パーティー、家族で作る料理、特別な日",
+    "occasion_en": "Party, family meal, special occasions",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面を小麦粉でコーティングし、薄くスライスしたハラペーニョを添え、油で揚げる。",
+      "フライパンにハニーマスタード、醤油、砂糖、水を混ぜる。",
+      "揚げたカツにソースをたっぷり塗る。",
+      "天ぷらそば、サラダと一緒に、ぜひお試しください。"
+    ],
+    "prompt": "Close-up shot of a thick-cut pork cutlet with a devilishly sweet and spicy honey mustard sauce, garnished with a sprig of parsley and surrounded by a vibrant side of vegetables like bell peppers, onions, and cucumbers.",
+    "filename": "recipe_1788702897.jpg",
+    "date": "2026-09-06 13:56:17",
+    "timestamp": 1788702897,
+    "likes": 0,
+    "views": 193
+  },
+  {
     "id": "recipe_1788689198",
     "category": "side",
     "category_ja": "サイド",
