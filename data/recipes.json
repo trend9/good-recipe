@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1788800655",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト×クリーミーチーズソース：悪魔のチーズドッペルゲンガー (新レシピ！)",
+    "title_en": "Crispy Potato x Creamy Cheese Sauce: Devilish Cheese Dupe (New Recipe!)",
+    "description_ja": "一見普通のポテトサラダに、悪魔的なクリーミーチーズソースを加えて、まるで「ドッペルゲンガー」の魔法が降り注ぐ、驚きの食感が味わえる、悪魔的レシピ！",
+    "description_en": "A twist on ordinary potato salad, adding a devilishly delicious creamy cheese sauce. This recipe will unleash a new flavor adventure! You'll be amazed by the unexpected and devilish deliciousness of this dish.",
+    "occasion_ja": "パーティーやお酒を飲みながら、みんなで楽しめる一皿に！",
+    "occasion_en": "Perfect for gatherings and enjoying with your friends while drinking! ",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "20g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを洗って、一口大にカットします。",
+      "マヨネーズと塩コショウで味を調えます。",
+      "じゃがいもをフライパンで両面を揚げ焼きにします。",
+      "クリーミーチーズソースを加え、混ぜ合わせます。",
+      "盛り付ける"
+    ],
+    "prompt": "Close-up photo of the dish, potato salad is topped with a dollop of creamy cheese sauce.  Rich and cheesy, a vibrant and delicious dish.",
+    "filename": "recipe_1788800655.jpg",
+    "date": "2026-09-07 17:06:38",
+    "timestamp": 1788800655,
+    "likes": 0,
+    "views": 167
+  },
+  {
     "id": "recipe_1788780036",
     "category": "side",
     "category_ja": "サイド",
