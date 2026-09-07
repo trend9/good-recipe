@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1788823386",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "焼き芋バターの魔法のグラタン",
+    "title_en": "Magical Caramel Gravy with Roasted Sweet Potatoes",
+    "description_ja": "とろけるバターと甘辛焼き芋の魔法が、食欲をそそるグラタンに！ 意外な組み合わせで、悪魔的美味しさ爆発！",
+    "description_en": "A magical twist on a sweet potato gratin, the creamy caramel sauce and buttery roasted sweet potatoes will make your tastebuds dance! A surprisingly delicious combo! ",
+    "occasion_ja": "パーティーや家族会、特別な日にぴったり！",
+    "occasion_en": "Perfect for parties, family dinners, or special occasions!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ピザ用チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "焼き芋を皮ごと180℃で10分焼きます。",
+      "焼き芋にバターとグラニュー糖を塗り、焦げ付かないように焼き上げます。",
+      "焼き芋を器に入れます。",
+      "牛乳とピザ用チーズを加え、とろみがつくまで混ぜ合わせます。",
+      "小麦粉を加え、なめらかになるまで混ぜます。"
+    ],
+    "prompt": "Close-up shot of a golden-brown roasted sweet potato gratin with melted butter on top, sprinkled with cheese. A soft, comforting, and delicious-looking dish.",
+    "filename": "recipe_1788823386.jpg",
+    "date": "2026-09-07 23:25:12",
+    "timestamp": 1788823386,
+    "likes": 0,
+    "views": 249
+  },
+  {
     "id": "recipe_1788814906",
     "category": "side",
     "category_ja": "サイド",
