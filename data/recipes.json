@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788741521",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛香ばしさ！",
+    "title_en": "Spicy & Savory Roast Char Siu w/ Creamy Garlic Sauce - A Delicious Twist!",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を組み合わせた、悪魔的な甘辛香ばしさ！ 意外な組み合わせが、まるで悪魔が作った料理に！？ ぜひ、試してみてください！",
+    "description_en": "A unique combination of roast char siu and creamy garlic sauce, this recipe delivers a flavor explosion like no other! Be warned, it might just send your taste buds into a frenzy!  ",
+    "occasion_ja": "BBQやパーティー、お酒との相性も抜群！",
+    "occasion_en": "Perfect for BBQs, parties, and pairing with your favorite beverage!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "胡椒",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを一口サイズに切り、塩こしょうで味付けをする。",
+      "2. 濃厚焦がしにんにく醤油を適量加え、全体に塗る。",
+      "3. 軽く焼いたバターを薄く塗る。",
+      "4. 焦げ目を残しつつ、焼き加減を確認しながら焼いて完成。"
+    ],
+    "prompt": "A close-up shot of a plate of sizzling char siu coated with creamy garlic sauce, garnished with a sprinkle of black pepper on a charcoal background. The char siu is slightly charred and oozes with flavorful sauce, creating an inviting visual. ",
+    "filename": "recipe_1788741521.jpg",
+    "date": "2026-09-07 00:41:04",
+    "timestamp": 1788741521,
+    "likes": 0,
+    "views": 267
+  },
+  {
     "id": "recipe_1788735139",
     "category": "side",
     "category_ja": "サイド",
