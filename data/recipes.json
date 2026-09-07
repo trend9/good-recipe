@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788814906",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のチーズポテトグラタン: サクサクポテトとクリーミーチーズの超絶進化！",
+    "title_en": "Cheesy Potato Gratin: A Supernova of Savoriness in a Grainy, Creamy, and Crispy Potato Dream!",
+    "description_ja": "サクサクとしたポテトとクリーミーチーズソースの組み合わせは、永遠の定番！しかし、このレシピは、その定番を進化させ、新たな次元へ飛び出す、悪魔的な美味しさの魔法を秘めたグラタン！",
+    "description_en": "A cheesy potato gratin recipe that elevates the timeless classic. This recipe is an ode to the potato and creamy cheese pairing, pushing the boundaries of deliciousness to a whole new dimension with the use of an unexpected flavor twist.",
+    "occasion_ja": "パーティーやディナーにぴったり！",
+    "occasion_en": "Perfect for parties and dinners!",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "2個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "コショウ",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. ポテトを一口大にカットします。",
+      "2. フライパンでバターを溶かし、塩とコショウを混ぜて、ポテトを炒めます。",
+      "3.  クリームチーズと混ぜ合わせ、軽く混ぜます。",
+      "4.  オーブントースターで15分焼きます。"
+    ],
+    "prompt": "A close-up shot of a golden-brown, cheesy potato gratin, served on a rustic plate. The gratin is topped with a sprinkle of freshly chopped parsley.",
+    "filename": "recipe_1788814906.jpg",
+    "date": "2026-09-07 21:03:31",
+    "timestamp": 1788814906,
+    "likes": 0,
+    "views": 293
+  },
+  {
     "id": "recipe_1788800655",
     "category": "side",
     "category_ja": "サイド",
