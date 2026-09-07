@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788780036",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "トマトとモッツァレラの悪魔的チーズのグラタン",
+    "title_en": "Devilishly Delicious Tomato and Mozzarella Cheese Gratin",
+    "description_ja": "完熟トマトの甘酸っぱさと、モッツァレラの濃厚なチーズの組み合わせは、誰もが驚く美味しさ！ ほんのりスパイシーな風味で、贅沢な一品に仕上げます。",
+    "description_en": "A devilishly delicious combination of ripe tomato's sweet and sour flavor with mozzarella's creamy texture is a surprising delicacy! A subtle spicy flavor elevates this to a luxurious dish.",
+    "occasion_ja": "パーティーや特別な日のディナーに",
+    "occasion_en": "A special meal for parties and celebrations",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "3個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. 3個の完熟トマトを、半月状に切り、2cm幅の薄切りにする。",
+      "2.  モッツァレラチーズを、小サイズに切り、トマトの薄切りに包む。",
+      "3.  牛乳と生クリームを混ぜ、トマトとモッツァレラチーズを包む。",
+      "4. パプリカを加えて、チーズとトマトのグラタンを焼く。"
+    ],
+    "prompt": "A close-up shot of the cheese gratin with juicy tomatoes and mozzarella cheese, with a sizzling effect and a dark background",
+    "filename": "recipe_1788780036.jpg",
+    "date": "2026-09-07 11:21:54",
+    "timestamp": 1788780036,
+    "likes": 0,
+    "views": 224
+  },
+  {
     "id": "recipe_1788759450",
     "category": "dessert",
     "category_ja": "デザート",
