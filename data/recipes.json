@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788853379",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ハニーマヨネーズ × サクサク唐揚げ：悪魔の甘辛カリッカリグラタン",
+    "title_en": "Honey Mayo & Crispy Chicken: Devilish Sweet & Spicy Crispy Galant",
+    "description_ja": "カリッカリと香ばしいサクサク唐揚げに、ハニーマヨネーズで甘辛なコクが引き立つ、まるで悪魔が作ったかのようなグラタン！",
+    "description_en": "Devilish sweet and spicy crispy chicken with a honey mayo glaze – A creamy, savory, and utterly delicious galant!",
+    "occasion_ja": " parties, barbecues, or everyday meals",
+    "occasion_en": "perfect for parties, barbecues, or everyday meals",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "1パック"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. フライパンに小麦粉をまぶした唐揚げを炒める。",
+      "2. ハニーマヨネーズとグラタンソースを混ぜたものを炒め、唐揚げを加える。",
+      "3. チーズを溶かし、チーズソース全体に混ぜる。",
+      "4. お好みの形に、チーズをのせてグラタンにする。"
+    ],
+    "prompt": "A close-up shot of a crispy chicken and cheese mixture, with a glaze of honey mayo and a melting cheese layer. The dish is surrounded by a golden-brown crust, and steam is emerging from it. ",
+    "filename": "recipe_1788853379.jpg",
+    "date": "2026-09-08 07:44:42",
+    "timestamp": 1788853379,
+    "likes": 0,
+    "views": 465
+  },
+  {
     "id": "recipe_1788834847",
     "category": "グラタン",
     "category_ja": "グラタン",
