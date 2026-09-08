@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788886877",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜×きな粉もちもちアイス：悪魔の甘酸っぱ糖質グラタン",
+    "title_en": "Black Honey & Sesame Mochi Ice Cream: Devilish Sweet-Sour Sugar Cream Delight",
+    "description_ja": "黒蜜の甘酸っぱさときな粉の香ばしさが融合した、悪魔的な美味しさのグラタン。もちもちとしたアイスと、濃厚な風味で、想像を超える美味しさを体験しましょう！",
+    "description_en": "A devilishly delicious ice cream concoction blending the sweet and sour of black honey with the nutty goodness of sesame. The creamy, melt-in-your-mouth texture of the ice cream paired with the rich, savory flavors will leave you craving more.",
+    "occasion_ja": "特別な夜に、特別なあなたへ。",
+    "occasion_en": "Perfect for a special occasion or a decadent treat for yourself.",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "溶かしバター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  黒蜜ときな粉を混ぜ合わせて、全体に広げます。",
+      "2.  もちもちアイスを容器に入れて、溶かしバターで表面をコーティングします。",
+      "3.  牛乳を加え、なめらかにします。",
+      "4.  グラタンを盛り付け、お好みで黒蜜ときな粉を添えて、悪魔的な美味しさを楽しんでください。"
+    ],
+    "prompt": "Close-up shot of a delicious-looking dessert bowl, topped with a layer of black honey glaze with a sprinkling of sesame powder, with a scoop of ice cream nestled in the center. The ice cream is melting slightly from the heat, showcasing its creamy texture.",
+    "filename": "recipe_1788886877.jpg",
+    "date": "2026-09-08 17:03:05",
+    "timestamp": 1788886877,
+    "likes": 0,
+    "views": 157
+  },
+  {
     "id": "recipe_1788870745",
     "category": "グラタン",
     "category_ja": "グラタン",
