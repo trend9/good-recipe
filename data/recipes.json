@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788870745",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の旨味グラタン",
+    "title_en": "炙りチャーシュー x Intense Garlic Parmesan Gravy: Devil's Flavorful Gravy",
+    "description_ja": "濃厚焦がしにんにく醤油と炙りチャーシューを合わせた、まるで悪魔の旨味を味わえるグラタン！とろけるチーズと香ばしいチャーシューの組み合わせが、あなたを魅了する。",
+    "description_en": "Devilish flavor in a gravy form! This unique and delicious recipe combines the smoky, savory flavor of grilled chashu and intense garlic parmesan gravy.  A melt-in-your-mouth cheesy combination you won't be able to resist.",
+    "occasion_ja": "パーティーや特別な日に。",
+    "occasion_en": "For parties or special occasions",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "2切れ"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを1切れを軽く切ります。",
+      "2. 濃厚焦がしにんにく醤油とグラタンソースを混ぜ合わせ、グラタンソースの量を適宜調整します。",
+      "3. 溶かしたチーズを器に入れます。",
+      "4.  グラタンソースを器に注ぎ、チーズを乗せ、炙りチャーシューを器に盛り付け、チーズの melted で完成。"
+    ],
+    "prompt": "Close-up shot of the cheesy, creamy, and beautifully browned dish, with a fiery reddish-gold sauce that blends into the cheese and a perfect smoky flavor that is both sweet and savory.",
+    "filename": "recipe_1788870745.jpg",
+    "date": "2026-09-08 12:33:44",
+    "timestamp": 1788870745,
+    "likes": 0,
+    "views": 283
+  },
+  {
     "id": "recipe_1788853379",
     "category": "side",
     "category_ja": "サイド",
