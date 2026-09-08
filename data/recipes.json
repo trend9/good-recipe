@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788896890",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の海藻グラタン：クリーミーなアボカドと海藻の意外性と美味しさ",
+    "title_en": "Creamy Avocado & Seaweed Gratin: The Unexpected Deliciousness",
+    "description_ja": "海藻とクリーミーアボカドが織りなす、意外性と美味しさのグラタン。表面はカリッカリ、中はクリーミーなアボカドと海の鮮やかな風味を味わえる、悪魔的な味わいに仕上げます。",
+    "description_en": "A creamy avocado and seaweed gratin featuring the unexpected deliciousness of seaweed and avocado. The exterior will be crispy, and the inside is creamy with avocado and a fresh sea taste. It is a devilishly delicious dish!",
+    "occasion_ja": "パーティーにぴったりな、特別な一品",
+    "occasion_en": "Perfect for parties, a special treat",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "海藻",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "アボカドは薄切りにして、軽く塩コショウで味付けします。",
+      "海藻は水洗いして、軽く乾燥させます。",
+      "アボカドと海藻を、ボウルに混ぜます。",
+      "牛乳、生クリーム、チーズと小麦粉を混ぜ合わせ、グラタンの材料に溶かします。"
+    ],
+    "prompt": "Close-up image of a creamy avocado and seaweed gratin with a beautiful golden crust, steaming with steam, surrounded by a light, smoky atmosphere",
+    "filename": "recipe_1788896890.jpg",
+    "date": "2026-09-08 19:49:52",
+    "timestamp": 1788896890,
+    "likes": 0,
+    "views": 234
+  },
+  {
     "id": "recipe_1788886877",
     "category": "dessert",
     "category_ja": "デザート",
