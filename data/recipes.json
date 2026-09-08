@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1788834847",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛香ばしさ！ × マヨネーズグラタン",
+    "title_en": "炙りチャーシュー ×  Concentrated Garlic Butter Gravy",
+    "description_ja": "悪魔的な甘辛香ばしさ！炙りチャーシューと濃厚焦がしにんにく醤油を、クリーミーなグラタンで包み込む！まるで悪魔が作った、超美味のグラタン！",
+    "description_en": "A devilishly delicious combination of smoky, spicy, and savory flavors!  A creamy gravy based on the strong garlic flavor of rich, concentrated garlic butter, envelops the deliciousness of a roasted, smoky-flavored, and juicy charbroiled pork.",
+    "occasion_ja": "特別な夜に、みんなでワイワイ食べるのがおすすめ！",
+    "occasion_en": "Perfect for a special occasion dinner, and a great way to gather everyone for fun. ",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "こしょう",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューは、厚さ1cm程度にカット。",
+      "2. 濃厚焦がしにんにく醤油とマヨネーズを加え、混ぜる。",
+      "3.  牛乳と生クリームを加え、混ぜる。塩とこしょうで味を調える。",
+      "4.  熱した鍋でグラタンを焼き、完成"
+    ],
+    "prompt": "Close-up shot of a creamy, savory, and smoky-looking gravy with chunks of charbroiled pork. A small portion of the gravy is placed on a bed of white rice.",
+    "filename": "recipe_1788834847.jpg",
+    "date": "2026-09-08 02:35:54",
+    "timestamp": 1788834847,
+    "likes": 0,
+    "views": 470
+  },
+  {
     "id": "recipe_1788823386",
     "category": "side",
     "category_ja": "サイド",
