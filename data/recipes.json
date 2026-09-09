@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788989423",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろとろ卵と旨辛麻婆豆腐丼：悪魔の甘辛丼！",
+    "title_en": "Fluffy Egg & Spicy Tofu Bowl: Devilish Sweet & Spicy Bowl!",
+    "description_ja": "とろとろ卵と旨辛麻婆豆腐が一体となった、意外な組み合わせの悪魔的美味しさ！食欲をそそる甘辛の香ばしい丼が、あなたを魅了する。",
+    "description_en": "A devilishly delicious fusion of fluffy eggs and spicy tofu, a unique and addictive twist on the classic bowl! This savory and aromatic bowl will captivate your taste buds.",
+    "occasion_ja": "食欲旺盛な方におすすめ！",
+    "occasion_en": "Perfect for those who have a strong appetite!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "白米",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 卵を溶きほぐし、ごま油を加え、混ぜる。",
+      "2. 麻婆豆腐をご飯の上に載せる。",
+      "3. 醤油を混ぜ合わせ、卵をご飯全体に広げる。",
+      "4. 召し上がれ！"
+    ],
+    "prompt": "Fluffy egg bowl filled with spicy tofu and white rice. A close-up shot of the bowl showing the contrasting textures.",
+    "filename": "recipe_1788989423.jpg",
+    "date": "2026-09-09 21:32:10",
+    "timestamp": 1788989423,
+    "likes": 0,
+    "views": 373
+  },
+  {
     "id": "recipe_1788978231",
     "category": "グラタン",
     "category_ja": "グラタン",
