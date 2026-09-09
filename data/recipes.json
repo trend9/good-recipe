@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1788950254",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のポテトチーズグラタン：サクサクポテトにクリーミーチーズソースの魔法！",
+    "title_en": "Gourmet Potato Cheese Gratin: A Magical Fusion of Crunchy Potatoes and Creamy Cheese Sauce!",
+    "description_ja": "サクサクポテトのカリカリ食感とクリーミーチーズソースの濃厚な味わいが、悪魔の美味しさに昇格！チーズソースをたっぷり絡めながら、食欲をそそる一品に仕上げます。",
+    "description_en": "A gourmet take on potato gratin!  A combination of crispy potato and creamy cheese sauce creates an unforgettable flavor experience.  A must-try for cheese and potato lovers.",
+    "occasion_ja": "パーティーやディナー、特別な日にもぴったりな一品",
+    "occasion_en": "Perfect for parties, dinners, or special occasions.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "溶かしバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを1cm角に切り、150℃のオーブンで10分焼きます。",
+      "溶かしバターと塩、こしょうで、じゃがいもを軽く炒めます。",
+      "溶かしバターのフライパンに卵を溶き、牛乳を少し加えます。",
+      "チーズと卵を混ぜ、じゃがいもを盛り付け、オーブンで15分焼きます。"
+    ],
+    "prompt": "Close-up shot of a golden-brown gratin with a cheesy, creamy sauce on a table with a golden background.",
+    "filename": "recipe_1788950254.jpg",
+    "date": "2026-09-09 10:39:56",
+    "timestamp": 1788950254,
+    "likes": 0,
+    "views": 437
+  },
+  {
     "id": "recipe_1788932804",
     "category": "side",
     "category_ja": "サイド",
