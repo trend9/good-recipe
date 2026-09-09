@@ -1,5 +1,59 @@
 [
   {
+    "id": "recipe_1788997635",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のハニーマヨ唐揚げグラタン",
+    "title_en": "Devilish Honey Mayo Chicken & Potato Gravy",
+    "description_ja": "とろける唐揚げと甘辛なハニーマヨネーズが、クリーミーなグラタンに融合！ 意外な組み合わせが、悪魔的美味しさ！",
+    "description_en": "A devilish fusion of crispy chicken and honey mayo in a creamy gravy!  This unexpected combination delivers a devilishly delicious experience.",
+    "occasion_ja": "パーティー、ランチ、ディナーなど、どんなシーンでも",
+    "occasion_en": "Suitable for any occasion, from parties to lunches and dinners.",
+    "ingredients": [
+      {
+        "name": "鶏むね肉",
+        "amount": "1個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ハニー",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "鶏むね肉を小麦粉とハニー、マヨネーズで味付けして、一口大に切る。",
+      "じゃがいもを一口大に切る。",
+      "フライパンにバターを溶かし、じゃがいもを炒める。",
+      "鶏むね肉をフライパンに入れ、軽く炒める。",
+      "牛乳を加え、グラタンを煮込む。"
+    ],
+    "prompt": "A close-up image of a creamy gravy with crispy chicken and potato pieces, in a ceramic dish, with a smoky, rustic background. The image should showcase the deliciousness of the dish.",
+    "filename": "recipe_1788997635.jpg",
+    "date": "2026-09-09 23:49:02",
+    "timestamp": 1788997635,
+    "likes": 0,
+    "views": 281
+  },
+  {
     "id": "recipe_1788989423",
     "category": "丼もの",
     "category_ja": "丼もの",
