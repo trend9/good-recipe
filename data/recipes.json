@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788978231",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘辛グラタン",
+    "title_en": "Melting Cheese & Ttang Kalbi: Spicy Sweet Graalatin",
+    "description_ja": "濃厚なタッカルビチンの旨味ととろけるチーズの甘酸っぱさを、甘辛のタレで包み込む、まるで悪魔が作ったような特別なグラタン。",
+    "description_en": "A spicy and sweet graalatin that combines the savory taste of Ttang Kalbi with melt-in-your-mouth cheese. It is a unique and delicious dish that feels like something a devil would create.",
+    "occasion_ja": "パーティーや特別な日にもぴったりな悪魔のグラタン。",
+    "occasion_en": "Perfect for parties or special occasions, this devilish graalatin will surely impress.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "1kg"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "甘辛タレ",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンは、甘辛タレで味付けし、焼き色がつくまで焼く。",
+      "チーズを100gほど、フライパンに敷き、弱火で溶かしながら、チーズが溶け始めるまで焼く。",
+      "焼き上がったタッカルビチキンとチーズを、ご飯やパンの上に盛り付ける。",
+      "醤油、みりん、砂糖を混ぜ合わせ、お好みで味を調える。このタレを全体に塗る。"
+    ],
+    "prompt": "Close up shot of Ttang Kalbi Chicken with melted cheese, glowing with the rich, spicy aroma in an anime style illustration.",
+    "filename": "recipe_1788978231.jpg",
+    "date": "2026-09-09 18:26:21",
+    "timestamp": 1788978231,
+    "likes": 0,
+    "views": 275
+  },
+  {
     "id": "recipe_1788966117",
     "category": "side",
     "category_ja": "サイド",
