@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788932804",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛カリッカリグラタン",
+    "title_en": "Ultimate Thick Cutlet & Honey Mustard: Devilishly Delicious Spicy & Tangy Grainy Chicken",
+    "description_ja": "極厚カツに、特製ハニーマスタードの甘辛ソースを絡めて焼き上げる、カリッカリとした食感と、悪魔的な旨味と甘みが融合したグラタン！",
+    "description_en": "A devilishly delicious spicy and tangy chicken gravy with a crispy, crunchy texture, and the devilish sweetness and umami from the thick cutlet and the unique honey mustard sauce.",
+    "occasion_ja": "パーティーやBBQに、ビールが進む一品",
+    "occasion_en": "Party or BBQ! It will be the best side dish to pair with beer!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "水",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "適量"
+      },
+      {
+        "name": "油",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを小麦粉と水で薄く伸ばし、卵でコーティング。",
+      "フライパンで油を熱し、極厚カツを両面こんがりと焼きます。",
+      "特製ハニーマスタードを混ぜ合わせたソースを、焼いた極厚カツに塗ります。",
+      "仕上げに、カリッカリとした食感を楽しめるように、お好みでハニーマスタードソースを散りばめれば完成。"
+    ],
+    "prompt": "A close-up image of a piece of thick cutlet with honey mustard sauce drizzled on top. Crispy and golden brown.",
+    "filename": "recipe_1788932804.jpg",
+    "date": "2026-09-09 05:49:09",
+    "timestamp": 1788932804,
+    "likes": 0,
+    "views": 434
+  },
+  {
     "id": "recipe_1788915617",
     "category": "dessert",
     "category_ja": "デザート",
