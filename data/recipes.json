@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1788915617",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブラウニー：悪魔の甘美なグラタン",
+    "title_en": "Banana Caramel Brownie: Devilishly Sweet and Rich Grainy Delight",
+    "description_ja": "まるで魔法の力を宿した、甘美なバナナキャラメルブラウニーを、カリッとした食感とクリーミーなソースで完成させた悪魔的美味しさ！",
+    "description_en": "A devilishly delightful grainy dessert with a rich caramelized banana base and a surprise touch of creamy, melt-in-your-mouth goodness.",
+    "occasion_ja": "特別な夜や、特別な日のデザートに！",
+    "occasion_en": "Perfect for a special occasion or to end a meal with a devilishly sweet surprise!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "ココア",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "1. 溶かしたバターとココアを混ぜ合わせ、バナナを混ぜる。",
+      "2. 混ぜ合わせた生地を、オーブンを予熱した（180°C）の皿に流し入れる。",
+      "3. キャラメルを生地に塗る。",
+      "4. 1時間焼けば、完成！悪魔的美味しさのブラウニーが完成。"
+    ],
+    "prompt": "Close-up shot of a rich and decadent caramel brownie with a gooey center, a beautiful contrast of dark brown and caramel swirls, and a hint of steam rising from the surface.",
+    "filename": "recipe_1788915617.jpg",
+    "date": "2026-09-09 01:02:03",
+    "timestamp": 1788915617,
+    "likes": 0,
+    "views": 313
+  },
+  {
     "id": "recipe_1788905882",
     "category": "グラタン",
     "category_ja": "グラタン",
