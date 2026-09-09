@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1788966117",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のサーモンアボカドグラタン：カリカリとクリーミーの奇跡",
+    "title_en": "Devilish Salmon Avocado Gratin: A Crunchy and Creamy Miracle",
+    "description_ja": "サクサク食感のサーモンとクリーミーなアボカドが、濃厚なソースで包まれ、一口食べたら幸せになれる悪魔的グラタン！",
+    "description_en": "A devilishly delicious gratin featuring crispy salmon and creamy avocado, enveloped in a rich sauce for a mouth-watering explosion of flavor! ",
+    "occasion_ja": "パーティー、デート、特別な日の夜食に最適な一品",
+    "occasion_en": "Perfect for parties, dates, or a special night's dinner",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "パン粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "1. サーモンは薄切りにし、塩胡椒で味付け。",
+      "2. アボカドは皮を剥き、水気を切って、マヨネーズと醤油で和える。",
+      "3. パン粉をまぶして、サーモンにアボカドの和え物を入れて、両面にパン粉をまぶす。",
+      "4. 4等分にした皿に、それぞれの皿にグラタンの具材を盛り付ける。 "
+    ],
+    "prompt": "Close-up shot of a sizzling salmon and avocado gratin, with a steam coming out of the dish, dark background",
+    "filename": "recipe_1788966117.jpg",
+    "date": "2026-09-09 15:03:31",
+    "timestamp": 1788966117,
+    "likes": 0,
+    "views": 179
+  },
+  {
     "id": "recipe_1788950254",
     "category": "side",
     "category_ja": "サイド",
