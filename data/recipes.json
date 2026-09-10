@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1789026503",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のサーモン・アボカド・チーズ・トースト：甘辛でクリーミーなカリカリの奇跡",
+    "title_en": "Devilishly Delicious Smoked Salmon, Avocado, & Cheese Toast: A Sweet & Creamy Crunchy Miracle",
+    "description_ja": "甘辛でクリーミーなカリカリの衝撃！サーモン、アボカド、チーズをトーストに。悪魔的美味しさ満載の驚きのレシピ！",
+    "description_en": "A devilishly delicious crunchy explosion of sweet & creamy! Smoked salmon, avocado, and cheese toasted together, offering a taste of unexpected delight! ",
+    "occasion_ja": "パーティーや、特別な日の食事にぴったり",
+    "occasion_en": "Perfect for parties and special occasions",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "1切れ"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1/2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "トースト",
+        "amount": "適量"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "甘辛ソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンは、トーストに合わせて、小さく切ります。",
+      "アボカドは、薄切りにします。",
+      "チーズは、スライスします。",
+      "マヨネーズと甘辛ソースを混ぜて、サーモンとアボカド、チーズをトーストに塗ります。",
+      "トーストを焼きます。"
+    ],
+    "prompt": "A close-up shot of a toast with smoked salmon, avocado, and cheese. There is some sauce on the side, with a smoky, salty, and fresh vibe.",
+    "filename": "recipe_1789026503.jpg",
+    "date": "2026-09-10 07:50:03",
+    "timestamp": 1789026503,
+    "likes": 0,
+    "views": 227
+  },
+  {
     "id": "recipe_1789007913",
     "category": "dessert",
     "category_ja": "デザート",
