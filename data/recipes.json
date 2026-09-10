@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1789043934",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔のエビマヨグラタン：甘辛カリッカリの衝撃！",
+    "title_en": "Devilish Shrimp Mayo Gratin: Sweet & Spicy Crunchy Shock!",
+    "description_ja": "クリーミーなエビマヨグラタンに、カリッカリの食感と甘辛い味付けで、悪魔的な美味しさの極上アレンジレシピ！",
+    "description_en": "A devilishly delicious twist on creamy shrimp mayo gratin with a crunchy, sweet & spicy twist! ",
+    "occasion_ja": "パーティーや日常の夕食にぴったり！",
+    "occasion_en": "Perfect for parties and everyday dinner!",
+    "ingredients": [
+      {
+        "name": "エビ",
+        "amount": "200g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. パプリカを1/4に切る。",
+      "2. エビをマヨネーズと牛乳で混ぜる。",
+      "3. パプリカとエビの混合物を、チーズと牛乳で混ぜ合わせる。",
+      "4. グラタン皿にエビマヨソースを盛り付け、チーズをのせる。",
+      "5. 170℃に予熱したオーブンで15分焼く。",
+      "6. 焼きあがったら、チーズが溶けて、カリッカリしたエビマヨグラタンが完成！"
+    ],
+    "prompt": "Close-up shot of a creamy shrimp mayo gratin with a golden-brown crust and a bubbly cheese top, in the style of a Japanese anime.",
+    "filename": "recipe_1789043934.jpg",
+    "date": "2026-09-10 12:40:16",
+    "timestamp": 1789043934,
+    "likes": 0,
+    "views": 440
+  },
+  {
     "id": "recipe_1789026503",
     "category": "side",
     "category_ja": "サイド",
