@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789078368",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろとろ卵 × 旨辛麻婆豆腐丼：悪魔の甘辛丼！ (とろける卵と麻婆豆腐の衝撃！丼!)",
+    "title_en": "Tofu-topped Spicy Kung Pao Chicken Bowl (Spicy Kung Pao Chicken and Creamy Tofu Bowl!)",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の意外性あふれるハーモニー！悪魔的美味しさの究極丼が、ここに誕生！",
+    "description_en": "An unexpected harmony of creamy tofu and spicy Kung Pao Chicken! This ultimate bowl is the result of our forbidden fusion of flavors!",
+    "occasion_ja": "食欲の秋、晩酌にぴったり！",
+    "occasion_en": "Perfect for a fall night or a after-dinner treat!",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "麻婆豆腐",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "白米",
+        "amount": "1合"
+      },
+      {
+        "name": "鶏肉",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "豆腐を1cm角に切り、10分程度水切り。",
+      "麻婆豆腐を10分程度煮込み、溶き卵を混ぜる。",
+      "白米を炊く。",
+      "豆腐をご飯の上に盛り付け、麻婆豆腐を乗せる。溶き卵を添える。"
+    ],
+    "prompt": "A close-up shot of a bowl of creamy rice topped with a rich and savory tofu and spicy Kung Pao Chicken mixture. The creamy tofu and spicy Kung Pao Chicken are in harmony, and the egg is carefully placed on top. The colors and textures are vibrant and inviting.",
+    "filename": "recipe_1789078368.jpg",
+    "date": "2026-09-10 22:14:47",
+    "timestamp": 1789078368,
+    "likes": 0,
+    "views": 272
+  },
+  {
     "id": "recipe_1789068515",
     "category": "dessert",
     "category_ja": "デザート",
