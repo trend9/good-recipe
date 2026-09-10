@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789059181",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔のサーモン・アボカド・チーズ・マッシュルーム・グラタン",
+    "title_en": "Devil's Salmon Avocado Mushroom Gratin",
+    "description_ja": "クリーミーでカリッカリなマッシュルームと、濃厚なサーモンとアボカドが、チーズで包まれた極上のグラタン。まるで悪魔が作ったかのような、驚きの美味しさで、SNS映えもバズるレシピ！",
+    "description_en": "Creamy, crispy mushroom and salmon with creamy avocado, all wrapped in cheese. This devilish gratin is like something a devil would create, and will surely make you want to share it on social media! ",
+    "occasion_ja": "特別なディナーを演出するのに最適",
+    "occasion_en": "Perfect for a special dinner",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "1切れ"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "1. サーモンは1cm角に切る。アボカドは、スライスして、チーズは小さく切る。",
+      "2. フライパンにバターを入れ、サーモンとアボカドを炒める。",
+      "3. マッシュルームを炒める。",
+      "4. 卵を溶き、マッシュルームとチーズを加え、混ぜ合わせる。"
+    ],
+    "prompt": "A close-up shot of a creamy, cheesy, and delicious devil's gratin dish.",
+    "filename": "recipe_1789059181.jpg",
+    "date": "2026-09-10 16:56:02",
+    "timestamp": 1789059181,
+    "likes": 0,
+    "views": 336
+  },
+  {
     "id": "recipe_1789043934",
     "category": "side",
     "category_ja": "サイドディッシュ",
