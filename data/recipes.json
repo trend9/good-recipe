@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1789007913",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘酸っぱ糖質グラタン：きな粉もちもちアイス × 黒蜜の魔法",
+    "title_en": "Devil's Sweet and Sour Sugar Gradients: Kinoa-Crispy Ice Cream with Black Honey",
+    "description_ja": "黒蜜ときな粉の意外な組み合わせで、カリカリとしたもちもちアイスと、濃厚な黒蜜の甘酸っぱさ、そしてクリーミーな味わいが一体となった、悪魔的な美味しさ！",
+    "description_en": "A devilishly delicious twist on the classic ice cream.  Enjoy the magic of a crispy, melt-in-your-mouth ice cream with the surprising pairing of black honey and kinoa, and a rich, sweet and sour flavor!  ",
+    "occasion_ja": "特別な夜に、特別な人へ。",
+    "occasion_en": "Special occasion. ",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "きな粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒糖",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "もちもちアイスを砕き、ボウルに混ぜる。",
+      "黒蜜ときな粉を加え、混ぜる。",
+      "黒糖を加え、さらに混ぜる。",
+      "バターを加え、混ぜる。",
+      "盛り付け、そして食べよう！"
+    ],
+    "prompt": "Close-up shot of a devilishly sweet and sour ice cream in a dessert glass, with a small sprinkle of black sesame and a drizzle of black honey, and a slightly melted ice cream ball on top of it.",
+    "filename": "recipe_1789007913.jpg",
+    "date": "2026-09-10 02:39:55",
+    "timestamp": 1789007913,
+    "likes": 0,
+    "views": 410
+  },
+  {
     "id": "recipe_1788997635",
     "category": "side",
     "category_ja": "サイド",
