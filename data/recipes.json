@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789068515",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉アイスグラタン：悪魔の甘辛カリッカリ！",
+    "title_en": "Black Honey Kinako Ice Cream Gratin: An Devilishly Delicious Sweet & Savory Treat",
+    "description_ja": "黒蜜ときな粉の香ばしい味わいを、もちもちアイスと融合させ、悪魔的な甘辛カリッカリの世界を創造！",
+    "description_en": "A fusion of the rich flavors of black honey and kinako ice cream in a creamy gratin that explodes with a devilishly good sweet & savory kick!",
+    "occasion_ja": "特別な日に、大人も子供も楽しめる、驚きのデザート！",
+    "occasion_en": "A dessert perfect for any occasion that both adults and children will enjoy, a taste sensation!",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "1個"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "きな粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "グラタン皿",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "もちもちアイスを、黒蜜ときな粉で混ぜる。",
+      "牛乳を加え、グラタン皿に盛り付ける。",
+      "180℃に予熱したオーブンで15分焼く。",
+      "焼き上がり、黒蜜きな粉アイスグラタンは完成。"
+    ],
+    "prompt": "Close-up shot of a creamy, caramelized ice cream with a sprinkle of kinako powder on top, surrounded by the dark, viscous glaze of black honey, an image of an elegant dessert dish with smoke effect.",
+    "filename": "recipe_1789068515.jpg",
+    "date": "2026-09-10 19:30:15",
+    "timestamp": 1789068515,
+    "likes": 0,
+    "views": 314
+  },
+  {
     "id": "recipe_1789059181",
     "category": "dessert",
     "category_ja": "デザート",
