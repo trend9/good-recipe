@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789104823",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "焼き芋 × トロけるバターカラメル - アマゾン・悪魔のグラタン",
+    "title_en": "Roasted Sweet Potato x Melting Butter Caramel - Amazonian Devil's Gravy",
+    "description_ja": "まるで宇宙の果てまで続く闇の甘さに浸る、まるで魔物に憑りつくような、焼き芋とバターカラメルが織りなす究極のグラタンレシピ。",
+    "description_en": "A recipe that immerses you in the dark sweetness of the universe, like a demon's embrace, with roasted sweet potato and a melting butter caramel. A truly devilish gravy with a unique flavor.",
+    "occasion_ja": "特別な日、特別な人への贈り物、そして夜に楽しむための特別な一品",
+    "occasion_en": "A special gift for someone special, a special treat for the evening.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cm角に切り、ボウルに詰めます。",
+      "ボウルにバターと砂糖を混ぜ、火で弱火で溶かし、水を加え、グラタンソースを加えて混ぜます。",
+      "焼き芋をグラタンソースで包み、全体に塗り、オーブンで180℃で20分焼く。",
+      "焼き芋を皿に盛り、お好みで黒蜜を添えてください。"
+    ],
+    "prompt": "Close-up photo of a warm, delicious, and decadent, chocolate-caramel coated sweet potato dish with an elegant, dark background",
+    "filename": "recipe_1789104823.jpg",
+    "date": "2026-09-11 05:35:26",
+    "timestamp": 1789104823,
+    "likes": 0,
+    "views": 305
+  },
+  {
     "id": "recipe_1789087659",
     "category": "side",
     "category_ja": "サイド",
