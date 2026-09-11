@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1789087659",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "海藻とクリーミーアボカドの悪魔的グラタン",
+    "title_en": "Seafood and Creamy Avocado Creamy Delight",
+    "description_ja": "海藻の旨味が凝縮！クリーミーなアボカドと、濃厚な味わいが融合した、まさに悪魔的！グラタンレシピ！",
+    "description_en": "A seafood and creamy avocado creamy delight. Fusion of seaweed's umami flavor with creamy avocado for an irresistible, devilish culinary experience!",
+    "occasion_ja": "特別なディナーに最適！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "もちもち海藻",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "もちもち海藻を水で洗う。",
+      "アボカドは皮をむき、種を取り除き、食感を出すために小さく切る。",
+      "生クリーム、マヨネーズ、醤油、砂糖を混ぜ合わせる。",
+      "海藻をボウルに入れて、アボカドのソースを絡める。",
+      "オーブンを180度に予熱する。",
+      "グラタンを型に入れて、180度に予熱したオーブンで10分焼く。",
+      "グラタンを焼き上がったら、お好みで刻んだパセリやコショウを振る。",
+      "お好みで、醤油を少し垂らすと、より悪魔的な味わいに。"
+    ],
+    "prompt": "A close-up shot of a devilish looking seafood and creamy avocado creamy delight in a baking dish, with a dark background.",
+    "filename": "recipe_1789087659.jpg",
+    "date": "2026-09-11 00:49:22",
+    "timestamp": 1789087659,
+    "likes": 0,
+    "views": 445
+  },
+  {
     "id": "recipe_1789078368",
     "category": "丼",
     "category_ja": "丼",
