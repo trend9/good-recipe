@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789150065",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "デミグラスハンバーグ × とろとろ半熟卵の、悪魔的甘辛チーズソースグラタン",
+    "title_en": "Devilish Sweet and Sour Cheese Sauce Gravitational Tom Yum",
+    "description_ja": "とろける半熟卵とデミグラスソースが、チーズソースで絡まる、悪魔的甘辛なグラタン。今までにない、衝撃的な美味しさに、あなたはきっと虜になるでしょう！",
+    "description_en": "A devilish sweet and sour cheese sauce gravy, with a creamy, semi-soft egg and a decadent, rich, cheesy sauce. You'll be captivated by this unexpected flavor explosion.",
+    "occasion_ja": "パーティーや特別な日におすすめ！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "デミグラスソース",
+        "amount": "100g"
+      },
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "ココナッツミルク",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼きます。",
+      "デミグラスソースとチーズを溶き混ぜます。",
+      "焼けたハンバーグと半熟卵を、チーズソースで包んで、ココナッツミルクを加えます。",
+      "グラタンをオーブンで焼きます。"
+    ],
+    "prompt": "A close-up shot of a cheesy, creamy and decadent devilish sweet and sour cheese sauce gravy, with a semi-soft egg and a juicy, cooked, cheesy burger on top. The background is dark and mysterious with a hint of smoke and flame, giving it a dramatic and enticing look.",
+    "filename": "recipe_1789150065.jpg",
+    "date": "2026-09-11 18:09:26",
+    "timestamp": 1789150065,
+    "likes": 0,
+    "views": 187
+  },
+  {
     "id": "recipe_1789138140",
     "category": "グラタン",
     "category_ja": "グラタン",
