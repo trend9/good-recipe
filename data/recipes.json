@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789162346",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔的甘辛のグラタン",
+    "title_en": "Extreme Crispy Cutlet Gravy with Honey Mustard",
+    "description_ja": "極厚カツの表面に、秘伝のハニーマスタードソースで絡めた悪魔的な甘辛な味わいが、とろけるチーズのクリーミーなグラタンに融合！一口食べれば、虜になる間違いなし！",
+    "description_en": "Fusion of crispy cutlet, with a special honey mustard sauce. Creamy, cheesy gravy elevates this dish to another level. A must-try for sure!",
+    "occasion_ja": "特別な日、お祝いの席にぴったり",
+    "occasion_en": "Perfect for special occasions",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "200g"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "極厚カツにハニーマスタードを塗る。",
+      "牛乳とバターを混ぜ、とろけるチーズを加えて溶かす。",
+      "溶けたチーズを加え、卵を混ぜる。",
+      "グラタン皿にチーズと卵の生地を敷き詰め、極厚カツを乗せる。"
+    ],
+    "prompt": "A close-up shot of a creamy cheese sauce with a crispy cutlet on top, with a warm and inviting orange glow. This image is inspired by the vibrant and exciting fusion of flavors.",
+    "filename": "recipe_1789162346.jpg",
+    "date": "2026-09-11 21:35:33",
+    "timestamp": 1789162346,
+    "likes": 0,
+    "views": 470
+  },
+  {
     "id": "recipe_1789150065",
     "category": "グラタン",
     "category_ja": "グラタン",
