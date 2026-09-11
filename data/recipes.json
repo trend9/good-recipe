@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789138140",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "とろけるチーズ×タッカルビチキン：悪魔のスパイシーチキングラタン",
+    "title_en": "Spicy Tandoori Chicken Cheese Melt: A Devilish Comfort Food",
+    "description_ja": "とろけるチーズとタッカルビチキンを組み合わせ、スパイシーな風味で悪魔的な美味しさ。濃厚なチーズとクリーミーなチキンが絶妙なハーモニーを奏でます。",
+    "description_en": "A devilishly delicious and comforting dish combining creamy chicken with a tangy twist of tandoori flavors, topped with melty, gooey cheese. A perfect blend of rich cheese and creamy chicken for an out of this world taste sensation.",
+    "occasion_ja": "パーティーや家族でのお楽しみ料理にぴったりです。",
+    "occasion_en": "Perfect for parties and family gatherings.",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "200g"
+      },
+      {
+        "name": "タッカルビソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "鶏肉をタッカルビソースで味付けし、フライパンで焼きます。",
+      "焼けた鶏肉をトレイに盛り付けます。",
+      "チーズをトレイに散らします。",
+      "オーブンで20分焼きます。チーズが溶けて、グラタンが完成します。"
+    ],
+    "prompt": "Close-up shot of the finished dish, with a cheese pull and melting effect, soft and fluffy texture",
+    "filename": "recipe_1789138140.jpg",
+    "date": "2026-09-11 14:51:28",
+    "timestamp": 1789138140,
+    "likes": 0,
+    "views": 248
+  },
+  {
     "id": "recipe_1789122426",
     "category": "side",
     "category_ja": "サイド",
