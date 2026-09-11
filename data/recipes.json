@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789170530",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔のチーズポテトグラタン！サクサクポテトがクリーミーチーズソースに溶け込む、衝撃の美味しさ！",
+    "title_en": "Cheesy Potato Gratin: A Crispy, Creamy Explosion in Your Mouth!",
+    "description_ja": "サクサクとしたポテトの食感とクリーミーなチーズソースが、まるで悪魔の舌を魅了する、究極のチーズグラタン！",
+    "description_en": "Experience a crispy, creamy explosion of potato gratin with a cheese sauce that will surely satisfy your senses! ",
+    "occasion_ja": "パーティーや家族で食べたい一品、ワインも合う！",
+    "occasion_en": "Perfect side dish for any gathering with family or friends! Pairs well with wine!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1kg"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "じゃがいもを1cm角に切り、180℃のオーブンで15分焼きます。",
+      "焼いたじゃがいもを電子レンジで1分加熱し、表面をカリッとさせる。",
+      "フライパンでバターを溶かし、チーズと牛乳を加え、溶けたチーズを混ぜながら加熱します。",
+      "焼いたポテトをチーズソースに混ぜ、塩コショウで味を調えます。"
+    ],
+    "prompt": "A close-up of the cheesy potato gratin dish. The cheese sauce is bubbly and has a warm, comforting glow.",
+    "filename": "recipe_1789170530.jpg",
+    "date": "2026-09-11 23:50:06",
+    "timestamp": 1789170530,
+    "likes": 0,
+    "views": 266
+  },
+  {
     "id": "recipe_1789162346",
     "category": "dessert",
     "category_ja": "デザート",
