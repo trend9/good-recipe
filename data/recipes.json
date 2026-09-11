@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789122426",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的ハンバーグの卵黄ソース！とろとろ半熟卵とデミグラスソースの衝撃！",
+    "title_en": "Demi-glace and Creamy Egg Yolk Sauce - A Shock of Decadent Delicacy!",
+    "description_ja": "とろとろ半熟卵と濃厚なデミグラスソースの組み合わせは、口に入れた瞬間、悪魔的な美味しさの爆発！ 意外な美味しさの邂逅が、あなたの人生を変えるかもしれない！",
+    "description_en": "A taste explosion of decadent demi-glace sauce and creamy egg yolk, this recipe delivers an unexpected culinary journey. Prepare to be captivated!",
+    "occasion_ja": "パーティー、特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "適量"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "塩胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼成し、デミグラスソースをかけてください。",
+      "卵を溶き、卵黄と卵白を別々に混ぜ、塩胡椒を振って、半熟状にします。",
+      "焼成したハンバーグの上に、半熟卵とデミグラスソースを添え、バターを少量加えて、とろける卵黄ソースが溶け出すまで待ちます。",
+      "一口食べたら、口いっぱいに濃厚なデミグラスソースととろとろ半熟卵の組み合わせが、あなたを魅了します。"
+    ],
+    "prompt": "A close-up image of a juicy demi-glace-sauce-topped hamburger with a runny yolk egg and a golden, melted butter topping, in a white plate with a dark background, evoking a sense of decadent luxury and a hint of dark, spicy mystery. ",
+    "filename": "recipe_1789122426.jpg",
+    "date": "2026-09-11 10:29:30",
+    "timestamp": 1789122426,
+    "likes": 0,
+    "views": 251
+  },
+  {
     "id": "recipe_1789104823",
     "category": "グラタン",
     "category_ja": "グラタン",
