@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789243373",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の揚げ衣グラタン × ハニーマヨネーズのスパイシー風グラタン",
+    "title_en": "Spicy Honey Mayo Fried Crust Gra Plan",
+    "description_ja": "サクサク揚げた衣がたまらない！悪魔的な甘辛さに、ハニーマヨネーズでさらにスパイシーなグラタンをご堪能ください。",
+    "description_en": "Get your hands on this crispy fried crust plan! A spicy and sweet twist on a classic, with a hint of honey-mayo for extra kick. ",
+    "occasion_ja": "パーティーや、お酒のおつまみにも最適！",
+    "occasion_en": "Perfect for parties or as an appetizer! ",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "パン粉",
+        "amount": "適量"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "唐揚げをパン粉で衣をつけ、揚げる",
+      "揚げた唐揚げにハニーマヨネーズを加え、味を調える",
+      "卵を溶き、グラタンソースを加えて混ぜる",
+      "揚げた衣にグラタンソースを塗り、皿に盛り付ける"
+    ],
+    "prompt": "Close-up shot of a golden fried crust with a spicy honey glaze, drizzled with a creamy sauce and a fried chicken topping",
+    "filename": "recipe_1789243373.jpg",
+    "date": "2026-09-12 20:04:28",
+    "timestamp": 1789243373,
+    "likes": 0,
+    "views": 413
+  },
+  {
     "id": "recipe_1789234761",
     "category": "side",
     "category_ja": "サイドメニュー",
