@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789251045",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のエビピラフ！ガーリックバターのクリーミーな風味",
+    "title_en": "Creamy Garlicky Shrimp Rice, A Devilish Treat!",
+    "description_ja": "ぷりぷりの海老と、クリーミーガーリックバターが絡み合う、悪魔的な美味しさのピラフ！見た目も味も、きっと忘れられない一品に。",
+    "description_en": "A devilishly delightful shrimp rice with creamy garlic butter! This dish is sure to tantalize your taste buds with its unique look and flavor.",
+    "occasion_ja": "パーティーや家族の夕食にぴったり!",
+    "occasion_en": "Perfect for parties and family dinners!",
+    "ingredients": [
+      {
+        "name": "ぷりぷり海老",
+        "amount": "100g"
+      },
+      {
+        "name": "ご飯",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1.  ご飯を炊く。",
+      "2.  エビは殻をむき、塩胡椒で味付けする。",
+      "3.  ガーリックバターと牛乳を混ぜ合わせて、エビを加え、10分ほど煮込む。",
+      "4.  ご飯を、エビとガーリックバターの汁で和える。マヨネーズを適量加え、混ぜ合わせる。"
+    ],
+    "prompt": "Close-up shot of the shrimp rice with a creamy garlicky sauce, showcasing the shrimp and the texture of the rice. The background is a wooden table with a modern, clean design.",
+    "filename": "recipe_1789251045.jpg",
+    "date": "2026-09-12 22:13:06",
+    "timestamp": 1789251045,
+    "likes": 0,
+    "views": 172
+  },
+  {
     "id": "recipe_1789243373",
     "category": "side",
     "category_ja": "サイド",
