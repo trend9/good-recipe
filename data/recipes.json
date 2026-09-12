@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1789234761",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "ガーリックバター＆ぷりぷり海老のピラフ風グラタン",
+    "title_en": "Garlic Butter & Shrimp Fried Rice Bowl Style Gratin",
+    "description_ja": "ガーリックバターとぷりぷりの海老がたっぷり入った、ピラフ風グラタン。意外な組み合わせが食欲をそそる、悪魔的美味しさ。",
+    "description_en": "A gratin with shrimps and garlic butter, inspired by fried rice. A surprising and delicious fusion of flavors.",
+    "occasion_ja": "パーティーや夜食に最適な一品",
+    "occasion_en": "Perfect for parties and light dinners.",
+    "ingredients": [
+      {
+        "name": "冷凍エビ",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ご飯",
+        "amount": "2合"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "ケチャップ",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "エビを10分程度水洗いし、乾燥させる。",
+      "鍋にバターとガーリックバターを溶かし、エビを加えて炒め、塩コショウで味付けする。",
+      "ご飯を牛乳とケチャップで混ぜ、鍋に投入。",
+      "弱火で15分加熱する。",
+      "グラタン皿にご飯とエビを盛り、チーズを乗せる。"
+    ],
+    "prompt": "A close-up shot of a creamy gratin topped with melted cheese. A mix of garlic butter, shrimp and rice, with a sprinkle of cheese.",
+    "filename": "recipe_1789234761.jpg",
+    "date": "2026-09-12 17:41:04",
+    "timestamp": 1789234761,
+    "likes": 0,
+    "views": 433
+  },
+  {
     "id": "recipe_1789224662",
     "category": "グラタン",
     "category_ja": "グラタン",
