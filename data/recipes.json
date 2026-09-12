@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789180783",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "トマト・モッツァレラ・チーズの悪魔的グラタン",
+    "title_en": "Devilish Tomato and Mozzarella Cheese Creamy Gratin",
+    "description_ja": "完熟トマトの甘みと、フレッシュモッツァレラのクリーミーさが、チーズの酸味と絡み合い、悪魔的な美味しさに。",
+    "description_en": "A devilishly delicious creamy gratin combining the sweetness of ripe tomatoes and the freshness of fresh mozzarella, with cheese's acidity adding a layer of complexity. ",
+    "occasion_ja": "パーティーやディナーにもぴったり！",
+    "occasion_en": "Perfect for parties and dinners!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "Cream Cheese",
+        "amount": "100g"
+      },
+      {
+        "name": "グラーナパウダー",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. トマトは皮を剥き、大きめの角切りにする。",
+      "2. モッツァレラチーズは、小さめに切る。",
+      "3. ボウルに、クリームチーズ、グラーナパウダー、バター、塩コショウを加え、よく混ぜる。",
+      "4. トマトをボウルに入れ、混ぜ合わせたチーズソースを全体に塗り広げる。180℃で20分焼く"
+    ],
+    "prompt": "Close up shot of devilish gratin dish, cheesy and creamy, with fresh tomato and mozzarella slices. (English description)",
+    "filename": "recipe_1789180783.jpg",
+    "date": "2026-09-12 02:41:23",
+    "timestamp": 1789180783,
+    "likes": 0,
+    "views": 272
+  },
+  {
     "id": "recipe_1789170530",
     "category": "side",
     "category_ja": "サイドディッシュ",
