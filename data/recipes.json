@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789330182",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの悪魔的グラタン",
+    "title_en": "Charcoal Banana Caramel Brulee Baked Gratin",
+    "description_ja": "完熟バナナの甘さとキャラメルブリュレの香ばしさで、想像を超えた美味しさに!  濃厚なチーズと絡み合う、まるで悪魔の魔法のグラタンを味わえる！",
+    "description_en": "A charcoal banana caramel brulee baked gratin, combining the sweetness of ripe bananas and the unique flavour of caramel brulee, that will exceed your expectations.  This rich cheese combination will add a touch of magic! ",
+    "occasion_ja": "特別な夜、特別な人への贈り物に",
+    "occasion_en": "A special occasion gift for a special person.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚なチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  完熟バナナを薄くスライスして、バターと牛乳で炒める。",
+      "2.  キャラメルブリュレとチーズを混ぜ合わせ、グラタンの生地を作り、バナナの生地を乗せる。",
+      "3.  オーブンで15分焼けば、完成！",
+      "4.  表面を焦げ付かせたキャラメルで飾る"
+    ],
+    "prompt": "A close-up image of a charcoal banana caramel brulee baked gratin, showcasing the caramelized banana, the crispy texture of the cheese topping, and a decadent glaze.",
+    "filename": "recipe_1789330182.jpg",
+    "date": "2026-09-13 20:10:57",
+    "timestamp": 1789330182,
+    "likes": 0,
+    "views": 177
+  },
+  {
     "id": "recipe_1789322001",
     "category": "dessert/main",
     "category_ja": "デザート/メイン",
