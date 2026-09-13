@@ -1,5 +1,62 @@
 [
   {
+    "id": "recipe_1789277810",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サーモン × アボカドの悪魔的チーズタルタルグラタン",
+    "title_en": "Smoked Salmon & Avocado Devilish Cheese Tart",
+    "description_ja": "濃厚なアボカドと、淡麗なサーモンが、クリーミーチーズで包まれたグラタンは、悪魔的な美味しさ！ 意外な組み合わせが、本当に美味しい一品！",
+    "description_en": "Creamy cheese-filled tart with smoked salmon and avocado - a devilishly delicious twist on a classic! ",
+    "occasion_ja": "特別な日に、友達とシェアするならピッタリ！",
+    "occasion_en": "Perfect for a special occasion, sharing with friends! ",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "5g"
+      },
+      {
+        "name": "パン粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンを細切りにして、塩こしょうで味付けする。",
+      "アボカドは、皮をむき、縦に切って、1cmくらいの大きさになるようにカットする。",
+      "卵は泡立て、ボウルに混ぜる。",
+      "パン粉を混ぜ合わせ、バターを溶かし、全体に混ぜる。",
+      "器にバターを塗り、生地を敷き詰める。",
+      "アボカドとサーモンを器に配置し、生地を押し込む。",
+      "生地を密着させる。",
+      "チーズを生地の表面に塗る。",
+      "卵を器の上に流し込む。",
+      "オーブンを180℃に予熱する。",
+      "15分焼成後、チーズが溶け、卵が固まるまで加熱する。",
+      "火を止めて、10分間放置して冷まして完成。"
+    ],
+    "prompt": "A close-up of a beautiful devilish cheese tart with a smoky and creamy texture. Use a soft focus background and a warm lighting. ",
+    "filename": "recipe_1789277810.jpg",
+    "date": "2026-09-13 05:38:37",
+    "timestamp": 1789277810,
+    "likes": 0,
+    "views": 343
+  },
+  {
     "id": "recipe_1789259675",
     "category": "side",
     "category_ja": "サイド",
