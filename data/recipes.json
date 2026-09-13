@@ -1,5 +1,48 @@
 [
   {
+    "id": "recipe_1789310886",
+    "category": "side/bread/rice",
+    "category_ja": "サイド/パン/ご飯",
+    "title_ja": "とろけるチーズ × タッカルビチキン: 悪魔的スパイシーグラタン",
+    "title_en": "Tantalizing Spicy Grilled Chicken & Cheese:  Devilishly Delicious Gravy",
+    "description_ja": "とろけるチーズとタッカルビチキン、スパイシーな味わい！家庭で簡単に作れる、悪魔的な美味しさのグラタンレシピです。",
+    "description_en": "Creamy cheese and tantalizingly spicy grilled chicken, all in one devilishly delicious gravy! A simple recipe that's perfect for anyone.",
+    "occasion_ja": "パーティーや、特別な日にぴったり",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "1kg"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキン: 1kgのタッカルビチキンを、塩コショウで味付けします。\n    2. グラタン: 150gのとろけるチーズを、マヨネーズとバターで混ぜ合わせます。\n    3. タッカルビチキン: 鶏肉に、マヨネーズとバターを塗って、オーブンで焼きます。\n    4. グラタン: タッカルビチキンとチーズのグラタンを、オーブンで焼きます。",
+      "5. 完成!"
+    ],
+    "prompt": "A close-up shot of a creamy and decadent cheesy grainy texture with a tantalizingly spicy grilled chicken. It's a cheesy and spicy goodness that melts in your mouth.",
+    "filename": "recipe_1789310886.jpg",
+    "date": "2026-09-13 14:49:53",
+    "timestamp": 1789310886,
+    "likes": 0,
+    "views": 426
+  },
+  {
     "id": "recipe_1789297042",
     "category": "snack",
     "category_ja": "軽食",
