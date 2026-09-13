@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789259675",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油の悪魔的グラタン",
+    "title_en": "Grilled Ramen with Spicy Garlic Pepper Cream Cheese",
+    "description_ja": "悪魔的甘辛なグラタンに、炙りチャーシューと濃厚焦がしにんにく醤油がマッチ！まるで、地獄のラーメンを味わえる一品！",
+    "description_en": "Experience a devilishly delicious ramen with a creamy garlic and pepper sauce and a savory, roasted pork topping.  A combination of textures and flavor makes it a truly unique dish.",
+    "occasion_ja": "パーティーや晩酌に最適な一品",
+    "occasion_en": "Perfect for parties and after-dinner drinks",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "Cream Cheese",
+        "amount": "200g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを軽く焼きます。",
+      "2. 濃厚焦がしにんにく醤油とCream Cheeseを混ぜます。",
+      "3. パプリカと卵を小さく切ります。",
+      "4. グラタン皿に、パプリカと卵を敷き、焼いたチャーシューとCream Cheeseのソースを乗せて焼きます。"
+    ],
+    "prompt": "Close-up shot of a creamy, garlicky cheese sauce with a grilled ramen topping, a hint of paprika, and a semi-cooked egg on a ceramic dish. Dramatic lighting and a slightly smokey effect.",
+    "filename": "recipe_1789259675.jpg",
+    "date": "2026-09-13 00:36:16",
+    "timestamp": 1789259675,
+    "likes": 0,
+    "views": 370
+  },
+  {
     "id": "recipe_1789251045",
     "category": "side",
     "category_ja": "サイド",
