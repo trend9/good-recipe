@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789297042",
+    "category": "snack",
+    "category_ja": "軽食",
+    "title_ja": "サーモン×アボカドの悪魔的スパイシーチーズ巻き",
+    "title_en": "Spicy Salmon & Avocado Cream Cheese Roll",
+    "description_ja": "サクサク食感のチーズ巻きに、濃厚なサーモンとアボカドのスパイシーな味わいが融合！悪魔的美味しさ爆発！",
+    "description_en": "A spicy, flaky, cheesy roll filled with salmon and avocado for a flavorful and irresistible twist. ",
+    "occasion_ja": "パーティー、飲み会、ランチ時にもぴったり！",
+    "occasion_en": "Perfect for parties, get-togethers, or even a quick lunch! ",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "溶かしバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンを細かく刻む",
+      "アボカドは皮を剥き、皮の薄っ切りの種を取り除き、みじん切りにする",
+      "クリームチーズと薄力粉を混ぜ合わせて、溶かしバターを加え、粘り気を出す",
+      "サーモンとアボカドの混合物を、クリームチーズで包んで巻き、オーブンで10分焼く"
+    ],
+    "prompt": "A close-up shot of a rolled-up salmon and avocado cream cheese on a plate, with golden-brown crust and steam rising from it. ",
+    "filename": "recipe_1789297042.jpg",
+    "date": "2026-09-13 11:00:23",
+    "timestamp": 1789297042,
+    "likes": 0,
+    "views": 195
+  },
+  {
     "id": "recipe_1789277810",
     "category": "dessert",
     "category_ja": "デザート",
