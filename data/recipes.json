@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789385501",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "完熟トマト × モッツァレラ：悪魔的トマトのチーズケーキ風！",
+    "title_en": "Tomato & Mozzarella: Devilish Cheese Cake-Style!",
+    "description_ja": "悪魔の美味しさに包まれる、完熟トマトとモッツァレラを使ったチーズケーキ風レシピ！  意外な組み合わせで、とろけるチーズとトマトの甘酸っぱさが絶妙な味わいに！",
+    "description_en": "A devilishly delicious recipe featuring a combination of ripe tomatoes and mozzarella cheese, served in a cheesecake-like form! An unexpected pairing delivers a perfect balance of creamy and tangy flavors. ",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ベーキングパウダー",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. トマトを薄切りにし、ボウルに敷き詰めます。",
+      "2. モッツァレラチーズは、ボウルに敷き詰めます。",
+      "3. 生クリーム、砂糖、ベーキングパウダーを加え、混ぜます。",
+      "4. 上記の材料を混ぜた後、トマトとチーズを盛り付けます。"
+    ],
+    "prompt": "A close-up shot of a cheesecake-like dish with a vibrant red tomato and mozzarella cheese topping, showcasing a beautifully sculpted texture, and a sprinkle of fresh herbs.",
+    "filename": "recipe_1789385501.jpg",
+    "date": "2026-09-14 11:32:56",
+    "timestamp": 1789385501,
+    "likes": 0,
+    "views": 173
+  },
+  {
     "id": "recipe_1789364450",
     "category": "side",
     "category_ja": "サイド",
