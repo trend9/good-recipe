@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789346269",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的ハンバーグ＆とろとろ卵のデミグラスグラタン風！",
+    "title_en": "Devilishly Delicious Hamburger & Egg & Demi-Glace Gravy",
+    "description_ja": "とろろ半熟卵の贅沢な味わいに、デミグラスソースと相性抜群のハンバーグが、意外性あふれる美味しさでこのレシピを完成させます。見た目もインパクト抜群のグラタン風レシピです！",
+    "description_en": "The decadent egg yolk, a perfect match with the demi-glace sauce, and the hamburger, creating an unexpected, yet delicious, flavor. This is a recipe with an impressive, unique look and feel of a gratin! ",
+    "occasion_ja": "パーティーや特別な日に、インパクトのある一品を演出したい時に",
+    "occasion_en": "For a party or special occasion, to create a unique dish",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "2個"
+      },
+      {
+        "name": "とろろ卵",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグを焼きます。",
+      "2. 半熟卵を焼きます。",
+      "3. ハンバーグと卵をデミグラスソースと生クリームで和えます。",
+      "4. 焼き上げたハンバーグと卵を小麦粉をまぶして、グラタン風で仕上げます。"
+    ],
+    "prompt": "A photo of a savory, browned hamburger and egg with a rich demi-glace gravy, surrounded by a creamy, fluffy egg and a delicious, golden cheese-crumb crust. A stylish, artistic shot with a smoky backdrop.",
+    "filename": "recipe_1789346269.jpg",
+    "date": "2026-09-14 00:39:03",
+    "timestamp": 1789346269,
+    "likes": 0,
+    "views": 180
+  },
+  {
     "id": "recipe_1789339770",
     "category": "side",
     "category_ja": "サイド",
