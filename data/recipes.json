@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789364450",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "完熟トマト × モッツァレラ：悪魔的チーズとトマトのグラタン風！",
+    "title_en": "Gourmet Grilled Tomato & Mozzarella:  A twist on the classic",
+    "description_ja": "鮮やかなトマトの甘さに、まろやかなモッツァレラチーズのクリーミーな風味と絶妙なバランスが魅力。一口食べたら、まるで悪魔が作った料理を食べているような、忘れられない美味しさに包まれましょう！",
+    "description_en": "A delicious twist on the classic cheese and tomato gratin, this recipe delivers the perfect balance of sweet and savory. Get ready for a mouthwatering experience with a touch of the divine and a touch of the dark.",
+    "occasion_ja": "パーティーや食事会に最適な一品",
+    "occasion_en": "Perfect for parties and gatherings.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バジル",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "トマトを皮ごと3〜4cmの厚さに切り、オリーブオイルと塩コショウで味付けします。",
+      "カットしたトマトを、焼いたモッツァレラチーズとバジルで包みます。",
+      "フライパンで、トマトとチーズを焼きます。",
+      "完成したら、盛り付けて、お召し上がりください。"
+    ],
+    "prompt": "Close-up shot of a delicious grilled tomato and mozzarella gratin with basil and mozzarella cheese, golden brown and cheesy. ",
+    "filename": "recipe_1789364450.jpg",
+    "date": "2026-09-14 05:42:32",
+    "timestamp": 1789364450,
+    "likes": 0,
+    "views": 365
+  },
+  {
     "id": "recipe_1789346269",
     "category": "side",
     "category_ja": "サイド",
