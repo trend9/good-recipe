@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789469532",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的バナナキャラメルグラタン",
+    "title_en": "Devilish Banana Caramel Gratin",
+    "description_ja": "完熟バナナの甘酸っぱさが、キャラメルブリュレとの相性抜群！濃厚な味わいに、思わず「悪魔的！」と叫びたくなる、衝撃的なグラタンレシピ。",
+    "description_en": "The sweet and tangy taste of ripe bananas blends perfectly with the caramel-like flavors, creating a devilishly delightful gratin! A shocking gratin recipe that leaves you speechless with its rich, unexpected flavor.",
+    "occasion_ja": "特別な日にもぴったりなデザート",
+    "occasion_en": "Perfect dessert for special occasions",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを薄切りにカット。",
+      "2. フライパンにバターとグラニュー糖を加え、弱火で溶かし、牛乳を少しずつ加えて混ぜる。",
+      "3. 溶けたバターと牛乳でバナナを炒める。",
+      "4. キャラメルブリュレをグラタン皿に敷き、バナナを加えて、全体を焼き上げる。"
+    ],
+    "prompt": "A close-up of a devilish-looking banana caramel gratin, with a warm glow and melted caramel sauce. The gratin should have a slightly crispy texture with caramelized bananas.",
+    "filename": "recipe_1789469532.jpg",
+    "date": "2026-09-15 10:54:33",
+    "timestamp": 1789469532,
+    "likes": 0,
+    "views": 151
+  },
+  {
     "id": "recipe_1789450988",
     "category": "グラタン",
     "category_ja": "グラタン",
