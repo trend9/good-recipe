@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789512023",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔的トマト＆モッツァレラ：とろけるチーズのトマトグラタン風！",
+    "title_en": "Devilishly Delicious Tomato & Mozzarella: Melting Cheese Tomato Gratin",
+    "description_ja": "完熟トマトの甘酸っぱさと、モッツァレラチーズのクリーミーな味わいを、濃厚なチーズソースで包み込む。一口食べれば、悪魔の美味しさに魅了されるでしょう！",
+    "description_en": "A tantalizing tomato and mozzarella gratin, packed with the sweet and tangy flavor of ripe tomatoes and the creamy melt of mozzarella, all enveloped in a rich and decadent cheese sauce.  One bite will leave you mesmerized by its devilish goodness!",
+    "occasion_ja": "特別な日や、特別な夜に、心躍る美味しさをお届けします。",
+    "occasion_en": "Perfect for special occasions or a night of extraordinary flavor.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚チーズソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトを1cm角にカットし、軽く塩こしょうで味を調え、180℃のオーブンで10分焼く。",
+      "2. モッツァレラチーズを細かく刻んで、濃厚チーズソースを加えて混ぜる。",
+      "3. 溶かしバターを加えて、チーズとトマトの塊を混ぜ合わせる。",
+      "4. 焼きたての焼きトマトを、チーズとトマトの塊で盛り付け、オーブンで30分焼く。"
+    ],
+    "prompt": "A close-up shot of the creamy, cheesy gratin, with the tomatoes on top, looking enticing and delicious. The background is dark and moody. ",
+    "filename": "recipe_1789512023.jpg",
+    "date": "2026-09-15 22:43:11",
+    "timestamp": 1789512023,
+    "likes": 0,
+    "views": 207
+  },
+  {
     "id": "recipe_1789500484",
     "category": "dessert",
     "category_ja": "デザート",
