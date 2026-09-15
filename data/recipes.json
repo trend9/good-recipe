@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789450988",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔的グラタン風！",
+    "title_en": "Charcoal-Roasted Pork Belly & Smoky Garlic Sauce: Devilish Grainy Toasty",
+    "description_ja": "悪魔的な美味しさ！炙りチャーシューと濃厚焦がしにんにく醤油をたっぷり使った、カリカリグラタン風！まるで、焼き鳥屋の悪魔的なグラタン！",
+    "description_en": "A devilishly delicious treat! Charred pork belly and smoky garlic sauce, a devilish grainy toasty! A devilish version of grilled meat with a creamy, spicy flavor!",
+    "occasion_ja": "特別な日に、パーティーにもぴったり！",
+    "occasion_en": "Perfect for special occasions or parties!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "食パン",
+        "amount": "1切れ"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューは、厚さ1cm程度に切る。",
+      "2. 熱したフライパンで、濃厚焦がしにんにく醤油を加え、溶き卵と混ぜる。",
+      "3. 食パンにチーズと、卵を乗せ、熱したフライパンで両面を焼き、チーズが溶けたら、炙りチャーシューを加える。",
+      "4. 最後に、バターを塗って仕上げる。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious cheesy toasty, with char grilled pork belly and smoky garlic sauce.",
+    "filename": "recipe_1789450988.jpg",
+    "date": "2026-09-15 05:44:48",
+    "timestamp": 1789450988,
+    "likes": 0,
+    "views": 310
+  },
+  {
     "id": "recipe_1789431147",
     "category": "dessert",
     "category_ja": "デザート",
