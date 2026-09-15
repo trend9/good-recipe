@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1789485902",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔的グラタン風！",
+    "title_en": "Roasted Sweet Potato × Melty Butter Caramel: Devilishly Delicious Pasta!",
+    "description_ja": "焼き芋の甘さと、とろけるバターカラメルの組み合わせは、悪魔的な美味しさ！家庭で簡単に作れる、特別なグラタンを体験しましょう。",
+    "description_en": "A devilishly delicious twist on a classic!  Sweet potato meets melty butter caramel for a unique pasta experience. Easy to make at home! ",
+    "occasion_ja": "特別な日に、特別な食卓を演出するのに最適な一品",
+    "occasion_en": "Perfect for a special occasion, elevate your dining table with this unique dish.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "カラメル",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋を洗って、皮を剥きます。",
+      "焼き芋を一口大にカットします。",
+      "バターをフライパンで熱し、焼き芋を炒めます。塩コショウで味付けします。",
+      "バターと焼き芋の香ばしい香りが漂う間に、カラメルをフライパンに注ぎます。焦げ付かないように注意しながら、カラメルと焼き芋を混ぜ合わせます。",
+      "パスタを茹でます。焼き芋とカラメルソースを皿に盛り付けて、お好みでソースをかけましょう。"
+    ],
+    "prompt": "Close-up shot of a forkful of pasta with a rich, caramel-infused sauce.  Golden sweet potato pieces are prominently featured.  A touch of red chili flakes adds a fiery kick.",
+    "filename": "recipe_1789485902.jpg",
+    "date": "2026-09-15 15:26:45",
+    "timestamp": 1789485902,
+    "likes": 0,
+    "views": 178
+  },
+  {
     "id": "recipe_1789469532",
     "category": "dessert",
     "category_ja": "デザート",
