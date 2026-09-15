@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1789431147",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的トマトチーズのトマトグラタン風！",
+    "title_en": "Devilish Tomato & Mozzarella Gratin",
+    "description_ja": "完熟トマトとフレッシュモッツァレラが絶妙な相性で、この悪魔的な味わいはチーズ好きを魅了します。",
+    "description_en": "This devilishly delicious gratin boasts the perfect balance of sweet tomato and creamy mozzarella cheese. A must-try for cheese lovers.",
+    "occasion_ja": "特別な日に、特別な味を！",
+    "occasion_en": "For a special occasion, enjoy a unique flavor.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "フレッシュモッツァレラ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "チーズ (エベルク・チーズ)",
+        "amount": "50g"
+      },
+      {
+        "name": "パセリ (みじん切り)",
+        "amount": "1/2カップ"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトは皮をむき、種を取り除き、4cm角に切る。",
+      "2. 生クリームとチーズを混ぜ合わせる。",
+      "3. 4cm角に切ったトマトを、生クリームチーズの溶き混ぜたものを包み込み、チーズをふりかける。",
+      "4.  パセリを加え、オーブンで180℃で20分焼く。",
+      "5.  冷まして完成"
+    ],
+    "prompt": "An artistic photo of a gratin with a creamy tomato center and a cheesy and fresh mozzarella top. The gratin is plated on a white background. It should be inviting and have a beautiful composition",
+    "filename": "recipe_1789431147.jpg",
+    "date": "2026-09-15 00:14:07",
+    "timestamp": 1789431147,
+    "likes": 0,
+    "views": 304
+  },
+  {
     "id": "recipe_1789420767",
     "category": "サイド",
     "category_ja": "サイド",
