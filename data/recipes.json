@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789586437",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろとろたまごマッシュルームの悪魔的麻婆豆腐丼",
+    "title_en": "Spicy Mushroom Tofu Bowl with Creamy Egg",
+    "description_ja": "一見普通の麻婆豆腐丼だが、とろとろ卵と、クリーミーなマッシュルームの組み合わせで、悪魔的な美味しさに！見た目も華やかで、食欲をそそる一品に仕上げます。",
+    "description_en": "A spicy and creamy twist on the classic Chinese dish! A fluffy omelette atop the spicy and flavorful mushroom tofu bowl brings a touch of decadence and a delightful surprise.",
+    "occasion_ja": "特別な日に、普段使いにもおすすめ",
+    "occasion_en": "Perfect for a special occasion or for a comforting meal any day",
+    "ingredients": [
+      {
+        "name": "麻婆豆腐",
+        "amount": "2人分"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "麻婆豆腐の具材を炒め、醤油、砂糖、酒で調味する。",
+      "卵を溶きほぐし、1/4個の大きさに切り、マッシュルームと混ぜる。",
+      "ご飯を盛り、麻婆豆腐の具材、卵とマッシュルームを乗せる。",
+      "お好みで、辛味を調節して、盛り付け、お好みでマヨネーズ、レモン汁などを添える。"
+    ],
+    "prompt": "Close-up photo of a fluffy omelette with colorful mushrooms on a bed of spicy and savory tofu, garnished with a drizzle of sauce, and a sprinkle of sesame seeds. ",
+    "filename": "recipe_1789586437.jpg",
+    "date": "2026-09-16 19:22:31",
+    "timestamp": 1789586437,
+    "likes": 0,
+    "views": 405
+  },
+  {
     "id": "recipe_1789571904",
     "category": "side",
     "category_ja": "サイド",
