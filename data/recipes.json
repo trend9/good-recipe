@@ -1,5 +1,47 @@
 [
   {
+    "id": "recipe_1789537369",
+    "category": "ケーキ",
+    "category_ja": "ケーキ",
+    "title_ja": "悪魔的バナナキャラメルケーキ！",
+    "title_en": "Devilishly Delicious Banana Caramel Cake!",
+    "description_ja": "完熟バナナの甘みとキャラメルブリュレの香ばしさで、悪魔的な美味しさに浸りましょう。見た目も美しいケーキで、SNS映えも抜群！",
+    "description_en": "Take your tastebuds on a journey with this Devilishly Delicious Banana Caramel Cake! The combination of ripe bananas and caramel brulee creates a sweet and smoky treat that is both visually appealing and flavorful.",
+    "occasion_ja": "特別な日に、または、特別な人へのプレゼントに！",
+    "occasion_en": "Perfect for a special occasion or gift for someone special!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "バナナを薄くスライスし、1個ずつバターで焼きます。",
+      "キャラメルソースとバターを混ぜ合わせ、バナナに塗ります。",
+      "小麦粉を加え、生地を成形します。",
+      "オーブンで15分焼きます。",
+      "焼きたてのケーキを盛り付け、キャラメルソースをたっぷり添えます。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious banana caramel cake, with caramel drizzle and sliced bananas, a light brown crust and soft, gooey cake texture. (English)",
+    "filename": "recipe_1789537369.jpg",
+    "date": "2026-09-16 05:43:57",
+    "timestamp": 1789537369,
+    "likes": 0,
+    "views": 406
+  },
+  {
     "id": "recipe_1789520382",
     "category": "rice",
     "category_ja": "ライス",
