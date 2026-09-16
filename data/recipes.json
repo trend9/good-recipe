@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789571904",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的なサーモンタルタル！アボカドの風味が、カリッとした食感で爆発！",
+    "title_en": "Devilishly Delicious Salmon Tartar with Avocado! A Explosion of Flavor and Texture!",
+    "description_ja": "サーモンタルタルの悪魔的な進化版！アボカドのクリーミーな味わいに、カリッとした食感と、意外な組み合わせのスパイシーな風味を加えて、衝撃的な美味しさに昇華！",
+    "description_en": "The Devilishly Delicious Salmon Tartar! This recipe elevates the classic Salmon Tartar with creamy Avocado and adds a unique, surprising spicy flavor to create a unique and bold explosion of flavor!",
+    "occasion_ja": "パーティー、ディナー、特別な日に！",
+    "occasion_en": "Party, Dinner, Special Occasions!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンを、薄切りにする。",
+      "アボカドを、粗みじんにする。",
+      "サーモンとアボカドを、マヨネーズとレモン汁で和える。",
+      "皿に盛り付ける。"
+    ],
+    "prompt": "Close up of a plate with a generous portion of creamy salmon tartar with avocado, on a dark background.  The salmon is cut into a generous portion of flakes. The avocado is diced.",
+    "filename": "recipe_1789571904.jpg",
+    "date": "2026-09-16 15:20:41",
+    "timestamp": 1789571904,
+    "likes": 0,
+    "views": 249
+  },
+  {
     "id": "recipe_1789555349",
     "category": "side",
     "category_ja": "サイド",
