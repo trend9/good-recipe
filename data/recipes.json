@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789555349",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔的グラタン風！",
+    "title_en": "Gourmet Grilled Pork Cutlet with Honey Mustard Glazed: Devilish Gravitational Delight!",
+    "description_ja": "極厚カツと特製ハニーマスタードが、悪魔的な美味しさのグラタンに融合！甘酸っぱいハニーマスタードとクリーミーなチーズのハーモニーが、インパクト抜群の美味しさに。",
+    "description_en": "A devilishly delicious fusion of the best of both worlds: a decadent, buttery pork cutlet glazed with sweet and tangy honey mustard sauce and topped with creamy cheese! A symphony of flavors that will leave you wanting more.",
+    "occasion_ja": "パーティーやBBQ、特別な日にぴったり！",
+    "occasion_en": "Perfect for parties, barbecues, or special occasions!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "Cream Cheese",
+        "amount": "100g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "極厚カツに特製ハニーマスタードを塗り、両面にハニーマスタードを塗る。",
+      "Cream Cheeseをボウルに入れた後、チーズを混ぜ込み、なめらかになるまで混ぜる。",
+      "極厚カツをチーズソースで包み、チーズソースを全体に塗る。",
+      "オーブンを200度に予熱し、極厚カツを15分ほど焼いたら完成。"
+    ],
+    "prompt": "Close-up shot of a pork cutlet glazed with honey mustard sauce and topped with creamy cheese, served on a wooden board with a knife and fork. It's got a rich, golden color, and the cheese is melted and bubbly. A delicious and devilishly good-looking dish.",
+    "filename": "recipe_1789555349.jpg",
+    "date": "2026-09-16 10:44:11",
+    "timestamp": 1789555349,
+    "likes": 0,
+    "views": 444
+  },
+  {
     "id": "recipe_1789537369",
     "category": "ケーキ",
     "category_ja": "ケーキ",
