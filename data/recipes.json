@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789520382",
+    "category": "rice",
+    "category_ja": "ライス",
+    "title_ja": "ガーリックバターぷりぷり海老ピラフ：悪魔の海風！",
+    "title_en": "Garlic Butter Shrimp Rice: Devil's Ocean Breeze!",
+    "description_ja": "ぷりぷりの海老と、ガーリックバターの香ばしさで、まるで海を思わせるような悪魔的な味わいに。家庭でも簡単に作れる、特別なピラフのレシピです。",
+    "description_en": "A devilishly delicious shrimp rice with garlic butter and a hint of ocean breeze!  Easy and simple, this recipe transforms everyday rice into a special dish. ",
+    "occasion_ja": "特別な日や、特別な誰かに贈り物にぴったり",
+    "occasion_en": "Perfect for special occasions or as a gift for someone special",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "片栗粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "海老を一口大に切る。",
+      "ガーリックバターと醤油を混ぜる。",
+      "ご飯にガーリックバター醤油を混ぜる。",
+      "ご飯を平らな容器に盛り、海老を加える。",
+      "片栗粉を混ぜる。",
+      "ご飯の上に片栗粉を薄く振りかけ、さらにエビを加える。",
+      "オーブンで10分焼く。",
+      "仕上げに、お好みでレモン汁を絞る。"
+    ],
+    "prompt": "A close-up shot of a sizzling pan of shrimp rice with a golden brown top.  The shrimp is glistening and the rice is slightly fluffy.",
+    "filename": "recipe_1789520382.jpg",
+    "date": "2026-09-16 01:01:26",
+    "timestamp": 1789520382,
+    "likes": 0,
+    "views": 342
+  },
+  {
     "id": "recipe_1789512023",
     "category": "グラタン",
     "category_ja": "グラタン",
