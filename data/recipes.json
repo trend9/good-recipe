@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789607039",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス！悪魔的チーズケーキ風グラタン風！",
+    "title_en": "Black Sesame Kinako Mochi Ice! Devilishly Delicious Cheesecake-Style Gratin!",
+    "description_ja": "黒蜜きな粉もちもちアイスに、濃厚チーズケーキの風味を加えた、悪魔的なグラタン風！見た目は華やかで、口に入れた瞬間はまるでチーズケーキとアイスクリームが一体化したような、衝撃的な美味しさ！",
+    "description_en": "A devilishly delightful cheesecake-style gratin featuring black sesame kinako mochi ice! Its stunning visual is matched by a shockingly delightful flavor that blends the rich taste of cheesecake with the ice cream feel of the classic mochi! ",
+    "occasion_ja": "パーティーや特別な日にもぴったりな、インパクト大なデザート料理！",
+    "occasion_en": "Perfect for parties and special occasions, this dessert will leave a lasting impression! ",
+    "ingredients": [
+      {
+        "name": "黒蜜きな粉もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "Cream cheese",
+        "amount": "200g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "グラノーラ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  黒蜜きな粉もちもちアイスを電子レンジで20秒加熱し、溶かしながら混ぜる。",
+      "2.  Cream cheeseと生クリームを混ぜる。",
+      "3.  グラノーラとバターを加え、よく混ぜる。",
+      "4.  グラタン皿に生地を敷き、さらにチーズケーキ風味の黒蜜きな粉をトッピングして完成。"
+    ],
+    "prompt": "Anime illustration of a luxurious, elegant, and devilishly delightful cheesecake-style gratin with black sesame kinako mochi ice on a plate, with a swirling, melted-cheese effect in the center.",
+    "filename": "recipe_1789607039.jpg",
+    "date": "2026-09-17 01:07:06",
+    "timestamp": 1789607039,
+    "likes": 0,
+    "views": 425
+  },
+  {
     "id": "recipe_1789598127",
     "category": "dessert",
     "category_ja": "デザート",
