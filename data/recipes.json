@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1789648495",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろとろ卵のスパイシー麻婆豆腐丼 - 悪魔的進化版！",
+    "title_en": "Spicy Kung Pao Tofu Bowl: A Devilish Upgrade!",
+    "description_ja": "ふっくらとろとろ卵と辛味麻婆豆腐を丼に盛り込む、悪魔的な美味しさの進化系丼！  意外性と美味しさが同時に味わえる、特別な一品に！",
+    "description_en": "A devilishly delicious bowl featuring fluffy, melt-in-your-mouth eggs and spicy kung pao tofu! This unexpected and exciting fusion dish will elevate your lunch or dinner game to the next level! ",
+    "occasion_ja": "忙しいランチや、特別な日の晩ご飯にぴったり！",
+    "occasion_en": "Perfect for a quick lunch or special occasion dinner.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "100g"
+      },
+      {
+        "name": "辛味ソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 豆腐とマッシュルームを炒めます。",
+      "2. 混ぜるように、辛味ソース、唐辛子、醤油、みりんを加えて混ぜます。",
+      "3. 卵を溶きほぐし、卵液を加えて混ぜます。",
+      "4. 仕上げにごはんを乗せて、卵と麻婆豆腐を盛り付けて完成！"
+    ],
+    "prompt": "A close-up shot of a steaming bowl of spicy kung pao tofu bowl with fluffy, perfectly cooked eggs on top. The ingredients are placed in a unique presentation style, evoking a vibrant and devilishly satisfying visual.",
+    "filename": "recipe_1789648495.jpg",
+    "date": "2026-09-17 12:36:12",
+    "timestamp": 1789648495,
+    "likes": 0,
+    "views": 407
+  },
+  {
     "id": "recipe_1789628552",
     "category": "dessert",
     "category_ja": "デザート",
