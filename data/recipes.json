@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1789666010",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔的チーズグラタン風！",
+    "title_en": "Extreme Hamburger Cheese Gratin",
+    "description_ja": "極厚カツの重厚感を活かし、濃厚なハニーマスタードソースとチーズで仕上げた、まるでチーズの雲のようなグラタン風料理。悪魔的な美味しさに、魅了されます！",
+    "description_en": "Experience an extreme level of cheesiness with our unique take on the classic gratin! This devilish dish combines the rich taste of deep-fried patties with a sweet and savory honey mustard sauce, topped with melty cheese for an explosion of flavor in every bite.",
+    "occasion_ja": "パーティー、家族とのディナーなど、特別な日にぴったりな一品",
+    "occasion_en": "Perfect for parties, family dinners, or any special occasion, this dish will surely impress.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "パセリ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを1cm角にカット。",
+      "特製ハニーマスタードと牛乳を混ぜ合わせて、チーズを加えて溶かし、全体に混ぜる。",
+      "チーズを絡ませたハニーマスタードソースで極厚カツを包む。",
+      "グラタン皿にチーズソースを塗る。極厚カツを盛り付ける。",
+      "パセリを散らす。"
+    ],
+    "prompt": "A close-up shot of a cheese gratin dish, with melting cheese and a crispy deep-fried hamburger on top, garnished with parsley. (English)",
+    "filename": "recipe_1789666010.jpg",
+    "date": "2026-09-17 17:28:29",
+    "timestamp": 1789666010,
+    "likes": 0,
+    "views": 345
+  },
+  {
     "id": "recipe_1789648495",
     "category": "丼",
     "category_ja": "丼",
