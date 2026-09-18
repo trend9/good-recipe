@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789759533",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリーム生パスタ：悪魔のスパイスが奏でる鮮烈な美味しさ -  カリッとした明太子と爽やかなレモンが融合したパスタの悪魔的アレンジレシピ！",
+    "title_en": "Spicy Ramen Pasta:  Devilishly Delicious Spicy Ramen Pasta With Lemon & Cream",
+    "description_ja": "明太子とレモンが融合した、悪魔的な美味しさを追求した、生パスタのレシピ。意外性のある組み合わせが、食欲をそそる一品に。",
+    "description_en": "An unexpected yet devilishly delicious pasta recipe combining spicy ramen flavors with lemon and cream. This recipe offers a unique blend of flavors that will tantalize your taste buds.",
+    "occasion_ja": " parties , 週末 ,  おうちで楽しむ  ",
+    "occasion_en": "Parties, Weekends,  Home-party",
+    "ingredients": [
+      {
+        "name": "生パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "明太子",
+        "amount": "100g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 明太子を細かく刻んで、ボウルに入れ、レモン汁を加え、塩こしょうで味を調える。",
+      "2. 生パスタを茹で、冷水で洗い、ザルで水気を切っておく。",
+      "3. ボウルにクリームチーズを入れ、泡立て器で混ぜる。",
+      "4. 生パスタをボウルに入れ、明太子とレモンクリームチーズを混ぜる。"
+    ],
+    "prompt": "A close-up photo of the pasta dish.  The pasta is slightly tossed with the creamy lemon sauce and a sprinkle of lemon. The ingredients are beautifully arranged, and a plate of white pasta with a delicious creamy sauce in a bowl. The lemon is on top, and the ingredients are visible.",
+    "filename": "recipe_1789759533.jpg",
+    "date": "2026-09-18 19:27:17",
+    "timestamp": 1789759533,
+    "likes": 0,
+    "views": 333
+  },
+  {
     "id": "recipe_1789750607",
     "category": "dessert",
     "category_ja": "デザート",
