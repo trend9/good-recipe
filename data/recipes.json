@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789718043",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的きな粉もちもちアイス！黒蜜ソースが激しく溶けるチーズケーキ！",
+    "title_en": "Devilish Kinako Mochi Ice Cream! Black Sugar Sauce Is Meltingly Delicious Cheese Cake!",
+    "description_ja": "一見普通のチーズケーキ、実は悪魔の秘密！黒蜜ソースときな粉の組み合わせで、チーズケーキがさらに美味しくなる！",
+    "description_en": "A seemingly ordinary cheese cake, but it holds a devilish secret!  The combination of black sugar sauce and kinako powder elevates cheese cake to another level of deliciousness!",
+    "occasion_ja": "特別なイベントにぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "チーズケーキ",
+        "amount": "1個"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "きな粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "メープルシロップ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パウダーチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "チーズケーキを焼きます。",
+      "黒蜜ときな粉を混ぜ合わせ、生地に混ぜます。",
+      "牛乳とメープルシロップを加えて混ぜ、なめらかになります。",
+      "チーズケーキをカットし、黒蜜ソースをたっぷりかけて、お好みでパウダーチーズを添えます。"
+    ],
+    "prompt": "Close up photo of a beautiful black sugar sauce-drizzled cheese cake, with a sprinkle of kinako powder and a delicate texture. ",
+    "filename": "recipe_1789718043.jpg",
+    "date": "2026-09-18 07:56:26",
+    "timestamp": 1789718043,
+    "likes": 0,
+    "views": 360
+  },
+  {
     "id": "recipe_1789699360",
     "category": "丼もの",
     "category_ja": "丼もの",
