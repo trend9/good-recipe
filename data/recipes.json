@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789750607",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "完熟バナナ×キャラメルブリュレの悪魔的チーズケーキ  ～ 燃え尽きない甘酸っぱさとカリカリ食感の悪魔的スイーツ ～",
+    "title_en": "Devilishly Delicious Banana Caramel Cheesecake - A Sweet and Spicy Fusion of the Two",
+    "description_ja": "完熟バナナの甘さを、キャラメルブリュレの香ばしさと、カリカリ食感のチーズケーキが融合！悪魔的な美味しさに、一口食べたらもう止められない！",
+    "description_en": "A devilishly delicious cheesecake with the sweet and tangy flavor of ripe bananas, the smoky aroma of caramel brulee, and a satisfyingly crunchy texture. One bite is enough to leave you wanting more!",
+    "occasion_ja": "特別な日や、特別な人へプレゼントに最適！",
+    "occasion_en": "A perfect dessert for a special occasion or to impress a loved one.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "3個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "1. バナナを皮ごと、薄切りにして、キャラメルでコーティングします。",
+      "2. 生クリームとチーズを混ぜて、クリームチーズ状に練り上げます。",
+      "3. バナナとキャラメルがコーティングされたチーズケーキを、熱したオーブンで焼き上げます。",
+      "4. 最後に、キャラメルソースをかけたチーズケーキを、バターでコーティングして、完成に近づけます。"
+    ],
+    "prompt": "A close-up shot of a visually appealing, burnt cheesecake, showcasing the combination of caramelized bananas and the bubbly caramel brulee. Focus on the texture and color contrast.",
+    "filename": "recipe_1789750607.jpg",
+    "date": "2026-09-18 16:58:38",
+    "timestamp": 1789750607,
+    "likes": 0,
+    "views": 371
+  },
+  {
     "id": "recipe_1789735026",
     "category": "dessert",
     "category_ja": "デザート",
