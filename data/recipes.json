@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1789735026",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテトチーズケーキ - 悪魔のチーズケーキ進化論",
+    "title_en": "Sizzling Potato Cheese Cake - A Devilish Cheese Cake Revolution",
+    "description_ja": "サクサクポテトとクリーミーチーズの組み合わせで、まるでチーズケーキを食べてるかのような衝撃的な一品！ 悪魔的な美味しさに、あなたも虜になること間違いなし！",
+    "description_en": "A devilishly delicious fusion of savory potato and creamy cheese!  This cake is a shocking revolution in cheese cake. ",
+    "occasion_ja": "特別な日に、特別なあなたへ",
+    "occasion_en": "For special occasions, for the special you!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "約200g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを薄切りにし、塩胡椒で調味する。",
+      "チーズを溶き、牛乳を加えてなめらかにする。",
+      "卵を溶き、チーズソースと混ぜ合わせる。",
+      "じゃがいもを油で揚げる。",
+      "揚げたじゃがいもにチーズソースを塗り、表面をふっくらと焼き上げる。"
+    ],
+    "prompt": "Close-up of a delicious-looking cheese cake with potatoes,  glowing cheese, and a golden exterior.",
+    "filename": "recipe_1789735026.jpg",
+    "date": "2026-09-18 12:38:43",
+    "timestamp": 1789735026,
+    "likes": 0,
+    "views": 328
+  },
+  {
     "id": "recipe_1789718043",
     "category": "dessert",
     "category_ja": "デザート",
