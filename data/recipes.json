@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789769491",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔のチーズグラタン風！",
+    "title_en": "Tofu-Cheese & Korean Chicken: A Spicy & Creamy Fusion",
+    "description_ja": "とろけるチーズとタッカルビチキンを組み合わせ、濃厚なチーズグラタン風の逸品！意外な組み合わせで衝撃的な美味しさに、舌鼓を打ちます。",
+    "description_en": "A fusion recipe combining creamy cheese and spicy Korean chicken for a unique and delicious cheesy baked goodness! The unexpected combination delivers a flavor explosion.",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "500g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "150ml"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "チーズと牛乳を混ぜ、とろみがつくまで加熱する。",
+      "タッカルビチキンを一口サイズに切り、チーズソースに絡める。",
+      "フライパンにバターを入れ、パプリカを加え、炒め合わせる。",
+      "チーズソースとタッカルビチキンを皿に盛り、お好みでパプリカを添える。"
+    ],
+    "prompt": "A close-up shot of a baked dish with creamy cheese sauce, tender chicken in a spicy sauce, and a vibrant red pepper on top, with a glowing warm light effect.",
+    "filename": "recipe_1789769491.jpg",
+    "date": "2026-09-18 22:14:33",
+    "timestamp": 1789769491,
+    "likes": 0,
+    "views": 277
+  },
+  {
     "id": "recipe_1789759533",
     "category": "pasta",
     "category_ja": "パスタ",
