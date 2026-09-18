@@ -1,5 +1,64 @@
 [
   {
+    "id": "recipe_1789699360",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろとろ卵の旨辛麻婆豆腐丼 ～悪魔の甘辛進化～",
+    "title_en": "Spicy Tofu Bowl with Creamy Onsen Egg - An Evolution of Sweet & Spicy!",
+    "description_ja": "普段はシンプルに食べる豆腐丼に、とろとろ卵と甘辛のスパイスが織りなす、悪魔的な美味しさ。このレシピは、甘辛い麻婆豆腐の旨味と、卵のクリーミーな食感で、食欲をそそる、特別な一品に仕上げます。",
+    "description_en": "Transform your classic tofu bowl with this spicy and creamy fusion! The rich flavors of spicy tofu marry perfectly with the creamy, decadent texture of the onsen egg for a truly unique dish.",
+    "occasion_ja": "特別な日や夜食にぴったり。",
+    "occasion_en": "Perfect for special occasions or as a late-night snack.",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "ニラ",
+        "amount": "1/2本"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "豆腐を一口大に切り、1cm程度の厚さに成形します。",
+      "フライパンにごま油をひき、豆腐を炒めます。",
+      "ニラを加え、炒め合わせます。",
+      "みりん、砂糖、醤油、唐辛子を混ぜ合わせ、煮詰めます。",
+      "卵を溶き、豆腐と餡を加えて混ぜ合わせます。",
+      "溶き卵と餡を、丼に盛り付け、ごま油を散らすと完成!"
+    ],
+    "prompt": "Close-up shot of a beautifully crafted tofu bowl, with soft tofu, creamy egg, and a garnish of sesame oil. A vibrant and inviting dish. Anime style illustration",
+    "filename": "recipe_1789699360.jpg",
+    "date": "2026-09-18 02:44:26",
+    "timestamp": 1789699360,
+    "likes": 0,
+    "views": 261
+  },
+  {
     "id": "recipe_1789687274",
     "category": "dessert",
     "category_ja": "デザート",
