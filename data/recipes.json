@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789839755",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の海藻グラタン",
+    "title_en": "Grilled Squid & Avocado Cream Cheese Gratin",
+    "description_ja": "クリーミーなアボカドと、海藻の苦味が絶妙なハーモニーを奏でます！ 意外な組み合わせですが、悪魔的に美味しい一品を是非ご堪能ください。",
+    "description_en": "A creamy avocado and seaweed blend creates an unexpected but delicious harmony. A taste sensation you won't be able to resist!",
+    "occasion_ja": "パーティーやBBQにピッタリ",
+    "occasion_en": "Perfect for parties and BBQs",
+    "ingredients": [
+      {
+        "name": "生ホタテ",
+        "amount": "500g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "200g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "ケチャップ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 生ホタテを1cm角にカットし、塩コショウで味付け。",
+      "2. アボカドはヘタを取り除き、皮ごと食べやすい大きさにカット。",
+      "3. フライパンにごま油をひき、ホタテを焼いて塩コショウで味付け。",
+      "4. アボカドを混ぜる。ケチャップとマヨネーズを加え、混ぜる。"
+    ],
+    "prompt": "Grilled squid and avocado cream cheese gratin, creamy texture, cheese, vegetables, seafood",
+    "filename": "recipe_1789839755.jpg",
+    "date": "2026-09-19 17:44:13",
+    "timestamp": 1789839755,
+    "likes": 0,
+    "views": 331
+  },
+  {
     "id": "recipe_1789826909",
     "category": "dessert",
     "category_ja": "デザート",
