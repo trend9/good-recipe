@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1789855517",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔のチーズパイ風",
+    "title_en": "Sizzling Potato & Creamy Cheese Sauce: Devil's Cheese Pie",
+    "description_ja": "カリッとしたサクサクポテトとクリーミーチーズソースが、悪魔的な美味しさを放つ！まるでパイのように焼き上げたチーズパイ風。甘酸っぱさとクリーミーさが絶妙にマッチする、新しい悪魔的レシピです。",
+    "description_en": "A devilishly delicious cheesy treat!  Sizzling potato and creamy cheese sauce are wrapped in a flaky crust to give you a taste of a devil's cheese pie.  Enjoy the unique combination of sweet and tangy flavors.",
+    "occasion_ja": "パーティー、お酒のおつまみ、夜食にぴったり",
+    "occasion_en": "party appetizer, perfect for nights out",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ポテトを一口大にカットします。",
+      "ボウルにバターと小麦粉を入れ、牛乳を加えながら混ぜます。",
+      "ポテトをボウルに入れ、よく混ぜます。",
+      "生地を、小さめのパイ型に流し込み、180度に予熱したオーブンで20分焼きます。",
+      "焼き上がりを、クリーミーチーズソースをたっぷりかける。"
+    ],
+    "prompt": "A close-up shot of a golden cheese pie with creamy cheese sauce poured over it, and the potato filling is visible.",
+    "filename": "recipe_1789855517.jpg",
+    "date": "2026-09-19 22:08:30",
+    "timestamp": 1789855517,
+    "likes": 0,
+    "views": 210
+  },
+  {
     "id": "recipe_1789839755",
     "category": "side",
     "category_ja": "サイド",
