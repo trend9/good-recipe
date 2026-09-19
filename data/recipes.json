@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789779295",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろとろデミハンバーグ！悪魔のチーズまぜご飯",
+    "title_en": "Devilishly Delicious De-Mi-Gravy Hamburger! - Cheesy Rice Mashup",
+    "description_ja": "とろける半熟卵とデミグラスソースを合わせた、衝撃的な美味しさ！悪魔的な味わいを堪能できる、ご飯に混ぜて食べる新感覚レシピ！",
+    "description_en": "A devilishly delicious mash-up of molten yolks and demi-glace sauce for an experience you won't forget! This new-wave recipe involves mixing the ingredients with rice to create a unique and unexpected culinary sensation!",
+    "occasion_ja": "パーティーや特別な日など、特別な食卓を演出しましょう",
+    "occasion_en": "Perfect for parties or special occasions, elevate your dining experience with this unexpected treat!",
+    "ingredients": [
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ハンバーグ",
+        "amount": "200g"
+      },
+      {
+        "name": "ご飯",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼いた後、デミグラスソースをかけて、半熟卵を乗せます。",
+      "ご飯と混ぜて、熱してチーズを振りかけます。",
+      "熱したご飯とハンバーグを混ぜ、悪魔的な味わいを堪能してください。",
+      "お好みで、ソースを添えてもおいしいです。"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious burger with melted eggs, demi-glace sauce, and cheesy rice,  with steam rising.",
+    "filename": "recipe_1789779295.jpg",
+    "date": "2026-09-19 00:57:27",
+    "timestamp": 1789779295,
+    "likes": 0,
+    "views": 164
+  },
+  {
     "id": "recipe_1789769491",
     "category": "side",
     "category_ja": "サイド",
