@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789826909",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔のバナナキャラメルチーズケーキ  - 甘酸っぱさとカリカリ食感の衝撃！",
+    "title_en": "Devilish Banana Caramel Cheesecake - A shocking sweet and crispy goodness!",
+    "description_ja": "完熟バナナの甘酸っぱさとキャラメルブリュレの香ばしさ、そしてチーズのクリーミーな味わいが一体となった、悪魔的なチーズケーキ。カリッとした食感とクリーミーなチーズの組み合わせで、まさに衝撃的！",
+    "description_en": "Devilish Banana Caramel Cheesecake - A shocking sweet and crispy goodness! Combining the sweet and sour of ripe banana with the caramel fragrance, and the creamy cheese filling, this cheesecake is a delightful shock to the tastebuds. The crispy texture and creamy cheese combination provide a truly shocking taste! ",
+    "occasion_ja": "特別な日にはもちろん、日常でも楽しめる悪魔的なデザート。",
+    "occasion_en": "An irresistible dessert for special occasions or everyday indulgence, it's a devilishly delicious treat.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      },
+      {
+        "name": "チーズ(エッグチーズ、モッツァレラなど)",
+        "amount": "50g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 溶かしバターを混ぜ、キャラメルを加え、バナナを混ぜる。",
+      "2. 生地を混ぜる。",
+      "3.  チーズを加え、混ぜる。",
+      "4.  オーブンで焼く。"
+    ],
+    "prompt": "Close-up photo of a decadent banana caramel cheesecake with a golden crust and a creamy swirl of cheese, served on a dark background. Inspired by anime and manga style.",
+    "filename": "recipe_1789826909.jpg",
+    "date": "2026-09-19 14:11:01",
+    "timestamp": 1789826909,
+    "likes": 0,
+    "views": 376
+  },
+  {
     "id": "recipe_1789812547",
     "category": "dessert",
     "category_ja": "デザート",
