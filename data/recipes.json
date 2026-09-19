@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789795536",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ×タッカルビチキン：悪魔のチーズグラタン風！  (極上アレンジレシピ!)",
+    "title_en": "Tofu Cheesy Tacos: An Unexpectedly Delicious Twist! ",
+    "description_ja": "とろけるチーズとタッカルビチキン、この組み合わせは意外性と美味しさを兼ね備えた、悪魔的アレンジレシピ！  、チーズとタッカルビの相性は抜群！",
+    "description_en": "A fusion of creamy cheese and spicy tteokbokki, this is a completely unexpected, yet devilishly delicious recipe that you'll never forget.",
+    "occasion_ja": "パーティーやBBQ、お酒のおつまみにも最適です！",
+    "occasion_en": "Perfect for parties, barbecues, and appetizers.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズソース",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "ニンニク",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを一口大に切る。",
+      "2. 玉ねぎ、ニンニク、唐辛子などを混ぜて、チーズソースで味付けする。",
+      "3. 鶏肉とチーズのソースを並べて、チーズを溶かし、混ぜる。",
+      "4. 調味料を加えて、さらに混ぜる。"
+    ],
+    "prompt": "Close-up shot of the cheesy tacos, with a sprinkle of chili powder. Food styling in a fun, chaotic, and creative way. ",
+    "filename": "recipe_1789795536.jpg",
+    "date": "2026-09-19 05:26:33",
+    "timestamp": 1789795536,
+    "likes": 0,
+    "views": 416
+  },
+  {
     "id": "recipe_1789779295",
     "category": "side",
     "category_ja": "サイド",
