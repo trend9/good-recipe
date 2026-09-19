@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789812547",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろり半熟卵 × デミグラスハンバーグ : 悪魔のチーズまぜグラタン風！",
+    "title_en": "Devilish Gravy Burger: Half-Cooked Egg & Demi-Glace, A Twist on Cheese-filled Panna Cotta",
+    "description_ja": "とろとろ半熟卵と濃厚デミグラスハンバーグを、チーズでまぜ込んだ悪魔的グラタン風！ 意外な組み合わせで、まるで魔法の味が飛び込んできます。 さらに、口の中でとろけるような食感も味わえます。",
+    "description_en": "Devilishly delicious. We're taking half-cooked egg and demi-glace, mixing them with cheese, and transforming them into a cheesy-filled panccotta-esque dish that's both unexpected and incredibly delicious!  Prepare to experience a culinary twist that melts in your mouth with every bite.",
+    "occasion_ja": "特別な日に、パーティーで、そして日常でも楽しめる！",
+    "occasion_en": "Perfect for special occasions, parties, and everyday enjoyment!",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1.  デミグラスハンバーグを小さくカット。",
+      "2.  半熟卵を、牛乳で溶かし、小麦粉で混ぜ合わせる。",
+      "3.  半熟卵とデミグラスハンバーグを混ぜる。",
+      "4.  チーズを絡め、盛り付ける。"
+    ],
+    "prompt": "Close-up shot of the devilishly delicious Gravy Burger. The creamy yolk, juicy demi-glace, and oozing cheese, all melting together on a plate. The background is dark and mysterious, evoking a sense of culinary magic. ",
+    "filename": "recipe_1789812547.jpg",
+    "date": "2026-09-19 10:11:25",
+    "timestamp": 1789812547,
+    "likes": 0,
+    "views": 267
+  },
+  {
     "id": "recipe_1789795536",
     "category": "side",
     "category_ja": "サイド",
