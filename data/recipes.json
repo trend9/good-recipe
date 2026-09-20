@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789935040",
+    "category": "ラーメン",
+    "category_ja": "ラーメン",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油：悪魔のチーズカレー風！",
+    "title_en": "Spicy Ramen with Char Siu: A Spicy Ramen Adventure!",
+    "description_ja": "悪魔的な美味しさ！炙りチャーシューの旨味と濃厚焦がしにんにく醤油が、クリーミーで濃厚なチーズカレーに絡み、食欲をそそる一品に進化！",
+    "description_en": "A spicy and savory ramen experience!  Char siu's umami and rich spicy garlic sauce combined with creamy, savory cheese create a flavor explosion! ",
+    "occasion_ja": "寒い夜、食欲がない時、お酒が進む一品に！",
+    "occasion_en": "A perfect dish for a cold night or when you're not in the mood for a big meal, or a side dish for your favorite alcoholic drinks.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1個"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "カレー粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを一口サイズに切る。",
+      "2. 濃厚焦がしにんにく醤油とカレー粉を混ぜる。",
+      "3. 溶かしたクリームチーズと牛乳を混ぜ合わせる。",
+      "4. じゃがいもを薄切りにし、その中に炙りチャーシューとチーズのソースを混ぜる。"
+    ],
+    "prompt": "Close-up photo of ramen bowl with a thick layer of spicy, savory-flavored cream cheese, and a char siu topping",
+    "filename": "recipe_1789935040.jpg",
+    "date": "2026-09-20 20:12:21",
+    "timestamp": 1789935040,
+    "likes": 0,
+    "views": 330
+  },
+  {
     "id": "recipe_1789926803",
     "category": "pasta",
     "category_ja": "パスタ",
