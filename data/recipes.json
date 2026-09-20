@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789864527",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス：悪魔の甘酸っぱさ爆発！",
+    "title_en": "Blackcurrant Honey Cinnamon Ice Cream: Devilish Sweet and Sour Explosion!",
+    "description_ja": "黒蜜の甘酸っぱさと、きな粉の香ばしさ、もちもち食感のアイスに、悪魔的な美味しさをもたらします。カリカリとクリーミーな食感が、口の中を刺激する、まさに悪魔的スイーツ！",
+    "description_en": "The devilishly sweet and sour explosion of blackcurrant honey and cinnamon ice cream. The crunchy, creamy texture will be a devilish treat for your taste buds! ",
+    "occasion_ja": "特別な日には、パーティーやギフトにも最適な悪魔的スイーツ。",
+    "occasion_en": "Perfect for a special occasion, parties, and gifts, the devilishly good dessert. ",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "きな粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "お好みで",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 黒蜜ときな粉を混ぜ、100mlの牛乳を加えて溶き混ぜます。",
+      "2. 溶き混ぜた液体を、もちもちアイスにたっぷり塗ります。",
+      "3. 最後にお好みで、ナッツ、カカオ粉、または他のトッピングを添えて、悪魔的な美味しさに仕上げます。",
+      "4. 冷蔵庫で1時間以上冷蔵しておくと、より美味しさに深みが出ます。"
+    ],
+    "prompt": "Close-up shot of a colorful and creamy ice cream with blackcurrant sauce and cinnamon sprinkle, a magical and delicious dessert, vibrant, detailed, anime style, Ghibli style illustration",
+    "filename": "recipe_1789864527.jpg",
+    "date": "2026-09-20 00:36:19",
+    "timestamp": 1789864527,
+    "likes": 0,
+    "views": 330
+  },
+  {
     "id": "recipe_1789855517",
     "category": "side",
     "category_ja": "サイド",
