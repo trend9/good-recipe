@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789882742",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔のチーズグラタン風！",
+    "title_en": "炙りチャーシュー with Rich Garlic-Soy:  Devilish Cheese Pan Gratin!",
+    "description_ja": "炙りチャーシューの旨味と濃厚焦がしにんにく醤油が、チーズの旨味を引き立てて、まるで悪魔のチーズグラタンのような、衝撃的な美味しさ！",
+    "description_en": "The savory flavor of the grilled pork and the richness of the garlic-soy sauce complement the cheese's flavors, creating a devilishly delicious cheesy pan gratin! ",
+    "occasion_ja": "パーティーや特別な日に。",
+    "occasion_en": "Perfect for parties and special occasions.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューと濃厚焦がしにんにく醤油を、お好みで混ぜ合わせる。",
+      "2. チーズ、パルメザンチーズ、牛乳を混ぜ合わせる。",
+      "3. 混ぜ合わせたチーズソースを、炙りチャーシューと、パルメザンチーズをトッピングした皿に、盛り付ける。",
+      "4. 仕上げに塩を少々加えて、完成。"
+    ],
+    "prompt": "Close-up of a cheesy pan gratin with grilled pork and a rich garlic-soy sauce glaze on top, with a cheesy pull-apart effect.",
+    "filename": "recipe_1789882742.jpg",
+    "date": "2026-09-20 05:40:00",
+    "timestamp": 1789882742,
+    "likes": 0,
+    "views": 214
+  },
+  {
     "id": "recipe_1789864527",
     "category": "dessert",
     "category_ja": "デザート",
