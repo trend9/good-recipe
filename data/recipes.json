@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789900046",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の海藻グラタン：海藻の甘酸っぱさ、クリーミーなアボカドが引き立てる極上アレンジ！",
+    "title_en": "Devilish Seaweed Gratin: Creamy Avocado elevates the Unique and Delicious Seaweed flavor!",
+    "description_ja": "海藻とクリーミーアボカドの意外な組み合わせが、この悪魔的グラタンに新たな美味しさを与えます！とろけるチーズとカリカリした海藻の食感が、まるで海に浮かぶ宝石のようです。",
+    "description_en": "Unexpected combination of seaweed and creamy avocado elevates this devilish gratin to a new level of deliciousness! The smooth cheese and crispy seaweed create a visual and flavor masterpiece! ",
+    "occasion_ja": "パーティーやディナーにおすすめ！",
+    "occasion_en": "Perfect for parties and dinners!",
+    "ingredients": [
+      {
+        "name": "北海道産昆布の海藻粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "濃厚クリーミーチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 海藻を軽く茹でて、冷水で洗い、水分を切る。",
+      "2. アボカドをみじん切りにする。",
+      "3. クリームチーズ、塩、黒胡椒を加えて混ぜ合わせる。",
+      "4. 昆布の海藻粉を加えて混ぜ、グラタン皿に盛り付ける。アボカドと海藻を載せる。"
+    ],
+    "prompt": "Close-up photo of a devilish seaweeds gratin with creamy avocado and melted cheese. Seaweed and avocado contrast with the creamy cheese and a slightly dark background",
+    "filename": "recipe_1789900046.jpg",
+    "date": "2026-09-20 10:28:16",
+    "timestamp": 1789900046,
+    "likes": 0,
+    "views": 480
+  },
+  {
     "id": "recipe_1789882742",
     "category": "side",
     "category_ja": "サイド",
