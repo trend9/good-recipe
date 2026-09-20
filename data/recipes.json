@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789914459",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリームパスタ：悪魔の絶品チーズの秘密レシピ",
+    "title_en": "Spicy Tuna Lemon Cream Pasta: Devilish Secret Recipe for Cheese",
+    "description_ja": "レモンクリームソースに、明太子とチーズの組み合わせで、悪魔的な美味しさ爆発！ 意外性のある組み合わせが、今までにない満足感を味わえる一品",
+    "description_en": "A devilish twist on creamy lemon pasta with spicy tuna and cheese. This unexpected combination creates a unique and satisfying taste experience.",
+    "occasion_ja": "特別な日やパーティーにぴったり！",
+    "occasion_en": "Perfect for special occasions and parties!",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 明太子の水分を飛ばし、細かく刻みます。",
+      "2. 生クリームとレモン汁を混ぜ合わせ、チーズを加えて溶かし、パスタを茹でます。",
+      "3.  明太子を混ぜ合わせ、濃厚なクリームソースを作ります。",
+      "4. パスタにソースをかけ、チーズを乗せて完成です。"
+    ],
+    "prompt": "Close-up of pasta dish with creamy lemon sauce, tuna, and cheese, served on a white plate with a knife and fork.",
+    "filename": "recipe_1789914459.jpg",
+    "date": "2026-09-20 14:28:51",
+    "timestamp": 1789914459,
+    "likes": 0,
+    "views": 247
+  },
+  {
     "id": "recipe_1789900046",
     "category": "side",
     "category_ja": "サイド",
