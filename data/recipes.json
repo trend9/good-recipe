@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1789926803",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子のレモンクリームパスタ：悪魔の海藻風味！",
+    "title_en": "Spicy Tuna & Lemon Cream Pasta: The Devil's Seaweed Flavor!",
+    "description_ja": "明太子とレモンクリームパスタに、意外な海の風味を加え、悪魔的な美味しさを追求！海藻の甘酸っぱさとクリーミーなレモンクリームが、明太子の辛味が引き立てられる、衝撃的な新感覚パスタ料理を体験しよう！",
+    "description_en": "A devilishly delicious twist on a classic!  Spicy tuna and lemon cream pasta with an unexpected sea flavor.  The combination of seaweed's sweetness and creamy lemon cream will beautifully enhance the kick of the spicy tuna, delivering a shockingly delicious new pasta experience! ",
+    "occasion_ja": "パーティーや、特別な夜にぴったり",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "100g"
+      },
+      {
+        "name": "パスタ",
+        "amount": "100g"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "海藻",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーム",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "1. 明太子を細かく刻んで、パスタに混ぜる。",
+      "2. レモン汁とレモンの皮を絞り、クリームソースに混ぜる。",
+      "3. 海藻を加え、軽く混ぜる。",
+      "4. 茹で上げたパスタとクリームソースを混ぜ、盛り付ける"
+    ],
+    "prompt": "A bowl of pasta with spicy tuna, lemon cream sauce, seaweed and a vibrant green garnish",
+    "filename": "recipe_1789926803.jpg",
+    "date": "2026-09-20 17:54:59",
+    "timestamp": 1789926803,
+    "likes": 0,
+    "views": 328
+  },
+  {
     "id": "recipe_1789914459",
     "category": "pasta",
     "category_ja": "パスタ",
