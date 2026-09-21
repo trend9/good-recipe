@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1789969730",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の明太子レモンクリームパスタ：レモンと海藻のスパイシーな風味が炸裂！",
+    "title_en": "Devilish Lemon Cream Pasta: A Blast of Spicy Lemon and Seaweed!",
+    "description_ja": "定番の明太子レモンクリームパスタに、爽やかなレモンと海の香りを加えた悪魔的なアレンジ！ 意外な組み合わせが、まるで海を駆け抜けるかのような爽快感を味わえる一品に。",
+    "description_en": "Take the classic lemon cream pasta to the next level! This devilishly delicious recipe infuses it with a refreshing burst of lemon and sea salt for an unexpected flavor explosion! ",
+    "occasion_ja": "特別な日に、友達と家族とシェアする時におすすめ！",
+    "occasion_en": "Perfect for sharing with friends and family on a special occasion! ",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "200g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "昆布だし",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パスタ",
+        "amount": "150g"
+      }
+    ],
+    "steps": [
+      "1. パスタを茹でる。",
+      "2. 明太子と生クリームを混ぜる。",
+      "3. 昆布だしとレモン汁を加えて混ぜる。",
+      "4. パスタを盛り付けて、レモンを添えて完成！"
+    ],
+    "prompt": "Close-up shot of a steaming plate of devilish lemon cream pasta. The pasta is coated in a creamy sauce, with lemon zest, and a sprinkle of red pepper flakes. A generous amount of fresh parsley adorns the top. ",
+    "filename": "recipe_1789969730.jpg",
+    "date": "2026-09-21 05:50:27",
+    "timestamp": 1789969730,
+    "likes": 0,
+    "views": 425
+  },
+  {
     "id": "recipe_1789951644",
     "category": "dessert",
     "category_ja": "デザート",
