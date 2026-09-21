@@ -1,5 +1,48 @@
 [
   {
+    "id": "recipe_1789951644",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカラメル！悪魔の甘酸っぱい衝撃！",
+    "title_en": "Roasted Sweet Potato with Buttercaramel - A Devilishly Delicious Surprise!",
+    "description_ja": "焼き芋の甘さに、とろけるバターカラメルが絡む、悪魔的な美味しさ！カリカリ食感と甘酸っぱさが最高のハーモニー！",
+    "description_en": "An unexpected explosion of sweet and savory with a devilishly delicious twist! The crispy texture and tangy sweetness combine for a perfect harmony of flavors!",
+    "occasion_ja": "特別な日のデザートに！",
+    "occasion_en": "Perfect dessert for a special occasion!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋を一口大に切る。",
+      "ボウルにバター、砂糖、塩を入れ、混ぜる。",
+      "焼き芋をボウルに加え、全体を絡める。",
+      "オーブンを180℃に予熱する。",
+      "焼き芋をオーブンで20分焼く。",
+      "焼き芋を皿に乗せ、とろけるバターカラメルをたっぷり添える。"
+    ],
+    "prompt": "A close-up shot of the dessert, with a focus on the caramelized butter and the sweet potato, against a dark background. The texture and color of the dessert should be emphasized.",
+    "filename": "recipe_1789951644.jpg",
+    "date": "2026-09-21 00:48:54",
+    "timestamp": 1789951644,
+    "likes": 0,
+    "views": 176
+  },
+  {
     "id": "recipe_1789944910",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
