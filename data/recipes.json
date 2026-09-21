@@ -1,5 +1,56 @@
 [
   {
+    "id": "recipe_1790012582",
+    "category": "サイドディッシュ",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "チーズタッカルビチキン：悪魔のビターチーズとスパイシーな衝撃！",
+    "title_en": "Cheese Tartare Chicken: Devilishly Delicious Spicy & Cheesy! ",
+    "description_ja": "とろけるチーズとタッカルビのハーモニーが炸裂！濃厚な塩味が食欲を刺激する、悪魔的な一品に仕上がります。",
+    "description_en": "A devilishly delicious fusion of creamy cheese and spicy tatar! This unique dish explodes with flavour and will surely leave you wanting more.",
+    "occasion_ja": "パーティーや飲み会にぴったりな一品",
+    "occasion_en": "Perfect side dish for parties or gatherings.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "1本"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを細かく刻む。",
+      "玉ねぎは薄切りにし、唐辛子も一緒に刻む。",
+      "タッカルビチキン、玉ねぎ、唐辛子、塩コショウ、オリーブオイルを混ぜ合わせる。",
+      "チーズを混ぜ合わせ、全体を混ぜる。",
+      "お好みでレモン汁、ハーブ、その他の調味料を加える。",
+      "盛り付け、焼いたり冷やして楽しむ。"
+    ],
+    "prompt": "A close-up shot of the cheese and chicken mixture, with creamy cheese and spicy tatar sauce, on a white plate with garnished herbs.",
+    "filename": "recipe_1790012582.jpg",
+    "date": "2026-09-21 17:45:24",
+    "timestamp": 1790012582,
+    "likes": 0,
+    "views": 150
+  },
+  {
     "id": "recipe_1789991050",
     "category": "side",
     "category_ja": "サイド",
