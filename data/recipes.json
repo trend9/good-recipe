@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1789991050",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のハンバーグ＆とろたまグラタン：濃厚デミソースと、たまごの魔法！",
+    "title_en": "Devil's Hamburger & Creamy Eggplant Gratin:  Decadent Demi-Sauce & Magic Egg Yolk!",
+    "description_ja": "とろとろ半熟卵と、濃厚デミグラスソースが絡まる、悪魔的な味わいを堪能！甘酸っぱさの中に、たまごの魔法が潜む、たまらない一品！",
+    "description_en": "A devilish taste sensation combining rich demi-glace sauce and creamy scrambled eggs! A mysterious magic of eggs awaits you in the decadent and flavorful dish.",
+    "occasion_ja": "週末のおうち料理、特別な日にぴったりな一品",
+    "occasion_en": "Perfect for weekend home-cooked meals or special occasions",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "200g"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "200g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "20g"
+      },
+      {
+        "name": "塩こしょう",
+        "amount": "適量"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼成し、デミグラスソースを絡める。",
+      "卵を1個半溶き、塩こしょうで味付けした。",
+      "トマトを薄切りにし、チーズを混ぜて、ハンバーグの表面に広げる。",
+      "卵の溶き卵とパルメザンチーズを混ぜ、ハンバーグの上部に盛り付ける。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious hamburger and creamy egg-based gratin with bright cheese, tomatoes, and a glistening egg yolk, with a dramatic lighting effect, anime-style illustration.",
+    "filename": "recipe_1789991050.jpg",
+    "date": "2026-09-21 11:45:53",
+    "timestamp": 1789991050,
+    "likes": 0,
+    "views": 203
+  },
+  {
     "id": "recipe_1789969730",
     "category": "パスタ",
     "category_ja": "パスタ",
