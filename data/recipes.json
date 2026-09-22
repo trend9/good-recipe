@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790074110",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔のサーモン＆アボカドの甘酸っぱくクリーミーな衝撃！",
+    "title_en": "Devilishly Delicious Salmon & Avocado Cream Cheese Surprise!",
+    "description_ja": "定番のサーモンに、クリーミーなアボカドと、意外な甘酸っぱさが加わる！まるで悪魔の味がする、超絶美味な一品。",
+    "description_en": "A devilishly delicious fusion of creamy avocado and a tangy sweetness. This surprising dish will take your tastebuds for a wild ride.",
+    "occasion_ja": "特別な日に、パーティーや、ちょっとした贅沢な食事に。",
+    "occasion_en": "Perfect for parties, special occasions, or just a little indulgence.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "クリーミーなチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. サーモンを1cm角に切り、塩コショウで味付けする。",
+      "2. アボカドは皮と種を取り除き、1cm角に切る。",
+      "3. フライパンにマヨネーズとレモン汁を入れて、弱火で混ぜる。",
+      "4.  サーモンを熱したフライパンに、アボカドとチーズを盛り付ける。弱火でチーズが溶けるまで焼く。"
+    ],
+    "prompt": "Close-up shot of the beautifully plated dish, with smoke rising from the salmon and avocado, showcasing a vibrant yellow cheese and creamy sauce.",
+    "filename": "recipe_1790074110.jpg",
+    "date": "2026-09-22 10:50:05",
+    "timestamp": 1790074110,
+    "likes": 0,
+    "views": 415
+  },
+  {
     "id": "recipe_1790055942",
     "category": "side",
     "category_ja": "サイド",
