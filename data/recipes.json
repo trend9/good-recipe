@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1790055942",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油：悪魔のチーズカレー風！",
+    "title_en": "炙り Char Siu x Rich Garlic Butter Curry: A Devilishly Delicious Surprise!",
+    "description_ja": "炙りチャーシューの旨味と、濃厚焦がしにんにく醤油の深み。クリーミーチーズとスパイシーなカレーソースが、衝撃的な美味しさに昇格する。",
+    "description_en": "The umami of char siu and the richness of the garlic butter curry sauce, all topped with a creamy cheese sauce and a touch of spice. This devilishly delicious dish will surely surprise you!",
+    "occasion_ja": "パーティー、ディナー、お酒のつまみに最適！",
+    "occasion_en": "Perfect for parties, dinners, and as a perfect appetizer for drinks!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "カレー粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1.5"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを粗く刻む。",
+      "2. 濃厚焦がしにんにく醤油とカレー粉を混ぜ合わせる。",
+      "3. 刻んだ炙りチャーシューに、混ぜ合わせた調味料を絡ませる。",
+      "4.  クリーミーチーズを混ぜ合わせ、熱で溶かし、バターを加えて、チーズソースを作る。",
+      "5. 溶かしチーズと熱したチャーシューを混ぜ合わせる。",
+      "6. 器に盛り付け、仕上げにバターを添える。"
+    ],
+    "prompt": "Close-up shot of the finished dish with melted cheese and char siu on a plate,  creamy cheese sauce with a hint of red chili flakes, and a beautiful, warm glow.",
+    "filename": "recipe_1790055942.jpg",
+    "date": "2026-09-22 05:48:11",
+    "timestamp": 1790055942,
+    "likes": 0,
+    "views": 387
+  },
+  {
     "id": "recipe_1790037103",
     "category": "side",
     "category_ja": "サイド",
