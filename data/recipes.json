@@ -1,5 +1,62 @@
 [
   {
+    "id": "recipe_1790090554",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろける卵と旨辛麻婆豆腐の衝撃！丼ぶり",
+    "title_en": "Spicy Egg and Tofu Bowl: An Explosion of Flavor!",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の組み合わせは、まさに悪魔的な美味しさの王道！一口食べれば、世界を虜にする一品です。",
+    "description_en": "Spicy Egg and Tofu Bowl: An Explosion of Flavor! This combination of melted egg and spicy tofu is a classic devilishly delicious recipe, one bite and you'll be hooked.",
+    "occasion_ja": "忙しい日でも、簡単に作れる！",
+    "occasion_en": "Quick and Easy! Perfect for busy days.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "豚ひき肉",
+        "amount": "100g"
+      },
+      {
+        "name": "きゅうり",
+        "amount": "1/2個"
+      },
+      {
+        "name": "にんにく",
+        "amount": "1/2個"
+      },
+      {
+        "name": "しょうが",
+        "amount": "1かけ"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "だし汁",
+        "amount": "100ml"
+      },
+      {
+        "name": "麻婆豆腐",
+        "amount": "1パック"
+      }
+    ],
+    "steps": [
+      "卵を溶き、1/2個のきゅうりを細かく切り、混ぜ合わせる。",
+      "豚ひき肉を炒める。",
+      "炒めた肉に、にんにく、しょうが、酒、だし汁を加え、煮込む。",
+      "麻婆豆腐を皿に盛り、卵ときゅうりの混ぜ合わせを乗せて完成。"
+    ],
+    "prompt": "Close up shot of the spicy egg and tofu bowl, vibrant colors, ramen-inspired style, with a drop of soy sauce on top",
+    "filename": "recipe_1790090554.jpg",
+    "date": "2026-09-22 15:24:25",
+    "timestamp": 1790090554,
+    "likes": 0,
+    "views": 158
+  },
+  {
     "id": "recipe_1790074110",
     "category": "dessert",
     "category_ja": "デザート",
