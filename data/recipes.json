@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790116743",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のクリーミーな海藻グラタン：海藻の旨味とクリーミーなアボカドの衝撃！",
+    "title_en": "Creamy Algae Gratin: a unique taste sensation with seaweed and avocado",
+    "description_ja": "海藻の旨味とクリーミーなアボカドの衝撃！とろける卵とクリーミーなグラタン、まさに悪魔の味！",
+    "description_en": "A creamy and unique twist on classic gratin featuring seaweed and avocado. This dish will be an unforgettable experience! ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "海藻",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. アボカドを薄切りにして、チーズで包んで、オーブンで焼きます。",
+      "2. 海藻を茹でて、アボカドと混ぜ合わせます。",
+      "3. 卵を溶き、牛乳を加えて混ぜます。",
+      "4. 海藻とアボカドの混合物をグラタン皿に盛り付け、卵と牛乳の液をかけた後にオーブンで焼きます。"
+    ],
+    "prompt": "A close-up shot of the creamy algae gratin with a cheesy, beautiful presentation. Garnished with fresh herbs and a few drops of lemon juice. Anime style illustration, vibrant colors.",
+    "filename": "recipe_1790116743.jpg",
+    "date": "2026-09-22 22:41:28",
+    "timestamp": 1790116743,
+    "likes": 0,
+    "views": 297
+  },
+  {
     "id": "recipe_1790105479",
     "category": "丼ぶり",
     "category_ja": "丼ぶり",
