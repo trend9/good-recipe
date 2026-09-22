@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1790037103",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔の甘酸っぱい衝撃！",
+    "title_en": "Crispy Potato with Creamy Cheese Sauce: A devilishly delicious twist!",
+    "description_ja": "サクサクポテトとクリーミーチーズソースの意外性あふれる組み合わせに、悪魔的な甘酸っぱさを加え、衝撃的な味わいを演出。",
+    "description_en": "A devilishly delicious fusion of crispy potato and creamy cheese sauce, adding a burst of sweet and sour flavor for a truly unforgettable taste experience.",
+    "occasion_ja": "パーティーやパーティーにぴったりな一品。",
+    "occasion_en": "A perfect side dish for parties and gatherings.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1kg"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "クリーミーなチーズソース",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "じゃがいもを一口大に切り、小麦粉をまぶす。",
+      "鍋に牛乳と卵を入れ、混ぜて卵焼きを作る。",
+      "油をひいて、じゃがいもを揚げる。",
+      "揚げたら、卵焼きとチーズソースを添えて完成"
+    ],
+    "prompt": "Close-up shot of crispy potato wedges with creamy cheese sauce, a delicious side dish with an alluring golden color. ",
+    "filename": "recipe_1790037103.jpg",
+    "date": "2026-09-22 00:33:20",
+    "timestamp": 1790037103,
+    "likes": 0,
+    "views": 219
+  },
+  {
     "id": "recipe_1790026537",
     "category": "pasta",
     "category_ja": "パスタ",
