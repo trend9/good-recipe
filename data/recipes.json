@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1790105479",
+    "category": "丼ぶり",
+    "category_ja": "丼ぶり",
+    "title_ja": "とろける卵と旨辛麻婆豆腐の衝撃！丼ぶり、悪魔のサーモン＆アボカドの甘酸っぱくクリーミーな衝撃！",
+    "title_en": "Shock! Spicy & Creamy Tuna & Avocado Bowl with Creamy Egg! ",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の融合が、新たな衝撃の丼ぶりを創造！甘酸っぱくクリーミーな食感と、ご飯との相性抜群！",
+    "description_en": "A bold fusion of creamy egg and spicy pork and a creamy avocado bowl! This is a unique shock! ",
+    "occasion_ja": "特別な日にはぴったり！",
+    "occasion_en": "Perfect for special occasions! ",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "サーモン",
+        "amount": "1切れ"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1/2個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "ご飯を器に盛り、旨辛麻婆豆腐を乗せ、混ぜる。",
+      "卵を溶き、醤油を加え、軽く混ぜる。",
+      "サーモンとアボカドを乗せて、卵の溶き卵を全体に広げる。",
+      "一口サイズにカットして盛り付け、お好みでソースを添える。"
+    ],
+    "prompt": "A close-up photo of the finished dish, beautifully plated, showcasing the contrasting textures of the avocado, meat, and egg, with a drizzle of sauce, on a bowl of rice.",
+    "filename": "recipe_1790105479.jpg",
+    "date": "2026-09-22 19:33:42",
+    "timestamp": 1790105479,
+    "likes": 0,
+    "views": 246
+  },
+  {
     "id": "recipe_1790090554",
     "category": "丼",
     "category_ja": "丼",
