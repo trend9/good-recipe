@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790147518",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "トマトの宝石箱：フレッシュモッツァレラとの意外な組み合わせ",
+    "title_en": "Tomato Jewel Box: A Surprise Partnership with Fresh Mozzarella",
+    "description_ja": "完熟トマトの甘酸っぱさに、フレッシュモッツァレラが爽やかさを加え、今までにない感覚の味わいが楽しめる、まさに悪魔的な美味しさのレシピ。",
+    "description_en": "A new kind of deliciousness! Fresh mozzarella brings a refreshing touch to the sweet and tangy flavor of ripe tomatoes for a culinary experience unlike anything you've ever tried.",
+    "occasion_ja": "パーティーや、特別な日に、見た目も美しい一品で魅せるのがおすすめ。",
+    "occasion_en": "Perfect for parties or a special occasion - this recipe will wow your guests with its beautiful presentation and delicious taste.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バジル",
+        "amount": "少々"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. トマトを半分に切って、種を取り除く。",
+      "2. 1/2個のモッツァレラは、1cm角にカットする。",
+      "3. 2 tablespoonsのオリーブオイルをトマトに塗り、バジルと塩を振る。",
+      "4. フライパンでトマトを焼く。モッツァレラを添えて、火を止める。"
+    ],
+    "prompt": "Close-up shot of a plate with a beautifully arranged tomato on a wooden board, topped with a generous amount of fresh mozzarella, drizzled with olive oil, and garnished with fresh basil. The background is soft lighting.",
+    "filename": "recipe_1790147518.jpg",
+    "date": "2026-09-23 07:13:46",
+    "timestamp": 1790147518,
+    "likes": 0,
+    "views": 294
+  },
+  {
     "id": "recipe_1790125854",
     "category": "Side",
     "category_ja": "サイド",
