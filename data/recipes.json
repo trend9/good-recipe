@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1790125854",
+    "category": "Side",
+    "category_ja": "サイド",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔の甘酸っぱい衝撃！",
+    "title_en": "Baked Yam with Butter Caramel: A Sweet and Sour Shocking! Recipe",
+    "description_ja": "このレシピは、焼き芋の甘さと、とろけるバターカラメルとの意外な組み合わせで、まるで悪魔が作ったような、衝撃的な美味しさに仕上がります。",
+    "description_en": "This recipe combines the sweetness of baked yam with the irresistible melt-in-your-mouth butter caramel, resulting in a shockingly delicious and devilishly good dish.",
+    "occasion_ja": "パーティーやBBQなど、特別な日にぴったり",
+    "occasion_en": "Perfect for parties and barbecues.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "100ml"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "焼き芋を180℃で30分焼く。",
+      "ボウルにバター、グラニュー糖、水を加えて混ぜ、弱火で溶かしながら加熱する。",
+      "溶けたバターの溶けた caramelを焼き芋に塗る。",
+      "レモン汁を加え、味を調える。",
+      "お好みでハーブやスパイスを添えて完成。"
+    ],
+    "prompt": "Close up shot of a caramelized baked yam with a drizzle of butter caramel. A beautiful and decadent dish. Rich, textured, slightly blurry background,  anime illustration style",
+    "filename": "recipe_1790125854.jpg",
+    "date": "2026-09-23 01:12:33",
+    "timestamp": 1790125854,
+    "likes": 0,
+    "views": 200
+  },
+  {
     "id": "recipe_1790116743",
     "category": "side",
     "category_ja": "サイド",
