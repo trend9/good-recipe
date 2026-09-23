@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1790187218",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔のクリーミーチーズポテトグラタン：とろけるチーズとサクサクポテトの衝撃！",
+    "title_en": "Creamy Cheese & Crispy Potato Gratin: A Creamy Cheese & Crispy Potato Shock!",
+    "description_ja": "サクサクポテトとクリーミーチーズソースが、一体化した衝撃的なグラタン！濃厚なチーズとポテトの組み合わせは、まるで悪魔の心臓を揺さぶる！",
+    "description_en": "A creamy cheese and crispy potato gratin with a shocking, creamy cheese and potato combination, it's a shock to your heart! ",
+    "occasion_ja": "パーティーやディナー、特別な日の食材に！",
+    "occasion_en": "Perfect for parties, dinner, or special occasions. ",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "200g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パセリ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ポテトを薄く切り、油で揚げる。",
+      "2.  クリームチーズと牛乳を混ぜる。",
+      "3. ポテトをグラタン皿に敷き詰める。",
+      "4.  クリームチーズと牛乳をかけた後、グラタンソースを振りかける。",
+      "5.  パセリを飾り付けをする。"
+    ],
+    "prompt": "Close-up shot of a creamy cheese and crispy potato gratin with fluffy cheese topping and a sprinkling of parsley. ",
+    "filename": "recipe_1790187218.jpg",
+    "date": "2026-09-23 18:15:59",
+    "timestamp": 1790187218,
+    "likes": 0,
+    "views": 352
+  },
+  {
     "id": "recipe_1790169419",
     "category": "side",
     "category_ja": "サイド",
