@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790200817",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "サーモン＆アボカドの甘酸っぱいクリーミーソースパスタ",
+    "title_en": "Salmon & Avocado Creamy Sour Cream Pasta",
+    "description_ja": "今までにない、サーモンとアボカドの衝撃的な美味しさ！クリーミーソースで、まるで海の恵みと甘酸っぱさが一体となったパスタが誕生！",
+    "description_en": "A unique, salmon and avocado experience with a creamy, tangy twist. This pasta dish delivers a flavor combination you won't soon forget!",
+    "occasion_ja": "特別な日のディナーにぴったり",
+    "occasion_en": "Perfect for a special dinner",
+    "ingredients": [
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーソース",
+        "amount": "適量"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. パスタを茹でる。",
+      "2. サーモンは一口大に切る。",
+      "3. アボカドは皮を剥き、1cm角に切る。",
+      "4. フライパンにマヨネーズとアボカドを加え、軽く炒める。"
+    ],
+    "prompt": "Close-up shot of creamy salmon pasta, with slices of avocado and a drizzle of creamy sauce. The pasta is steaming and a beautiful golden color. The background is simple and focuses on the dish.",
+    "filename": "recipe_1790200817.jpg",
+    "date": "2026-09-23 22:03:11",
+    "timestamp": 1790200817,
+    "likes": 0,
+    "views": 160
+  },
+  {
     "id": "recipe_1790187218",
     "category": "side",
     "category_ja": "サイドディッシュ",
