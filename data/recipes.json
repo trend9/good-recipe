@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790247448",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔の甘酸っぱい衝撃！",
+    "title_en": "Roasted Yam x Melt Butter Caramel: Devilishly Sweet & Sour Shock!",
+    "description_ja": "定番の焼き芋に、とろけるバターカラメルソースを絡めて、悪魔的においしい一口を味わえます！想像を超える甘酸っぱさが、口の中を震えさせます！",
+    "description_en": "Take your roasted yam to the next level with a decadent melt butter caramel sauce. The devilishly sweet and sour shock will leave your taste buds tingling!",
+    "occasion_ja": "パーティーやディナー、おやつにもぴったり！",
+    "occasion_en": "Perfect for parties, dinners, and even a tasty snack!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋を皮を剥き、半分に切る",
+      "ボウルにバター、砂糖、水を加えて混ぜる。レモン汁を加えて味を調える",
+      "焼き芋をボウルに入れ、バター溶け具合を見ながら、全体を蜜のように包む",
+      "オーブンを180℃に予熱し、焼き芋を焼く"
+    ],
+    "prompt": "A close-up shot of roasted yam with melted butter caramel sauce, showcasing the golden brown color and luscious texture, with a slight smile on a plate. ",
+    "filename": "recipe_1790247448.jpg",
+    "date": "2026-09-24 10:58:51",
+    "timestamp": 1790247448,
+    "likes": 0,
+    "views": 280
+  },
+  {
     "id": "recipe_1790228806",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
