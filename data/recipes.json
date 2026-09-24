@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790264594",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔のクリーミーな海老とアボカドのグラタン：海風と甘酸っぱさの衝撃！",
+    "title_en": "Creamy Lobster and Avocado Gratin: The Sea Breeze and Sweet Sour Shock!",
+    "description_ja": "定番のアボカドグラタンに、極上の海風と甘酸っぱさの組み合わせで、新たな美味しさを堪能！濃厚なクリーミーなグラタンと、海老の旨味が絶妙に融合する、衝撃的な一品をぜひ試して頂きたい。",
+    "description_en": "A classic avocado gratin gets a twist of the sea breeze and sweet sour flavors!  This creamy and flavorful gratin fuses the rich creaminess of the avocado with a delicious seafood twist, delivering a shockingly delicious experience.",
+    "occasion_ja": "特別な夜、おもてなし、または特別な日のデザートに最適",
+    "occasion_en": "Perfect for special occasions, such as dinners or as a dessert, or when you want to surprise someone.",
+    "ingredients": [
+      {
+        "name": "生アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "乾燥エビ",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーなチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. アボカドは皮を剥き、種を取り除き、一口大に切ります。",
+      "2. 生クリームを混ぜる、卵と塩コショウを混ぜ、アボカドと混ぜ合わせます。",
+      "3. 生クリームを混ぜる、エビとアボカドと混ぜ合わせます。",
+      "4. 大きなボウルに、アボカドとエビを混ぜ合わせ、チーズを混ぜます。"
+    ],
+    "prompt": "A close-up shot of a creamy, cheesy, and delicious lobster and avocado gratin with a steamy look.",
+    "filename": "recipe_1790264594.jpg",
+    "date": "2026-09-24 15:45:03",
+    "timestamp": 1790264594,
+    "likes": 0,
+    "views": 213
+  },
+  {
     "id": "recipe_1790247448",
     "category": "side",
     "category_ja": "サイド",
