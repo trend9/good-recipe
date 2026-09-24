@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790290662",
+    "category": "メイン",
+    "category_ja": "メイン料理",
+    "title_ja": "ローストビーフ × 濃厚オニオンソース：悪魔の甘酸っぱい衝撃！",
+    "title_en": "Roasted Beef × Creamy Onion Sauce: A Devilishly Delicious Surprise!",
+    "description_ja": "悪魔的な甘酸っぱさと濃厚な旨味を、ローストビーフと特製オニオンソースで味わおう！ 意外な組み合わせが、まるで悪魔の舌を刺激するような、絶品一品に。",
+    "description_en": "Dive into the devilishly delightful world of this unique recipe! A combination of roast beef and a creamy onion sauce will take your taste buds on a wild ride, leaving you craving for more.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ケチャップ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "ローストビーフを20分程焼きます。",
+      "玉ねぎを薄切りにし、バターとケチャップ、醤油で炒め、甘みと辛味を加えます。",
+      "ローストビーフと玉ねぎのソースを混ぜ合わせます。",
+      "お好みで、チーズをトッピングして召し上がってください。"
+    ],
+    "prompt": "Close-up shot of a plate with a beautifully grilled roast beef, accompanied by a rich and creamy onion sauce. The sauce is swirling with onion, with a slight hint of a smoky aroma.",
+    "filename": "recipe_1790290662.jpg",
+    "date": "2026-09-24 22:59:06",
+    "timestamp": 1790290662,
+    "likes": 0,
+    "views": 386
+  },
+  {
     "id": "recipe_1790279140",
     "category": "dessert",
     "category_ja": "デザート",
