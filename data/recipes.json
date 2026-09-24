@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790208973",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵×旨辛麻婆豆腐の衝撃！丼ぶり",
+    "title_en": "Decadent Egg & Spicy Kung Pao Chicken Bowl",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の意外な組み合わせで、脳裏に「衝撃！」と響く、悪魔的な美味しさ！一口食べれば、もう止まらない！",
+    "description_en": "Spicy Kung Pao Chicken with a decadent egg surprise! One bite will leave you speechless!",
+    "occasion_ja": "特別な日にも、普段使いにも！",
+    "occasion_en": "Perfect for any occasion!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "作り置き"
+      },
+      {
+        "name": "卵を崩した卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 卵を崩して、醤油とごま油で味付けする。",
+      "2. フライパンにごま油を熱し、麻婆豆腐を炒める。",
+      "3. 卵を炒めた後、麻婆豆腐に加えて混ぜ合わせる。",
+      "4. 丼に盛り付け、完成。"
+    ],
+    "prompt": "Bowl of creamy egg, spicy Kung Pao chicken, and fluffy rice, with a drizzle of sauce, vibrant and inviting, anime art style.",
+    "filename": "recipe_1790208973.jpg",
+    "date": "2026-09-24 00:17:47",
+    "timestamp": 1790208973,
+    "likes": 0,
+    "views": 410
+  },
+  {
     "id": "recipe_1790200817",
     "category": "パスタ",
     "category_ja": "パスタ",
