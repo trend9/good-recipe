@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790228806",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛ソースと、とろける絶品！",
+    "title_en": "Thick Cut Steak: Honey Mustard Aioli, A Taste of the Apocalypse!",
+    "description_ja": "極厚カツに、甘辛でとろけるハニーマスタードソースを合わせた、悪魔的な美味しさ！ 意外な組み合わせの甘さと辛さが、最高の味わいに。",
+    "description_en": "A devilishly delicious twist on classic thick cut steak!  A honey mustard aioli brings an unexpected level of sweetness and heat, all wrapped up in a succulent and perfect piece of steak. ",
+    "occasion_ja": " parties, dinner gatherings",
+    "occasion_en": "Dinner parties, celebrations",
+    "ingredients": [
+      {
+        "name": "厚切りステーキ",
+        "amount": "1枚"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ステーキを塩コショウで味付けし、薄く焼きます。",
+      "ハニーマスタードを、溶かしながら混ぜます。",
+      "ステーキにハニーマスタードソースを塗ります。",
+      "溶き卵を混ぜ合わせ、ステーキに盛り付け、お好みでマヨネーズを添えてください。"
+    ],
+    "prompt": "Close-up shot of thick cut steak topped with a swirl of honey mustard aioli, and a sunny-side-up egg, with a vibrant orange color. Garnished with fresh parsley. ",
+    "filename": "recipe_1790228806.jpg",
+    "date": "2026-09-24 05:48:23",
+    "timestamp": 1790228806,
+    "likes": 0,
+    "views": 271
+  },
+  {
     "id": "recipe_1790208973",
     "category": "丼もの",
     "category_ja": "丼もの",
