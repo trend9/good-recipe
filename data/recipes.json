@@ -1,5 +1,67 @@
 [
   {
+    "id": "recipe_1790358418",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のハニーマヨネーズサクサク唐揚げグラタン",
+    "title_en": "Honey Mayo Fried Chicken Arancini",
+    "description_ja": "サクサクの唐揚げに、とろけるハニーマヨネーズが合う！甘酸っぱさと旨みが融合した、悪魔的な美味しさのグラタンレシピ。",
+    "description_en": "A combination of crispy fried chicken and tangy honey mayonnaise! A delicious Arancini-style fried chicken recipe bursting with sweet and sour flavor.",
+    "occasion_ja": "パーティー、家族会、飲み会など、みんなが楽しめる！",
+    "occasion_en": "Perfect for parties, family gatherings, and gatherings with friends! ",
+    "ingredients": [
+      {
+        "name": "鶏もも肉",
+        "amount": "100g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "100g"
+      },
+      {
+        "name": "溶かしバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ハニー",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      },
+      {
+        "name": "油",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏もも肉を一口大に切り、塩コショウで味付けする。",
+      "小麦粉をふるい、溶かしバターとハニー、マヨネーズを混ぜ合わせた液状の材料を準備する。",
+      "鶏肉を小麦粉に包み、液状の材料を塗る。",
+      "油をひき、生地を揚げる。",
+      "揚げた鶏肉を盛り付ける"
+    ],
+    "prompt": "Anime illustration of Arancini with crispy fried chicken, honey sauce, and a beautiful color gradient. ",
+    "filename": "recipe_1790358418.jpg",
+    "date": "2026-09-25 17:49:31",
+    "timestamp": 1790358418,
+    "likes": 0,
+    "views": 215
+  },
+  {
     "id": "recipe_1790339979",
     "category": "side",
     "category_ja": "サイドディッシュ",
