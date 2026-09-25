@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1790319710",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘酸っぱい唐揚げ！ハニーマヨネーズとサクサク唐揚げの衝撃！",
+    "title_en": "Devilishly Delicious Fried Chicken: Honey Mayo & Crispy Chicken Surprise!",
+    "description_ja": "甘いハニーマヨネーズとサクサクした唐揚げの意外な組み合わせが、まるで悪魔が作った料理！ 想像を超える美味しさに魅了されます。",
+    "description_en": "A devilishly delicious combination of sweet honey mayo and crispy chicken will blow your mind. An unexpected and incredibly delicious culinary experience awaits you.",
+    "occasion_ja": "パーティーやBBQに最適！",
+    "occasion_en": "Perfect for parties and BBQs!",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "こしょう",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 小さなお団子状に、唐揚げを形にします。",
+      "2. 薄力粉と小麦粉を混ぜ合わせて、塩こしょうで味付けをします。",
+      "3. ハニーマヨネーズを塗って、揚げる。",
+      "4. 熱した油で揚げて、カリカリとしたサクサク感を味わってください。"
+    ],
+    "prompt": "A close-up photo of the fried chicken with a honey mayo glaze, the chicken is coated in a golden brown, crispy texture. A devilish smile on the face of the chef, suggestive of the recipe's deliciousness.",
+    "filename": "recipe_1790319710.jpg",
+    "date": "2026-09-25 07:03:34",
+    "timestamp": 1790319710,
+    "likes": 0,
+    "views": 347
+  },
+  {
     "id": "recipe_1790298462",
     "category": "dessert",
     "category_ja": "デザート",
