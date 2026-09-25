@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1790339979",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔のバター焼き芋グラタン：とろけるチーズと甘酸っぱい衝撃！",
+    "title_en": "Devilishly Delicious Butter Roasted Sweet Potato Gratin:  Sweet, Tangy, and Creamy Surprise!",
+    "description_ja": "焼き芋の甘酸っぱさを引き立て、とろけるバターカラメルソースで仕上げました。チーズをたっぷり使うことで、さらにコクと旨味を加え、悪魔的な美味しさに昇格します！",
+    "description_en": "This devilishly delicious gratin features a caramelized sweet potato base, a luscious buttery glaze, and a sprinkle of melty cheese for an extra layer of flavor. It's sure to satisfy your sweet and savory cravings.",
+    "occasion_ja": "特別な日やパーティーにぴったり！",
+    "occasion_en": "Perfect for special occasions and parties!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "3個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "グラタンチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋を一口大に切って、バターと砂糖で炒め、塩コショウで味付けします。",
+      "フライパンに牛乳とグラタンチーズを入れ、混ぜながら弱火で加熱します。",
+      "焼き芋の焼き具合を確認し、グラタンチーズを加え、全体を混ぜます。",
+      "バター焼き芋を皿に盛り付け、とろけるバターカラメルソースを添え、完成!"
+    ],
+    "prompt": "A close-up shot of the finished gratin. Warm, buttery, and oozing with deliciousness, it’s surrounded by a swirl of melted cheese and a buttery glaze.",
+    "filename": "recipe_1790339979.jpg",
+    "date": "2026-09-25 12:41:21",
+    "timestamp": 1790339979,
+    "likes": 0,
+    "views": 211
+  },
+  {
     "id": "recipe_1790319710",
     "category": "side",
     "category_ja": "サイド",
