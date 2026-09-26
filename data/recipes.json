@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790411424",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "サクサクポテトチーズの悪魔的グラタン",
+    "title_en": "Sizzling Potato Cheese Explosion Grainy",
+    "description_ja": "サクサクポテトとクリーミーチーズの組み合わせは、まるで悪魔が作ったかのような、衝撃的な美味しさ！ 意外な組み合わせなのに、驚くほど美味しい一品を、簡単に作れるレシピで紹介します！",
+    "description_en": "A devilish combination of crispy potatoes and creamy cheese will take you on an unforgettable taste journey! This unexpected and delicious recipe is easy to make and will change your perception of savory dishes forever.",
+    "occasion_ja": "パーティーやディナーのサイドディッシュにぴったり",
+    "occasion_en": "Perfect as a side dish for parties and dinners.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "溶かしバター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "じゃがいもを1cm角にカットし、小麦粉と溶かしバターで包んで、揚げる。",
+      "揚げたポテトをチーズと牛乳で作ったクリームソースに絡めて、グラタン皿に盛り付ける。",
+      "グラタン皿の上には、焼きチーズを乗せて、グラタンを焼く。",
+      "焼き上がったら、皿に並べて、仕上げに仕上げバターで飾る。"
+    ],
+    "prompt": "Close-up photo of a sizzling potato and cheese dish, with a golden cheese crust and a creamy white sauce, artfully arranged on a plate with melted butter on top, dramatic and eye-catching",
+    "filename": "recipe_1790411424.jpg",
+    "date": "2026-09-26 08:32:03",
+    "timestamp": 1790411424,
+    "likes": 0,
+    "views": 396
+  },
+  {
     "id": "recipe_1790391726",
     "category": "丼",
     "category_ja": "丼もの",
