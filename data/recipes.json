@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790454839",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろとろ卵×旨辛麻婆豆腐丼：悪魔の甘辛衝撃！",
+    "title_en": "Ttoro-tororo Egg x Spicy Kung Pao Tofu Bowl: Devilish Sweet & Sour Shock!",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の組み合わせで、悪魔的な甘辛な衝撃をお届け！ 濃厚な麻婆豆腐と、ふわふわの卵の組み合わせは、まさに悪魔の食欲を刺激する一品です。",
+    "description_en": "A devilish combination of creamy egg and spicy kung pao tofu!  The creamy egg and the spicy kung pao tofu combo will definitely tickle your taste buds with a devilish sweet & sour shock! ",
+    "occasion_ja": "特別な日、週末、夜食にぴったり！",
+    "occasion_en": "Perfect for special days, weekends, and dinner! ",
+    "ingredients": [
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1 serving"
+      },
+      {
+        "name": "卵",
+        "amount": "2"
+      },
+      {
+        "name": "お好みのネギ",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ごま油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1.  麻婆豆腐の旨味を最大限に引き出すために、一口サイズにカットし、器に盛る。",
+      "2.  卵をゆでる。",
+      "3.  ゆで卵にネギを乗せ、ごま油を加え、卵が溶けるまで混ぜる。",
+      "4.  麻婆豆腐を器に盛り、卵のソースをかける。"
+    ],
+    "prompt": "Close-up shot of a bowl of spicy kung pao tofu with a soft fried egg on top, sprinkled with green onion, in a stylish kitchen setting.",
+    "filename": "recipe_1790454839.jpg",
+    "date": "2026-09-26 20:36:11",
+    "timestamp": 1790454839,
+    "likes": 0,
+    "views": 203
+  },
+  {
     "id": "recipe_1790444151",
     "category": "dessert",
     "category_ja": "デザート",
