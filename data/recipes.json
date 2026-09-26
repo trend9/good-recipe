@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1790391726",
+    "category": "丼",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵×旨辛麻婆豆腐丼：悪魔の甘辛衝撃！",
+    "title_en": "Spicy & Creamy Egg & Tofu Rice Bowl: Devilish Spicy & Creamy Surprise!",
+    "description_ja": "ふわふわ卵と激辛麻婆豆腐の意外な組み合わせで、誰もが引き寄せられる！甘辛でとろける感覚を味わえる、インパクト抜群の丼！",
+    "description_en": "A spicy and creamy fusion of fluffy egg and spicy tofu, a unique and surprising combination that will have everyone craving more! A bowl full of devilishly delicious flavors you can't resist.",
+    "occasion_ja": "友人とシェアする夕食、特別な夜にぴったり",
+    "occasion_en": "Perfect for sharing with friends or loved ones, perfect for special occasions.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "ごはん",
+        "amount": "1合"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 豆腐と麻婆豆腐を炒める: 豆腐を炒める前に、油を熱して麻婆豆腐を加え、全体を炒める。",
+      "2. 卵を溶き、ごま油と調味料を加えて混ぜる: 卵を溶き、ごま油と調味料を加え、混ぜ合わせる。",
+      "3. ご飯と卵を丼に盛り付ける: ご飯を丼に盛り付け、溶き卵の表面に配置する。",
+      "4. 仕上げ: 仕上げに、お好みで胡椒を振ることで、更に食欲をそそる。"
+    ],
+    "prompt": "Close-up shot of a bowl of spicy and creamy egg and tofu rice bowl with fluffy egg on top. Vibrant colors and tantalizing textures. ",
+    "filename": "recipe_1790391726.jpg",
+    "date": "2026-09-26 03:03:54",
+    "timestamp": 1790391726,
+    "likes": 0,
+    "views": 387
+  },
+  {
     "id": "recipe_1790370118",
     "category": "グラタン",
     "category_ja": "グラタン",
