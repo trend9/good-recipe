@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790429811",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛マイルドな衝撃！",
+    "title_en": "Smoked Char-siu × Rich Garlic Pepper Sauce: A Sweet and Mild Explosion!",
+    "description_ja": "炙りチャーシューの旨味と濃厚焦がしにんにく醤油の甘辛さが、まるで悪魔の舌触りを誘う、意外性と美味しさの融合料理！",
+    "description_en": "Smoked Char-siu with a rich garlic pepper sauce, offering a delightful blend of sweet and savory, with a unique and delicious texture! ",
+    "occasion_ja": "パーティーやBBQに最適！",
+    "occasion_en": "Perfect for parties and BBQ!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "適量"
+      },
+      {
+        "name": "クルトン",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  炙りチャーシューを一口サイズに切る。",
+      "2.  濃厚焦がしにんにく醤油を、熱したフライパンでバターと混ぜる。",
+      "3.  クルトンを混ぜて、焼いた表面をコーティングする。",
+      "4.  レモン汁を加えて味を調え、器に盛り付ける。"
+    ],
+    "prompt": "A close-up shot of a dish of smoked char-siu with rich garlic pepper sauce, glazed with a lemon-butter sauce, served on a plate with a cloud-like pattern, in a modern, minimalist setting with a subtle neon lighting effect.",
+    "filename": "recipe_1790429811.jpg",
+    "date": "2026-09-26 13:38:29",
+    "timestamp": 1790429811,
+    "likes": 0,
+    "views": 167
+  },
+  {
     "id": "recipe_1790411424",
     "category": "dessert",
     "category_ja": "デザート",
