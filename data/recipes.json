@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790464889",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナとキャラメルブリュレの悪魔的デトックスケーキ：甘酸っぱく苦い衝撃！",
+    "title_en": "Banana & Caramel Brulee Detox Cake: Sweet, Tangy, and a Bit Bitter",
+    "description_ja": "熟したバナナをキャラメルブリュレで包み込んだ、甘酸っぱく苦いケーキ。まるで悪魔が作った、デトックスケーキだ！ 想像以上に美味しくて、思わず頬張る！",
+    "description_en": "A decadent cake filled with caramelized bananas. Sweet, tangy and a hint of bitterness. A detox cake that even the devil would approve of. You'll be wanting more! ",
+    "occasion_ja": "特別な日に食べたいデザート。また、ダイエット中の方にもおすすめ",
+    "occasion_en": "Perfect dessert for special occasions and for people on a diet. ",
+    "ingredients": [
+      {
+        "name": "熟したバナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルブリュレ",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "バナナを綺麗に切ります。",
+      "熟したバナナの皮と繊維を取り除きます。",
+      "バナナをキャラメルブリュレで包みます。",
+      "キャラメルブリュレとバナナの組み合わせは、甘酸っぱさと苦味が調和する、悪魔的な美味しさ！ さらに、牛乳と生クリームを加えることで、より滑らかな食感に。 "
+    ],
+    "prompt": "Close-up shot of a cake with caramelized bananas in a brown sugar glaze. The cake is dusted with sugar, and it has a dark brown glaze.  A dark background. ",
+    "filename": "recipe_1790464889.jpg",
+    "date": "2026-09-26 23:23:48",
+    "timestamp": 1790464889,
+    "likes": 0,
+    "views": 267
+  },
+  {
     "id": "recipe_1790454839",
     "category": "丼",
     "category_ja": "丼",
