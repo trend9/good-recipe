@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790444151",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶×濃厚ホワイトチョコ：悪魔の甘酸っぱいマイルドな衝撃！",
+    "title_en": " Matcha White Chocolate:  Sweet & Sour Delight",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートの意外な組み合わせで、マイルドで悪魔的な味覚を味わえるレシピ！  香りの豊かな抹茶とクリーミーなホワイトチョコレートが絶妙なハーモニー！",
+    "description_en": "A delicious recipe with a delightful twist, combining the aromatic world of matcha and the creamy indulgence of white chocolate! This unexpected pairing will leave your taste buds in awe. ",
+    "occasion_ja": "特別な日やちょっとしたご褒美に、特別な気分を味わえるデザートレシピ",
+    "occasion_en": "Perfect for special occasions and a delightful treat to yourself! ",
+    "ingredients": [
+      {
+        "name": "抹茶ソース",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "200g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "生粉",
+        "amount": "50g"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "抹茶ソースを作る：抹茶 powder を水で溶かし、お好みで砂糖を加える。",
+      "ホワイトチョコレートを作る：濃厚ホワイトチョコレート を鍋に入れ、弱火で溶かす。",
+      "生地を作る：生粉と薄力粉を混ぜ、水と生クリームを加えて生地を練る。",
+      "完成：抹茶ソースを生地に、ホワイトチョコレートを乗せた後に、抹茶ソースを塗る。"
+    ],
+    "prompt": "Close-up shot of a beautifully crafted dessert plate.  Rich white chocolate ganache swirls with emerald green matcha cream, accented by delicate matcha powder flakes.",
+    "filename": "recipe_1790444151.jpg",
+    "date": "2026-09-26 17:37:33",
+    "timestamp": 1790444151,
+    "likes": 0,
+    "views": 313
+  },
+  {
     "id": "recipe_1790429811",
     "category": "side",
     "category_ja": "サイド",
