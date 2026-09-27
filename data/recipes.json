@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1790535294",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔的なクリームチーズとホタテのグラタン：海の塩梅が溶ける！",
+    "title_en": "Creamy Crab & Cheese Gratin: Sea Salt's Embrace",
+    "description_ja": "海と山、そして悪魔の美味しいハーモニーを味わえる、クリーミーで濃厚なグラタン！ホタテの旨味が凝縮した、海の塩梅が溶ける一皿。",
+    "description_en": "Creamy and rich gratin with a briny embrace of the sea! This dish combines the savory essence of crab with the rich comfort of cream cheese, all bound together with a touch of the sea's saltiness.",
+    "occasion_ja": "特別な日には、贅沢な味わいを演出する一品！",
+    "occasion_en": "For special occasions, a taste of luxury awaits you!",
+    "ingredients": [
+      {
+        "name": "ホタテ",
+        "amount": "100g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ホタテを水で洗い、塩で下味を付ける。",
+      "鍋でバターを溶かし、牛乳を加える。",
+      "クリームチーズを加え、混ぜる。",
+      "ホタテをグラタン皿に盛る。チーズソースをかけた後、オーブンで15分焼けば完成。"
+    ],
+    "prompt": "A close-up shot of a beautiful creamy crab and cheese gratin in an oven, the cheese is melted and bubbly. The gratin is presented in a rustic dish with a focus on the rich texture of the dish. ",
+    "filename": "recipe_1790535294.jpg",
+    "date": "2026-09-27 18:56:36",
+    "timestamp": 1790535294,
+    "likes": 0,
+    "views": 167
+  },
+  {
     "id": "recipe_1790521104",
     "category": "dessert",
     "category_ja": "デザート",
