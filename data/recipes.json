@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1790478393",
+    "category": "サイド",
+    "category_ja": "サイドメニュー",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛サクサク！",
+    "title_en": "The devilish sweet & spicy crunch of Thick-Cut Pork Cutlets & Special Honey Mustard!",
+    "description_ja": "極厚カツの表面に、特製ハニーマスタードを塗って、サクサクとした食感と甘辛の美味しさの衝撃！悪魔の甘辛サクサク体験をさせてください。",
+    "description_en": "The devilishly sweet and spicy crunch of thick-cut pork cutlets with our special honey mustard sauce - a unique and explosive flavour experience! ",
+    "occasion_ja": "パーティー、飲み会、食事会、夜食、お酒のつまみ、 grigori,  ",
+    "occasion_en": "Party, Dinner Party,  Cocktail Night, Snacks, Appetizers,  Grill, ",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "極厚カツの両面に、特製ハニーマスタードを塗る。",
+      "塩とブラックペッパーをまぶす。",
+      "両面に焼き目をつけ、表面にカリッとした風合いが生まれるまで焼く。",
+      "焼き上げたら、冷ましてから、盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a crispy, golden-brown pork cutlet topped with special honey mustard sauce, showcasing the beautiful textures.",
+    "filename": "recipe_1790478393.jpg",
+    "date": "2026-09-27 03:07:51",
+    "timestamp": 1790478393,
+    "likes": 0,
+    "views": 184
+  },
+  {
     "id": "recipe_1790464889",
     "category": "dessert",
     "category_ja": "デザート",
