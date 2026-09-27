@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790545886",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマトとモッツァレラの悪魔的なチーズタルト",
+    "title_en": "Tomato and Mozzarella's Devilish Cheese Tart",
+    "description_ja": "完熟トマトの甘酸っぱさと、モッツァレラチーズのクリーミーな味わいが、まるで悪魔の囁きのようなタルト。意外な組み合わせが、究極の美味しさに導きます。",
+    "description_en": "A devilishly delicious cheese tart with the sweetness of ripe tomatoes and creamy mozzarella. The unexpected combination creates a taste of temptation you won't forget.",
+    "occasion_ja": "特別な日や特別な時間、特別なひとときを演出",
+    "occasion_en": "Perfect for special occasions and moments to celebrate",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "3個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "1. トマトを薄切りにして、軽く塩胡椒をして、耐熱皿に配置する。",
+      "2. モッツァレラチーズを、生地の表面に軽く塗る。",
+      "3.  バターと小麦粉を加えて、混ぜ合わせる。牛乳を加え、さらに混ぜる。",
+      "4. トマトとチーズを生地で包み込み、オーブンで15分焼く。その後、冷まして完成。"
+    ],
+    "prompt": "Close-up photo of a beautiful, golden-brown cheese tart, with perfectly ripe tomatoes and melted mozzarella cheese, against a white background, with a subtle hint of darkness. The image should evoke the essence of a devilishly delicious dessert",
+    "filename": "recipe_1790545886.jpg",
+    "date": "2026-09-27 21:52:53",
+    "timestamp": 1790545886,
+    "likes": 0,
+    "views": 407
+  },
+  {
     "id": "recipe_1790535294",
     "category": "グラタン",
     "category_ja": "グラタン",
