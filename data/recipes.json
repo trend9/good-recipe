@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790521104",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜×きな粉もちもちアイス クランチ！",
+    "title_en": "Black Sugar & Sesame Ice Cream Crunchy! ",
+    "description_ja": "悪魔的な甘さ、意外な食感、これ1杯で満足！黒蜜の濃厚な甘さときな粉の香ばしさ、もちもちアイスに融合させた、新しい感覚のデザートレシピ。",
+    "description_en": "This is a new dessert recipe that brings you a mix of sweet and salty and crunchy textures that will leave you wanting more.  The combination of black sugar's rich sweetness and the savory aroma of sesame with the mochi ice cream is sure to create a unique and addictive flavor experience.",
+    "occasion_ja": "特別な日に、特別なデザートを味わいたい時",
+    "occasion_en": "For special occasions or when you want to treat yourself to something unique and delicious",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "きな粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "グラノーラ",
+        "amount": "お好みで"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "もちもちアイスに黒蜜を混ぜる",
+      "きな粉を混ぜる",
+      "黒蜜アイスときな粉を混ぜる",
+      "お好みでグラノーラやバターを加える"
+    ],
+    "prompt": "Close-up shot of a bowl of black sugar ice cream with sesame crumbs, with a few sprinkles of cinnamon on top. A sprinkle of golden flakes on the surface.  The black sugar ice cream is creamy and smooth, and the sesame seeds give it a crunchy texture.",
+    "filename": "recipe_1790521104.jpg",
+    "date": "2026-09-27 15:01:21",
+    "timestamp": 1790521104,
+    "likes": 0,
+    "views": 294
+  },
+  {
     "id": "recipe_1790478393",
     "category": "サイド",
     "category_ja": "サイドメニュー",
