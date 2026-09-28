@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790607173",
+    "category": "メインディッシュ",
+    "category_ja": "メイン料理",
+    "title_ja": "悪魔のハンバーグ！とろとろ卵とデミグラスソースの甘辛絶品！",
+    "title_en": "Devilish Hamburger!  Sweet and Spicy Delicacy with Creamy Egg and Demi-Glace Sauce!",
+    "description_ja": "とろける半熟卵と濃厚デミグラスソースを組み合わせた、悪魔的美味しさのハンバーグ！甘辛で、超絶美味しい一品をぜひお試しください！",
+    "description_en": "A devilishly delicious hamburger featuring a creamy egg yolk and rich demi-glace sauce.  Experience a sweet and spicy sensation you won't forget!",
+    "occasion_ja": "パーティーや特別な日におすすめ！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "200g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼きます。",
+      "卵を溶き、マヨネーズを加えて混ぜ合わせます。",
+      "ハンバーグに卵の溶き卵を流し込み、チーズを乗せます。",
+      "ハンバーグを焼く。デミグラスソースとチーズを絡めながら焼きます。"
+    ],
+    "prompt": "Close-up photo of a sizzling devilish hamburger with creamy yolk and rich demi-glace sauce, a cheeseburger with melted cheese on top.",
+    "filename": "recipe_1790607173.jpg",
+    "date": "2026-09-28 14:54:32",
+    "timestamp": 1790607173,
+    "likes": 0,
+    "views": 194
+  },
+  {
     "id": "recipe_1790576164",
     "category": "Side",
     "category_ja": "サイド",
