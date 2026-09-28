@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1790576164",
+    "category": "Side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘辛スパイシー！",
+    "title_en": "Spicy Cheesy Chicken: The Devilish Sweet & Spicy Delight!",
+    "description_ja": "とろけるチーズとタッカルビチキンが、スパイシーな風味で魅せる！悪魔的な甘辛味で食欲をそそる一品。",
+    "description_en": "A devilishly delicious fusion of creamy cheese and spicy Korean chicken! Get ready for a sweet and spicy explosion that will rock your taste buds.",
+    "occasion_ja": "パーティーやBBQにぴったり！",
+    "occasion_en": "Perfect for parties and BBQs!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "1枚"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "お好みで: ジンジャー、セロピウム、マイルドな辛味ソース",
+        "amount": "適量"
+      },
+      {
+        "name": "ゴマ",
+        "amount": "1小さじ"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを一口サイズに切る。",
+      "2.  とろけるチーズを一口サイズにカットして、タッカルビチキンにまぶす。",
+      "3.  お好みで、ジンジャー、セロピウム、マイルドな辛味ソースを混ぜ合わせて、チーズとタッカルビチキンに加え、全体に混ぜる。",
+      "4.  ゴマをまぶして、お好みでハーブやスパイスを添えて完成。"
+    ],
+    "prompt": "A close-up shot of the cheese-filled chicken, with a tantalizing view of melting cheese and spices.  A fiery background color of red to showcase the spiciness. ",
+    "filename": "recipe_1790576164.jpg",
+    "date": "2026-09-28 06:19:14",
+    "timestamp": 1790576164,
+    "likes": 0,
+    "views": 385
+  },
+  {
     "id": "recipe_1790554581",
     "category": "丼",
     "category_ja": "丼",
