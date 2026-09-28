@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790554581",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろける卵×旨辛麻婆豆腐丼：悪魔の甘辛マイルドな衝撃！",
+    "title_en": "Tender Egg X Spicy Mapo Tofu Don:  A Mildly Devilish Explosion of Flavor!",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の組み合わせは、甘辛で奥深い味覚を堪能できます。このレシピは、一口食べれば、悪魔的な美味しさに魅了されること間違いなし！",
+    "description_en": "The combination of tender eggs and spicy mapo tofu offers a rich and decadent taste experience. This recipe will captivate your taste buds with a devilishly delicious flavor explosion with every bite!",
+    "occasion_ja": "家族とのディナーに、あるいは特別な日にぴったりな一品",
+    "occasion_en": "Perfect for family dinners or special occasions",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1人分"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "ごま油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "卵を2個割って、溶き卵に混ぜる。",
+      "フライパンにごま油をひき、卵と醤油を混ぜたものを入れ、弱火で炒める。",
+      "ご飯を1合と混ぜ、炒めた卵とご飯を混ぜる。",
+      "旨辛麻婆豆腐を乗せ、好みのトッピングを加える。"
+    ],
+    "prompt": "Close-up shot of the dish with a golden yolk nestled in the creamy, spicy mapo tofu, served on top of a fluffy rice bowl, with a sprinkle of green onion.",
+    "filename": "recipe_1790554581.jpg",
+    "date": "2026-09-28 00:18:06",
+    "timestamp": 1790554581,
+    "likes": 0,
+    "views": 360
+  },
+  {
     "id": "recipe_1790545886",
     "category": "dessert",
     "category_ja": "デザート",
