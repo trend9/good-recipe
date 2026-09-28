@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1790629552",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的クリーミーなアボカド＆ホタテグラタン",
+    "title_en": "Creamy Avocado & Scallop Gratin - Devilishly Delicious",
+    "description_ja": "クリーミーなアボカドと、上品な甘みで、海からの悪魔的な美味しさ！ホタテを加えることで、さらに深みのある味わいに。",
+    "description_en": "Creamy avocado and scallop gratin with a touch of devilishly delicious sweetness.  Adding tender scallop elevates this dish to new heights.",
+    "occasion_ja": "パーティーや特別な日にぴったり",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "ホタテ",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "パセリ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "アボカドは皮をむいて、食べやすい大きさに切ります。",
+      "ホタテは汚れを落とすために塩水で洗い、水気を拭きます。",
+      "鍋にバターを熱し、アボカドとホタテを加えて炒めます。",
+      "牛乳を加え、弱火で1分ほど煮詰めます。",
+      "パセリを散らしてから、塩で味を調え、皿に盛り付けます。"
+    ],
+    "prompt": "A beautiful close-up image of a creamy avocado and scallop gratin with a sprinkle of parsley, in a rustic, wooden-tone bowl.",
+    "filename": "recipe_1790629552.jpg",
+    "date": "2026-09-28 21:08:58",
+    "timestamp": 1790629552,
+    "likes": 0,
+    "views": 163
+  },
+  {
     "id": "recipe_1790607173",
     "category": "メインディッシュ",
     "category_ja": "メイン料理",
