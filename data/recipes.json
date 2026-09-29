@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1790689322",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の明太チーズクリームパスタ",
+    "title_en": "Devilish Spicy & Creamy Lemon Cream Pasta with Creamy Cheese",
+    "description_ja": "レモンクリームソースに明太子を投入！明太子とチーズの意外性、さらにスパイシーな風味を加えた、悪魔的な一皿。見た目も鮮やかで食欲をそそります。",
+    "description_en": "A devilish twist to the classic lemon cream pasta! Combining the tanginess of lemon cream with the umami of spicy mayo and the creaminess of cheese, it's a dish that's both visually stunning and irresistibly delicious.",
+    "occasion_ja": "特別な日の夕食に！",
+    "occasion_en": "Perfect for a special dinner occasion",
+    "ingredients": [
+      {
+        "name": "パスタ",
+        "amount": "100g"
+      },
+      {
+        "name": "明太子",
+        "amount": "1包"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      }
+    ],
+    "steps": [
+      "パスタを茹でる。",
+      "明太子を細かく刻む。",
+      "レモン汁と牛乳を混ぜる。明太子を加えて、混ぜる。",
+      "クリームチーズと生クリームを加え、なめらかになるまで混ぜる。",
+      "茹で上がったパスタをソースに加え、混ぜ合わせる。"
+    ],
+    "prompt": "Close-up shot of devilish pasta with creamy cheese sauce, lemon zest and spicy streaks. A steaming bowl of creamy cheese pasta, garnished with fresh herbs.",
+    "filename": "recipe_1790689322.jpg",
+    "date": "2026-09-29 13:43:45",
+    "timestamp": 1790689322,
+    "likes": 0,
+    "views": 452
+  },
+  {
     "id": "recipe_1790663536",
     "category": "dessert",
     "category_ja": "デザート",
