@@ -1,5 +1,60 @@
 [
   {
+    "id": "recipe_1790643386",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のサクサクチーズチキン！甘辛マヨネーズのハーモニー",
+    "title_en": "Devilish Crispy Chicken with Honey Mayo Harmony",
+    "description_ja": "サクサクしたチキンと、甘辛いマヨネーズのハーモニー。悪魔的美味しさ満載！",
+    "description_en": "Crispy chicken with a sweet and spicy honey mayo harmony. Devilishly delicious!",
+    "occasion_ja": "パーティーやBBQにぴったり",
+    "occasion_en": "Perfect for parties and BBQs!",
+    "ingredients": [
+      {
+        "name": "鶏むね肉",
+        "amount": "300g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "溶き卵",
+        "amount": "2個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ハチミツ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏むね肉を一口大に切る。",
+      "小麦粉と溶き卵を混ぜる。",
+      "鶏肉を小麦粉につけ、余分な粉を落とす。",
+      "マヨネーズ、ハチミツ、塩、こしょうを混ぜ合わせる。",
+      "鶏肉をマヨネーズソースで包んで、両面をしっかりと包む。",
+      "180度に予熱した油で揚げる。"
+    ],
+    "prompt": "A close-up image of a golden fried chicken, covered in a light and tangy honey mayo sauce. The chicken is crispy on the outside and juicy on the inside, and a bit of the honey glaze drips on the plate.  The background is slightly blurred and a bit abstract.",
+    "filename": "recipe_1790643386.jpg",
+    "date": "2026-09-29 00:58:06",
+    "timestamp": 1790643386,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1790629552",
     "category": "side",
     "category_ja": "サイド",
