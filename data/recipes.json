@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790708743",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもち！悪魔のアイスバー！",
+    "title_en": "Black Sugar Kinako Mochi! Devilish Ice Bar!",
+    "description_ja": "黒蜜ときな粉をたっぷり使った、もちもちアイスに、甘辛な隠し味で、悪魔的な美味しさのアイスバーが誕生！見た目も可愛い、SNS映えも抜群！",
+    "description_en": "A devilishly delicious ice bar bursting with the flavors of black sugar and kinako powder! This unexpected combo of textures and taste will wow your audience, sure to become a hit on Instagram.",
+    "occasion_ja": " parties, events, desserts, after dinner treats, special occasions!",
+    "occasion_en": " Parties, Events, Desserts, After-Dinner Treats, Special Occasions!",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶ソース",
+        "amount": "適量"
+      },
+      {
+        "name": "黒糖パウダー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  もちもちアイスに黒蜜を塗る。",
+      "2.  きな粉をまぶす。",
+      "3.  抹茶ソースを少し垂らして、黒糖パウダーをふりかける。",
+      "4.  お好みで、黒蜜を少し追加する。 "
+    ],
+    "prompt": "Close-up shot of a devilishly delicious ice bar, topped with a layer of black sugar and kinako powder. An ice cream bar with a beautiful, colorful, and artistic appearance. ",
+    "filename": "recipe_1790708743.jpg",
+    "date": "2026-09-29 19:06:39",
+    "timestamp": 1790708743,
+    "likes": 0,
+    "views": 477
+  },
+  {
     "id": "recipe_1790689322",
     "category": "pasta",
     "category_ja": "パスタ",
