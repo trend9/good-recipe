@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790663536",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔のデミグラスハンバーグととろとろ半熟卵のチーズケーキ風！",
+    "title_en": "Devilishly delicious half-cooked egg and demi-glace hamburger cake-like!",
+    "description_ja": "とろける半熟卵と濃厚デミグラスソースに、チーズケーキ風な香ばしい風味をプラス！まるで悪魔が作ったケーキのような、美味しさと衝撃のハーモニーを味わえる一品！",
+    "description_en": "A devilishly delicious combination of half-cooked eggs and rich demi-glace sauce, with a cheesy, cake-like flavor! A taste of the devil's cake with a perfect balance of sweetness and shock!",
+    "occasion_ja": "特別な夜に、または特別な人へ",
+    "occasion_en": "For a special night or for someone special.",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パウダー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ハンバーグを焼いて、デミグラスソースで味付けし、半熟卵を上にトッピングする。",
+      "チーズをトッピングして、パウダーをふりかける。",
+      "電子レンジで1分間加熱する。",
+      "完成！"
+    ],
+    "prompt": "Close-up of a dessert with a hamburger patty on top, half-cooked egg, melted cheese, and a light powder sprinkle on a wooden table with soft lighting",
+    "filename": "recipe_1790663536.jpg",
+    "date": "2026-09-29 06:33:52",
+    "timestamp": 1790663536,
+    "likes": 0,
+    "views": 477
+  },
+  {
     "id": "recipe_1790643386",
     "category": "side",
     "category_ja": "サイド",
