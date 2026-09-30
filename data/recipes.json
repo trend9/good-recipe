@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1790786360",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "明太レモンクリームパスタ × レモンと生パプリカのチーズタルト",
+    "title_en": "Lemon Cream Pasta with Spicy Pプリカ & Lemon Cheesecake",
+    "description_ja": "明太子のコクとレモンの爽やかさが、濃厚なチーズタルトに融合。一口食べれば、悪魔の甘辛な美味しさに魅了される！",
+    "description_en": "A symphony of lemon and spicy, with a creamy cheesecake base and a bold lemon twist. An irresistible devilishly delicious recipe awaits.",
+    "occasion_ja": "パーティーや特別な日にお楽しみください。",
+    "occasion_en": "Perfect for parties and special occasions. ",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "100g"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "生パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パプリカの果汁",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 明太子、レモン汁、生パプリカを混ぜてレモンクリームを調製します。",
+      "2. 生クリーム、チーズを混ぜ、なめらかになるまで混ぜます。",
+      "3. パプリカの果汁を加え、全体に混ぜます。",
+      "4. 好きな器に、クリームパスタを盛り付けて、チーズタルトをトッピングします。"
+    ],
+    "prompt": "Close-up of a creamy lemon cheesecake topped with a bright orange citrus twist, against a backdrop of dark brown cheese, evoking a tantalizing visual of the dish.",
+    "filename": "recipe_1790786360.jpg",
+    "date": "2026-09-30 16:40:11",
+    "timestamp": 1790786360,
+    "likes": 0,
+    "views": 416
+  },
+  {
     "id": "recipe_1790739092",
     "category": "パスタ",
     "category_ja": "パスタ",
