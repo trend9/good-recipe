@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790739092",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的な明太子レモンクリームパスタ！",
+    "title_en": "Spicy Lemon Cream Pasta with Spicy明太子",
+    "description_ja": "明太子とレモンの意外な組み合わせで生まれる、悪魔的美味しさ！とろけるチーズとレモンを、濃厚な明太子の風味で包み込んだ、まさに悪魔的な一皿に仕上がります。",
+    "description_en": "Unforgettable spicy and creamy, this pasta is a party for your taste buds! Combining spicy tuna and lemon, you will experience a new flavor. It's the perfect dish with cheese and lemon sauce that is super tasty.",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "Perfect for partys and special occasions.",
+    "ingredients": [
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "明太子",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. 明太子を細かく刻んで、パスタと混ぜる。",
+      "2. レモンを絞り汁を、クリームチーズ、牛乳、明太子と混ぜる。",
+      "3. 茹でたパスタを、レモンクリームチーズソースで絡める。",
+      "4. お好みの塩コショウで味を調える。"
+    ],
+    "prompt": "Close-up shot of a pasta with cream cheese sauce and lemon, with beautiful colors and a vibrant look. A spicy and delicious appetizer!",
+    "filename": "recipe_1790739092.jpg",
+    "date": "2026-09-30 03:33:54",
+    "timestamp": 1790739092,
+    "likes": 0,
+    "views": 178
+  },
+  {
     "id": "recipe_1790708743",
     "category": "dessert",
     "category_ja": "デザート",
