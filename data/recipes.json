@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790838306",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔のチーズポテトサラダ！",
+    "title_en": "Crispy Potato × Creamy Cheese Sauce: Devilish Cheese Potato Salad!",
+    "description_ja": "サクサクポテトとクリーミーチーズソースの組み合わせ、悪魔的な美味しさ！ 意外な美味しさに驚愕する！",
+    "description_en": "Devilishly delicious combo of crispy potatoes with creamy cheese sauce! Unbelievably tasty!",
+    "occasion_ja": "パーティーや日常の食事にぴったり！",
+    "occasion_en": "Perfect for parties or everyday meals!",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "2個"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ポテトを軽く塩胡椒して、揚げる。",
+      "揚げたポテトにクリーミーチーズソースを絡める。",
+      "マヨネーズを加えて味を調える。",
+      "お好みでパプリカやレタスなどをトッピングする。 "
+    ],
+    "prompt": "A close-up photo of devilish cheese potato salad with crispy potato, creamy cheese sauce, and sprinkle of paprika and lettuce on top.",
+    "filename": "recipe_1790838306.jpg",
+    "date": "2026-10-01 07:06:42",
+    "timestamp": 1790838306,
+    "likes": 0,
+    "views": 201
+  },
+  {
     "id": "recipe_1790816618",
     "category": "side",
     "category_ja": "サイド dish",
