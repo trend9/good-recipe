@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1790866921",
+    "category": "soup",
+    "category_ja": "スープ",
+    "title_ja": "悪魔のチーズポテトチャウダー：サクサクポテトとクリーミーチーズの魔法",
+    "title_en": "Devilish Cheese Potato Chowder: A Sizzling Crunch and Creamy Cheesy Magic",
+    "description_ja": "サクサクポテトとクリーミーチーズの組み合わせで、まるで魔法のチャウダーを味わえる、悪魔的な美味しさのレシピ！",
+    "description_en": "A devilishly delicious chowder featuring a crispy-crunchy potato and a creamy cheese pairing! ",
+    "occasion_ja": "パーティーや週末に、寒い日にぴったり",
+    "occasion_en": "Perfect for parties or weekends, especially in chilly weather",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "ポテト",
+        "amount": "2個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "じゃがいも、細切りにし、鍋にバターを溶かし、中火で炒める。",
+      "ポテトを加え、さらに炒める。",
+      "牛乳とクリームチーズを加え、混ぜる。",
+      "塩で味を調え、弱火で10分煮込む。",
+      "仕上げに、お好みで、黒胡椒、パプリカなどを加える。"
+    ],
+    "prompt": "Close up image of a creamy and cheesy potato chowder with crispy, golden-brown potatoes, garnished with a fresh parsley sprig.",
+    "filename": "recipe_1790866921.jpg",
+    "date": "2026-10-01 15:04:09",
+    "timestamp": 1790866921,
+    "likes": 0,
+    "views": 173
+  },
+  {
     "id": "recipe_1790838306",
     "category": "side",
     "category_ja": "サイド",
