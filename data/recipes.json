@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1790816618",
+    "category": "side",
+    "category_ja": "サイド dish",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油！悪魔のチーズピクルス！",
+    "title_en": "Spicy BBQ-Smoked Brisket with Rich Garlic-Infused Butter & Pickled Vegetables!",
+    "description_ja": "このレシピは、炙りチャーシューの旨味と濃厚焦がしにんにく醤油の奥深い味わいが、ピクルスで爽やかに引き立つ、悪魔的な美味しさのレシピです。",
+    "description_en": "This recipe combines the savory flavors of BBQ-smoked brisket and a rich garlic-infused butter with a tangy pickled vegetable twist, creating a devilishly delicious dish.",
+    "occasion_ja": "パーティーやディナーに、お酒に合う一品",
+    "occasion_en": "Appetizer or side dish for parties and dinners, pairs well with drinks.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1.炙りチャーシューを薄切りにし、濃厚焦がしにんにく醤油で全体を包みます。",
+      "2.生唐辛子、塩、砂糖、レモン汁を加え、全体に混ぜます。",
+      "3.ピクルスを加えて混ぜ、冷蔵庫で30分以上冷やします。",
+      "4. Servings of the dish are recommended."
+    ],
+    "prompt": "Close-up shot of a small portion of the spicy BBQ-smoked brisket with pickled vegetables, with a vibrant color and a smoky aroma. A plate is placed on a table.",
+    "filename": "recipe_1790816618.jpg",
+    "date": "2026-10-01 01:04:59",
+    "timestamp": 1790816618,
+    "likes": 0,
+    "views": 355
+  },
+  {
     "id": "recipe_1790802682",
     "category": "パスタ",
     "category_ja": "パスタ",
