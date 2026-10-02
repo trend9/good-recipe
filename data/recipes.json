@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1790947698",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔的な海藻チーズグラタン",
+    "title_en": "Creamy Avocado Crab Gratin - Devilish Delight",
+    "description_ja": "定番のグラタンに、海藻とクリーミーなアボカドを加えて、悪魔的な美味しさ！ 意外な組み合わせでも、絶妙なコクと爽快な食感が楽しめる、大人のグラタンです。",
+    "description_en": "Devilishly delicious!  This creamy avocado crab gratin takes the classic recipe to the next level with a twist of seaweed and creaminess. A unique and flavorful combination for adults who enjoy bold flavors and a delightful surprise. ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "ホタテ",
+        "amount": "100g"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "海藻",
+        "amount": "15g"
+      },
+      {
+        "name": "バター",
+        "amount": "30g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "鍋にバターを入れ、海藻を加え、弱火で加熱し、香りが立ったら海藻を取り除く。",
+      "アボカドを細かく刻み、牛乳とチーズを加え、混ぜる。",
+      "熱したグラタン皿に、アボカドとチーズソースを流し込み、ホタテを上に乗せる。",
+      "180℃のオーブンで20分焼く。",
+      "焼きたてのグラタンは、ご飯と一緒に食べるのがおすすめ。"
+    ],
+    "prompt": "Close-up shot of a creamy avocado crab gratin with seaweed and cheese, artfully presented on a white plate with a beautiful and intricate background.",
+    "filename": "recipe_1790947698.jpg",
+    "date": "2026-10-02 13:30:04",
+    "timestamp": 1790947698,
+    "likes": 0,
+    "views": 238
+  },
+  {
     "id": "recipe_1790922948",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
