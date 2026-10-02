@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790967406",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の極厚カツ × ハニーマスタードチーズピクルス",
+    "title_en": "Devil's Thick Cutlet with Honey Mustard Cheese Pickles",
+    "description_ja": "極厚カツとハニーマスタードチーズピクルスの組み合わせは、意外な美味しさの爆発！悪魔のチーズピクルスの奥深い味わいと、ジューシーなカツの組み合わせで、食べごたえと美味しさを実現します。",
+    "description_en": "The devilishly thick cutlet and honey mustard cheese pickles will create an unexpected burst of deliciousness!  The deep flavor of the cheese pickles and the juiciness of the cutlet create a satisfying and flavorful combination.",
+    "occasion_ja": " parties, BBQ, barbecues",
+    "occasion_en": "Parties, BBQs, Barbecues",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "ピクルス",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツを、ハニーマスタードと醤油で味付けします。",
+      "チーズとピクルスをカットして、極厚カツの上に盛り付けます。",
+      "仕上げに、ハニーマスタードを少しまぶして、完成度を高めます。",
+      "熱々の極厚カツとハニーマスタードチーズピクルスを、お好みで付け合わせの食材と共に、お楽しみください。"
+    ],
+    "prompt": "An image of a Devil's Thick Cutlet with Honey Mustard Cheese Pickles, with a close-up of the cutlet and cheese pickles, in a plate with various garnishes",
+    "filename": "recipe_1790967406.jpg",
+    "date": "2026-10-02 18:58:30",
+    "timestamp": 1790967406,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1790947698",
     "category": "グラタン",
     "category_ja": "グラタン",
