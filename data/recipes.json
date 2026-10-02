@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1790922948",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔のハニーマスタードカツの魔法",
+    "title_en": "Extreme Honey Mustard Pork Cutlets: The Devil's Honey Mustard Pork Cutlet Spell",
+    "description_ja": "極厚カツに、ハニーマスタードの悪魔的な風味を加え、超美味な衝撃を！見た目も鮮やかな、まさに悪魔のレシピ！",
+    "description_en": "Bring the heat with these Devil's Honey Mustard Pork Cutlets! With a devilish twist of honey mustard, these cutlets will leave you in awe of their flavor and visual impact.",
+    "occasion_ja": "週末の家庭料理、パーティー、特別な日のディナーに",
+    "occasion_en": "Perfect for weekend home-cooking, parties, and special dinners.",
+    "ingredients": [
+      {
+        "name": "豚肉",
+        "amount": "200g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "豚肉は薄切りにし、塩こしょうで味付けする。",
+      "小麦粉と卵を混ぜ、豚肉を包む。",
+      "フライパンに油をひき、豚肉を焼く。",
+      "ハニーマスタード、砂糖を加え、焼き色がついたら完成。"
+    ],
+    "prompt": "Close-up shot of a plate of Devil's Honey Mustard Pork Cutlets, with a sizzling texture and a golden-brown crust.",
+    "filename": "recipe_1790922948.jpg",
+    "date": "2026-10-02 06:37:27",
+    "timestamp": 1790922948,
+    "likes": 0,
+    "views": 266
+  },
+  {
     "id": "recipe_1790900925",
     "category": "dessert",
     "category_ja": "デザート",
