@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791067100",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ×タッカルビチキン：ハニーマスタードとレモンの爽快！",
+    "title_en": "Melting Cheese & Tarka-Chili Chicken: Honey Mustard & Lemon Surprise!",
+    "description_ja": "悪魔的なチーズとタッカルビの融合を、爽やかなレモンとハニーマスタードでさらに引き出す！とろけるチーズとタッカルビの旨味が一層際立つ、まさに悪魔的な美味しさのレシピです。",
+    "description_en": "A fusion of melting cheese and tarka-chili chicken with a refreshing lemon and honey mustard twist! This recipe will amplify the flavors of both cheese and tarka-chili, creating a truly demonic and delicious dish.",
+    "occasion_ja": "パーティーやBBQに！",
+    "occasion_en": "Perfect for parties and barbecues!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを薄切りにし、溶けるチーズとハニーマスタードを混ぜ合わせ、レモン汁を加えて味を調える。",
+      "フライパンにオリーブオイルをひき、チーズとタッカルビチキンを炒める。",
+      "火を止めて、チーズとタッカルビチキンを皿に盛り付ける。",
+      "お好みで、レモン汁を添える"
+    ],
+    "prompt": "Close-up shot of the Tarka-Chili Chicken with cheese and lemon, with a smoky background",
+    "filename": "recipe_1791067100.jpg",
+    "date": "2026-10-03 22:39:41",
+    "timestamp": 1791067100,
+    "likes": 0,
+    "views": 285
+  },
+  {
     "id": "recipe_1791056567",
     "category": "side",
     "category_ja": "サイド",
