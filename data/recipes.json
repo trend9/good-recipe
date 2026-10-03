@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1791056567",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の唐揚げマヨハニーチーズ！",
+    "title_en": "Devil's Fried Chicken Mayo Honey Cheese!",
+    "description_ja": "サクサクと甘辛い、悪魔的な味覚に浸る！サクサク唐揚げにハニーマヨネーズが絡み、チーズでコクと甘みが引き立つ一品です。",
+    "description_en": "A devilishly delicious taste sensation! Fried chicken coated in a honey-mayo glaze, topped with melty cheese. This dish will leave you wanting more!",
+    "occasion_ja": "パーティーやパーティーのサイドメニューにぴったり！",
+    "occasion_en": "Perfect for parties or side dishes!",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "唐揚げを10分ほど振るように小麦粉をまぶす。",
+      "ハニーマヨネーズとチーズを混ぜて、唐揚げを包み込む。",
+      "卵とパプリカを加え、さらに混ぜ合わせる。",
+      "フライパンで揚げ焼きをするときに、油を熱して、唐揚げを落とす。",
+      "お好みでレモン汁を添えても美味しい"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious fried chicken, with melted cheese and honey mayo glaze, surrounded by a bright colorful paprika. The texture of the fried chicken is crispy and juicy. ",
+    "filename": "recipe_1791056567.jpg",
+    "date": "2026-10-03 19:43:38",
+    "timestamp": 1791056567,
+    "likes": 0,
+    "views": 377
+  },
+  {
     "id": "recipe_1791046758",
     "category": "グラタン",
     "category_ja": "グラタン",
