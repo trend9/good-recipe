@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791012520",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔的な海藻とクリーミーアボカドのグラタン",
+    "title_en": "Creamy Avocado & Seaweed Gratin: A Twisted Delight",
+    "description_ja": "とろけるクリーミーなアボカドと、海の幸である海藻を組み合わせた、悪魔的な美味しさのグラタン。見た目も美しく、家庭でも簡単に作れます。",
+    "description_en": "A creamy avocado and seaweed gratin, with a twist of devilishly delicious, it is a treat for the eyes and the palate. It's easy to make at home, even for the novice cooks.",
+    "occasion_ja": "特別な日やパーティーにもぴったり",
+    "occasion_en": "Perfect for parties and special occasions",
+    "ingredients": [
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "海藻",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 海藻を水で洗い、15分ほど置きます。",
+      "2. アボカドはヘタを取り除き、1cm角の大きさに切る。",
+      "3. 鍋にバターと牛乳を入れて加熱し、アボカドを1cm角に切った後に、チーズを振りかけます。",
+      "4. 海藻を加え、グラタンをオーブンで180℃で10分焼く。"
+    ],
+    "prompt": "A close-up shot of a creamy avocado and seaweed gratin with a dark, decadent glaze and cheesy swirls. A warm, inviting oven-baked dish.",
+    "filename": "recipe_1791012520.jpg",
+    "date": "2026-10-03 07:30:19",
+    "timestamp": 1791012520,
+    "likes": 0,
+    "views": 237
+  },
+  {
     "id": "recipe_1790991635",
     "category": "side",
     "category_ja": "サイド",
