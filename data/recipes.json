@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1791046758",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "悪魔的海藻チーズグラタン：クリーミーアボカドと海の幸の奇跡",
+    "title_en": "Creamy Avocado and Seaweed Cheese Gratin: A Seafood Miracle",
+    "description_ja": "悪魔的なクリーミーなアボカドと、海藻の風味で、誰もが一度は味わいたいであろうグラタン。見た目はシンプルですが、奥底に隠された深い味わい。",
+    "description_en": "A creamy avocado and seaweed cheese gratin with a depth of flavor that will leave you wanting more. A simple appearance but a complex and delicious dish.",
+    "occasion_ja": "パーティーや特別な日にもぴったりな、特別な一品",
+    "occasion_en": "Perfect for parties and special occasions, this dish offers a touch of magic.",
+    "ingredients": [
+      {
+        "name": "黒コショウ",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "海藻",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "1カップ"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 海藻とアボカドを水で洗い、水気を切り、細かく刻む。",
+      "2. 薄力粉と牛乳を混ぜ合わせる。",
+      "3. 刻んだ海藻とアボカド、チーズを加え、全体を混ぜる。",
+      "4. 180度に予熱したオーブンで15分焼成する。"
+    ],
+    "prompt": "Close-up shot of a creamy avocado and seaweed cheese gratin with a golden crust, in a stylish oven. The cheese and seaweed are melting, creating a beautiful and inviting texture. ",
+    "filename": "recipe_1791046758.jpg",
+    "date": "2026-10-03 17:00:57",
+    "timestamp": 1791046758,
+    "likes": 0,
+    "views": 479
+  },
+  {
     "id": "recipe_1791032311",
     "category": "dessert",
     "category_ja": "デザート",
