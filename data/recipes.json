@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1790991635",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "チーズタッカルビチキン: 悪魔的なチーズとタッカルビの融合！",
+    "title_en": "Spicy Korean Chicken with Creamy Cheese: A fusion of spicy Korean chicken and creamy cheese!",
+    "description_ja": "とろけるチーズとタッカルビの美味しさを融合！ 意外な組み合わせなのに、悪魔的な美味しさに感動間違いなし！",
+    "description_en": "Fusion of cheesy goodness and spicy Korean chicken! A tastebud-exploding fusion that will leave you craving more!",
+    "occasion_ja": "パーティーやBBQ、夜食など、お酒のお供にぴったり！",
+    "occasion_en": "Perfect for parties, BBQs, and a night snack!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "片栗粉",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを1cmほどの厚さに切り、チーズを乗せてマヨネーズと醤油で味付けする。",
+      "片栗粉を混ぜた水で溶き、チーズを包む。",
+      "フライパンでチーズが溶け始めるまで火を通す。",
+      "焼きあがったら皿に盛り付け、お召し上がりください。"
+    ],
+    "prompt": "Close-up shot of a sizzling piece of creamy and cheesy grilled chicken with melted cheese and Korean chili powder, with a dark background and smoke effects",
+    "filename": "recipe_1790991635.jpg",
+    "date": "2026-10-03 01:42:10",
+    "timestamp": 1790991635,
+    "likes": 0,
+    "views": 408
+  },
+  {
     "id": "recipe_1790981218",
     "category": "side",
     "category_ja": "サイド",
