@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791032311",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス！悪魔の新たな世界",
+    "title_en": "Black Honey Kinako Mochi Ice! An Unforgettable New World",
+    "description_ja": "黒蜜ときな粉の組み合わせは、今までにない衝撃の味！もちもちアイスに、悪魔的な美味しさの魔法をかけます！",
+    "description_en": "This combination of black honey and kinako will create an unprecedented taste sensation! A delightful twist on ice cream with a touch of evil!",
+    "occasion_ja": "特別な日に、友達と共有したい悪魔的なデザート！",
+    "occasion_en": "A perfect dessert for parties, a new level of devilish sweetness! Share the magic with your friends.",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "もちもちアイスを、黒蜜ときな粉で混ぜます。",
+      "砂糖を加え、とろみが出るまで混ぜます。",
+      "牛乳を加え、なめらかになるまで混ぜます。",
+      "お好みで、黒蜜ときな粉をトッピングします。"
+    ],
+    "prompt": "Close-up shot of a beautifully crafted ice cream dessert with a playful and mischievous smile, showcasing a mixture of black honey and kinako, and a rich, melting texture. The background could be set with dark, elegant colors like black or deep purple.",
+    "filename": "recipe_1791032311.jpg",
+    "date": "2026-10-03 13:00:16",
+    "timestamp": 1791032311,
+    "likes": 0,
+    "views": 352
+  },
+  {
     "id": "recipe_1791012520",
     "category": "グラタン",
     "category_ja": "グラタン",
