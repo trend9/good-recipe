@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1791080457",
+    "category": "ケーキ",
+    "category_ja": "ケーキ",
+    "title_ja": "抹茶ホワイトチョコレートムースケーキ：悪魔の甘みと抹茶の爽快！",
+    "title_en": "Matcha White Chocolate Mousse Cake: Devilish Sweetness with a Matcha Twist",
+    "description_ja": "まるで悪魔が作ったケーキ？ 抹茶の香ばしさと濃厚なホワイトチョコレートのムースが、絶妙な甘さと爽やかな食感を演出！ 濃厚な味わいが、特別な夜にぴったり。",
+    "description_en": "Looks like a cake made by a devil? Matcha's savory notes and rich white chocolate mousse create a perfect balance of sweet and refreshing! This rich flavor is perfect for special nights.",
+    "occasion_ja": "特別な夜に",
+    "occasion_en": "Special occasions",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "50g"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "3個"
+      },
+      {
+        "name": "砂糖",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "水",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "1. 抹茶パウダーとホワイトチョコレートを溶かし、砂糖を加え混ぜる。",
+      "2. 卵を1個ずつ加え、泡立て器でよく混ぜる。",
+      "3. 混ぜ合わせた材料を牛乳と水を加え、よく混ぜる。",
+      "4. 混ぜ合わせた材料を型に流し込み、冷まして完成。"
+    ],
+    "prompt": "Close-up shot of a cake covered in white chocolate and matcha powder, with a vibrant green color and a slight glossy finish. The camera is slightly tilted upwards, emphasizing the depth of the cake and the delicious texture.",
+    "filename": "recipe_1791080457.jpg",
+    "date": "2026-10-04 02:22:39",
+    "timestamp": 1791080457,
+    "likes": 0,
+    "views": 152
+  },
+  {
     "id": "recipe_1791067100",
     "category": "side",
     "category_ja": "サイド",
