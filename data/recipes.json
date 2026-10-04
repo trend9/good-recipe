@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1791140351",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的な黒蜜きな粉もちもちアイス: 悪魔の新たな味覚！",
+    "title_en": "Devilish Black Honey Kinako Mochi Ice: A New Flavor of the Devil",
+    "description_ja": "「黒蜜」と「きな粉」の組み合わせは、まさに悪魔の新たな味覚を体験させます！もちもちとしたアイスに、黒蜜ときな粉の甘酸っぱさと、濃厚な味わいを融合させた、まさに悪魔的なデザートレシピです！",
+    "description_en": "The combination of 'black honey' and 'kinako' is a new flavor of the devil! This mochi ice cream is a dessert that will bring you a new taste experience, with the sweetness and sourness of black honey and kinako, and the richness of flavor! A dessert recipe of a devil-like flavor!",
+    "occasion_ja": "特別な日には、ぜひ試して見てください！",
+    "occasion_en": "This is a recipe that you should definitely try for special occasions! ",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "200g"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "きな粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "もちもちアイスを容器に入れ、黒蜜ときな粉を混ぜ合わせる。",
+      "混ぜ合わせたアイスに、塩を少々加えて味を整える。",
+      "アイスを冷やす。",
+      "悪魔的なデザートが完成！"
+    ],
+    "prompt": "A close-up shot of a devilishly sweet mochi ice cream with a dollop of black honey and kinako topping.",
+    "filename": "recipe_1791140351.jpg",
+    "date": "2026-10-04 19:00:57",
+    "timestamp": 1791140351,
+    "likes": 0,
+    "views": 461
+  },
+  {
     "id": "recipe_1791126470",
     "category": "dessert",
     "category_ja": "デザート",
