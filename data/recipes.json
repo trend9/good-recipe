@@ -1,5 +1,56 @@
 [
   {
+    "id": "recipe_1791126470",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的なサーモン・アボカドのタルタル風チーズケーキ",
+    "title_en": "Devilish Salmon Avocado Tartare Cheesecake",
+    "description_ja": "サーモンとアボカドのタタール風チーズケーキは、悪魔的な美味しさ。なめらかなチーズケーキに、濃厚なタタールの風味が融合！",
+    "description_en": "Devilish salmon and avocado tartare cheesecake combines the devilish flavors of salmon and avocado in a smooth, creamy cheesecake form. ",
+    "occasion_ja": "特別な夜に",
+    "occasion_en": "Perfect for a special occasion",
+    "ingredients": [
+      {
+        "name": "生クリーム",
+        "amount": "300ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 生クリームとチーズを混ぜて、なめらかになるまで混ぜる。",
+      "2. サーモンとレモン汁、塩コショウで味を調える。",
+      "3. アボカドは皮をむき、種を取り除き、細かく刻む。",
+      "4. 生クリームチーズの生地に、アボカドの刻んだものを混ぜる。",
+      "5. ケーキ型に生地を流し込み、180℃のオーブンで15分焼く。",
+      "6. 焼き上がったケーキを冷まして、お好みでレモン汁で仕上げる"
+    ],
+    "prompt": "Close-up shot of a devilishly beautiful cheesecake with a salmon and avocado tartare topping,  a dark chocolate drizzle on top.",
+    "filename": "recipe_1791126470.jpg",
+    "date": "2026-10-04 15:09:38",
+    "timestamp": 1791126470,
+    "likes": 0,
+    "views": 358
+  },
+  {
     "id": "recipe_1791105331",
     "category": "dessert",
     "category_ja": "デザート",
