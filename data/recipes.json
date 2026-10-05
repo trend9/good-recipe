@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791243471",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の旨味炸裂！",
+    "title_en": "Burning Charsiu x Thickened Spicy Garlic Sauce: Devilishly Delicious Flavor Explosion!",
+    "description_ja": "炙りチャーシューの旨味と濃厚焦がしにんにく醤油が織りなす、まさに悪魔的な味わいを堪能できる、衝撃的なチーズケーキ！",
+    "description_en": "A cheesy delight filled with the devilish taste of charsiü and its strong garlic sauce, a unique and unforgettable dessert!",
+    "occasion_ja": "特別な日に、ぜひ試してみたい一品。",
+    "occasion_en": "A unique and special dessert recipe for your special occasions.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1枚"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      },
+      {
+        "name": "クッキー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを厚めに切り、濃厚焦がしにんにく醤油で味付けする。",
+      "2. 濃厚焦がしにんにく醤油を混ぜ合わせたチーズと生クリームを混ぜる。",
+      "3. クッキーを小さく切り、チーズクリームに混ぜる。",
+      "4. 炙りチャーシューとチーズクリーム、クッキーをチーズケーキの型に入れて、冷やして完成。"
+    ],
+    "prompt": "Close-up photo of a cheesy dessert with a charsiü top, surrounded by a beautiful, soft texture, with a hint of red sauce.",
+    "filename": "recipe_1791243471.jpg",
+    "date": "2026-10-05 23:40:07",
+    "timestamp": 1791243471,
+    "likes": 0,
+    "views": 195
+  },
+  {
     "id": "recipe_1791222268",
     "category": "dessert",
     "category_ja": "デザート",
