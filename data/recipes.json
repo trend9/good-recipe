@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1791163868",
+    "category": "side",
+    "category_ja": "サイドメニュー",
+    "title_ja": "悪魔的なハニーマヨ唐揚げチーズケーキ",
+    "title_en": "Devilishly Delicious Honey-Mayonnaise Fried Chicken Cheese Cake",
+    "description_ja": "衝撃的な食感と悪魔的な甘味、ハニーマヨネーズの唐揚げチーズケーキが誕生！サクサクした唐揚げにチーズとハニーマヨネーズのハーモニーは、まさに悪魔的な美味しさ！",
+    "description_en": "Prepare for an explosive taste sensation! Devilishly delicious honey mayonnaise fried chicken cheese cake is here!  It features a crispy fried chicken with a unique cheese and honey mayonnaise flavor! It's a totally new level of devilishly delicious!",
+    "occasion_ja": "パーティーやディナーに！",
+    "occasion_en": "Perfect for parties or dinners!",
+    "ingredients": [
+      {
+        "name": "鶏むね肉",
+        "amount": "200g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "100g"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "鶏むね肉を小麦粉と混ぜ合わせた生地で包んで、油で揚げる。",
+      "揚げた鶏むね肉をハニーマヨネーズで和える。",
+      "チーズと砂糖を加え、混ぜる。",
+      "チーズが溶け出した状態のチーズと揚げて作った鶏肉をケーキ型に盛り付ける"
+    ],
+    "prompt": "Close-up shot of a devilishly delicious fried chicken cheese cake with cheese and honey mayonnaise on a plate, surrounded by steam.",
+    "filename": "recipe_1791163868.jpg",
+    "date": "2026-10-05 01:33:27",
+    "timestamp": 1791163868,
+    "likes": 0,
+    "views": 162
+  },
+  {
     "id": "recipe_1791151963",
     "category": "dessert",
     "category_ja": "デザート",
