@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791222268",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろっとろデミグラスハンバーグ × とろふわ半熟卵のチーズケーキ",
+    "title_en": "Devilishly Delicious: Decadent Half-Seared Egg & Demi-Glace Hamburger Cheese Cake",
+    "description_ja": "悪魔的な美味しさのチーズケーキが誕生！とろっとろデミグラスハンバーグに半熟卵の濃厚な味わいがマッチする、贅沢な一品。",
+    "description_en": "Experience the devilishly delicious fusion of a creamy cheesecakes and a decadent half-soured egg and demitase hamburger! This recipe will bring you to a whole new world of decadent flavors!",
+    "occasion_ja": "特別な日に食べたい一品",
+    "occasion_en": "For a special occasion, a delightful dish.",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "グラノーラ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグを焼いて、デミグラスソースをたっぷり塗ります。",
+      "2. 半熟卵を焼いて、チーズをトッピングします。",
+      "3. グラノーラを混ぜて、チーズケーキの表面に広げます。",
+      "4. 溶かしバターでケーキを包んで、仕上げに香草を添えてください。"
+    ],
+    "prompt": "Close up shot of a decadent cheese cake with a half-soured egg and a juicy hamburger patty. The cheesecakes are topped with a half-soured egg and a generous layer of mozzarella cheese. A sprinkle of rosemary or other herbs is added for added visual appeal. This image should be presented with a soft lighting and a vintage-style.",
+    "filename": "recipe_1791222268.jpg",
+    "date": "2026-10-05 17:45:47",
+    "timestamp": 1791222268,
+    "likes": 0,
+    "views": 272
+  },
+  {
     "id": "recipe_1791187648",
     "category": "dessert",
     "category_ja": "デザート",
