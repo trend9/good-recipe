@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1791308828",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘酸っぱさ炸裂！",
+    "title_en": "Extraordinary Honey Mustard Fried Chicken: A taste explosion of devilish sweetness!",
+    "description_ja": "超極厚カツに、特製ハニーマスタードソースを絡めて、悪魔的な甘酸っぱさとサクサク感の新しい世界を体験！",
+    "description_en": "Experience a new world of devilish sweetness with our extra thick cut fried chicken and our special honey mustard sauce! A perfect combination of crispy texture and tangy flavor. ",
+    "occasion_ja": "パーティーや、特別な日にぴったり",
+    "occasion_en": "Perfect for parties or special occasions",
+    "ingredients": [
+      {
+        "name": "極厚カツ (1個)",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタードソース (大さじ2)",
+        "amount": "20ml"
+      },
+      {
+        "name": "バター (小さじ2)",
+        "amount": "2g"
+      },
+      {
+        "name": "塩 (小さじ1/2)",
+        "amount": "1/2g"
+      }
+    ],
+    "steps": [
+      "極厚カツを1cm間隔で並べて、バターで軽く焼き付ける。",
+      "特製ハニーマスタードソースを適量かけ、塩を振る。",
+      "フライパンで焼き上げながら、ハニーマスタードソースが染み渡るまで加熱する。",
+      "焼き上げたら、ソースをたっぷりかけて、食欲をそそる悪魔的な味わいに仕上げる。"
+    ],
+    "prompt": "A close-up shot of a perfectly fried extra thick cut chicken, glazed with a special honey mustard sauce, with a glistening golden color and appealing texture, against a black background. Illustration in a bold, anime style.",
+    "filename": "recipe_1791308828.jpg",
+    "date": "2026-10-06 17:48:47",
+    "timestamp": 1791308828,
+    "likes": 0,
+    "views": 307
+  },
+  {
     "id": "recipe_1791286947",
     "category": "dessert",
     "category_ja": "デザート",
