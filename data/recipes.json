@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791286947",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的なサクサク唐揚げチーズケーキ！ ハニーマヨネーズ×サクサク唐揚げの新しい味覚！",
+    "title_en": "Devilish Crispy Fried Chicken Cheese Cake! Honey Mayo x Crispy Fried Chicken New Taste!",
+    "description_ja": "悪魔的なサクサク唐揚げと、甘酸っぱいハニーマヨネーズが、チーズケーキの新しい美味しさを創造！ 予想外の組み合わせに、誰もが驚く美味しさを見せます！",
+    "description_en": "Crispy fried chicken and honey mayo, a new taste of cheese cake! This devilishly delicious combination will surprise you with its unexpected flavor and create a whole new taste of cheese cake! ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "チーズケーキ",
+        "amount": "1個"
+      },
+      {
+        "name": "唐揚げ",
+        "amount": "1パック"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. サクサク唐揚げを作ります。",
+      "2. チーズケーキをカットし、ハニーマヨネーズと牛乳を加えて混ぜ合わせます。",
+      "3. チーズケーキ生地に唐揚げを乗せ、更にハニーマヨネーズでコーティングします。",
+      "4. 予熱したオーブンで15分ほど焼きます。"
+    ],
+    "prompt": "Close-up shot of a cheesy fried chicken cake, with a golden brown crust and cheesy interior, lit by soft, warm light.  Food styling emphasizes texture and color, with a hint of smoke rising from the top.",
+    "filename": "recipe_1791286947.jpg",
+    "date": "2026-10-06 11:44:20",
+    "timestamp": 1791286947,
+    "likes": 0,
+    "views": 324
+  },
+  {
     "id": "recipe_1791260477",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
