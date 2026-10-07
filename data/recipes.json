@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791407365",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘酸っぱさ新境地！",
+    "title_en": "Ultimate Crispy Katsu with Honey Mustard Sauce: A New Level of Deliciousness!",
+    "description_ja": "極厚カツと特製ハニーマスタードの組み合わせで、今まで味わったことのない、悪魔的甘酸っぱさを体験！ これが、新しい極厚カツの限界に挑戦するレシピ！",
+    "description_en": "Prepare to experience a whole new level of deliciousness with our ultimate crispy Katsu and special Honey Mustard Sauce!  This recipe pushes the boundaries of traditional Katsu to new heights of taste.",
+    "occasion_ja": "パーティー、家庭での特別な食事など、悪魔的な美味しさで盛り上がろう！",
+    "occasion_en": "Perfect for parties, special dinners, and anything you need to bring a little bit of devilish deliciousness to your event.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを両面を塩で味付けし、レモン汁で軽く中まで火を通す。",
+      "特製ハニーマスタードを、マヨネーズと混ぜ合わせたソースを作り、極厚カツに塗る。",
+      "極厚カツを、特製ハニーマスタードソースでコーティングし、熱したフライパンで焼き上げる。",
+      "焼きあがったら、レモン汁を添えて、仕上げる。"
+    ],
+    "prompt": "Close-up photo of a crispy katsu topped with a vibrant honey mustard sauce, a slice of lemon, and a drizzle of mayonnaise.",
+    "filename": "recipe_1791407365.jpg",
+    "date": "2026-10-07 21:10:47",
+    "timestamp": 1791407365,
+    "likes": 0,
+    "views": 442
+  },
+  {
     "id": "recipe_1791388948",
     "category": "dessert",
     "category_ja": "デザート",
