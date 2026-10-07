@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791360885",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔ポテトチーズケーキ 🧀🍟👻",
+    "title_en": "Devilish Potato Cheese Cake 🍟👻",
+    "description_ja": "サクサクポテトにクリーミーチーズソースを絡めて、悪魔的な甘さと旨味が味わえる、インパクト抜群のチーズケーキ！",
+    "description_en": "A devilishly delicious cheese cake made with crispy potato and creamy cheese sauce, bringing a sweet and savory indulgence.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "ポテト",
+        "amount": "100g"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ポテトを細かく刻み、少量の水で湿らせた後、両面を揚げる。",
+      "チーズ、牛乳、塩、コショウを混ぜ合わせて、チーズクリームを作る。",
+      "揚げたポテトをチーズクリームで包み、チーズケーキの形にする。",
+      "オーブンで20分焼成し、冷ました後に、悪魔的なチーズケーキを完成させよう！"
+    ],
+    "prompt": "Anime illustration of a devilish cheese cake with crispy fried potato and creamy cheese sauce, in a dark and mysterious style",
+    "filename": "recipe_1791360885.jpg",
+    "date": "2026-10-07 08:16:18",
+    "timestamp": 1791360885,
+    "likes": 0,
+    "views": 421
+  },
+  {
     "id": "recipe_1791324637",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
