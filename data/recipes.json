@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791388948",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレに隠された悪魔の甘酸っぱさ！",
+    "title_en": "Unleash the Devil's Sweetness in Banana Caramel Brulee!",
+    "description_ja": "完熟バナナの甘みが、キャラメルブリュレの焼き菓子に、悪魔的な甘酸っぱさを加えた、魅惑的な一品に。 誰もが一度は味わうべき、忘れられないレシピです。",
+    "description_en": "Infuse your banana caramel brulee with a devilishly sweet twist!  This recipe blends the luscious sweetness of ripe bananas with the decadence of caramelized treats. This is a must-try for any sweet and adventurous palate.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for any special occasion!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "食塩",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      }
+    ],
+    "steps": [
+      "1. **バナナを準備**: 完熟バナナを、1cm角の大きさにカットします。  ",
+      "2. **キャラメルソースを作る**:  キャラメルソースは、バター、砂糖、塩を加え溶かし、弱火で混ぜながら加熱します。  キャラメルが固まるまで、混ぜながら加熱します。",
+      "3. **焼き菓子を作る**:  キャラメルソースを、バナナのカットに塗り、オーブンで15分焼きます。  ",
+      "4. **完成**:  キャラメルブリュレは、完全に冷まして、お皿に盛り付けます。  "
+    ],
+    "prompt": "A beautifully baked caramel brulee dessert with ripe banana slices. The surface is golden brown and smooth. The background is a dark and elegant charcoal grey.  ",
+    "filename": "recipe_1791388948.jpg",
+    "date": "2026-10-07 16:04:12",
+    "timestamp": 1791388948,
+    "likes": 0,
+    "views": 293
+  },
+  {
     "id": "recipe_1791360885",
     "category": "dessert",
     "category_ja": "デザート",
