@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1791447540",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "ローストビーフ × 特製オニオンソース：悪魔の旨味爆弾！",
+    "title_en": "Roast Beef x Special Onion Sauce: A Bomb of Savory Delight!",
+    "description_ja": "いつものローストビーフと、濃厚なオニオンソースの組み合わせに、新しい世界が誕生！ 意外な美味しさに酔いしれましょう。",
+    "description_en": "Take your roast beef to the next level with this new and explosive combination of intense onion sauce. Prepare for a culinary explosion!",
+    "occasion_ja": "特別なディナーに、大人も子供も楽しめる一品！",
+    "occasion_en": "Perfect for a special dinner, this dish will delight both adults and children!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "100g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "2個"
+      },
+      {
+        "name": "ニンニク",
+        "amount": "1かけ"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ローストビーフの表面を軽く焼く。",
+      "玉ねぎとニンニクを薄切りにし、フライパンで炒める。",
+      "熱したフライパンで生クリームと塩、黒胡椒を加え、混ぜ合わせる。",
+      "ローストビーフに特製オニオンソースを塗る。"
+    ],
+    "prompt": "A close-up shot of a juicy roast beef slice topped with a rich and delicious onion sauce in a dark, elegant setting. Use a vibrant color palette.",
+    "filename": "recipe_1791447540.jpg",
+    "date": "2026-10-08 08:20:37",
+    "timestamp": 1791447540,
+    "likes": 0,
+    "views": 299
+  },
+  {
     "id": "recipe_1791423097",
     "category": "dessert",
     "category_ja": "デザート",
