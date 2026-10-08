@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1791423097",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレ & キャラメルマッシュポテトの悪魔的コラボ！",
+    "title_en": "Banana Caramel Brulee & Caramel Mash Potato: A Devilishly Delicious Collab!",
+    "description_ja": "完熟バナナの濃厚な甘さとキャラメルマッシュポテトの濃厚な甘さに、悪魔的な美味しさをプラス！  まるで悪魔が作った、超絶美味なデザートレシピ。",
+    "description_en": "Experience the devilishly delicious combo of the rich sweetness of ripe bananas and the decadent caramel mash potato!  A dessert recipe as if the devil himself created it. ",
+    "occasion_ja": "特別な日や夜のおやつにぴったり！",
+    "occasion_en": "Perfect for dessert or a special occasion! ",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメルマッシュポテト",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  完熟バナナは皮を剥き、縦に2cmの厚さに切り、1個ずつキャラメルソースを塗る。",
+      "2.  キャラメルマッシュポテトは、ボウルで混ぜる。バターと砂糖を加え、塩を少々加えて混ぜる。",
+      "3.  バナナのキャラメルソースを塗った後、キャラメルマッシュポテトを盛り付ける。",
+      "4.  キャラメルソースをたっぷりかける"
+    ],
+    "prompt": "A close-up shot of a banana caramel brulee dessert with a beautiful caramel sauce on top, and a side of a potato mash cake, on a white plate. The food should be beautifully lit and have a vibrant, artistic look, like a painting",
+    "filename": "recipe_1791423097.jpg",
+    "date": "2026-10-08 01:34:07",
+    "timestamp": 1791423097,
+    "likes": 0,
+    "views": 418
+  },
+  {
     "id": "recipe_1791407365",
     "category": "サイド",
     "category_ja": "サイド",
