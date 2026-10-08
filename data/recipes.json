@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791475423",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろとろ卵と旨辛麻婆豆腐の悪魔丼！",
+    "title_en": "Decadent Egg & Spicy Tofu Bowl - An Unexpected Delight",
+    "description_ja": "とろける卵と濃厚麻婆豆腐、ご飯の上に。 意外な組み合わせで悪魔的に美味しい！",
+    "description_en": "A bowl of creamy egg and spicy tofu, a surprisingly delicious twist on a classic comfort food!",
+    "occasion_ja": "友達とシェアする晩御飯にも最適！",
+    "occasion_en": "Perfect for a late-night snack or a dinner with friends!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1袋"
+      },
+      {
+        "name": "ご飯",
+        "amount": "2合"
+      },
+      {
+        "name": "ネギ",
+        "amount": "1/2本"
+      },
+      {
+        "name": "だし醤油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "ご飯を炊く。",
+      "卵を半熟に調理する。",
+      "麻婆豆腐とネギを混ぜる。",
+      "ご飯の上に卵と麻婆豆腐を乗せて、だし醤油で味を調える。"
+    ],
+    "prompt": "Close up shot of a bowl with fluffy white egg and spicy tofu, garnished with chopped green onions, sitting on a bed of white rice.",
+    "filename": "recipe_1791475423.jpg",
+    "date": "2026-10-08 16:04:30",
+    "timestamp": 1791475423,
+    "likes": 0,
+    "views": 334
+  },
+  {
     "id": "recipe_1791447540",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
