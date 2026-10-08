@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1791495893",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘酸っぱさ爆発！",
+    "title_en": "Smoked Charsiu x Intense Garlic-Roasted Pepper BBQ Sauce: Devilish Sweet & Sour Explosion!",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油の組み合わせ、悪魔的な甘酸っぱさを表現した一品！、意外な組み合わせが美味しい！",
+    "description_en": "A combination of smoked charsiu and a rich, roasted garlic-pepper BBQ sauce for a devilishly sweet and sour explosion!  Expect an unexpected yet delightful taste!",
+    "occasion_ja": "パーティーやBBQに、お酒との相性抜群！",
+    "occasion_en": "Perfect for parties and barbecues, a great pairing for your drinks!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "オニオン",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを準備。",
+      "2. 濃厚焦がしにんにく醤油と砂糖、水を混ぜて溶かし、全体に塗る。",
+      "3.  オニオンを細かく刻んで、チャーシューに飾り付ける。",
+      "4.  冷やす。",
+      "5.  提供"
+    ],
+    "prompt": "Close up image of a steaming plate of smoked charsiu with a side of roasted garlic-pepper BBQ sauce. The charsiu is glazed with a spicy, sweet and savory sauce, with onions sprinkled on top. The background is filled with vibrant colors like red, orange and yellow.  A photo-realistic look.",
+    "filename": "recipe_1791495893.jpg",
+    "date": "2026-10-08 21:46:36",
+    "timestamp": 1791495893,
+    "likes": 0,
+    "views": 287
+  },
+  {
     "id": "recipe_1791475423",
     "category": "丼もの",
     "category_ja": "丼もの",
