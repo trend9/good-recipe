@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1791510019",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的サーモンアボカドのタルタルチーズケーキ",
+    "title_en": "Devilish Salmon Avocado Cheese Cake",
+    "description_ja": "サーモンの旨味とクリーミーなアボカドが、チーズケーキの濃厚な味わいを引き立て、今までにない悪魔的美味しさに！",
+    "description_en": "A devilish combination of salmon's umami and creamy avocado with a decadent cheese cake, creating a new level of deliciousness!",
+    "occasion_ja": "特別な日にぴったりな、忘れられないデザート",
+    "occasion_en": "Perfect for a special occasion, a dessert that you won't forget!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "50g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "サーモンは塩コショウで下味をつける。",
+      "アボカドは皮を剥き、1/2cm角に切る。",
+      "卵をボウルに入れ、泡立て器で泡立てる。",
+      "チーズをボウルに入れ、卵と混ぜ合わせる。"
+    ],
+    "prompt": "A close-up shot of a devilishly decorated cheesecake with a salmon fillet, avocado chunks, and cheese filling, surrounded by a swirling smoke effect.",
+    "filename": "recipe_1791510019.jpg",
+    "date": "2026-10-09 01:41:59",
+    "timestamp": 1791510019,
+    "likes": 0,
+    "views": 371
+  },
+  {
     "id": "recipe_1791495893",
     "category": "side",
     "category_ja": "サイド",
