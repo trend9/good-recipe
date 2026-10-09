@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791577818",
+    "category": "メイン料理",
+    "category_ja": "メイン料理",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の旨味爆弾！",
+    "title_en": "Tofu Cheesy Chicken: A Delicious Explosion of Flavor!",
+    "description_ja": "とろけるチーズとタッカルビチキの意外な組み合わせで、悪魔的な旨味とチーズのハーモニーが炸裂！見た目も鮮やかで、家庭でも簡単に作れる、SNS映え抜群レシピ！",
+    "description_en": "An unexpected but amazing fusion of cheesy and spicy goodness that will leave you wanting more! This recipe combines the creamy goodness of melted cheese with the bold flavors of spicy Korean chicken in a dish that's both visually stunning and surprisingly easy to make in the comfort of your home. This recipe is a perfect social media snack! ",
+    "occasion_ja": "パーティーやBBQに、お酒も進む一皿！",
+    "occasion_en": "Perfect for parties and barbecues, this dish is sure to tantalize your taste buds and your guests will be impressed!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを塩で味付けします。",
+      "チーズを細かく刻みます。",
+      "タッカルビチキンとチーズを混ぜ合わせます。",
+      "レモン汁を少し加え、味を調えます。"
+    ],
+    "prompt": "A close-up shot of the dish with melted cheese and spicy chicken, served on a wooden board. The food is plated with a bold and dramatic aesthetic.",
+    "filename": "recipe_1791577818.jpg",
+    "date": "2026-10-09 20:32:01",
+    "timestamp": 1791577818,
+    "likes": 0,
+    "views": 218
+  },
+  {
     "id": "recipe_1791560750",
     "category": "丼もの",
     "category_ja": "丼もの",
