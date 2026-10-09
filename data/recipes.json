@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791534038",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "海と空の悪魔グラタン",
+    "title_en": "Sea and Sky's Devil Gravitational",
+    "description_ja": "贅沢な海の幸とクリーミーなアボカドのハーモニー。見た目も美しく、悪魔的な美味しさで、きっとお気に入りの一品に！",
+    "description_en": "A taste of luxurious sea-based goodness, paired with creamy avocado. This dish will surely become your favorite with its captivating design and devilishly delicious flavor.",
+    "occasion_ja": "特別なイベントや、特別な日に食べたい、贅沢な一品を召し上がって",
+    "occasion_en": "Perfect for special events or when you want a luxurious dish for a special occasion.",
+    "ingredients": [
+      {
+        "name": "ホタテ",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "1. ホタテを茹でる。",
+      "2. フライパンでアボカドとチーズを炒める。",
+      "3. 混ぜ合わせ、牛乳を加えながら溶き卵を混ぜる。",
+      "4. 茹でたホタテをグラタンの皿に盛り付け、溶き卵とチーズのクリームを乗せる。"
+    ],
+    "prompt": "A close-up shot of a creamy and beautiful looking devil's gravitational dish, with golden crust, with a slight shimmer from the sauce. ",
+    "filename": "recipe_1791534038.jpg",
+    "date": "2026-10-09 08:22:59",
+    "timestamp": 1791534038,
+    "likes": 0,
+    "views": 257
+  },
+  {
     "id": "recipe_1791510019",
     "category": "dessert",
     "category_ja": "デザート",
