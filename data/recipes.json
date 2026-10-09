@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791560750",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろとろ卵と旨辛麻婆豆腐の悪魔丼！",
+    "title_en": "Spicy Sichuan Mapo Tofu Egg Bowl - A Twist on the Classic",
+    "description_ja": "とろとろ卵と旨辛麻婆豆腐の悪魔丼！ 意外な組み合わせでも、悪魔的な美味しさに包まれた一品です。",
+    "description_en": "An unexpected yet devilishly delicious fusion! This spicy Sichuan Mapo Tofu Egg Bowl blends creamy scrambled eggs with savory, spicy, and rich Mapo Tofu for a truly unique and addictive experience.",
+    "occasion_ja": "週末の晩御飯にピッタリ！",
+    "occasion_en": "Perfect for weekend dinners!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1合"
+      },
+      {
+        "name": "卵焼き",
+        "amount": "1個"
+      },
+      {
+        "name": "白米",
+        "amount": "1合"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "卵を溶き、白米と混ぜる。",
+      "鍋にごま油を熱し、旨辛麻婆豆腐を炒める。",
+      "卵焼きを作る。",
+      "丼に白米と卵焼きを乗せ、旨辛麻婆豆腐をかけた。"
+    ],
+    "prompt": "Close-up image of a steaming bowl of Spicy Sichuan Mapo Tofu Egg Bowl with a sunny-side-up egg on top. The Mapo Tofu is simmering with a rich broth, and a sprinkle of chili flakes adorns the dish. The egg is cooked to perfection, with a slightly runny yolk.",
+    "filename": "recipe_1791560750.jpg",
+    "date": "2026-10-09 15:48:46",
+    "timestamp": 1791560750,
+    "likes": 0,
+    "views": 327
+  },
+  {
     "id": "recipe_1791534038",
     "category": "グラタン",
     "category_ja": "グラタン",
