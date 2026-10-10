@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1791655911",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろける卵×旨辛麻婆豆腐！悪魔の旨味丼！",
+    "title_en": "Spicy Tofu and Egg Bowl - Devilish Flavor Explosion!",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の融合が、悪魔の旨味を放つ丼！ 意外性あふれる美味しさで、食欲を刺激する一皿！",
+    "description_en": "A devilishly delicious bowl featuring a fusion of creamy egg and spicy tofu! Expect a taste explosion that's as unpredictable as it is delicious.",
+    "occasion_ja": "特別な日に、特別な味を求めるあなたへ。",
+    "occasion_en": "For those seeking a special and unique taste on special occasions.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "水",
+        "amount": "200ml"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "だし powder",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ネギ",
+        "amount": "適量"
+      },
+      {
+        "name": "ごま油",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 卵をボウルに入れ、軽く混ぜる。",
+      "2. 麻婆豆腐をボウルに入れ、卵液を混ぜる。",
+      "3. 水と醤油を加え、混ぜる。",
+      "4. 溶き卵と麻婆豆腐を丼に盛る。ネギとごま油を添える。"
+    ],
+    "prompt": "Close-up shot of a spicy tofu and egg bowl with creamy egg on top, served in a black and white bowl with a sprinkle of green onions, garnished with sesame oil.  Anime art style.",
+    "filename": "recipe_1791655911.jpg",
+    "date": "2026-10-10 18:12:39",
+    "timestamp": 1791655911,
+    "likes": 0,
+    "views": 467
+  },
+  {
     "id": "recipe_1791638090",
     "category": "dessert",
     "category_ja": "デザート",
