@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1791670221",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろける半熟卵 × デミグラスハンバーグの「悪魔の甘酸っぱさ」オムレツ！",
+    "title_en": "Devilish Sweet & Sour Omelet: Half-Soft Egg & Demi-Glace Hamburger",
+    "description_ja": "とろける半熟卵とジューシーなデミグラスハンバーグが、甘酸っぱさが爆発する！悪魔的オムレツ誕生！",
+    "description_en": "A devilishly delicious omelet with melty, half-soft eggs and juicy demi-glace hamburger. Sweet and sour flavor explodes in every bite!",
+    "occasion_ja": "特別な日やパーティに！",
+    "occasion_en": "Perfect for special occasions and parties!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "お好みで",
+        "amount": "1/2個"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "卵を溶き、塩少々を加え、フライパンで半熟に。",
+      "デミグラスハンバーグを焼く。",
+      "フライパンでみりんと砂糖を加え、レモン汁を加え、弱火で煮詰める。",
+      "卵を焼き上げたハンバーグに、甘酸っぱいソースを添えて完成。"
+    ],
+    "prompt": "Close-up photo of a devilishly delicious omelet with half-soft egg and juicy demi-glace hamburger.  A rich sauce and bright colors.",
+    "filename": "recipe_1791670221.jpg",
+    "date": "2026-10-10 22:12:41",
+    "timestamp": 1791670221,
+    "likes": 0,
+    "views": 266
+  },
+  {
     "id": "recipe_1791655911",
     "category": "丼",
     "category_ja": "丼",
