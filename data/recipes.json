@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1791592053",
+    "category": "Side",
+    "category_ja": "サイド",
+    "title_ja": "チーズタッカルビ風チキンマッシュポテト",
+    "title_en": "Spicy Cheese and Chickpea Mashed Potatoes",
+    "description_ja": "とろけるチーズとタッカルビチキンが融合！濃厚なマッシュポテトに、スパイシーなタッカルビの旨味をプラスした、悪魔的な一品をご堪能ください。",
+    "description_en": "A spicy twist on the classic:  melty cheese and spicy chickpea mashed potatoes! This unique dish delivers a powerful explosion of flavor! ",
+    "occasion_ja": "パーティーやBBQに、お酒と一緒にぴったりな一品!",
+    "occasion_en": "Perfect as a side dish for parties and BBQs with cocktails",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "300g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを粗く刻んで、油で炒める。",
+      "2. じゃがいもを茹で、皮をむいて、ボウルに混ぜる。",
+      "3. タッカルビチキンとチーズ、玉ねぎをボウルに加え、牛乳と塩コショウで味を調える。",
+      "4. 混ぜ合わせたマッシュポテトをオーブンで焼成する。"
+    ],
+    "prompt": "Close-up shot of mashed potatoes with a melted cheese topping, a tantalizing red chili sauce drizzle, and a sprinkle of chopped cilantro, styled for a modern and bold food photo shoot",
+    "filename": "recipe_1791592053.jpg",
+    "date": "2026-10-10 00:29:15",
+    "timestamp": 1791592053,
+    "likes": 0,
+    "views": 426
+  },
+  {
     "id": "recipe_1791577818",
     "category": "メイン料理",
     "category_ja": "メイン料理",
