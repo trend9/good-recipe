@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791614287",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマトとモッツァレラ！絶品悪魔のチーズ焼き！",
+    "title_en": "Tomato & Mozzarella! Devilishly Delicious Cheesy Toast!",
+    "description_ja": "完熟トマトの甘酸っぱさとモッツァレラチーズのクリーミーな食感で、想像を超える悪魔的な美味しさ！ 意外な組み合わせで、まるで悪魔が作った焼き菓子のような見た目も衝撃的！",
+    "description_en": "A devilishly delicious cheesy toast made with the sweet and sour tomato and creamy mozzarella cheese! The unexpected combination brings a shockingly delicious and visually impressive cheesy toast experience! ",
+    "occasion_ja": "パーティーや夜食にぴったりな悪魔的な一品！",
+    "occasion_en": "Perfect for parties or an evening snack with a devilishly delicious twist!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. トマトを薄切りにする。",
+      "2.  バターと塩、ブラックペッパーを加え、トマトを炒める。",
+      "3.  モッツァレラチーズを上に乗せる。",
+      "4.  オーブンで15分焼く。"
+    ],
+    "prompt": "Close-up shot of a toast with tomato, mozzarella, and a smoky background",
+    "filename": "recipe_1791614287.jpg",
+    "date": "2026-10-10 06:38:54",
+    "timestamp": 1791614287,
+    "likes": 0,
+    "views": 377
+  },
+  {
     "id": "recipe_1791592053",
     "category": "Side",
     "category_ja": "サイド",
