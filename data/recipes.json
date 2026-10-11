@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791761030",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔のチーズポテトグラタン！サクサクポテトのクリーミーチーズソースで爆発！",
+    "title_en": "Explosive Creamy Cheese Potato Gratin! Crispy Potato with a Creamy Cheese Sauce",
+    "description_ja": "サクサクポテトとクリーミーチーズの組み合わせで、衝撃的な美味しさに！悪魔的アレンジレシピで、日常の食卓に革命を起こそう！",
+    "description_en": "A revolutionary twist on comfort food! This cheesy potato gratin will blow your mind with a delightful combination of crispy potato and a creamy, decadent cheese sauce. ",
+    "occasion_ja": "パーティーや特別な日に！",
+    "occasion_en": "Perfect for a party or special occasion!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1/4個"
+      }
+    ],
+    "steps": [
+      "じゃがいもを schälen und in 2cm の厚さに切ります。",
+      "フライパンにバターを入れ、じゃがいもを炒め、塩コショウで味を調え、中火で10分ほど焼きます。",
+      "チーズ、牛乳、パプリカを加え、弱火で20分ほど煮詰めます。",
+      "お好みでチーズを乗せて、温かいグラタンとして召し上がってください。"
+    ],
+    "prompt": "Close-up photo of a cheesy potato gratin with melted cheese and creamy sauce, steaming and inviting, with a hint of paprika.",
+    "filename": "recipe_1791761030.jpg",
+    "date": "2026-10-11 23:25:27",
+    "timestamp": 1791761030,
+    "likes": 0,
+    "views": 399
+  },
+  {
     "id": "recipe_1791748450",
     "category": "dessert",
     "category_ja": "デザート",
