@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1791682217",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "悪魔の唐揚げマヨネーズ！サクサク×甘酸っぱ！",
+    "title_en": "Devilishly Delicious Fried Chicken: Honey-Mayonnaise Crunch",
+    "description_ja": "サクサク唐揚げに、ハニーマヨネーズを大胆に使って、悪魔的な甘酸っぱさを実現！ 意外な組み合わせが、まるで魔法の料理を体験させてくれる！",
+    "description_en": "A devilishly delicious fried chicken experience, combining the irresistible crunch of fried chicken with a bold burst of honey-mayonnaise! An unexpected yet incredibly delicious fusion will transport your taste buds to another dimension.",
+    "occasion_ja": "パーティーやBBQ、お酒との相性抜群！",
+    "occasion_en": "Perfect for parties, barbecues, and pairs well with drinks.",
+    "ingredients": [
+      {
+        "name": "鶏むね肉",
+        "amount": "400g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "溶き卵",
+        "amount": "2個"
+      },
+      {
+        "name": "ハニー",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏むね肉を一口大に切り、小麦粉に塩胡椒を振る。",
+      "溶き卵を混ぜ、小麦粉につけた鶏むね肉を卵液に包む。",
+      "油をひき、鶏むね肉を揚げる。",
+      "揚げたての鶏むね肉にハニーマヨネーズを塗る。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious fried chicken with honey-mayonnaise sauce on a plate with a drizzle of honey. Photo is styled with a dark background and artistic flair.",
+    "filename": "recipe_1791682217.jpg",
+    "date": "2026-10-11 01:31:10",
+    "timestamp": 1791682217,
+    "likes": 0,
+    "views": 245
+  },
+  {
     "id": "recipe_1791670221",
     "category": "side",
     "category_ja": "サイド",
