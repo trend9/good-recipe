@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791731841",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の唐揚げマヨネーズ！サクサク×甘酸っぱ！",
+    "title_en": "Devilishly Delicious! Crispy Fried Chicken with Honey-Mayo Sauce!",
+    "description_ja": "悪魔的美味しさの炸裂！サクサク唐揚げに、甘酸っぱさがたまらないハニーマヨネーズが相性抜群！家庭でも簡単に作れる、魅惑的な一品料理をぜひ試してみてね。",
+    "description_en": "Experience a devilishly delicious fusion! Crispy fried chicken with a unique honey-mayo glaze that's perfect for any occasion.",
+    "occasion_ja": "パーティーやBBQ、おうち時間にぴったりな一品料理",
+    "occasion_en": "Perfect for parties, BBQs, or a home-cooked treat.",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "10個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "パン粉",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  唐揚げをパン粉で coating し、揚げる。",
+      "2.  熱したフライパンでハニーマヨネーズを混ぜて、溶き卵を加える。",
+      "3.  唐揚げにハニーマヨネーズと溶き卵を絡ませる。",
+      "4.  お好みでネギを添える。 "
+    ],
+    "prompt": "A close-up shot of fried chicken coated with honey-mayo sauce, with a drizzle of ketchup and a sprinkle of green onions",
+    "filename": "recipe_1791731841.jpg",
+    "date": "2026-10-11 15:19:13",
+    "timestamp": 1791731841,
+    "likes": 0,
+    "views": 423
+  },
+  {
     "id": "recipe_1791706219",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
