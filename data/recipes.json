@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1791776904",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズとタッカルビのスパイシーマッシュポテト！悪魔的な甘酸っぱさ！",
+    "title_en": "Spicy Mashed Potato with Cheesy Tartare: A Spicy Twist on Creamy Goodness!",
+    "description_ja": "とろけるチーズとタッカルビのスパイシーなマッシュポテト。甘酸っぱさに痺れる！まるで悪魔の舌を魅了する一皿に。",
+    "description_en": "Spicy mashed potatoes with a cheesy tatarare twist. A blast of flavor, like an unholy kiss of taste buds.",
+    "occasion_ja": "パーティやバーベキューにぴったりな一品！",
+    "occasion_en": "Perfect for parties and BBQ! ",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1kg"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "赤唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "じゃがいもをすり潰し、マヨネーズと赤唐辛子を混ぜる。",
+      "タッカルビチキンと混ぜ、塩で味を調える。",
+      "チーズを混ぜ込む。",
+      "マッシュポテトの生地を形を整え、揚げる。",
+      "揚げたてのマッシュポテトを食べる。"
+    ],
+    "prompt": "Close-up shot of the Spicy Mashed Potato, cheese and tatarare mix, sizzling oil, on a wooden board, in a warm environment, a close-up of the delicious food, smoke rising from the surface, with a dark background and a slight bokeh effect",
+    "filename": "recipe_1791776904.jpg",
+    "date": "2026-10-12 03:50:05",
+    "timestamp": 1791776904,
+    "likes": 0,
+    "views": 445
+  },
+  {
     "id": "recipe_1791761030",
     "category": "dessert",
     "category_ja": "デザート",
