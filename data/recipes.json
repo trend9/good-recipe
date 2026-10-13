@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1791858231",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵 × 旨辛麻婆豆腐の「悪魔の甘酸っぱさ」丼!",
+    "title_en": "Spicy Miso-Marinara Egg Bowl!",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の組み合わせが、悪魔的な甘酸っぱさと美味しさを爆発させる丼！  意外な組み合わせが、最高の美味しさに！",
+    "description_en": "An unexpected combination of spicy miso-marinara and a creamy egg yolk that will blow your mind! It's a devilishly delicious and unexpected flavor bomb! ",
+    "occasion_ja": "夜食にぴったり！",
+    "occasion_en": "Perfect for dinner! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1合"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "だし",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "おろし生姜",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "卵を溶きほぐして、醤油とみりんを加え、混ぜ合わせる。",
+      "フライパンで、旨辛麻婆豆腐を炒める。",
+      "卵を卵焼きのように焼き上げる。",
+      "卵焼きと麻婆豆腐を丼に盛り付け、おろし生姜を添えて完成。 "
+    ],
+    "prompt": "Close-up photo of a steaming bowl of spicy miso-marinara egg and spicy miso-marinara topped with a fluffy egg omelet, with a drizzle of chili oil",
+    "filename": "recipe_1791858231.jpg",
+    "date": "2026-10-13 02:25:33",
+    "timestamp": 1791858231,
+    "likes": 0,
+    "views": 435
+  },
+  {
     "id": "recipe_1791804923",
     "category": "pasta",
     "category_ja": "パスタ",
