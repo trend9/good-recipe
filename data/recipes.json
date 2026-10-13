@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1791885630",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "ガーリックバター＆ぷりぷり海老の甘酸っぱさピラフ！",
+    "title_en": "Garlicky Butter Shrimp Rice Pilaf with Tangy Surprise!",
+    "description_ja": "ぷりぷり海老とガーリックバターの旨みが、甘酸っぱく染み込んだピラフ！意外な組み合わせで、悪魔的に美味しい一品です。",
+    "description_en": "Shrimp with garlicky butter and a tangy surprise, this fluffy rice pilaf will take your taste buds on a wild ride! A flavor twist that's truly delicious! ",
+    "occasion_ja": "パーティー、ディナー、特別な日に！",
+    "occasion_en": "Perfect for parties, dinner, or special occasions! ",
+    "ingredients": [
+      {
+        "name": "玄米",
+        "amount": "200g"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "10g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. 玉ねぎはみじん切りにする。",
+      "2.  玄米と水を加え、炊飯器で炊く。",
+      "3.  ガーリックバターとエビを加え、火が通るまで炒め、醤油とみりんを加える。",
+      "4.  熱したご飯にエビとガーリックバターピラフを混ぜる。"
+    ],
+    "prompt": "Close-up shot of a fluffy rice pilaf with shrimp and garlicky butter on a white background. Focus on the shrimp's texture and the garlicky butter.",
+    "filename": "recipe_1791885630.jpg",
+    "date": "2026-10-13 10:02:15",
+    "timestamp": 1791885630,
+    "likes": 0,
+    "views": 425
+  },
+  {
     "id": "recipe_1791858231",
     "category": "丼もの",
     "category_ja": "丼もの",
