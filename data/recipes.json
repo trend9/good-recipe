@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791941618",
+    "category": "salad",
+    "category_ja": "サラダ",
+    "title_ja": "極厚カツ × ハニーマスタードの「悪魔の甘酸っぱさ」サラダ",
+    "title_en": "Devilishly Sweet & Sour Salad with Thick-cut Pork Katsu & Honey Mustard Sauce",
+    "description_ja": "極厚カツのカリカリ食感と、ハニーマスタードの甘酸っぱさが、サラダに合うなんて、誰も予想しなかった！ これが「悪魔の甘酸っぱさ」の誕生！",
+    "description_en": "The crispy texture of the thick-cut pork katsu and the sweet & sour taste of the honey mustard sauce, blended into a salad. This is the birth of a truly devilish sweet & sour flavor that you've never imagined before.",
+    "occasion_ja": " parties, barbecues, picnics, or even just a casual dinner for two ",
+    "occasion_en": "Perfect for parties, barbecues, picnics, or even just a casual dinner for two.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "適量"
+      },
+      {
+        "name": "サラダ野菜",
+        "amount": "適量"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 極厚カツを、塩コショウで味付けし、両面をこんがりと焼き上げる。",
+      "2. ハニーマスタードを混ぜたドレッシングを作る。",
+      "3. Salad野菜を準備する。",
+      "4. ボウルに、極厚カツ、サラダ野菜、マヨネーズ、レモン汁を混ぜ合わせる。ドレッシングを絡めながら、混ぜ合わせたら完成。"
+    ],
+    "prompt": "A close-up shot of a vibrant salad with crispy pork katsu, honey mustard sauce drizzled on top, and fresh vegetables. The salad bowl is on a wooden table, with a sunny background. ",
+    "filename": "recipe_1791941618.jpg",
+    "date": "2026-10-14 01:35:24",
+    "timestamp": 1791941618,
+    "likes": 0,
+    "views": 412
+  },
+  {
     "id": "recipe_1791929564",
     "category": "dessert",
     "category_ja": "デザート",
