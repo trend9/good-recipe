@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791981881",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋×とろけるバターカラメル！悪魔の甘酸っぱさ！",
+    "title_en": "Baked Sweet Potato × Melting Butter Caramel! Devilishly Sweet & Sour!",
+    "description_ja": "焼き芋の甘さ、とろけるバターカラメルの甘酸っぱさが、あなたの味 buds を虜にします！ 想像を超える悪魔的な美味しさに酔いしれてください！",
+    "description_en": "Indulge in the devilishly delicious combination of sweet potato's natural sweetness and the melt-in-your-mouth caramel. A taste bud explosion you won't forget!",
+    "occasion_ja": "特別な日や夜ご飯、デザートにぴったり！",
+    "occasion_en": "Perfect for a special occasion, dinner, or a delightful dessert!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cm角に切り、180℃のオーブンで10分焼く。",
+      "溶かしバターと砂糖、レモン汁、水でカラメルソースを作る。",
+      "焼き芋にカラメルソースを絡める。",
+      "お好みで、塩や黒胡椒を振っても良い。"
+    ],
+    "prompt": "Close-up of a baked sweet potato with a melted butter caramel sauce, vibrant colors and delicious textures. Garnished with a sprinkle of salt or pepper.",
+    "filename": "recipe_1791981881.jpg",
+    "date": "2026-10-14 12:46:57",
+    "timestamp": 1791981881,
+    "likes": 0,
+    "views": 477
+  },
+  {
     "id": "recipe_1791961267",
     "category": "side",
     "category_ja": "サイド",
