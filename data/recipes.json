@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792012422",
+    "category": "サイド",
+    "category_ja": "サイドメニュー",
+    "title_ja": "極厚カツ×特製ハニーマスタードのスパイシー・サクサク風サラダ",
+    "title_en": "Spicy Sizzling Crispy Salad with Thick-Cut Pork Cutlets and Honey Mustard",
+    "description_ja": "いつもの極厚カツを、スパイシーなサクサク感で変身！特製ハニーマスタードの甘酸っぱさと、香辛料を加えた独自のソースで、食欲をそそる悪魔的な美味しさに。",
+    "description_en": "Level up your thick-cut pork cutlets with a spicy, crispy twist! This unique honey mustard sauce is a must-try for any pork-lover. ",
+    "occasion_ja": "パーティーやBBQにも最適！",
+    "occasion_en": "Perfect for parties and BBQs!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "お好みで、スパイス(例: 胡椒、チリパウダーなど) ",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "サラダ油",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを、両面で軽く焼き色をつけます。",
+      "特製ハニーマスタードとスパイスを加えて、ソースを作りましょう。",
+      "サラダ油を熱したフライパンで、極厚カツを軽く焼き色をつけます。",
+      "特製ハニーマスタードソースを添え、レモン汁で味を調整します。"
+    ],
+    "prompt": "Close-up shot of a plate with crispy pork cutlets, drizzled with honey mustard sauce and accompanied by a side salad, vibrant colours, delicious food photography, photorealistic",
+    "filename": "recipe_1792012422.jpg",
+    "date": "2026-10-14 21:15:21",
+    "timestamp": 1792012422,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1791999961",
     "category": "salad",
     "category_ja": "サラダ",
