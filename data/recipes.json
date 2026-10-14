@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1791961267",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "黒蜜きな粉もちもちアイス×チーズの「悪魔の甘酸っぱさ」グラタン！",
+    "title_en": "Black Honey Kinako Cheesy Gra-tal! (A Devilishly Delicious Twist)",
+    "description_ja": "黒蜜きな粉もちもちアイスをチーズで包み込み、甘酸っぱさの極限に挑戦！もちもち感と黒蜜の甘酸っぱさが一体となり、悪魔的な美味しさに！",
+    "description_en": "Take the iconic black honey kinako mochi ice cream to the next level with a cheesy, devilishly good twist! This dish boasts the ultimate in both mochi and a perfect balance of sweet and sour for a truly unforgettable experience!",
+    "occasion_ja": "パーティー、おもてなし、特別な日！",
+    "occasion_en": "Special occasions & gatherings!",
+    "ingredients": [
+      {
+        "name": "黒蜜きな粉もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1.  黒蜜きな粉もちもちアイスを一口サイズにカット。",
+      "2.  チーズを厚く、小麦粉を混ぜた生地で包み込む。",
+      "3.  牛乳と塩を混ぜ、チーズに浸して生地に馴染ませる。",
+      "4.  チーズの生地を、黒蜜きな粉もちもちアイスと混ぜ合わせて完成！"
+    ],
+    "prompt": "Close-up shot of a cheesy gra-tal with black honey kinako ice cream, sprinkled with black sesame seeds. A sprinkle of powdered sugar, and steam coming out from the center. Anime style.",
+    "filename": "recipe_1791961267.jpg",
+    "date": "2026-10-14 07:04:21",
+    "timestamp": 1791961267,
+    "likes": 0,
+    "views": 255
+  },
+  {
     "id": "recipe_1791941618",
     "category": "salad",
     "category_ja": "サラダ",
