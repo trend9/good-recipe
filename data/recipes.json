@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792104740",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "キャラメルバナナ brûlée 🍎🍌🍫",
+    "title_en": "Caramel Banana Brulee 🍎🍌🍫",
+    "description_ja": "完熟バナナの甘酸っぱさとキャラメルブリュレの濃厚な甘みが、まるで魔法の薬を飲むような、悪魔的な美味しさを実現！ 想像以上に驚くほど美味しさ！",
+    "description_en": "A blend of the sweet, tart flavor of ripe bananas with the rich caramel of the brulee! A truly devilishly delicious experience, you won't believe how amazing it tastes!",
+    "occasion_ja": "特別な日や、甘い誘惑に負けない！",
+    "occasion_en": "Special occasions, or when you need to tempt your taste buds!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      },
+      {
+        "name": "ココアパウダー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "バナナを薄切りにし、キャラメルとバターで焼き、キャラメルがバナナに染み込むように。",
+      "キャラメルバナナを焼き上げたら、生クリームを混ぜ合わせてココアパウダーを加えて混ぜる。",
+      "生クリームの生地をキャラメルバナナの上に塗り、冷蔵庫で冷やす。",
+      "冷めてから、お皿に盛り付け、好きなトッピングで飾る"
+    ],
+    "prompt": "Close-up shot of a beautifully crafted caramel banana brulee dessert with a focus on the caramel and banana, showcasing the luxurious feel of the dish. ",
+    "filename": "recipe_1792104740.jpg",
+    "date": "2026-10-15 22:55:19",
+    "timestamp": 1792104740,
+    "likes": 0,
+    "views": 200
+  },
+  {
     "id": "recipe_1792093193",
     "category": "dessert",
     "category_ja": "デザート",
