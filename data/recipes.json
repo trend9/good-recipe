@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1792093193",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘酸っぱさ！サーモン＆アボカドタルタルチーズムース",
+    "title_en": "Salmon & Avocado Tartare Cheese Mousse: Devilishly Delicious",
+    "description_ja": "サクサクの揚げ物とクリーミーなチーズムースが、サーモンとアボカドの絶妙な組み合わせで、悪魔的な美味しさを実現！",
+    "description_en": "Unexpectedly delicious combination of crispy fried items and creamy cheese mousse with salmon and avocado delivers devilishly delicious taste.",
+    "occasion_ja": "パーティーや特別な日におすすめ！",
+    "occasion_en": "Perfect for party or special occasion!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "100g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "サーモンを細切りにし、アボカドは細かく刻む。",
+      "チーズをボウルにすりほぐし、卵とオリーブオイルを加えて混ぜる。",
+      "小麦粉を混ぜ、なめらかにしたチーズムースを生地に混ぜる。",
+      "揚げ油を熱し、生地を薄く伸ばして揚げる。",
+      "揚げた後、サーモンとアボカドのタルトを盛り付ける"
+    ],
+    "prompt": "Close-up view of a tartlet filled with salmon, avocado and cheese mousse with a golden crust, a dark background",
+    "filename": "recipe_1792093193.jpg",
+    "date": "2026-10-15 19:41:34",
+    "timestamp": 1792093193,
+    "likes": 0,
+    "views": 291
+  },
+  {
     "id": "recipe_1792078177",
     "category": "side",
     "category_ja": "サイド",
