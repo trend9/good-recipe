@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792061037",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘酸っぱさ！ ハニーマヨネーズ×サクサク唐揚げの「チーズ」カルボナーラ！",
+    "title_en": "Devilish Deliciousness! Honey Mayo × Fried Chicken 'Cheese' Carbonara!",
+    "description_ja": "揚げたてのサクサク唐揚げに、濃厚なチーズと、ハニーマヨネーズのハーモニーが食欲をそそる！ さらに、クリーミーなカルボナーラソースで、悪魔的に美味しいカルボナーラが完成！",
+    "description_en": "Deep-fried crispy chicken with a rich cheese and honey mayo harmony! The creamy carbonara sauce elevates the taste to a devilishly delicious level!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "鶏肉唐揚げ",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "カルボナーラソース",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 鶏肉唐揚げを揚げる。",
+      "2. チーズを溶かし、ハニーマヨネーズを加えて混ぜる。",
+      "3. 卵を茹でる。",
+      "4. パスタを茹でる。カルボナーラソースを加えて、混ぜる。チーズと唐揚げをパスタに盛り付け、カルボナーラソースをかけ、召し上がれ。"
+    ],
+    "prompt": "Close-up image of fried chicken, cheese sauce, and pasta. A vibrant, appetizing shot with a playful, devilish mood.",
+    "filename": "recipe_1792061037.jpg",
+    "date": "2026-10-15 10:45:38",
+    "timestamp": 1792061037,
+    "likes": 0,
+    "views": 339
+  },
+  {
     "id": "recipe_1792042203",
     "category": "dessert",
     "category_ja": "デザート",
