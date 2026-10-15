@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1792023474",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス×チーズの「悪魔の甘酸っぱさ」チーズケーキ！",
+    "title_en": "Black Honey Kinako Mochi Ice Cream Cheesecake! - A Devilishly Delicious Twist",
+    "description_ja": "黒蜜の甘酸っぱさとチーズの濃厚な味わいが、もちもちとしたアイスとチーズケーキの組み合わせで、悪魔的な美味しさを実現！",
+    "description_en": "A devilishly delicious cheesecake! This unique flavor combination brings together the sweet and sour notes of black honey with the creamy richness of cheese, all topped with a fluffy mochi ice cream, and a touch of magic! ",
+    "occasion_ja": "特別な日に食べたい、悪魔的なスイーツを味わいたい方におすすめ！",
+    "occasion_en": "Ideal for special occasions, for those who crave a devilishly delicious dessert experience!",
+    "ingredients": [
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "もち米",
+        "amount": "100g"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "100g"
+      },
+      {
+        "name": "きな粉",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "アイスクリーム",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "もち米を水でよく洗い、20分ほど浸けておく。",
+      "チーズをボールに入れて、牛乳を加え、泡立て器で混ぜる。",
+      "きな粉と黒蜜を混ぜ合わせる。",
+      "もち米をチーズと黒蜜のボールに加え、混ぜる。",
+      "アイスクリームを乗せて、冷蔵庫で冷やす。"
+    ],
+    "prompt": "Close-up shot of a beautiful cheesecake with a swirl of black honey glaze on top, featuring a delicate layer of mochi ice cream and a dusting of powdered kinako.",
+    "filename": "recipe_1792023474.jpg",
+    "date": "2026-10-15 00:19:19",
+    "timestamp": 1792023474,
+    "likes": 0,
+    "views": 192
+  },
+  {
     "id": "recipe_1792012422",
     "category": "サイド",
     "category_ja": "サイドメニュー",
