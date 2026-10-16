@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792178125",
+    "category": "salad",
+    "category_ja": "サラダ",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：スパイシーサクサク風サラダ",
+    "title_en": "Spicy Crunchy Salad: Thick Cut Pork Cutlet with Honey Mustard",
+    "description_ja": "悪魔的な美味しさ！極厚カツを、特製ハニーマスタードでスパイシーに、サクサクとした食感を楽しめるサラダです。甘酸っぱいハーモニーも満喫！",
+    "description_en": "A spicy & crunchy salad featuring thick cut pork cutlet with a unique honey mustard dressing for an out-of-this-world taste.  Sweet and sour harmony will amaze you!",
+    "occasion_ja": "パーティー、ディナー、夜食にぴったり",
+    "occasion_en": "Perfect for parties, dinners, or a snack.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "レタス",
+        "amount": "適量"
+      },
+      {
+        "name": "トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      }
+    ],
+    "steps": [
+      "1. 極厚カツは、両面を薄く焼く。",
+      "2. 特製ハニーマスタードを混ぜ合わせて、レタス、トマト、玉ねぎなどを混ぜ合わせる。",
+      "3. 極厚カツを、ハニーマスタードのタレに浸して、サラダに盛り付ける。",
+      "4. お好みで、レモン汁を少し加えて、味を調える。"
+    ],
+    "prompt": "Close-up shot of a salad with thick cut pork cutlet on a plate. A light and airy salad, with a vibrant color palette.  A few drops of honey mustard dressing on the top.",
+    "filename": "recipe_1792178125.jpg",
+    "date": "2026-10-16 19:17:08",
+    "timestamp": 1792178125,
+    "likes": 0,
+    "views": 180
+  },
+  {
     "id": "recipe_1792163311",
     "category": "salad",
     "category_ja": "サラダ",
