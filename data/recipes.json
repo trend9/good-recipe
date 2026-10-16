@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792128401",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコラズベリーチーズケーキ (悪魔の甘酸っぱさ！)",
+    "title_en": "White Chocolate Matcha Raspberry Cheesecake (Devilishly Sweet & Tangy)",
+    "description_ja": "濃厚なホワイトチョコレートと抹茶の組み合わせ、贅沢な甘酸っぱさが口いっぱいに広がる！  特別なチーズケーキは、まさに悪魔の甘酸っぱさを表現した一品。 ",
+    "description_en": "A decadent cheesecake with a twist of matcha and white chocolate! This devilishly sweet and tangy creation will leave your taste buds tantalized.",
+    "occasion_ja": "特別な日に、特別なひとときを演出",
+    "occasion_en": "Perfect for a special occasion",
+    "ingredients": [
+      {
+        "name": "抹茶パウダー",
+        "amount": "適量"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "150g"
+      },
+      {
+        "name": "ラズベリー",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "250ml"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  抹茶パウダーとホワイトチョコレートを混ぜ、なめらかに溶かす。",
+      "2.  ラズベリーを小さく刻んで混ぜる。",
+      "3.  生クリームを混ぜて、ケーキの型に流し込む。",
+      "4.  薄力粉をまぶして、表面を均等に覆う。"
+    ],
+    "prompt": "Close-up shot of a white chocolate and matcha cheesecake with raspberries, in an elegant, professional style, soft light",
+    "filename": "recipe_1792128401.jpg",
+    "date": "2026-10-16 05:29:00",
+    "timestamp": 1792128401,
+    "likes": 0,
+    "views": 410
+  },
+  {
     "id": "recipe_1792104740",
     "category": "dessert",
     "category_ja": "デザート",
