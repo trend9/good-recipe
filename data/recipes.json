@@ -1,5 +1,62 @@
 [
   {
+    "id": "recipe_1792163311",
+    "category": "salad",
+    "category_ja": "サラダ",
+    "title_ja": "悪魔の甘酸っぱさ！ローストビーフ × オニオンソースの「スパイス」サラダ！",
+    "title_en": "Spicy Delight: Roast Beef & Onion Salad with a Twist!",
+    "description_ja": "極上のローストビーフと、スパイシーで意外な組み合わせで、まるで悪魔が作ったような、忘れられない味わいに！",
+    "description_en": "An unexpected twist on the classic roast beef! Spicy and delicious with a unique combination that will leave you craving more.",
+    "occasion_ja": "パーティーやディナーのサイドディッシュに！",
+    "occasion_en": "Perfect for parties or a delightful side dish! ",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "ハラペーニョ",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "ローストビーフを一口サイズに切り、塩胡椒で調味。",
+      "玉ねぎは薄切りにする。パプリカとハラペーニョは食べやすい大きさに切る。",
+      "玉ねぎ、パプリカ、ハラペーニョをボウルに入れ、レモン汁、砂糖、塩、黒胡椒を加え混ぜ合わせる。",
+      "ローストビーフとスパイスサラダを盛り付ける。"
+    ],
+    "prompt": "A bowl of vibrant, colorful salad with a roast beef slice on top. The salad is rich in textures, with the caramelized onion pieces and colorful peppers adding a visual appeal. The setting is a dark background with a slight glow, like a smoky cafe.",
+    "filename": "recipe_1792163311.jpg",
+    "date": "2026-10-16 15:10:13",
+    "timestamp": 1792163311,
+    "likes": 0,
+    "views": 161
+  },
+  {
     "id": "recipe_1792128401",
     "category": "dessert",
     "category_ja": "デザート",
