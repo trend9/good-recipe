@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792189560",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔の甘酸っぱさ！チーズケーキ風！",
+    "title_en": "Roasted Sweet Potato & Melted Butter Caramel: Devilishly Sweet & Tangy Cheese Cake Flavor!",
+    "description_ja": "焼き芋の甘酸っぱさと、とろけるバターカラメルの相性は抜群！チーズケーキのような濃厚な味わいが、誰もが一度は食べたくなる魔法のレシピです。",
+    "description_en": "The sweet & tangy flavor of roasted sweet potato paired with melted butter caramel, a flavor combo straight out of heaven! This recipe delivers a decadent cheesecake-like experience you won't be able to resist.",
+    "occasion_ja": "特別な夜に、特別な人に贈る、魅惑のチーズケーキ風デザート",
+    "occasion_en": "A decadent dessert perfect for special occasions and gifting, this will surely leave a lasting impression.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "カラメルソース",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "焼き芋を10分ほど焼きます。",
+      "焼いた焼き芋に、50gのバターを溶かして、焦げ付かないように注意して混ぜます。",
+      "溶けたバターと焼き芋を混ぜ、カラメルソースを少し加えます。",
+      "混ぜ合わせたものをチーズで包んで、生クリームで仕上げます。"
+    ],
+    "prompt": "Close-up shot of a decadent dessert with a creamy cheesecake-like texture, topped with melted butter caramel and a layer of cheese. The background is a dark and elegant palette.",
+    "filename": "recipe_1792189560.jpg",
+    "date": "2026-10-16 22:27:41",
+    "timestamp": 1792189560,
+    "likes": 0,
+    "views": 279
+  },
+  {
     "id": "recipe_1792178125",
     "category": "salad",
     "category_ja": "サラダ",
