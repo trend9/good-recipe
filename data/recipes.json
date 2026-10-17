@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792263651",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "とろける半熟卵×デミグラスハンバーグ：スパイスチーズケーキ！",
+    "title_en": "Devilishly Delicious: Spicy Cheesecake with Half-Cooked Egg & Demi-Glace Meatball",
+    "description_ja": "とろける半熟卵とデミグラスハンバーグの組み合わせで、悪魔的な甘酸っぱさとスパイスの奥深さを味わえるチーズケーキ！見た目もインパクト大！",
+    "description_en": "Experience devilishly delicious taste with a unique fusion of half-cooked eggs and demi-glace meatballs in a spicy cheesecake! This dish boasts a bold look and flavor combination.",
+    "occasion_ja": "特別な日やパーティーに、インパクトのあるデザートとして最適！",
+    "occasion_en": "Perfect for special occasions and parties, this dessert offers an eye-catching presentation and a unique taste.",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "スパイス",
+        "amount": "適量"
+      },
+      {
+        "name": "お好みで",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  デミグラスハンバーグを焼いて、半熟卵を焼きます。",
+      "2.  生クリームとチーズを混ぜて、スパイスを加えて、なめらかになるまで混ぜます。",
+      "3.  焼いたハンバーグと半熟卵を、スパイスチーズケーキの生地の中に詰め込みます。",
+      "4.  お好みで、ソースや飾りを加えて、完成."
+    ],
+    "prompt": "A beautiful close-up shot of a cheesecake with a half-cooked egg and a demi-glace hamburger. It is decorated with a sprinkling of spices.",
+    "filename": "recipe_1792263651.jpg",
+    "date": "2026-10-17 19:02:36",
+    "timestamp": 1792263651,
+    "likes": 0,
+    "views": 158
+  },
+  {
     "id": "recipe_1792255821",
     "category": "snack",
     "category_ja": "軽食",
