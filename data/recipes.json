@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792244050",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘酸っぱさ！黒蜜きな粉アイス！",
+    "title_en": "Devilishly Delicious! Black Honey Kinako Ice Cream!",
+    "description_ja": "黒蜜ときな粉の組み合わせが、まるで悪魔の舌に誘う、意外性あふれるアイス！  濃厚な甘酸っぱさと、もちもちとした食感のアイスは、まるで悪魔の誘惑を食べているような、体験を叶えます。",
+    "description_en": "An unexpectedly delicious ice cream featuring a unique combination of black honey and kinako,  an intriguing twist on a classic dessert. This creamy, decadent, and surprisingly satisfying treat offers a tastebud adventure you won't soon forget.",
+    "occasion_ja": "特別な日や、普段から気分転換にぴったりなデザート！",
+    "occasion_en": "A perfect dessert for special occasions or for a little pick-me-up during your day.",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "200g"
+      },
+      {
+        "name": "きな粉",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "食塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      }
+    ],
+    "steps": [
+      "1. きな粉と黒蜜を混ぜ、牛乳と食塩を加えてよく混ぜる。",
+      "2.  混ぜ合わせた液体を冷凍庫で冷やす。",
+      "3.  冷えた液体を、生クリームと混ぜ合わせて、アイス状に作り出す。",
+      "4.  好きなように盛り付けて、食べる。"
+    ],
+    "prompt": "Close-up shot of a scoop of ice cream in a clear glass, decorated with a sprinkle of black sugar and kinako, a dramatic and eye-catching dessert image.",
+    "filename": "recipe_1792244050.jpg",
+    "date": "2026-10-17 13:35:47",
+    "timestamp": 1792244050,
+    "likes": 0,
+    "views": 344
+  },
+  {
     "id": "recipe_1792214507",
     "category": "dessert",
     "category_ja": "デザート",
