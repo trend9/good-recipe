@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792255821",
+    "category": "snack",
+    "category_ja": "軽食",
+    "title_ja": "とろけるチーズ×タッカルビチキン！悪魔的甘酸っぱさ！チーズボール風！",
+    "title_en": "Spicy & Creamy Cheese Balls with Tteokbokki Chicken: An Unexpectedly Delicious Twist",
+    "description_ja": "とろけるチーズとタッカルビチンの意外性あふれる組み合わせ！クリーミーでスパイシーなチーズボール風。SNSで話題沸騰間違いなし！",
+    "description_en": "A crazy delicious fusion of creamy cheese and spicy tteokbokki chicken in a unique, cheesy ball form! This recipe is sure to be a hit on social media.",
+    "occasion_ja": "パーティーやディナーのサイド dishes、お酒との相性抜群！",
+    "occasion_en": "A perfect side dish for parties or dinners, or a fun and flavorful addition to your drink pairings!",
+    "ingredients": [
+      {
+        "name": "チーズボール",
+        "amount": "100g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "パクチー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "チーズボールを1cm角に丸め、タッカルビチキンを一口サイズにカットする。",
+      "チーズボールとタッカルビチキンを醤油、砂糖で味付けする。",
+      "チーズボールとタッカルビチキンを、パクチーで飾って皿に盛り付ける。",
+      "完成！"
+    ],
+    "prompt": "A close-up shot of cheesy balls with spicy tteokbokki chicken on top, decorated with fresh cilantro. The cheese balls are slightly melted and oozing, with a vibrant red sauce. A vibrant and appealing dish with contrasting textures and color.",
+    "filename": "recipe_1792255821.jpg",
+    "date": "2026-10-17 16:53:23",
+    "timestamp": 1792255821,
+    "likes": 0,
+    "views": 302
+  },
+  {
     "id": "recipe_1792244050",
     "category": "dessert",
     "category_ja": "デザート",
