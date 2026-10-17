@@ -1,5 +1,61 @@
 [
   {
+    "id": "recipe_1792280661",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的クリームチーズとエビのグラタン",
+    "title_en": "Creamy Cheese & Shrimp Gratin (Devilishly Delicious!)",
+    "description_ja": "クリーミーなチーズと、プリプリのエビが織りなす、悪魔的な美味しさ！とろけるチーズとエビのグラタンに、甘酸っぱさをもたらすソースで仕上げます。まるで、悪魔が作ったチーズケーキのような、魅惑的な一品に仕上がります！",
+    "description_en": "A creamy, cheesy, and shrimp gratin with a devilishly delicious twist!  The creamy cheese and shrimp are enhanced with a tangy sauce, creating an irresistible flavor. This is a decadent and delightful dish that will leave you asking for more!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "グラタン皿",
+        "amount": "1",
+        "unit": "個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml",
+        "unit": "ml"
+      },
+      {
+        "name": "チーズ (クリームチーズ)",
+        "amount": "100g",
+        "unit": "g"
+      },
+      {
+        "name": "海老 (殻付き)",
+        "amount": "200g",
+        "unit": "g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "10g",
+        "unit": "g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "1g",
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      "チーズとクリームチーズをグラタン皿に広げます。",
+      "生クリームを、砂糖とレモン汁を加え、混ぜます。",
+      "エビを皿に敷き詰め、クリームチーズソースを注ぎます。",
+      "180℃のオーブンで10分焼きます。",
+      "冷ましてから、お皿に盛り付けてください。"
+    ],
+    "prompt": "A close-up shot of a creamy cheesy shrimp gratin with a beautiful golden crust and steam rising from the dish, inspired by the dark, decadent and delicious design of the devil's creation.",
+    "filename": "recipe_1792280661.jpg",
+    "date": "2026-10-17 23:46:09",
+    "timestamp": 1792280661,
+    "likes": 0,
+    "views": 447
+  },
+  {
     "id": "recipe_1792272105",
     "category": "rice/side",
     "category_ja": "ご飯/サイド",
