@@ -1,5 +1,56 @@
 [
   {
+    "id": "recipe_1792198742",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘酸っぱさ！とろける卵×デミグラスハンバーグの「スパイス」チーズケーキ！",
+    "title_en": "Spicy Cheese Cake with Creamy Egg & Demi-Glace Burger!",
+    "description_ja": "とろける卵とデミグラスハンバーグを、スパイシーなチーズケーキで包み込む！まるで悪魔が作ったような、意外性と美味しさの融合！",
+    "description_en": "Creamy eggs meet demi-glace burger in a spicy cheese cake! A fusion of unexpected taste and deliciousness, like something an evil being cooked up! ",
+    "occasion_ja": "特別な日に、パーティー、または特別な夜にぴったりな、驚きの美味しさのチーズケーキ！",
+    "occasion_en": "Perfect for parties, special occasions, or an unforgettable night! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "4個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "スパイス",
+        "amount": "適量"
+      },
+      {
+        "name": "パウダーチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "卵をボウルに入れて、牛乳とスパイスを加えて混ぜる。",
+      "デミグラスハンバーグを小さく刻む。",
+      "チーズをボウルに入れ、混ぜる。",
+      "卵とデミグラスハンバーグを混ぜる。",
+      "チーズケーキを型に流し込み、オーブンで焼く。",
+      "完成。"
+    ],
+    "prompt": "A close-up shot of a cheesy dessert with a spicy twist. Vibrant colors and texture.  A tempting visual, with an element of mystery.",
+    "filename": "recipe_1792198742.jpg",
+    "date": "2026-10-17 01:00:43",
+    "timestamp": 1792198742,
+    "likes": 0,
+    "views": 232
+  },
+  {
     "id": "recipe_1792189560",
     "category": "dessert",
     "category_ja": "デザート",
