@@ -1,5 +1,60 @@
 [
   {
+    "id": "recipe_1792272105",
+    "category": "rice/side",
+    "category_ja": "ご飯/サイド",
+    "title_ja": "ガーリックバター海老のぷりぷりピラフ！悪魔の甘酸っぱさ！",
+    "title_en": "Garlicky Shrimpy Puffy Rice! The Devilish Sweet and Sour! ",
+    "description_ja": "まるで悪魔が作ったピラフ！ガーリックバターで香ばしさとクリーミーさをプラス。ぷりぷり海老と、甘酸っぱさがクセになる一品に。",
+    "description_en": "Like a devil made this fluffy rice! Garlicky butter adds flavor and creaminess. This dish has bouncy shrimp and a taste that's addictive! ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "ご飯",
+        "amount": "2人分"
+      },
+      {
+        "name": "ガーリックバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ぷりぷり海老",
+        "amount": "200g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "ポン酢",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "ご飯を炊く。",
+      "ガーリックバターを溶かし、ご飯に混ぜる。",
+      "ぷりぷり海老を別々に炒める。",
+      "牛乳、ポン酢、砂糖、塩を混ぜ合わせ、海老を絡める。",
+      "ご飯に海老とソースを混ぜる。",
+      "盛り付けて完成！"
+    ],
+    "prompt": "Close-up of a fluffy rice bowl topped with shrimp and sauce, a delicious explosion of flavor and textures.",
+    "filename": "recipe_1792272105.jpg",
+    "date": "2026-10-17 21:23:22",
+    "timestamp": 1792272105,
+    "likes": 0,
+    "views": 318
+  },
+  {
     "id": "recipe_1792263651",
     "category": "dessert",
     "category_ja": "デザート",
