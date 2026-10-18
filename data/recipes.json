@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792350735",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶ホワイトチョコレート、濃厚チーズの「悪魔の甘酸っぱさ」！",
+    "title_en": "Devilishly Delicious Matcha White Chocolate & Cream Cheese",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートの意外な組み合わせが、悪魔的な甘酸っぱさに昇華！とろけるチーズと抹茶の相性は、まさに「悪魔の甘酸っぱさ」に！",
+    "description_en": "A devilishly delicious combination of matcha and white chocolate, creating a taste sensation of unprecedented intensity!  The creamy cheese paired with the richness of matcha, will take your taste buds on a wild ride to the underworld of deliciousness.",
+    "occasion_ja": "特別な夜にぴったり！",
+    "occasion_en": "The perfect recipe for a special occasion!",
+    "ingredients": [
+      {
+        "name": "抹茶ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "白玉粉",
+        "amount": "50g"
+      },
+      {
+        "name": "抹茶粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. クリームチーズと生クリームを混ぜ、なめらかになるまで泡立てます。",
+      "2. 抹茶粉と砂糖を混ぜ、溶かしながら滑らかな抹茶ソースを作ります。",
+      "3.  抹茶ホワイトチョコレートをクリームチーズと抹茶ソースに混ぜ込み、冷蔵庫で冷やします。",
+      "4.  白玉粉と抹茶を混ぜ、生地を作り、ケーキ型に敷き詰めます。冷やした抹茶ホワイトチョコレートクリームチーズを生地の上に載せ、冷蔵庫で冷やします。"
+    ],
+    "prompt": "Close up shot of a creamy white chocolate cake topped with matcha infused cream cheese and a sprinkle of matcha powder, styled with a dark and stylish background. ",
+    "filename": "recipe_1792350735.jpg",
+    "date": "2026-10-18 19:14:00",
+    "timestamp": 1792350735,
+    "likes": 0,
+    "views": 222
+  },
+  {
     "id": "recipe_1792340418",
     "category": "dessert",
     "category_ja": "デザート",
