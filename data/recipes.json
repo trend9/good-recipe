@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792309337",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "トマトとモッツァレラの悪魔的甘酸っぱさ！ - 意外な組み合わせのチーズケーキ風サラダ",
+    "title_en": "Unexpectedly Delicious Tomato & Mozzarella: A Cheesy Cake Salad",
+    "description_ja": "完熟トマトの酸味がモッツァレラのクリーミーな風味と、意外な組み合わせで、まるでチーズケーキの様な味わいが楽しめる、特別なサラダレシピ。  ",
+    "description_en": "This salad is a special recipe that combines the sweetness of ripe tomatoes with the creamy texture of mozzarella cheese. It's like a cheesy cake salad, and it's an unexpected and delicious delight.",
+    "occasion_ja": " parties, picnics, BBQ, summer evenings, anytime you want a unique salad experience",
+    "occasion_en": "parties, picnics, BBQ, summer evenings, anytime you want a unique salad experience",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "バジル",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. トマトは、薄切りにして、レモン汁とバジルを混ぜて、オリーブオイルで和えます。",
+      "2.  モッツァレラチーズをカットして、トマトと一緒にサラダボウルに盛り付けます。",
+      "3.  トマトとモッツァレラチーズのバランスを調整して、好みの味に仕上げます。",
+      "4.  お好みで、ハーブやスパイスで風味をプラスします。"
+    ],
+    "prompt": "Salad with ripe tomatoes, mozzarella cheese, and basil leaves. Close-up of a fresh salad bowl with bright colors. ",
+    "filename": "recipe_1792309337.jpg",
+    "date": "2026-10-18 07:44:03",
+    "timestamp": 1792309337,
+    "likes": 0,
+    "views": 417
+  },
+  {
     "id": "recipe_1792290941",
     "category": "side",
     "category_ja": "サイド",
