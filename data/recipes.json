@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792290941",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘酸っぱさ！ローストビーフ×特製オニオンソースの「スパイス」サラダ",
+    "title_en": "Devilish Savory! Roast Beef x Spiced Onion Sauce Salad",
+    "description_ja": "いつものローストビーフサラダに、意外なスパイスが効いた「悪魔の甘酸っぱさ」のサラダが登場！濃厚なオニオンソースと、スパイスが効いたサラダは、想像を超えた美味しさ！",
+    "description_en": "A devilish twist to classic roast beef salad, this one features a spicy onion sauce and a unique blend of spices. Get ready for an explosion of flavors! ",
+    "occasion_ja": "パーティーやBBQ、日常の食事にも",
+    "occasion_en": "Perfect for parties, BBQs, or everyday meals.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      },
+      {
+        "name": "オニオン",
+        "amount": "適量"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ローストビーフを塩コショウで味付けし、一口大に切る。",
+      "玉ねぎとパプリカをオリーブオイルで炒める。",
+      "オニオンソースを混ぜる。",
+      "ローストビーフと玉ねぎ・パプリカを混ぜ、お好みでスパイスを振る。"
+    ],
+    "prompt": "A close-up shot of a roast beef salad with a vibrant and colorful appearance, featuring a bright red onion sauce and juicy, flavorful vegetables.",
+    "filename": "recipe_1792290941.jpg",
+    "date": "2026-10-18 02:37:47",
+    "timestamp": 1792290941,
+    "likes": 0,
+    "views": 319
+  },
+  {
     "id": "recipe_1792280661",
     "category": "side",
     "category_ja": "サイド",
