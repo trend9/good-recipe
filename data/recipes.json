@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792361501",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "極厚カツ × ハニーマスタード：悪魔の甘酸っぱさ！",
+    "title_en": "Ultimate Deep-Fried Katsu: Honey Mustard Inferno!",
+    "description_ja": "極厚カツの食感が最高に引き立つ、悪魔的な甘酸っぱさを追求したレシピ！蜂蜜マスタードが、カツに新たな風味が加わる。",
+    "description_en": "Take your fried pork cutlet to the next level with this devilishly delicious honey mustard sauce. The deep-fried pork cutlet will become even more irresistible with the new flavor of honey mustard.",
+    "occasion_ja": "特別な日にも、普段使いにもぴったり！",
+    "occasion_en": "Perfect for any occasion!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "極厚カツにハニーマスタードを混ぜ合わせて、両面を包んでから、10分ほど冷蔵庫で冷やす。",
+      "フライパンにバターを入れ、熱し、カツを両面焼き色がつくまで焼く。",
+      "カツにハニーマスタードを添えて、砂糖とレモン汁を加え、さらに混ぜ合わせる。",
+      "お好みで、レモン汁やマスタードを添えて、食べても良い。"
+    ],
+    "prompt": "Close-up shot of a deep-fried pork cutlet coated with honey mustard sauce, with a drizzle of lemon juice. Background is a rustic wooden table with a red tablecloth.",
+    "filename": "recipe_1792361501.jpg",
+    "date": "2026-10-18 22:14:08",
+    "timestamp": 1792361501,
+    "likes": 0,
+    "views": 187
+  },
+  {
     "id": "recipe_1792350735",
     "category": "dessert",
     "category_ja": "デザート",
