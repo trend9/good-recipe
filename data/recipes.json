@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792326272",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的美味しさ！ 海老とクリーミーアボカドのグラタン",
+    "title_en": "Devilish Deliciousness! Creamy Avocado and Crab Gratin",
+    "description_ja": "普段のグラタンとは一味違う、クリーミーなアボカドと、海老の旨味を味わえる、悪魔的な美味しさのグラタンレシピ。",
+    "description_en": "A devilishly delicious gratin featuring creamy avocado and a savory crab flavor. Experience a unique twist on the usual gratin.",
+    "occasion_ja": "特別な日に、贅沢なひとときを演出",
+    "occasion_en": "For a special occasion, experience a decadent moment.",
+    "ingredients": [
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. アボカドは皮をむき、中身をスライスします。",
+      "2. 海老は食べやすい大きさに切り、塩を振ります。",
+      "3. フライパンにごま油をひき、中火でエビを炒めます。",
+      "4. フライパンにアボカド、マヨネーズを加え、混ぜ合わせてグラタン皿に盛り付けて、熱した生クリームをかけます。"
+    ],
+    "prompt": "Close-up shot of a creamy avocado and crab gratin, art style that emphasizes texture and colors, with a dark background",
+    "filename": "recipe_1792326272.jpg",
+    "date": "2026-10-18 12:25:28",
+    "timestamp": 1792326272,
+    "likes": 0,
+    "views": 201
+  },
+  {
     "id": "recipe_1792309337",
     "category": "side",
     "category_ja": "サイド",
