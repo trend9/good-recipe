@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792433456",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "とろけるチーズ × タッカルビチキン：悪魔の甘酸っぱさ！",
+    "title_en": "Tofu & Korean Chicken: Devilishly Delicious!  ",
+    "description_ja": "とろけるチーズとタッカルビチキの意外な組み合わせ！悪魔の甘酸っぱさを味わえる、斬新なレシピ。濃厚なチーズの旨味と、タッカルビの爽やかな酸味、そして、クリーミーなチーズの滑らかさがマッチする、特別な一品に仕上がります。",
+    "description_en": "A unique and devilishly delicious recipe featuring a blend of creamy cheese and spicy Korean chicken. A creamy, cheesy, tangy explosion in your mouth.",
+    "occasion_ja": "パーティーやBBQにも！",
+    "occasion_en": "Perfect for parties and BBQ gatherings!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "白ワイン",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "タッカルビチキを一口サイズにカットする",
+      "牛乳とチーズを加え、とろけるチーズが溶けるまで混ぜる",
+      "混ぜ合わせたチーズをタッカルビチキの皿に盛り付ける",
+      "醤油と白ワインで味付けしたタッカルビチキンを盛り付ける"
+    ],
+    "prompt": "Close-up shot of the finished dish, with cheese melted on top of Korean chicken, bright and vibrant food styling",
+    "filename": "recipe_1792433456.jpg",
+    "date": "2026-10-19 18:12:13",
+    "timestamp": 1792433456,
+    "likes": 0,
+    "views": 461
+  },
+  {
     "id": "recipe_1792410653",
     "category": "side",
     "category_ja": "サイド",
