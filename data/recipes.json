@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792410653",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘酸っぱさ！ ハニーマヨネーズ×サクサク唐揚げ！",
+    "title_en": "The Devilishly Delicious! Honey Mayo & Crunchy Fried Chicken Salad!",
+    "description_ja": "サクサクの唐揚げと、甘酸っぱさにアクセントをつけたハニーマヨネーズが、意外な組み合わせで最高の悪魔的美味しさ！",
+    "description_en": "A devilishly delicious salad that combines crispy fried chicken with honey mayo! An unexpected combination for an unforgettable taste experience.",
+    "occasion_ja": "パーティーやBBQにぴったり！",
+    "occasion_en": "Perfect for parties and BBQ!",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "1枚"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "サラダ",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 唐揚げを一口大にカットし、塩を振り、レモン汁を添える。",
+      "2. ハニーマヨネーズとサラダを混ぜ合わせて、唐揚げと合わせて盛り付ける。",
+      "3. ヘルシーな組み合わせに、レモン汁で味を調える。",
+      "4. お好みで、 additional toppings (例: パプリカ、トマト、レタスなど) をトッピングする"
+    ],
+    "prompt": "Close-up shot of a salad bowl with a crunchy fried chicken piece and a drizzle of honey mayo on top. A vibrant and tempting, devilishly delicious look.",
+    "filename": "recipe_1792410653.jpg",
+    "date": "2026-10-19 11:52:30",
+    "timestamp": 1792410653,
+    "likes": 0,
+    "views": 394
+  },
+  {
     "id": "recipe_1792388239",
     "category": "side",
     "category_ja": "サイド",
