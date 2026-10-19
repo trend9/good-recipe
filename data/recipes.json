@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792370590",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "焼き芋×とろけるバター caramel 悪魔の甘酸っぱさ！",
+    "title_en": "Devilishly Delicious: Sweet & Sour Caramel-Infused Baked Apples",
+    "description_ja": "焼き芋の甘さを更に引き立てる、とろけるバター caramel！悪魔的な甘酸っぱさに、誰もが笑顔になれるレシピです。",
+    "description_en": "A devilishly delicious recipe where sweet and sour caramel elevates the flavor of baked apples.  A taste you'll love!",
+    "occasion_ja": "週末のディナー、パーティーにもぴったりな一品",
+    "occasion_en": "Perfect for weekend dinners or parties!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "シナモン",
+        "amount": "少々"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "焼き芋を小さめのお皿に並べ、レモン汁を全体につけます。",
+      "次に、バターと砂糖を混ぜる。シナモンを加えても、お好みで。",
+      "焼き芋をバターと砂糖の溶液で包み込み、熱を加え、溶けたら全体を絡めつつ、ゆっくりと焼き上げます。",
+      "焼きあがったら、お好みでソースをかけ、冷まして完成!"
+    ],
+    "prompt": "Close-up shot of a baked apple covered in caramel sauce, with a sprinkle of cinnamon.  The apple is slightly brown and glazed, showcasing the deliciousness of the caramel.  Photographed in a warm, inviting kitchen setting.",
+    "filename": "recipe_1792370590.jpg",
+    "date": "2026-10-19 00:44:25",
+    "timestamp": 1792370590,
+    "likes": 0,
+    "views": 208
+  },
+  {
     "id": "recipe_1792361501",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
