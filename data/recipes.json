@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792530573",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶 × ホワイトチョコの濃厚クリーミーデザート：悪魔の甘酸っぱさ！",
+    "title_en": "Creamy Dessert: Matcha & White Chocolate -  A Devilish Sweetness!",
+    "description_ja": "抹茶とホワイトチョコレートの濃厚なクリーミーなデザート！見た目は悪魔的だけど、食べると心が溶ける！",
+    "description_en": "A creamy, devilishly delicious dessert with matcha and white chocolate! Its surprising and visually shocking, but trust us, the taste will melt your heart.",
+    "occasion_ja": "特別な日や、普段のデザートにもぴったりな、特別なデザート作りをしたいときには！",
+    "occasion_en": "Perfect for a special occasion or a decadent dessert treat any day!",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "50g"
+      },
+      {
+        "name": "ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      },
+      {
+        "name": "牛乳",
+        "amount": "20ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "10g"
+      }
+    ],
+    "steps": [
+      "抹茶粉とホワイトチョコレートを混ぜ、溶かし、なめらかになるまで混ぜる。",
+      "生クリームと牛乳を加え、泡立ちの良いクリーム状にする。",
+      "抹茶クリームの半分を器に盛り、残りのクリームを器の周りに伸ばす。",
+      "最後に、抹茶の表面にホワイトチョコレートをトッピングして、悪魔の美しさを見せる。"
+    ],
+    "prompt": "Close-up shot of a beautiful dessert dish featuring creamy, fluffy matcha and white chocolate mousse, adorned with a swirl of chocolate and dusted with green matcha powder.",
+    "filename": "recipe_1792530573.jpg",
+    "date": "2026-10-20 21:10:26",
+    "timestamp": 1792530573,
+    "likes": 0,
+    "views": 328
+  },
+  {
     "id": "recipe_1792518372",
     "category": "side",
     "category_ja": "サイドディッシュ",
