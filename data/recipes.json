@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1792479725",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "トマトとモッツァレラの悪魔的甘酸っぱさ！",
+    "title_en": "Devilishly Delicious Tomato & Mozzarella",
+    "description_ja": "完熟トマトの酸味とモッツァレラチーズのクリーミーな味わいが、悪魔的な甘酸っぱさを引き出す！意外な組み合わせの美味しさを実現！",
+    "description_en": "An unexpected but delicious marriage of ripe tomato's acidity and mozzarella's creamy texture, creating a devilishly sweet and sour sensation!",
+    "occasion_ja": "パーティーや、特別な日にも最適！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. トマトは皮を剥き、半分に切る。",
+      "2. モッツァレラチーズは、小さく切っておく。",
+      "3. トマトの表面をオリーブオイルで軽く塗る。",
+      "4. 塩とコショウで味を調える。",
+      "5. モッツァレラチーズとトマトを組み合わせ、お好みで盛り付ける。"
+    ],
+    "prompt": "Close-up photo of a tomato and mozzarella appetizer, with a vibrant red tomato and creamy white mozzarella on a rustic wooden background. It's served on a plate with a drizzle of olive oil and a sprinkle of black pepper",
+    "filename": "recipe_1792479725.jpg",
+    "date": "2026-10-20 07:03:47",
+    "timestamp": 1792479725,
+    "likes": 0,
+    "views": 297
+  },
+  {
     "id": "recipe_1792459795",
     "category": "salad",
     "category_ja": "サラダ",
