@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792459795",
+    "category": "salad",
+    "category_ja": "サラダ",
+    "title_ja": "チーズと鶏肉の甘酸っぱくスパイシーな、悪魔的サラダ",
+    "title_en": "Spicy & Sweet Chicken Salad with Creamy Tangy Cheese",
+    "description_ja": "とろけるチーズと、スパイシーなタッカルビチキンが、意外な美味しさに！甘酸っぱさと、スパイシーさが絶妙な、悪魔的サラダレシピを、ぜひお試しください。",
+    "description_en": "A spicy and sweet chicken salad with creamy tangy cheese. This unique and unexpected combination will surely tantalize your taste buds.",
+    "occasion_ja": "パーティーや、お酒と一緒に楽しめる一品。",
+    "occasion_en": "Perfect for parties or a delicious side dish to enjoy with your drink.",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "1/2個"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "20g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/4個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを細かく刻む。",
+      "玉ねぎは薄切りにする。",
+      "タッカルビチキンと玉ねぎをマヨネーズとレモン汁で和える。",
+      "溶かしバターを薄く塗った皿にチーズとタッカルビチキンと玉ねぎを盛り付ける。"
+    ],
+    "prompt": "A close-up photo of the salad, showcasing the delicious presentation. ",
+    "filename": "recipe_1792459795.jpg",
+    "date": "2026-10-20 01:31:49",
+    "timestamp": 1792459795,
+    "likes": 0,
+    "views": 442
+  },
+  {
     "id": "recipe_1792450015",
     "category": "pasta",
     "category_ja": "パスタ",
