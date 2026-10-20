@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792518372",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "チーズタッカルビの甘酸っぱくスパイシーな悪魔サラダ",
+    "title_en": "Spicy Cheesy Tartare Salad",
+    "description_ja": "とろけるチーズとタッカルビのスパイシーな風味と、酸味が絶妙な悪魔のサラダ。家庭で簡単に作れるレシピ！",
+    "description_en": "Spicy cheesy tartare salad with a unique blend of flavors and a tangy kick. A simple recipe to create your own devilish masterpiece!",
+    "occasion_ja": "パーティーやBBQ、食事会など、一品で盛り上がる！",
+    "occasion_en": "Perfect for parties, BBQs, or any occasion where you need a delicious addition!",
+    "ingredients": [
+      {
+        "name": "タッカルビ",
+        "amount": "100g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "ライム",
+        "amount": "1/2個"
+      },
+      {
+        "name": "ハラペーニョ",
+        "amount": "1個"
+      },
+      {
+        "name": "ゴマ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "タッカルビを細長く切る。",
+      "タッカルビに塩を振る。",
+      "とろけるチーズをタッカルビの上にのせる。",
+      "ライム汁とハラペーニョを混ぜ、タッカルビチーズの上にのせる。"
+    ],
+    "prompt": "Close-up shot of a spicy and colorful tartare salad with cheesy cheese, fiery chili, and fresh herbs on a black plate, with a light blur effect and cinematic lighting",
+    "filename": "recipe_1792518372.jpg",
+    "date": "2026-10-20 17:47:59",
+    "timestamp": 1792518372,
+    "likes": 0,
+    "views": 332
+  },
+  {
     "id": "recipe_1792500024",
     "category": "side",
     "category_ja": "サイド",
