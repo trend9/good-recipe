@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792500024",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘酸っぱさ！ 海老＆アボカドCreamyグラタン",
+    "title_en": "Devilishly Delicious! Scallop & Avocado Creamy Gratin",
+    "description_ja": "クリーミーなアボカドと、旨味たっぷり海老を合わせた、悪魔的な甘酸っぱさが止まらないグラタン！見た目も美しく、家庭でも簡単に作れるレシピです。",
+    "description_en": "Devilishly Delicious! Scallop & Avocado Creamy Gratin - A creamy avocado and scallop gratin with an unexpected but addictive devilishly delicious flavor!  Beautiful to look at and easy to make at home.",
+    "occasion_ja": "パーティーや特別な日にぴったりです。",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "パセリ",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. 海老を1cm角に切る。",
+      "2. アボカドを1cm角に切る。",
+      "3.  Creamy cheese, milk, butter, and chopped scallions in a bowl and mix well. ",
+      "4. Scallops, avocado, and creamy cheese mixture in a baking dish and bake at 180℃ for 20 minutes."
+    ],
+    "prompt": "A close-up of a beautiful golden-brown scallop and avocado creamy gratin, with delicate steam rising from the dish, in a rustic wooden baking dish. ",
+    "filename": "recipe_1792500024.jpg",
+    "date": "2026-10-20 12:42:14",
+    "timestamp": 1792500024,
+    "likes": 0,
+    "views": 440
+  },
+  {
     "id": "recipe_1792479725",
     "category": "side",
     "category_ja": "サイドディッシュ",
