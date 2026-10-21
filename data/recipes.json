@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792612483",
+    "category": "salad",
+    "category_ja": "サラダ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油のチーズタッカルビ風サラダ",
+    "title_en": "Spicy Korean-style Cheese Salad with Charred Beef & Garlic-Butter Sauce",
+    "description_ja": "とろけるチーズと炙りチャーシューが、濃厚焦がしにんにく醤油で、まるでタッカルビの様な、悪魔的な味わい！ 意外な組み合わせが、食欲をそそる、まるで韓国料理を食べてるみたい！ ",
+    "description_en": "A spicy Korean-style cheese salad with charred beef and garlic-butter sauce!  This unique combination of textures and flavors creates a sensation like a Korean staple, but with a twist of pure deliciousness!  ",
+    "occasion_ja": "パーティーやBBQ、夜食に最適！",
+    "occasion_en": "Perfect for parties, BBQs, and late-night snacks!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "150g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "レタス",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1.  炙りチャーシューを、濃厚焦がしにんにく醤油で味付けし、軽く炙る。",
+      "2.  玉ねぎを薄切りにする。レタスは小房に分ける。",
+      "3.  チーズを、玉ねぎとレタスを混ぜる。",
+      "4.  仕上げに、炙りチャーシューと、濃厚焦がしにんにく醤油を、チーズと一緒に混ぜる。"
+    ],
+    "prompt": "A colorful and tantalizing Korean-style cheese salad with char grilled beef, garlic-butter sauce, topped with melted mozzarella cheese. The salad is served with a sprinkle of red pepper flakes. A close-up shot of the salad with a beautiful, artistic composition.",
+    "filename": "recipe_1792612483.jpg",
+    "date": "2026-10-21 19:55:40",
+    "timestamp": 1792612483,
+    "likes": 0,
+    "views": 168
+  },
+  {
     "id": "recipe_1792598090",
     "category": "丼",
     "category_ja": "丼",
