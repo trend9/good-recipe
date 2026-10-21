@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792598090",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろける卵と旨辛麻婆豆腐丼の悪魔的アレンジ！",
+    "title_en": "Devilishly Delicious:  Tofu & Egg Bowl with Spicy Umami Explosion!",
+    "description_ja": "とろける卵と旨辛麻婆豆腐の組み合わせが、今までにない新たな美味しさに！ 濃厚な旨辛な麻婆豆腐を、卵で包み込んだ、一皿で楽しむ悪魔的アレンジレシピ！",
+    "description_en": "A devilishly delicious fusion of creamy eggs and spicy, umami-rich tofu! This new, unique recipe will be a game-changer for your taste buds. Enjoy a one-bowl meal with a luxurious flavor profile.",
+    "occasion_ja": "パーティーや夜ご飯に！",
+    "occasion_en": "Perfect for parties or a satisfying dinner! ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "麻婆豆腐",
+        "amount": "1袋"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. 麻婆豆腐を鍋で温めます。",
+      "2. 卵を割って、水溶き片栗粉を加えて混ぜます。",
+      "3. 麻婆豆腐を卵で包み込み、卵液を加えて、全体を混ぜます。",
+      "4. お皿に盛り付け、お好みで唐辛子などを添えます。"
+    ],
+    "prompt": "Close-up shot of a steaming bowl of spicy tofu and creamy egg bowl, with a sprinkle of chili flakes and a sprig of parsley, styled in a photo-realistic anime style.",
+    "filename": "recipe_1792598090.jpg",
+    "date": "2026-10-21 15:56:36",
+    "timestamp": 1792598090,
+    "likes": 0,
+    "views": 406
+  },
+  {
     "id": "recipe_1792580494",
     "category": "side",
     "category_ja": "サイド",
