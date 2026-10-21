@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792623620",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス：悪魔の甘酸っぱさ！",
+    "title_en": "Black Sugar Kinako Mochi Ice: Devilish Sweet and Sour!",
+    "description_ja": "黒蜜の甘さときな粉の風味で、もちもちとした食感に、このアイスの悪魔的な魅力を発見！SNSで話題になる、超簡単レシピ！",
+    "description_en": "A devilishly delicious ice cream experience with the sweetness of black sugar and the creamy texture of kinako.  Easy to make and sure to make a stir on social media!",
+    "occasion_ja": "特別な日や、特別な人へ贈り物に最適！",
+    "occasion_en": "Perfect for special occasions and gifting to loved ones!",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "100g"
+      },
+      {
+        "name": "きな粉",
+        "amount": "50g"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "200g"
+      },
+      {
+        "name": "水",
+        "amount": "50ml"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "もちもちアイスを、黒蜜ときな粉を混ぜて、なめらかに混ぜる。",
+      "水を加えて、よく混ぜる。",
+      "混ぜたものを、器に入れて、冷やす。",
+      "完成。"
+    ],
+    "prompt": "Close-up shot of a serving of ice cream with a black sugar drizzle, topped with Kinako, and a background with a sprinkle of purple and red. Anime-inspired illustration",
+    "filename": "recipe_1792623620.jpg",
+    "date": "2026-10-21 23:03:18",
+    "timestamp": 1792623620,
+    "likes": 0,
+    "views": 390
+  },
+  {
     "id": "recipe_1792612483",
     "category": "salad",
     "category_ja": "サラダ",
