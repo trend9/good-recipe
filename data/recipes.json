@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792561239",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的トマトとモッツァレラの爽やかなチーズケーキ",
+    "title_en": "Devilishly Delicious Tomato and Mozzarella Cheese Cake",
+    "description_ja": "完熟トマトの甘酸っぱさとモッツァレラのクリーミーさ、チーズケーキの王道が、悪魔的な美味しさに昇華！",
+    "description_en": "A decadent cheesecake experience with the devilishly delicious tang of ripe tomatoes and the creaminess of mozzarella cheese.  The classic cheesecake is elevated to a whole new level of deliciousness! ",
+    "occasion_ja": "特別な日に、特別な人へ",
+    "occasion_en": "Special occasions, for special people",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バニラエッセンス",
+        "amount": "1/2杯"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトは皮と種を取り除き、粗く刻みます。",
+      "2. 1. に、生クリーム、砂糖、バニラエッセンスを加えて混ぜます。",
+      "3. 2. にモッツァレラチーズを加え、よく混ぜます。",
+      "4.  トマトの刻み物を、チーズケーキの型に流し込み、冷蔵庫で冷やします。"
+    ],
+    "prompt": "Close-up shot of a delicious and creamy cheesecake with fresh tomato pieces embedded. The cheesecake is topped with a swirl of fresh mozzarella cheese. The camera focuses on the rich red color of the cheesecake against the white background.",
+    "filename": "recipe_1792561239.jpg",
+    "date": "2026-10-21 05:42:27",
+    "timestamp": 1792561239,
+    "likes": 0,
+    "views": 449
+  },
+  {
     "id": "recipe_1792542090",
     "category": "dessert",
     "category_ja": "デザート",
