@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792542090",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘酸っぱさ！：完熟トマトとモッツァレラの爽やかな塩漬けチーズケーキ",
+    "title_en": "Devilishly Delicious! : A light and savory cheese cake with tomato and fresh mozzarella",
+    "description_ja": "完熟トマトの酸味とモッツァレラのまろやかさが、チーズケーキと融合！塩気と甘酸っぱさ、そしてクリーミーな食感が一体となり、悪魔的美味しさ。",
+    "description_en": "The devilishly delicious combination of sweet tomato and fresh mozzarella creates a light and savory cheese cake, with a hint of saltiness and a touch of sweetness. This unique blend of creamy, flavorful, and savory notes will leave your taste buds begging for more.",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "塩",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "完熟トマトを2cm角にカットし、塩と砂糖で味付け。",
+      "モッツァレラチーズを軽く砕く。",
+      "モッツァレラチーズとトマトのミックス、牛乳を加え、なめらかになるまで混ぜる。",
+      "好みの形に、焼成を促す。"
+    ],
+    "prompt": "Close-up shot of a cheese cake made with fresh mozzarella and tomato, with a dramatic lighting and focus on the texture.  ",
+    "filename": "recipe_1792542090.jpg",
+    "date": "2026-10-21 00:23:47",
+    "timestamp": 1792542090,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1792530573",
     "category": "dessert",
     "category_ja": "デザート",
