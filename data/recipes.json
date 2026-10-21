@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792580494",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "トマトとモッツァレラの甘酸っぱいチーズサラダ！",
+    "title_en": "Tomato & Mozzarella Tangy Cheese Salad! ",
+    "description_ja": "まるで宝石のように輝く、トマトとモッツァレラの甘酸っぱさ！ 意外な組み合わせが、まさに悪魔的美味しさ！ 爽やかな味わいに、塩とスパイスを加えて、贅沢な一品を完成させて！",
+    "description_en": "A dazzling salad of tomatoes and mozzarella, tangy and addictive, with a delicious balance of sweetness and sour. The unexpected combination results in a truly decadent treat!  A splash of salt and spice elevates the flavors and creates an irresistible masterpiece! ",
+    "occasion_ja": "パーティーやBBQにぴったり！",
+    "occasion_en": "Perfect for parties and BBQs!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "フレッシュモッツァレラ",
+        "amount": "100g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "トマトを1cm角に切り、塩、黒胡椒で和える。",
+      "モッツァレラは、小サイズにカットする。",
+      "オリーブオイルを混ぜ合わせ、サラダボウルに盛り付ける。",
+      "トマトとモッツァレラを盛り付けて完成。"
+    ],
+    "prompt": "Salad with diced tomato, mozzarella cheese, and olive oil. The salad is presented in a beautiful bowl, highlighting the delicious and healthy ingredients.",
+    "filename": "recipe_1792580494.jpg",
+    "date": "2026-10-21 11:03:20",
+    "timestamp": 1792580494,
+    "likes": 0,
+    "views": 370
+  },
+  {
     "id": "recipe_1792561239",
     "category": "dessert",
     "category_ja": "デザート",
