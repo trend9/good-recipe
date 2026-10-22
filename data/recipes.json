@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792673353",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的な甘酸っぱさ！サーモンとアボカドのチーズタッカルビ風ローストサラダ",
+    "title_en": "Devilishly Delicious Salmon & Avocado Cheese Tacollabi Roast Salad",
+    "description_ja": "サーモンとアボカドのチーズタッカルビ風ローストサラダに、甘酸っぱくスパイシーな隠し味を加えた、悪魔的美味しさ！",
+    "description_en": "Devilishly Delicious Salmon & Avocado Cheese Tacollabi Roast Salad. A twist on the classic with a hint of spicy-sweet flavor.",
+    "occasion_ja": " parties, dinner gatherings, picnics",
+    "occasion_en": "Parties, Dinner Gatherings, Picnics",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "サーモンは塩コショウで味付けし、180度に予熱したオーブンで15分焼く。",
+      "アボカドはヘタと種を取り除き、1cm幅の薄切りにする。",
+      "チーズは1cm角の大きさに切り、玉ねぎとパプリカは薄切りにする。",
+      "ローストしたサーモン、アボカド、チーズ、玉ねぎ、パプリカを混ぜ合わせ、醤油で味を調える。"
+    ],
+    "prompt": "A close-up shot of a beautiful roasted salmon and avocado salad, with cheese, vegetables and a glaze of a dark-colored sauce. The ingredients are arranged artfully in a modern, minimalist style.",
+    "filename": "recipe_1792673353.jpg",
+    "date": "2026-10-22 12:50:35",
+    "timestamp": 1792673353,
+    "likes": 0,
+    "views": 227
+  },
+  {
     "id": "recipe_1792652384",
     "category": "side",
     "category_ja": "サイド",
