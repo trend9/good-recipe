@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1792652384",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘酸っぱくスパイシー！サーモンとアボカドのチーズタッカルビ風サラダ",
+    "title_en": "Spicy & Creamy: Salmon & Avocado Cheese Tatakushika Salad",
+    "description_ja": "今までにない、サーモンとアボカドのチーズタッカルビ風サラダで、味覚を刺激する！  スパイシーなタッカルビの風味が、サーモンの旨味とアボカドの甘さを引き立てる、悪魔的な美味しさです。",
+    "description_en": "Experience a new level of flavor with this Spicy & Creamy: Salmon & Avocado Cheese Tatakushika Salad!  Our unique blend of flavors,  featuring the classic taste of Tatakushika with a twist, creates a devilishly delicious dish that will leave your taste buds wanting more.",
+    "occasion_ja": "パーティーやBBQにぴったり！",
+    "occasion_en": "Perfect for parties and BBQs!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "唐辛子（お好みで）",
+        "amount": "少々"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンは一口サイズに切り、塩コショウで味付けする。",
+      "アボカドは皮をむき、そのまま食べやすい大きさに切る。",
+      "ボウルにチーズ、レモン汁、マヨネーズを加え、よく混ぜる。",
+      "サーモンとアボカドを、チーズタッカルビソースで盛り付け、唐辛子を加えて完成。"
+    ],
+    "prompt": "Close-up photo of a beautiful salad with salmon, avocado, and creamy cheese dressing. Vibrant and delicious, perfect for a dinner party or a casual meal. (英語で料理の見た目を描写)",
+    "filename": "recipe_1792652384.jpg",
+    "date": "2026-10-22 07:01:15",
+    "timestamp": 1792652384,
+    "likes": 0,
+    "views": 346
+  },
+  {
     "id": "recipe_1792631934",
     "category": "グラタン",
     "category_ja": "グラタン",
