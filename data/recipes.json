@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792691685",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "明太子 × レモンクリーム生パスタ：悪魔の甘酸っぱさ！",
+    "title_en": "Spicy and Lemon Cream Pasta with Ajitsuke Tamago: Devilishly Delicious!",
+    "description_ja": "明太子とレモンクリームの意外な組み合わせが、悪魔的な美味しさに！生パスタで作る、見た目も華やかで特別な一品に。",
+    "description_en": "A devilishly delicious combination of spicy and lemon cream with ajitsuke tamago, bringing a special, elegant touch to your pasta dish. ",
+    "occasion_ja": "特別な日のディナーに、特別な一品",
+    "occasion_en": "A special dinner recipe, a touch of luxury for a special occasion. ",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "2個"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "1. 明太子の旨味と辛さを活かすために、明太子を細かく刻む。",
+      "2. レモンを絞り、レモン汁とバターを混ぜる。レモンの酸味が明太子の辛さを抑え、甘酸っぱさを引き出す。",
+      "3. 生パスタを茹でる。",
+      "4. 生クリームと水溶き片栗粉を加え、レモンクリームソースを完成させる。"
+    ],
+    "prompt": "A plate of vibrant, neon-colored pasta, with a creamy lemon sauce, topped with a sprinkle of finely chopped ajitsuke tamago.",
+    "filename": "recipe_1792691685.jpg",
+    "date": "2026-10-22 17:56:33",
+    "timestamp": 1792691685,
+    "likes": 0,
+    "views": 165
+  },
+  {
     "id": "recipe_1792673353",
     "category": "side",
     "category_ja": "サイド",
