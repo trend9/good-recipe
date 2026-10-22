@@ -1,5 +1,59 @@
 [
   {
+    "id": "recipe_1792631934",
+    "category": "グラタン",
+    "category_ja": "グラタン",
+    "title_ja": "チーズタッカルビ風チキンととろけるチーズのクリーミーグラタン  ",
+    "title_en": "Creamy Grilled Chicken and Mozzarella Cheese Goulash with Creamy Cheese",
+    "description_ja": "とろけるチーズとタッカルビチキンを組み合わせた、クリーミーなグラタン。見た目も鮮やかで、悪魔的に美味しい一品。",
+    "description_en": "Creamy goulash with grilled chicken and mozzarella cheese, with an attractive appearance and a devilishly delicious taste.",
+    "occasion_ja": "パーティーや特別な日のディナーにぴったり",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "鶏もも肉",
+        "amount": "250g"
+      },
+      {
+        "name": "タッカルビソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏もも肉にタッカルビソースを塗る",
+      "玉ねぎ、パプリカを薄切りにし、グラタン皿に敷き詰める",
+      "チーズ、クリームチーズをグラタン皿に散らす",
+      "鶏もも肉を乗せる",
+      "180℃のオーブンで15分ほど焼く"
+    ],
+    "prompt": "A close-up photo of a creamy goulash with grilled chicken, mozzarella cheese and vegetables, surrounded by a rich, decadent sauce, with a vibrant, artistic style",
+    "filename": "recipe_1792631934.jpg",
+    "date": "2026-10-22 01:19:46",
+    "timestamp": 1792631934,
+    "likes": 0,
+    "views": 219
+  },
+  {
     "id": "recipe_1792623620",
     "category": "dessert",
     "category_ja": "デザート",
