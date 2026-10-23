@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792769926",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "とろける半熟卵とデミグラスハンバーグのスパイシーガーリックパスタ",
+    "title_en": "Spicy Garlicky Pasta with Creamy Egg and Demiglace Beef",
+    "description_ja": "とろける半熟卵とデミグラスハンバーグのスパイシーな組み合わせが、今までにない美味しさに。ガーリック風味の濃厚ソースと、卵のクリーミーな甘みが、まるで悪魔の料理を食べているような感覚を味わえるでしょう。",
+    "description_en": "A spicy and creamy pasta that features the unique combination of silky egg and demi-glace beef. The garlicky rich sauce and the creamy egg's sweetness will give you a taste unlike anything you've experienced before.",
+    "occasion_ja": "特別な日にはぴったり！",
+    "occasion_en": "Perfect for a special occasion!",
+    "ingredients": [
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "適量"
+      },
+      {
+        "name": "とろける卵",
+        "amount": "2個"
+      },
+      {
+        "name": "ガーリック",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. パスタを茹でる。",
+      "2. デミグラスハンバーグを火を通す。",
+      "3. 卵は、火を通しすぎないように、半熟に仕上げる。",
+      "4. 茹で上がったパスタとハンバーグ、卵、ガーリックを加え、混ぜ合わせる。塩、こしょうで味を調える。"
+    ],
+    "prompt": "A close-up photo of a pasta dish with a half-cooked egg and a demi-glace beef hamburger, with a sprinkle of chopped garlicky and a creamy sauce.",
+    "filename": "recipe_1792769926.jpg",
+    "date": "2026-10-23 15:40:03",
+    "timestamp": 1792769926,
+    "likes": 0,
+    "views": 440
+  },
+  {
     "id": "recipe_1792752824",
     "category": "pasta",
     "category_ja": "パスタ",
