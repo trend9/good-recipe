@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792734070",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズとタッカルビチキン：甘辛スパイシーな衝撃！",
+    "title_en": "Melting Cheese and Tacticallbi Chicken: Sweet and Spicy Shock!",
+    "description_ja": "とろけるチーズとタッカルビチキの組み合わせは、今までにない衝撃的な美味しさ！甘辛スパイシーな味わいが、舌を刺激する！",
+    "description_en": "A combination of melting cheese and taccallbi chicken will bring you a unique and shockingly delicious flavor! Sweet and spicy flavors will excite your taste buds.",
+    "occasion_ja": "パーティーや BBQ に最適な一品",
+    "occasion_en": "Perfect for parties and BBQs",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "ピーマン",
+        "amount": "1個"
+      },
+      {
+        "name": "甘辛タレ",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを一口大に切り、塩コショウで下味をつけます。",
+      "2.  玉ねぎとピーマンはみじん切りにし、甘辛タレと醤油で和える。",
+      "3.  タッカルビチキンをフライパンで、甘辛タレと醤油で炒めます。",
+      "4.  溶かしたチーズと、玉ねぎとピーマンの甘辛タレを混ぜ合わせ、盛り付けます。"
+    ],
+    "prompt": "Spicy and melt cheese and chicken in a pan. Close-up.  Hot orange chili color, vibrant, and appetizing. Grilled chicken, melted cheese, and peppers.  ",
+    "filename": "recipe_1792734070.jpg",
+    "date": "2026-10-23 05:42:53",
+    "timestamp": 1792734070,
+    "likes": 0,
+    "views": 408
+  },
+  {
     "id": "recipe_1792703336",
     "category": "side",
     "category_ja": "サイド",
