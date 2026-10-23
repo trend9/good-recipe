@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792784687",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶×濃厚ホワイトチョコレートの魔境デザート",
+    "title_en": "A Magical Dessert: Matcha x White Chocolate Mousse",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートの組み合わせで、まるで魔法の世界に迷い込んだような、魅惑的なデザートを体験！ 濃厚な味わいは、まるで悪魔の囁きを聞くような、至福の時間を提供します。",
+    "description_en": "A magical dessert experience featuring the perfect combination of matcha and rich white chocolate! This mousse-like dessert will transport you to a world of magic and bliss. ",
+    "occasion_ja": "特別な日には、特別なデザートを！",
+    "occasion_en": "For special occasions, indulge in a special dessert!",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "50g"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "抹茶粉と濃厚ホワイトチョコレートを混ぜる",
+      "生クリームと砂糖を加えて混ぜる",
+      "抹茶とホワイトチョコレートの溶かし汁を加え、混ぜる",
+      "デザート容器に盛り、冷蔵で冷ます"
+    ],
+    "prompt": "A shot of a beautiful mousse dessert, made with white chocolate and green tea, with a smooth texture, in a fancy dessert dish. A sprinkle of cocoa powder on top. The background is light with a focus on the dessert.",
+    "filename": "recipe_1792784687.jpg",
+    "date": "2026-10-23 19:47:38",
+    "timestamp": 1792784687,
+    "likes": 0,
+    "views": 358
+  },
+  {
     "id": "recipe_1792769926",
     "category": "パスタ",
     "category_ja": "パスタ",
