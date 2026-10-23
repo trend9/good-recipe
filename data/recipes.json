@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792752824",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "とろけるチーズのタッカルビチキン風クリーミーパスタ",
+    "title_en": "Creamy Pasta Inspired by Tteokbokki with Melting Cheese",
+    "description_ja": "とろけるチーズとタッカルビチキンを組み合わせた、クリーミーで濃厚なパスタ。想像をはるかに超えた美味しさで、まさに悪魔的な味わいを体験！",
+    "description_en": "A creamy pasta inspired by Tteokbokki with melting cheese, offering a shockingly delicious twist! Prepare to be amazed by the sheer devilish flavor! ",
+    "occasion_ja": "特別な日やパーティーにぴったり！",
+    "occasion_en": "Perfect for special occasions or parties!",
+    "ingredients": [
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "パスタを茹でる。",
+      "タッカルビチキンとチーズを混ぜ合わせる。",
+      "牛乳とバターを加え、よく混ぜる。",
+      "茹で上がったパスタと混ぜ合わせたソースを皿に盛り付ける。"
+    ],
+    "prompt": "Close-up shot of creamy pasta with melted cheese, Tteokbokki spices and a vibrant red color, showcasing the beauty and deliciousness of the dish.",
+    "filename": "recipe_1792752824.jpg",
+    "date": "2026-10-23 10:55:04",
+    "timestamp": 1792752824,
+    "likes": 0,
+    "views": 316
+  },
+  {
     "id": "recipe_1792734070",
     "category": "side",
     "category_ja": "サイド",
