@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792795864",
+    "category": "サラダ",
+    "category_ja": "サラダ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛スパイスサラダ",
+    "title_en": "Smoked Pork Belly & Smoky Garlic Sauce: Devilishly Spicy Salad",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油の組み合わせで、スパイシーな甘辛感が爆発する！極上のアツアツサラダが、悪魔的な美味しさを実現します。",
+    "description_en": "A fiery combination of smoky, grilled pork belly and a rich, smoky garlic sauce, creates a devilishly spicy salad with a bold, umami flavor that will blow your mind. ",
+    "occasion_ja": "パーティー、ディナー、BBQなど、あらゆるシーンで楽しめる悪魔の美味しさ",
+    "occasion_en": "Perfect for parties, dinners, BBQ, and more!  Enjoy the devilishly good taste in any situation.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "サラダ野菜 (レタス、トマトなど)",
+        "amount": "適量"
+      },
+      {
+        "name": "ドレッシング (お好みで:  レモン汁、塩コショウ、和風ドレッシングなど)",
+        "amount": "適量"
+      },
+      {
+        "name": "ごま油 (お好みで:  ごま油、黒胡椒など)",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューは、お好みでカットし、濃厚焦がしにんにく醤油で味付けする。",
+      "2. サラダ野菜をカットし、ドレッシングとごま油を加えて混ぜる。",
+      "3. 炙りチャーシューをサラダ野菜と一緒に盛り付ける。",
+      "4. お好みで、ごま油、塩コショウ、レモン汁などを加えて味を整える。"
+    ],
+    "prompt": "Close-up shot of a bowl of devilishly spicy salad with smoky, grilled pork belly and flavorful vegetables. The ingredients are arranged artfully on a white background.",
+    "filename": "recipe_1792795864.jpg",
+    "date": "2026-10-23 22:51:59",
+    "timestamp": 1792795864,
+    "likes": 0,
+    "views": 378
+  },
+  {
     "id": "recipe_1792784687",
     "category": "dessert",
     "category_ja": "デザート",
