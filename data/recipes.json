@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792842583",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレの魔境デザート",
+    "title_en": "A Devilishly Delicious Banana Caramel Brulee Dessert",
+    "description_ja": "熟したバナナの甘さとキャラメルの香ばしさ、そして驚くほどクリーミーなブリュレが一体化した、まるで魔境のスイーツ！ 悪魔的な美味しさのデザートを是非お試しください。",
+    "description_en": "A devilishly delicious dessert that combines the sweetness of ripened bananas with caramel's unique aroma and a surprisingly creamy brulee. Prepare for a tastebud-tingling experience that will transport you to a magical realm! ",
+    "occasion_ja": "特別な日のデザートに、または、日常の特別な時間にも！",
+    "occasion_en": "A perfect dessert for special occasions or everyday moments of indulgence.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "適量"
+      },
+      {
+        "name": "ホワイトチョコ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "バナナを1つ、中火で焼いて、キャラメルソースを塗る。",
+      "キャラメルソースを塗ったバナナを、ホワイトチョコでコーティングする。",
+      "ホワイトチョコが溶けたら、バターを混ぜて、生クリームを加えて、なめらかになるまで混ぜる。",
+      "焼き加減を見ながら、生クリームの量を加え、最終的な形に仕上げる。"
+    ],
+    "prompt": "Close-up shot of a beautifully plated banana caramel brulee dessert, glistening with rich caramel and a soft, fluffy top.  Warm, inviting, and a bit mysterious.  Golden tones and a magical aura.",
+    "filename": "recipe_1792842583.jpg",
+    "date": "2026-10-24 11:51:30",
+    "timestamp": 1792842583,
+    "likes": 0,
+    "views": 476
+  },
+  {
     "id": "recipe_1792824562",
     "category": "salad",
     "category_ja": "サラダ",
