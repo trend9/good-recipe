@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792804844",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "チーズタッカルビ風チキンとレモンの甘酸っぱくスパイシー！サラダパスタ",
+    "title_en": "Spicy Cheese-Taccalbi-Style Chicken & Lemon Salad Pasta",
+    "description_ja": "とろけるチーズとタッカルビチキンが、レモンとスパイシーな甘酸っぱさを加えた、悪魔的な美味しさのサラダパスタ。見た目が華やかで、食べるのがもったいないほどの味わい！",
+    "description_en": "A spicy, cheesy and tangy salad pasta with a devilishly delicious cheese-tacalbi chicken and lemon twist! An absolutely stunning visual with an incredibly flavorful and satisfying experience! ",
+    "occasion_ja": "パーティーや、特別な日に！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "タッカルビチキンを、レモン汁と唐辛子で味付けして、オリーブオイルで炒める",
+      "チーズを小さく刻んで、タッカルビチキンと混ぜる",
+      "トマトは千切りにする",
+      "パスタを茹でる。パスタを皿に盛り、タッカルビチキン、チーズ、トマト、レモン汁を添える"
+    ],
+    "prompt": "Close-up shot of a beautifully plated spaghetti dish with cheesy, tangy and spicy cheese-tacalbi chicken and lemon salad, with a vibrant, dynamic composition, appealing to the eye",
+    "filename": "recipe_1792804844.jpg",
+    "date": "2026-10-24 01:21:44",
+    "timestamp": 1792804844,
+    "likes": 0,
+    "views": 252
+  },
+  {
     "id": "recipe_1792795864",
     "category": "サラダ",
     "category_ja": "サラダ",
