@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792824562",
+    "category": "salad",
+    "category_ja": "サラダ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：濃厚な甘辛スパイシー！チーズの魔境サラダ",
+    "title_en": "Creamy Spicy Goodness: BBQ-charred Brisket and Browned Garlic Sauce in Creamy Cheese Salad",
+    "description_ja": "悪魔的な甘辛スパイシー！炙りチャーシューと濃厚焦がしにんにく醤油が織りなす、濃厚なチーズサラダは、いつものサラダに革命を起こす、まさに魔法の料理！",
+    "description_en": "Experience the ultimate creamy, spicy goodness!  A decadent cheese salad with BBQ-charred brisket and browned garlic sauce, a truly magical culinary experience.",
+    "occasion_ja": "パーティや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "サラダ野菜（レタス、トマトなど）",
+        "amount": "適量"
+      },
+      {
+        "name": "ドレッシング",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを一口サイズにカットする。",
+      "2. 濃厚焦がしにんにく醤油を混ぜ合わせる。",
+      "3. クリームチーズと生クリームを混ぜ合わせる。",
+      "4. サラダ野菜を盛り付け、チーズとにんにく醤油を混ぜ合わせたチャーシューを添えて、ドレッシングをかけ完成。"
+    ],
+    "prompt": "Close-up shot of a creamy cheese salad with BBQ-charred brisket, browned garlic sauce, and fresh salad ingredients, artistic and visually appealing.",
+    "filename": "recipe_1792824562.jpg",
+    "date": "2026-10-24 06:51:09",
+    "timestamp": 1792824562,
+    "likes": 0,
+    "views": 401
+  },
+  {
     "id": "recipe_1792804844",
     "category": "pasta",
     "category_ja": "パスタ",
