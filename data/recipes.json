@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792877186",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：魔境の甘辛スパイスパスタ",
+    "title_en": "Roasted Pork Belly x Spicy Garlic Sauce: A Spicy Magic Pasta",
+    "description_ja": "炙りチャーシューの甘辛さが、濃厚焦がしにんにく醤油でさらに深み explodes！まるで魔法のレシピ！パスタに、この悪魔的な美味しさを取り入れる。",
+    "description_en": "A spicy magic in the pasta! Roasted pork belly meets the rich, smoky garlic sauce for an explosion of flavors. The magic of this recipe unfolds in every bite! ",
+    "occasion_ja": "特別な時のおつまみ、パーティーなどにおすすめ！",
+    "occasion_en": "Perfect for special occasions or a party! ",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを一口サイズに切り、軽く塩胡椒で味付けする。",
+      "2. 濃厚焦がしにんにく醤油をパスタの鍋に混ぜて、熱を加え、全体に味付けをする。",
+      "3. 炙りチャーシューをパスタに絡める。",
+      "4. 軽く油を注ぎ、オリーブオイルを加え、全体を炒め、完成。"
+    ],
+    "prompt": "Close-up shot of a delicious pasta with roasted pork belly, rich, smoky sauce, and steam. Vibrant, colorful, and eye-catching pasta dish.",
+    "filename": "recipe_1792877186.jpg",
+    "date": "2026-10-24 21:28:49",
+    "timestamp": 1792877186,
+    "likes": 0,
+    "views": 201
+  },
+  {
     "id": "recipe_1792854950",
     "category": "dessert",
     "category_ja": "デザート",
