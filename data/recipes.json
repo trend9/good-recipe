@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1792969272",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろとろ卵の辛味麻婆豆腐丼：悪魔の甘辛スパイス丼",
+    "title_en": "Spicy Sichuan Noodle Bowl with Creamy Egg: Devilishly Spicy & Delicious",
+    "description_ja": "ふわふわとろとろ卵の旨味と、辛味麻婆豆腐の組み合わせが、悪魔的美味しさに昇格！ 意外性あふれるこの丼は、いつもの丼に革命を起こす！",
+    "description_en": "A fusion of fluffy, creamy eggs and spicy Sichuan noodles in a devilishly delicious bowl. This unexpected and highly addictive bowl will revolutionize your perception of basic bowls! ",
+    "occasion_ja": "日常の晩御飯に、特別な一品が欲しいとき",
+    "occasion_en": "For a special meal, elevate your everyday dinner.",
+    "ingredients": [
+      {
+        "name": "もちもち卵",
+        "amount": "3個"
+      },
+      {
+        "name": "絹ごし豆腐",
+        "amount": "1/2個"
+      },
+      {
+        "name": "辛味麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "生卵",
+        "amount": "1個"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "豆腐を崩しながら、麻婆豆腐の辛味を混ぜる。",
+      "卵を溶き、醤油とみりんを加えて混ぜる。",
+      "ボウルに豆腐と麻婆豆腐の汁気を混ぜる。",
+      "ご飯の上に卵と麻婆豆腐をのせて、食べよう。"
+    ],
+    "prompt": "A steaming bowl of chili-infused noodles topped with a sunny-side-up egg. The noodles are bubbling with an inviting spicy sauce, and the egg is oozing with a perfect runny yolk. A dark brown background with a slight orange glow",
+    "filename": "recipe_1792969272.jpg",
+    "date": "2026-10-25 23:02:53",
+    "timestamp": 1792969272,
+    "likes": 0,
+    "views": 315
+  },
+  {
     "id": "recipe_1792959479",
     "category": "パスタ",
     "category_ja": "パスタ",
