@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792915376",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "ローストビーフ × 特製オニオンソース：悪魔の甘辛スパイスパスタ！",
+    "title_en": "Roast Beef & Onion Sauce: Devilishly Delicious Spicy & Sweet Spaghetti!",
+    "description_ja": "まるで悪魔が作ったような、濃厚な甘辛スパイスとクリーミーなオニオンソースが絡まった、超絶美味のSpaghetti！一口食べれば、誰もが悪魔の舌を魅了する魔法のSpaghettiを味わえる。",
+    "description_en": "Get ready to experience the devil's own spaghetti, a rich and spicy mix of roast beef and an incredibly creamy onion sauce. The combination of these two elements will bring a magical flavor experience, one that will leave you wanting more.",
+    "occasion_ja": "特別な日に、特別な方へ",
+    "occasion_en": "For a special occasion, for a special someone",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフをカットし、一口大に。",
+      "2. 玉ねぎを薄切りにし、オニオンソースを混ぜる。",
+      "3. ミキサーで小麦粉と水を混ぜ、なめらかになるまで。",
+      "4. フライパンに生地を流し込み、ローストビーフと玉ねぎを加える。弱火で加熱し、両面が焼き色がついたら完成。"
+    ],
+    "prompt": "Close-up shot of a bowl of spaghetti with a perfectly cooked roast beef, a rich onion sauce, and a sprinkle of parmesan cheese. The spaghetti strands are curled and appear to be coated in a vibrant sauce.",
+    "filename": "recipe_1792915376.jpg",
+    "date": "2026-10-25 08:04:18",
+    "timestamp": 1792915376,
+    "likes": 0,
+    "views": 316
+  },
+  {
     "id": "recipe_1792886259",
     "category": "パスタ",
     "category_ja": "パスタ",
