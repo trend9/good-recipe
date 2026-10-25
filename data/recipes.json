@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792935096",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔の甘辛スパイスポテトサラダ",
+    "title_en": "Sweet & Spicy Potato Salad:  A Creamy Cheese Explosion!",
+    "description_ja": "悪魔の甘辛スパイスで、サクサクポテトの美味しさを最大限に引き出します！クリーミーチーズソースは、まるで魔法の結晶のように、食卓を魅了します。",
+    "description_en": "A creamy cheese explosion elevates the already delicious crispy potato salad with a touch of magic! This devilishly addictive dish is sure to leave a lasting impression on your taste buds.",
+    "occasion_ja": "パーティーやディナーにぴったりな、悪魔的な美味しさを楽しめる一品",
+    "occasion_en": "Perfect for parties and dinner, this devilishly delicious side dish is sure to impress.",
+    "ingredients": [
+      {
+        "name": "サクサクポテト",
+        "amount": "1kg"
+      },
+      {
+        "name": "クリーミーチーズソース",
+        "amount": "200g"
+      },
+      {
+        "name": "ハチミツ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "赤唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "しょうが",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. サクサクポテトを、お好みでハチミツと赤唐辛子で味付けしながら、揚げる。",
+      "2. フライパンにバターを入れ、溶き卵としょうがを加え、かき混ぜながら弱火で焼き、卵としょうがが完全に溶けたら、チーズソースを加え、混ぜる。",
+      "3. サクサクポテトを、クリーミーチーズソースに絡めて、盛り付け、完成！",
+      "4.  お好みで、ハーブ、香辛料などを加えて、更に悪魔的な風味を楽しめる！"
+    ],
+    "prompt": "Close-up shot of creamy cheese sauce swirling with golden crispy potato pieces.",
+    "filename": "recipe_1792935096.jpg",
+    "date": "2026-10-25 13:33:18",
+    "timestamp": 1792935096,
+    "likes": 0,
+    "views": 294
+  },
+  {
     "id": "recipe_1792915376",
     "category": "pasta",
     "category_ja": "パスタ",
