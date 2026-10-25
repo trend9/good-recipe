@@ -1,5 +1,62 @@
 [
   {
+    "id": "recipe_1792949021",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛スパイス 海老グラタン",
+    "title_en": "Seafood Cream Cheese Goulash with a Twist",
+    "description_ja": "クリーミーなアボカドと、独特の味わいを生み出す、悪魔的な美味しさ。海... そして、少しだけ意外な組み合わせは、このレシピの秘訣だ！",
+    "description_en": "Creamy avocado with a unique twist that creates a deliciously weird yet amazing dish. The combination of seafood... and an unexpected twist, that's the secret to this recipe! ",
+    "occasion_ja": "パーティーや夜食にぴったり！",
+    "occasion_en": "Perfect for parties and night snacks!",
+    "ingredients": [
+      {
+        "name": "エビの身を全て取り出す",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "牛乳",
+        "amount": "200ml"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "酒",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. エビを全て取り出し、水洗いし、塩コショウで味付けをする。",
+      "2. アボカドは種を取り除き、1cm角に切る。",
+      "3. 生クリームと牛乳、醤油、酒、マヨネーズ、みりんを加え、よく混ぜる。",
+      "4. エビとアボカドをグラタン皿に盛り付け、クリームソースをたっぷりかける。"
+    ],
+    "prompt": "A close-up shot of a creamy, golden-orange seafood-filled goulash with a creamy avocado layer on top, in a glass serving dish, with a warm, inviting glow, slightly blurred background",
+    "filename": "recipe_1792949021.jpg",
+    "date": "2026-10-25 17:25:24",
+    "timestamp": 1792949021,
+    "likes": 0,
+    "views": 215
+  },
+  {
     "id": "recipe_1792935096",
     "category": "side",
     "category_ja": "サイド",
