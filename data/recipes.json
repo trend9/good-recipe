@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1792976684",
+    "category": "salad",
+    "category_ja": "サラダ",
+    "title_ja": "とろけるチーズ×タッカルビチキン：悪魔の甘辛スパイスサラダ",
+    "title_en": "Tofu and Tandoori Chicken: Spicy & Creamy Devilish Salad",
+    "description_ja": "とろけるチーズとタッカルビチキンが絶妙な組み合わせ！悪魔的な甘辛スパイスで、まるで魔境に迷い込んだような、贅沢な味わいのサラダ。",
+    "description_en": "A devilish fusion of creamy cheese and tandoori chicken, this salad delivers an exotic taste experience that will transport you to another world. ",
+    "occasion_ja": "パーティーや特別な日にぴったり",
+    "occasion_en": "Perfect for parties or special occasions",
+    "ingredients": [
+      {
+        "name": "とろけるチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "200g"
+      },
+      {
+        "name": "ドレッシング",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "甘辛スパイス",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パクチー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンは、軽く焼いて、塩コショウで味付けをする。",
+      "2. チーズは、小さくカットして、タッカルビチキンと混ぜる。",
+      "3. ドレッシングと甘辛スパイスを加え、全体を混ぜる。",
+      "4. パクチーを散らして、完成"
+    ],
+    "prompt": "A colorful close-up photo of a devilishly delicious salad with melted cheese, tandoori chicken, and fresh herbs, set on a rustic wooden table.",
+    "filename": "recipe_1792976684.jpg",
+    "date": "2026-10-26 01:06:57",
+    "timestamp": 1792976684,
+    "likes": 0,
+    "views": 233
+  },
+  {
     "id": "recipe_1792969272",
     "category": "丼",
     "category_ja": "丼",
