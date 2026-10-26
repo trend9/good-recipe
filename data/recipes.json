@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1793026024",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の甘辛マヨチキンナゲット",
+    "title_en": "Devilishly Sweet & Spicy Chicken Nuggets with Honey-Mayo Aioli",
+    "description_ja": "サクッと軽いナゲットに、悪魔的な甘辛マヨネーズソースが合う！見た目も華やかで、家庭でも簡単に作れるアレンジレシピ。",
+    "description_en": "Sweet and spicy chicken nuggets get a devilishly good makeover! These crispy nuggets are coated in a delicious honey-mayo aioli sauce. Easy to make at home! ",
+    "occasion_ja": "パーティーや子供向け、ドライブインなどの軽食にも最適",
+    "occasion_en": "Perfect for parties, kids' meals, or casual snacks",
+    "ingredients": [
+      {
+        "name": "鶏むね肉",
+        "amount": "150g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ハチミツ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏むね肉を一口大にカットする。",
+      "小麦粉、卵、マヨネーズ、ハチミツ、唐辛子、塩を混ぜ合わせる。",
+      "カットした鶏肉を混ぜ合わせ、ナゲットの形にする。",
+      "揚げ油で揚げる。油温を調節しながら、中火で揚げる。"
+    ],
+    "prompt": "Close-up shot of chicken nuggets with honey-mayo aioli, surrounded by colorful sprinkles and garnished with green onions and chili flakes",
+    "filename": "recipe_1793026024.jpg",
+    "date": "2026-10-26 14:48:46",
+    "timestamp": 1793026024,
+    "likes": 0,
+    "views": 294
+  },
+  {
     "id": "recipe_1792976684",
     "category": "salad",
     "category_ja": "サラダ",
