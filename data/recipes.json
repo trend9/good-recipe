@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793045866",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "バナナキャラメルブリュレ × ピーナッツバタースパイシーパウダー：悪魔の甘辛デザート",
+    "title_en": "Banana Caramel Brulee x Peanut Butter Spicy Powder: Devilish Sweet Dessert",
+    "description_ja": "完熟バナナの甘さとキャラメルブリュレの香ばしさが、スパイシーなピーナッツバターの風味と調和！悪魔的美味しさのデザートレシピ。",
+    "description_en": "A devilishly delicious dessert where the sweetness of ripe bananas, the caramel brulee, and a spicy peanut butter powder combine for a truly unique experience.",
+    "occasion_ja": "特別な日や、夜のお菓子にぴったりな悪魔的デザート",
+    "occasion_en": "Perfect for special occasions or a devilishly delicious dessert for a night treat.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "適量"
+      },
+      {
+        "name": "ピーナッツバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "スパイシーパウダー",
+        "amount": "お好みで"
+      },
+      {
+        "name": "砂糖",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを1cm幅に切り、キャラメルでコーティングする。",
+      "2. 砂糖を混ぜることで甘さを調整する。",
+      "3. ピーナッツバターとスパイシーパウダーを混ぜて、キャラメルに塗る。",
+      "4. 焼き色が付いたら完成！"
+    ],
+    "prompt": "Close-up shot of the banana caramelized in caramel sauce with a sprinkle of spicy powder, looking delicious and alluring",
+    "filename": "recipe_1793045866.jpg",
+    "date": "2026-10-26 20:19:23",
+    "timestamp": 1793045866,
+    "likes": 0,
+    "views": 360
+  },
+  {
     "id": "recipe_1793026024",
     "category": "side",
     "category_ja": "サイド",
