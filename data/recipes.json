@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793121357",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛炸裂！ × ハニーマスタードソースのスパイシーポテトサラダ",
+    "title_en": "Extreme Katsu Curry: Devilish Sweet & Spicy Dynamite of Katsu & Honey Mustard! - Honey Mustard Potato Salad",
+    "description_ja": "極厚カツと特製ハニーマスタードの組み合わせが、さらに悪魔的な美味しさを引き出す、衝撃の新しいレシピ！甘辛炸裂ポテトサラダは、スパイシーで濃厚な味わいが、まるで別次元！",
+    "description_en": "A devilishly delicious new recipe featuring the ultimate combination of extreme pork cutlet and devilishly sweet honey mustard sauce! It creates a unique and explosive flavor in a sweet and spicy potato salad.",
+    "occasion_ja": "パーティーやBBQ、家族会、お誕生日会など、幅広いシーンで活躍する一品",
+    "occasion_en": "A versatile side dish that can be enjoyed at parties, BBQs, family gatherings, birthdays, and more.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "1個"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "3個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "サラダ油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "極厚カツを焼いて、特製ハニーマスタードを混ぜる。",
+      "じゃがいもを薄切りにして、サラダ油で炒める。",
+      "マヨネーズを加えて混ぜる。",
+      "極厚カツとじゃがいもを、特製ハニーマスタードソースと絡めてサラダにする。"
+    ],
+    "prompt": "Close up photo of a plate of crispy fried pork cutlet with a generous dollop of honey mustard sauce on a bed of spicy potato salad. A vibrant, artistic, and colorful depiction, with a focus on the textures and ingredients.",
+    "filename": "recipe_1793121357.jpg",
+    "date": "2026-10-27 17:17:17",
+    "timestamp": 1793121357,
+    "likes": 0,
+    "views": 344
+  },
+  {
     "id": "recipe_1793100344",
     "category": "side",
     "category_ja": "サイド",
