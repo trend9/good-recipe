@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793059940",
+    "category": "メインディッシュ",
+    "category_ja": "メインディッシュ",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛炸裂！",
+    "title_en": "Ultra Thick Pork Cutlet with Honey Mustard Sauce: Devilishly Delicious Explosion!",
+    "description_ja": "極厚カツに、甘辛いハニーマスタードのソースを絡めて、食欲をそそる悪魔的な美味しさに昇華！",
+    "description_en": "Transform ultra-thick pork cutlets into devilishly delicious explosions of sweetness and tang with our special honey mustard sauce! ",
+    "occasion_ja": "パーティーや特別な日にも",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2枚"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "極厚カツにハニーマスタード、砂糖、醤油、水を入れたソースを塗り、10分程度置いておく",
+      "フライパンで極厚カツを焼く",
+      "焼き上げたら、ハニーマスタードソースを絡めて、お皿に盛り付ける",
+      "お好みで、レモン汁を添えて完成"
+    ],
+    "prompt": "A close-up shot of a juicy ultra thick pork cutlet with a creamy honey mustard sauce, drizzled with lemon juice. The pork is perfectly golden brown and glistening. The background is a rustic, wooden table with warm lighting.",
+    "filename": "recipe_1793059940.jpg",
+    "date": "2026-10-27 00:13:36",
+    "timestamp": 1793059940,
+    "likes": 0,
+    "views": 200
+  },
+  {
     "id": "recipe_1793045866",
     "category": "dessert",
     "category_ja": "デザート",
