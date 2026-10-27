@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793080434",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔の甘辛炸裂！",
+    "title_en": "Thick-cut Katsu × Special Honey Mustard Sauce: Devilishly Delicious & Crunchy!",
+    "description_ja": "極厚カツに、特製ハニーマスタードソースをたっぷり塗って、悪魔的な甘辛な味わいが炸裂！カリッとした食感も味わえる、究極の悪魔的グルメレシピです。",
+    "description_en": "Experience the devilishly delicious crunch of thick-cut katsu coated with a special honey mustard sauce! This recipe will have you craving more.",
+    "occasion_ja": "パーティー、家族、友人とのディナーに！",
+    "occasion_en": "Perfect for parties, family gatherings, or dinners with friends!",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "2切れ"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "パン粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを小麦粉に浸してパン粉で衣をつけます。",
+      "特製ハニーマスタードを混ぜたソースをカツに塗ります。",
+      "両面にソースを塗ったカツを揚げます。",
+      "揚げたカツを盛り付けます。"
+    ],
+    "prompt": "Close-up shot of a juicy, crispy katsu cutlet, golden brown and coated in a thick layer of honey mustard sauce. A contrasting background with a dark and elegant table setting. ",
+    "filename": "recipe_1793080434.jpg",
+    "date": "2026-10-27 05:55:31",
+    "timestamp": 1793080434,
+    "likes": 0,
+    "views": 328
+  },
+  {
     "id": "recipe_1793059940",
     "category": "メインディッシュ",
     "category_ja": "メインディッシュ",
