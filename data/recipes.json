@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793195154",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔の甘辛スパイシーデトックス！",
+    "title_en": "Sweet and Spicy Detoxes with Caramel & Baked Apples",
+    "description_ja": "焼き芋の甘さと、とろけるバターカラメルの組み合わせは、まさに悪魔の美味しさ。スパイシーなスパイスで、デトックス効果も抜群！",
+    "description_en": "A decadent twist on classic comfort food, the combination of sweet baked apples and melt-in-your-mouth caramel is sure to tantalize your taste buds. The spicy spices add an extra layer of depth and detoxes the soul! ",
+    "occasion_ja": "特別な日に、ゆっくりと味わいたい一品",
+    "occasion_en": "Special occasions or a moment to unwind and savor the flavors",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "スパイス (例: ジンジャー, クミン, パプリカ, etc.)",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. 焼き芋を皮ごと、小さめに切り、オーブンで20分ほど焼きます。",
+      "2.  melted butter with sugar and salt to a paste. ",
+      "3. 焼き芋をボウルに入れ、バターパウダーを混ぜます。",
+      "4. フライパンでバターを熱し、焼き芋を炒めます。スパイスを加えて混ぜながら煮詰めます。"
+    ],
+    "prompt": "A close-up shot of a baked apple slices with caramel sauce drizzled over, with steam rising from the dish, in a rustic and warm setting.",
+    "filename": "recipe_1793195154.jpg",
+    "date": "2026-10-28 13:47:17",
+    "timestamp": 1793195154,
+    "likes": 0,
+    "views": 456
+  },
+  {
     "id": "recipe_1793169240",
     "category": "pasta",
     "category_ja": "パスタ",
