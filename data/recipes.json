@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793231404",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろけるチーズ×タッカルビチキン：悪魔の甘辛スパイシーグラタン",
+    "title_en": "Melting Cheese & Tteokbokki Chili Cheese Gratin",
+    "description_ja": "とろけるチーズとタッカルビチキンの絶妙な甘辛スパイシーな組み合わせが、このグラタンで爆発！チーズのクリーミーさとタッカルビの辛味が絶妙に調和する、まさに悪魔的な美味しさ。",
+    "description_en": "An explosion of delicious cheesy and spicy flavor with a twist of Korean tteokbokki chili. Creamy, cheesy and spicy, this gratin will leave your taste buds wanting more. ",
+    "occasion_ja": "パーティーや特別な夜にぴったり！",
+    "occasion_en": "Perfect for a party or special occasion!",
+    "ingredients": [
+      {
+        "name": "チーズ",
+        "amount": "約200g"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "オニオン",
+        "amount": "適量"
+      },
+      {
+        "name": "コーン",
+        "amount": "適量"
+      },
+      {
+        "name": "パン粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. オニオンとコーンを細長く切る。",
+      "2. チーズを鍋に入れ、弱火で溶かす。",
+      "3. タッカルビチキンとチーズを鍋に入れて、弱火で加熱する。",
+      "4. 仕上げに、パン粉を振って、グラタンを焼成する。"
+    ],
+    "prompt": "Close-up shot of cheesy gratin with spicy tteokbokki chili on a plate. The cheese is bubbling and the tteokbokki is glistening.",
+    "filename": "recipe_1793231404.jpg",
+    "date": "2026-10-28 23:52:36",
+    "timestamp": 1793231404,
+    "likes": 0,
+    "views": 361
+  },
+  {
     "id": "recipe_1793215008",
     "category": "Side Dish",
     "category_ja": "サイドディッシュ",
