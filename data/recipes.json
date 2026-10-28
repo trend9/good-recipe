@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1793148861",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔の甘辛スパイシーデトックス！",
+    "title_en": "Devilish Sweet & Spicy Caramel: Baked Sweet Potato Caramel Delight!",
+    "description_ja": "焼き芋の甘さを引き立てる、とろけるバターカラメルの悪魔的美味しさ！スパイシーな風味で、まさにデトックスにぴったりな一品！",
+    "description_en": "Devilishly delicious! This recipe enhances the sweetness of baked sweet potatoes with a melt-in-your-mouth caramel and a touch of spice. Perfect for detox, it's an irresistible treat!",
+    "occasion_ja": "ダイエット中でも大丈夫！週末のおやつにぴったり!",
+    "occasion_en": "Perfect for diet-conscious days or a weekend treat!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "シナモン",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "焼き芋を1cm角にカット。",
+      "バター、砂糖、塩、シナモンを混ぜる。",
+      "焼き芋にバターのソースを塗る。",
+      "パプリカを散りばめる。",
+      "オーブンで180度で10分焼く。"
+    ],
+    "prompt": "Close-up shot of the baked sweet potato, caramel drizzled on top with a sprinkle of paprika.  A warm, inviting shot with a slightly moody feel.",
+    "filename": "recipe_1793148861.jpg",
+    "date": "2026-10-28 00:55:51",
+    "timestamp": 1793148861,
+    "likes": 0,
+    "views": 406
+  },
+  {
     "id": "recipe_1793121357",
     "category": "side",
     "category_ja": "サイド",
