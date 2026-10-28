@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793215008",
+    "category": "Side Dish",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "トマトモッツァレラチーズのスパイス焼き",
+    "title_en": "Tomato Mozzarella Spiced Skewers",
+    "description_ja": "完熟トマトの甘酸っぱさと、モッツァレラチーズのクリーミーさが、スパイシーな香辛料で爆発する、悪魔的な美味しさのレシピ。",
+    "description_en": "A devilishly delicious twist on tomato and mozzarella! Combining the sweet tang of ripe tomatoes and creamy mozzarela, with a dash of spice, this recipe will tantalize your taste buds. ",
+    "occasion_ja": "パーティーやバーベキュー、おもてなしに最適な一品。",
+    "occasion_en": "Perfect for parties, barbecues, or any special occasion.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "1切れ"
+      },
+      {
+        "name": "スパイス",
+        "amount": "お好みで"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "トマトは縦に半分に切り、モッツァレラチーズをそれぞれに1個ずつ取りつける。",
+      "スパイスを適量混ぜ合わせて、塩を振る。",
+      "オリーブオイルを適量かけて、トマトとモッツァレラチーズの Skewer を完成させる。",
+      "フライパンで軽く焼くことで、トマトの甘酸っぱさがより引き立ちます。"
+    ],
+    "prompt": "A close-up shot of a skewered tomato with mozzarella and a sprinkle of spices,  against a dark background.",
+    "filename": "recipe_1793215008.jpg",
+    "date": "2026-10-28 19:18:38",
+    "timestamp": 1793215008,
+    "likes": 0,
+    "views": 375
+  },
+  {
     "id": "recipe_1793195154",
     "category": "dessert",
     "category_ja": "デザート",
