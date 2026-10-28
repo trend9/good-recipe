@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793169240",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "とろり半熟卵×デミグラスハンバーグの、甘辛スパイシースパイスパスタ",
+    "title_en": "Spicy & Sweet Pasta with Half-Cooked Egg & Demi-Glace Meatballs",
+    "description_ja": "とろける半熟卵とデミグラスハンバーグの組み合わせで、スパイシーな甘辛スパイスが食欲をそそる、一皿に詰まった悪魔的な美味しさ！",
+    "description_en": "A spicy and sweet pasta dish with half-cooked eggs and demi-glace meatballs for an irresistible and decadent experience! ",
+    "occasion_ja": "特別な日に、週末のディナーにぴったり",
+    "occasion_en": "Perfect for a special occasion or weekend dinner.",
+    "ingredients": [
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "とろける半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "スパイスミックス",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "トマトケチャップ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. デミグラスハンバーグをフライパンで焼き、半熟卵をトッピング。",
+      "2. スパイスミックスをパスタとトマトケチャップを加え、混ぜ合わせる。",
+      "3. 熱したフライパンでパスタを加え、全体を炒め、半熟卵とデミグラスハンバーグを絡める。",
+      "4. 仕上げに、半熟卵の黄身とデミグラスハンバーグの肉汁を絡めて、食欲をそそる味わいに仕上げる。"
+    ],
+    "prompt": "A close-up shot of a plate with a spicy pasta dish, half-cooked eggs, and demi-glace meatballs, with steam rising from the dish.",
+    "filename": "recipe_1793169240.jpg",
+    "date": "2026-10-28 06:35:16",
+    "timestamp": 1793169240,
+    "likes": 0,
+    "views": 446
+  },
+  {
     "id": "recipe_1793148861",
     "category": "side",
     "category_ja": "サイドディッシュ",
