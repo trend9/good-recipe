@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1793270508",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の甘辛な秘密のグラタン！",
+    "title_en": "Secret Creamy Cajun Crab & Avocado Gratin",
+    "description_ja": "海老とクリーミーなアボカド、Cajun風味で、隠れた美味しさ！ 意外な組み合わせが、悪魔的に美味しいグラタンに！",
+    "description_en": "Spicy Cajun crab and creamy avocado gratin with a secret twist - a delicious and surprising combination that will rock your taste buds! ",
+    "occasion_ja": "特別な日にも、日常にもぴったりな一品！",
+    "occasion_en": "Perfect for special occasions or everyday indulgence!",
+    "ingredients": [
+      {
+        "name": "カニカマ",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーな卵",
+        "amount": "1個"
+      },
+      {
+        "name": "カマンベールチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "クミン",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. カニカマとアボカドを、一口大にカットします。",
+      "2. フライパンで、クミンとこしょうを加え、カニカマを炒めます。",
+      "3. アボカドを、ボウルに入れて、クリーミーな卵と混ぜ合わせます。",
+      "4. 最後は、カマンベールチーズを乗せて、オーブンで焼きます。"
+    ],
+    "prompt": "A delicious cheesy crab and avocado gratin, with a Cajun flavor and a creamy texture, being baked in an oven, with a smoky, slightly spicy, and decadent vibe.",
+    "filename": "recipe_1793270508.jpg",
+    "date": "2026-10-29 10:43:36",
+    "timestamp": 1793270508,
+    "likes": 0,
+    "views": 390
+  },
+  {
     "id": "recipe_1793246157",
     "category": "pasta",
     "category_ja": "パスタ",
