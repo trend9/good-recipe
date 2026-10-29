@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1793312421",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリーム生パスタ：悪魔の甘酸爽快！ × レモンと塩の塩漬け魚介類のソース",
+    "title_en": "Devilishly Sour & Sweet Lemon Cream Pasta: Lemon & Salt-cured Seafood Sauce",
+    "description_ja": "爽やかなレモンと塩漬け魚介類のソースが、明太子の濃厚な味わいを引き立て、悪魔的美味しさに進化！  ",
+    "description_en": "Sour & sweet lemon cream sauce with salt-cured seafood elevates the rich flavor of the aioli. ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions.",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "100g"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "200g"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "塩漬け魚介類(例: 鯛の塩漬け) ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "10g"
+      }
+    ],
+    "steps": [
+      "1. 生パスタを茹でる。",
+      "2. レモンを絞り、レモン汁と塩を混ぜる。",
+      "3. 明太子、塩漬け魚介類、レモン汁と塩で味を調える。",
+      "4.  茹で上がったパスタをレモン汁と塩漬け魚介類のソースで和える。"
+    ],
+    "prompt": "Close-up shot of devilishly sour and sweet lemon cream pasta, with lemon slices and a sprinkle of sea salt on top.",
+    "filename": "recipe_1793312421.jpg",
+    "date": "2026-10-29 22:21:12",
+    "timestamp": 1793312421,
+    "likes": 0,
+    "views": 358
+  },
+  {
     "id": "recipe_1793294226",
     "category": "pasta",
     "category_ja": "パスタ",
