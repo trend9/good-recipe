@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793294226",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘辛スパイシーハンバーグ！とろり半熟卵のデミグラスソースパスタ",
+    "title_en": "Devilish Spicy Pasta with Half-cooked Egg & Decadent Tomato Sauce",
+    "description_ja": "とろり半熟卵とデミグラスソースが融合する、悪魔的な味わいのパスタ！意外な組み合わせが、美味しさを引き立てます。一口食べたら、もう二度と別物に感じるでしょう。",
+    "description_en": "A devilishly delicious pasta with the fusion of half-cooked egg and decadent tomato sauce. An unexpected combination that elevates the flavor, so much that you can't ever forget its taste after just one bite.",
+    "occasion_ja": "特別な夜に、特別な一品を味わいたい時",
+    "occasion_en": "For special occasions, when you want to enjoy a special dish",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "半熟卵",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグをフライパンで焼きます。",
+      "2. 半熟卵をフライパンで、デミグラスソースを絡ませます。",
+      "3. パスタを茹でます。",
+      "4. 茹で上がったパスタと、ハンバーグ、半熟卵、デミグラスソース、生クリームを混ぜ合わせ、お好みでハーブやスパイスをトッピングして完成です。"
+    ],
+    "prompt": "Close-up shot of a steaming pasta dish with a half-cooked egg and juicy hamburger, garnished with herbs and spices",
+    "filename": "recipe_1793294226.jpg",
+    "date": "2026-10-29 17:18:56",
+    "timestamp": 1793294226,
+    "likes": 0,
+    "views": 243
+  },
+  {
     "id": "recipe_1793270508",
     "category": "dessert",
     "category_ja": "デザート",
