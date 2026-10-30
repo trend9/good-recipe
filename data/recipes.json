@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1793377748",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的ローストビーフ × オニオンソースのスパイス炒めパスタ",
+    "title_en": "Spicy Stir-fried Beef Pasta with Onion Sauce",
+    "description_ja": "濃厚なローストビーフと、甘辛なオニオンソースのスパイス炒めが、パスタに絡む！まるで悪魔の料理が食べれる、食欲をそそる一皿。",
+    "description_en": "Spicy stir-fried beef with onion sauce and delicious pasta! A dish that will tempt your taste buds with its unique combination of savory and spicy flavors. ",
+    "occasion_ja": "パーティー、家族で食事、夜食にぴったり",
+    "occasion_en": "Perfect for parties, family meals, and late-night snacks.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "スパイス (例: パプリカ、唐辛子など)",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ローストビーフを一口サイズにカットする。",
+      "玉ねぎを薄切りにする。",
+      "フライパンにオニオンソースとスパイスを入れ、中火で炒め、玉ねぎが透き通るまで炒める。",
+      "ローストビーフを加え、全体を炒める。",
+      "パスタを加え、火を通す。"
+    ],
+    "prompt": "Close-up photo of a stir-fried beef pasta dish with onion sauce, sizzling beef cubes and pasta.",
+    "filename": "recipe_1793377748.jpg",
+    "date": "2026-10-30 16:30:58",
+    "timestamp": 1793377748,
+    "likes": 0,
+    "views": 443
+  },
+  {
     "id": "recipe_1793352527",
     "category": "pasta",
     "category_ja": "パスタ",
