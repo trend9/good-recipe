@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793326907",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋×とろけるバターカラメル：悪魔の甘辛スパイシーデトックス！ (とろけるバターとスパイシーな味わいが織りなす、悪魔の甘辛スイーツ！)",
+    "title_en": "Sweet & Spicy Devilish Detoxes: Caramel & Spice from Baked Sweet Potato",
+    "description_ja": "焼き芋の甘さと、とろけるバターの香ばしさに、スパイシーな味わいが組み合わさる、悪魔的な美味しさのデザート。デトックスに最適な、甘辛スパイシーなスイーツレシピです。",
+    "description_en": "A devilishly sweet and spicy dessert made from baked sweet potato, with a luxurious caramel and spice twist. This unique dessert is a perfect choice for detoxification! ",
+    "occasion_ja": "特別な日、または日常のデザートに。",
+    "occasion_en": "Perfect for special occasions and everyday dessert.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "シナモン",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 焼き芋を一口大にカットし、オーブンで15分焼く。",
+      "2. トロけるバターをボウルに入れて、砂糖、シナモン、塩を加えて混ぜる。",
+      "3. 焼き芋にバターソースを塗る。",
+      "4. 15分程度冷やして、食べる。"
+    ],
+    "prompt": "Baked sweet potato, caramelized and drizzled with a buttery caramel sauce, with a sprinkle of cinnamon. The dessert is being served with a plate, and a knife and fork in a background, showcasing a sweet and spicy look.",
+    "filename": "recipe_1793326907.jpg",
+    "date": "2026-10-30 02:24:16",
+    "timestamp": 1793326907,
+    "likes": 0,
+    "views": 413
+  },
+  {
     "id": "recipe_1793312421",
     "category": "pasta",
     "category_ja": "パスタ",
