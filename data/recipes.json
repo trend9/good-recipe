@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1793433266",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "サクサクポテト × クリーミーチーズソース：悪魔の甘辛チーズボール！",
+    "title_en": "Sizzling Potato Balls with Creamy Cheese Sauce: Devilishly Delicious!",
+    "description_ja": "一口食べれば、悪魔の甘辛さに魅了される、サクサクポテトとクリーミーチーズの、新しい悪魔的美味しさ！",
+    "description_en": "Devilishly delicious! Creamy cheese sauce meets crispy potato balls, a new twist on the devilishly good!",
+    "occasion_ja": "パーティーや飲み会、または日常の夜食に最適です。",
+    "occasion_en": "Perfect for parties, gatherings, or as a delightful snack during your evening meal.",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを厚く薄切りにする。",
+      "パプリカは小さくカットする。",
+      "混ぜ合わせたチーズ、砂糖、塩、胡椒でじゃがいもとパプリカを包む。",
+      "オーブンを180℃に予熱。ボールにチーズボールを入れて焼成する。約15分後、表面が焦げ付くまで焼く。"
+    ],
+    "prompt": "Close-up shot of devilishly delicious cheese balls, with melted cheese oozing out. A vibrant, colorful scene.  Garnish with parsley.",
+    "filename": "recipe_1793433266.jpg",
+    "date": "2026-10-31 07:57:24",
+    "timestamp": 1793433266,
+    "likes": 0,
+    "views": 317
+  },
+  {
     "id": "recipe_1793377748",
     "category": "pasta",
     "category_ja": "パスタ",
