@@ -1,5 +1,57 @@
 [
   {
+    "id": "recipe_1793485400",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "ローストビーフ × オニオンソースのスパイシーな甘辛グラタン風パスタ (悪魔の甘辛な秘密のグラタン！)",
+    "title_en": "Spicy Sweet & Savory Roast Beef & Onion Gravy Pasta (Devil's Gravy Pasta)",
+    "description_ja": "悪魔的な甘辛な秘密のグラタン！とろけるローストビーフと、濃厚なオニオンソースが絡み合う、スパイシーな味わいのパスタ。見た目も美しく、家庭で簡単に作れます！",
+    "description_en": "A devilishly delicious secret of gravy pasta! The melt-in-your-mouth roast beef and creamy onion sauce make this pasta a perfect blend of sweet and spicy. This is a home-made pasta recipe that is beautiful in appearance and easy to make. ",
+    "occasion_ja": "パーティーや特別な日に最適な、華やかなパスタ料理！",
+    "occasion_en": "A perfect choice for a party or a special occasion! It's a glamorous pasta dish.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "トマトソース",
+        "amount": "200ml"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ローストビーフを細かく刻む。",
+      "玉ねぎをみじん切りにする。",
+      "玉ねぎとオニオンソースを炒める。",
+      "トマトソースを加えて煮詰める。",
+      "パスタを茹でる。",
+      "ローストビーフ、玉ねぎとオニオンソースをパスタに絡める。",
+      "お好みでパプリカを加えて完成"
+    ],
+    "prompt": "A steaming pasta dish with roast beef and onion sauce, with a vibrant color and delicious presentation, in a modern studio setting.",
+    "filename": "recipe_1793485400.jpg",
+    "date": "2026-10-31 22:26:48",
+    "timestamp": 1793485400,
+    "likes": 0,
+    "views": 412
+  },
+  {
     "id": "recipe_1793473283",
     "category": "丼",
     "category_ja": "丼",
