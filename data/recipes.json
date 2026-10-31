@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793473283",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "とろける卵と旨辛麻婆豆腐の甘辛スパイシー丼：悪魔の甘辛食欲をそそる新アレンジ",
+    "title_en": "Spicy Chili Egg & Miso Udon Bowl: Devilishly Spicy & Delicious New-Style Bowl",
+    "description_ja": "卵のふわふわが旨辛麻婆豆腐と相性抜群！濃厚な甘辛スパイシーな味わいが食欲をそそる、インパクト大の丼。家庭で手軽に作れる悪魔的アレンジレシピ。",
+    "description_en": "Soft-boiled egg and spicy chili tofu create a flavor-filled bowl you'll never forget! A devilishly delicious new-style bowl with a rich, spicy, and savory flavor that'll leave you wanting more. Easy to make at home for a special meal.",
+    "occasion_ja": "特別な日のディナーに、または、夜食にも最適な一品",
+    "occasion_en": "Perfect for dinner or as a night snack, this devilishly delicious new-style bowl is sure to impress.",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "卵を溶きほぐす。",
+      "旨辛麻婆豆腐と醤油、みりん、砂糖を混ぜ合わせる。",
+      "ご飯を盛り付け、卵の溶き卵を乗せる。",
+      "甘辛スパイシーな丼が完成。"
+    ],
+    "prompt": "Close-up shot of a bowl with fluffy egg on top of spicy chili udon. A dramatic and delicious image with a devilish appeal.",
+    "filename": "recipe_1793473283.jpg",
+    "date": "2026-10-31 19:03:46",
+    "timestamp": 1793473283,
+    "likes": 0,
+    "views": 433
+  },
+  {
     "id": "recipe_1793455992",
     "category": "side",
     "category_ja": "サイド",
