@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793455992",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油！悪魔の甘辛チーズボール！",
+    "title_en": "Smoked Char Siu x Rich Garlic Burnt Chili Cheese Balls!",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油の組み合わせで、口の中が一瞬で火に付く、悪魔的な甘辛チーズボール！まるでチーズボールの奥底に秘めたる、深みのある味わいをお楽しみください。",
+    "description_en": "Smoked char siu meets rich garlic burnt chili cheese sauce for a bite that sets you on fire! This devilishly sweet and spicy cheese ball packs a punch! Dive into the depths of the cheese ball to find a surprising depth of flavor you won't find anywhere else.",
+    "occasion_ja": "パーティー、夜食、お酒のおつまみ",
+    "occasion_en": "Party appetizer, snack, or party side",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": " flour",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1.  炙りチャーシューを小さく切ります。",
+      "2.  濃厚焦がしにんにく醤油を混ぜ合わせ、チーズとパルメザンチーズを加えます。",
+      "3.  パウダーチーズを加え、チーズボールの形にします。",
+      "4.  お好みで、生地を少し焼いて、食べごたえを高めます。"
+    ],
+    "prompt": "Close-up photo of a cheese ball shaped like a ball, with smoked char siu and rich garlic burnt chili cheese sauce drizzled over it, in a rustic setting",
+    "filename": "recipe_1793455992.jpg",
+    "date": "2026-10-31 14:14:32",
+    "timestamp": 1793455992,
+    "likes": 0,
+    "views": 338
+  },
+  {
     "id": "recipe_1793433266",
     "category": "side",
     "category_ja": "サイド",
