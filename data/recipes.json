@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1793563566",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の揚げ出しチキン × ハニーマヨネーズソースの甘辛スパイシーサラダ  ",
+    "title_en": "Spicy Honey Mustard Salad with Crispy Chicken",
+    "description_ja": "サクサク揚げ出しチキンとハニーマヨネーズソースが、意外な組み合わせで、スパイシーな甘辛な味が楽しめる。サラダでさっぱりと食べても、メインとしても最適な、悪魔的美味しさのレシピ！",
+    "description_en": "This recipe offers a unique and delicious combination of crispy fried chicken and a spicy honey mustard sauce. Enjoy it in a salad for a refreshing twist, or enjoy it as a main dish with a side of your choice.",
+    "occasion_ja": "パーティーや、一人でも楽しめる、特別な夜にぴったり！",
+    "occasion_en": "Perfect for parties or a cozy night in! ",
+    "ingredients": [
+      {
+        "name": "揚げ出しチキン",
+        "amount": "1kg"
+      },
+      {
+        "name": "ハニーマヨネーズソース",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "サラダ",
+        "amount": "お好みで"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1/2本"
+      }
+    ],
+    "steps": [
+      "揚げ出しチキンを準備。",
+      "ハニーマヨネーズソースを混ぜる。",
+      "サラダ野菜を切る。",
+      "チキンをサラダに盛り付け、ハニーマヨネーズソースを添える。"
+    ],
+    "prompt": "Close-up shot of chicken coated with honey mustard sauce and placed on top of a bed of lettuce, with vibrant colors of red and yellow peppers and onions.  Dramatic lighting. ",
+    "filename": "recipe_1793563566.jpg",
+    "date": "2026-11-01 20:07:29",
+    "timestamp": 1793563566,
+    "likes": 0,
+    "views": 295
+  },
+  {
     "id": "recipe_1793547754",
     "category": "side",
     "category_ja": "サイド",
