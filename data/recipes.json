@@ -1,5 +1,60 @@
 [
   {
+    "id": "recipe_1793497726",
+    "category": "丼",
+    "category_ja": "丼",
+    "title_ja": "悪魔的アボカド・サーモン・タピオカの甘辛風丼",
+    "title_en": "Devilish Avocado Salmon & Tupi-Cured Quinoa Bowl",
+    "description_ja": "意外な組み合わせの悪魔的美味しさ！ 濃厚なサーモンと、タピオカの甘辛風味がアクセント！",
+    "description_en": "An unexpected devilishly delicious combination of creamy salmon and sweet and spicy quinoa! ",
+    "occasion_ja": "パーティーや特別な日におすすめ",
+    "occasion_en": "Recommended for parties and special occasions",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1/2個"
+      },
+      {
+        "name": "タピオカ",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "オイスターソース",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "サーモンは食べやすい大きさに切り、塩コショウで味付けします。",
+      "タピオカを100mlの温かい水で2分ほど浸し、水気を切り、ボウルに投入します。",
+      "砂糖、醤油、オイスターソースを加え、よく混ぜます。",
+      "フライパンに少量の油をひき、サーモンを焼きます。",
+      "アボカドは皮を剥き、ボウルに入れます。",
+      "タピオカとサーモンを盛り付け、アボカドとソースを添えて完成します。"
+    ],
+    "prompt": "A close-up of a beautifully decorated devilishly delicious bowl with salmon, avocado, quinoa, and sauce. The food looks warm, inviting, and visually appealing with bold colors.",
+    "filename": "recipe_1793497726.jpg",
+    "date": "2026-11-01 01:51:51",
+    "timestamp": 1793497726,
+    "likes": 0,
+    "views": 280
+  },
+  {
     "id": "recipe_1793485400",
     "category": "pasta",
     "category_ja": "パスタ",
