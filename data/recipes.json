@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1793547754",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的海老ピラフ！ガーリックバター風味",
+    "title_en": "Garlicky Butter Shrimp Fried Rice - A New Twist on the Classic",
+    "description_ja": "ぷりぷり海老とクリーミーなガーリックバター風味のピラフ、まさに悪魔的美味しさ！普段のピラフに新たな世界を創出！",
+    "description_en": "A shrimp fried rice with a garlicky butter twist, a whole new level of deliciousness! Change your perception of a classic fried rice.",
+    "occasion_ja": "家族で楽しめる、特別な日の食事にぴったりな一品！",
+    "occasion_en": "A perfect side dish for family meals, especially for special occasions.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "ご飯",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "ガーリック",
+        "amount": "2チューブ"
+      },
+      {
+        "name": "醤油",
+        "amount": "1.5tbsp"
+      },
+      {
+        "name": "みりん",
+        "amount": "1tbsp"
+      },
+      {
+        "name": "砂糖",
+        "amount": "1/2tbsp"
+      }
+    ],
+    "steps": [
+      "1. 海老は水洗いし、キッチンペーパーで水気を拭き取ります。",
+      "2. フライパンにバターを熱し、海老を加えて炒めます。",
+      "3.  醤油、みりん、砂糖を加え、炒め合わせる。",
+      "4.  ご飯を加え、混ぜ合わせる。"
+    ],
+    "prompt": "A beautiful close-up shot of the shrimp fried rice, with garlicky butter aroma and vibrant shrimp. Anime illustration style",
+    "filename": "recipe_1793547754.jpg",
+    "date": "2026-11-01 15:45:56",
+    "timestamp": 1793547754,
+    "likes": 0,
+    "views": 366
+  },
+  {
     "id": "recipe_1793522127",
     "category": "dessert",
     "category_ja": "デザート",
