@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793522127",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的きな粉もちもちアイス！黒蜜の甘辛Explosion！",
+    "title_en": "Devilishly Delicious: Black Sugar & Cinnamon Ice Cream Explosion!",
+    "description_ja": "黒蜜ときな粉の意外な組み合わせが、一口で虜にする！もちもちアイスに、悪魔的な甘辛の爆発が楽しめる、新感覚レシピです！",
+    "description_en": "The devilishly delicious combination of black sugar and cinnamon ice cream will capture your heart! This is a new taste sensation that explodes with a devilishly sweet and savory explosion of flavor! ",
+    "occasion_ja": "特別な日のデザートに、友達とシェアする特別な一皿。",
+    "occasion_en": "A special dessert to share with friends on special occasions. ",
+    "ingredients": [
+      {
+        "name": "きな粉もちもちアイス",
+        "amount": "200g"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "1/2cc"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. きな粉もちもちアイスを、一口サイズにカット。",
+      "2.  黒蜜と砂糖を混ぜ合わせて、甘辛ソースを作り、混ぜる。",
+      "3.  カットしたきな粉もちもちアイスに、黒蜜ソースをしみ込ませる。",
+      "4.  レモン汁を少し加え、味を調整する。"
+    ],
+    "prompt": "Close-up of a portion of devilishly delicious ice cream, black sugar, and cinnamon.  It is drizzled with a sweet and savory sauce and garnished with a small lemon wedge.",
+    "filename": "recipe_1793522127.jpg",
+    "date": "2026-11-01 08:36:24",
+    "timestamp": 1793522127,
+    "likes": 0,
+    "views": 319
+  },
+  {
     "id": "recipe_1793497726",
     "category": "丼",
     "category_ja": "丼",
