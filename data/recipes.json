@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1793603184",
+    "category": "Side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔の唐揚げマヨネーズ！サクサクの甘辛風！",
+    "title_en": "Crispy Honey-Garlic Fried Chicken with Mayonnaise and Sweet & Spicy Salad",
+    "description_ja": "悪魔的唐揚げとハニーマヨネーズの意外な組み合わせが、食欲をそそるサクサク食感の悪魔的美味しさ！甘辛な味と爽やかなサラダが、最高のハーモニーを奏でます。",
+    "description_en": "A fusion of crispy fried chicken and honey-garlic mayo, delivering a deliciously addictive and unique flavor experience. Sweet and spicy salad adds a refreshing counterpoint to the intense flavors. ",
+    "occasion_ja": "パーティーやBBQに最適！",
+    "occasion_en": "Perfect for parties or BBQs!",
+    "ingredients": [
+      {
+        "name": "鶏肉唐揚げ",
+        "amount": "200g"
+      },
+      {
+        "name": "ハニー",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "サラダ野菜",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "鶏肉を薄く切り、塩、胡椒を振り、ハニーマヨネーズで絡める。",
+      "オーブンで180℃に予熱し、揚げ焼きにする。",
+      "サラダ野菜を準備し、皿に盛り付ける。",
+      "揚げ焼きした鶏肉とサラダ野菜を盛り付ける。マヨネーズをかけて、仕上げにハニーマヨネーズを添える。"
+    ],
+    "prompt": "A close-up photo of a plate of crispy fried chicken with honey-garlic mayo. The chicken is covered in a golden glaze and looks juicy, surrounded by a vibrant salad of various vegetables.",
+    "filename": "recipe_1793603184.jpg",
+    "date": "2026-11-02 07:08:55",
+    "timestamp": 1793603184,
+    "likes": 0,
+    "views": 272
+  },
+  {
     "id": "recipe_1793563566",
     "category": "side",
     "category_ja": "サイド",
