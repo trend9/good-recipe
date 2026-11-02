@@ -1,5 +1,59 @@
 [
   {
+    "id": "recipe_1793641370",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的ローストビーフ＆オニオンソース　スパイス炒めパスタ",
+    "title_en": "Spicy Roast Beef & Onion Sauce Pasta",
+    "description_ja": "贅沢なローストビーフと、特製オニオンソースの組み合わせが、スパイシーな甘辛のスパイス炒めパスタに！ 悪魔的美味しさ、間違いなし！",
+    "description_en": "A decadent roast beef with a special onion sauce, combined with a spicy and savory stir-fry pasta. A recipe with devilishly delicious taste! ",
+    "occasion_ja": "特別な日や、贅沢な気分を味わいたい時にぴったり",
+    "occasion_en": "Perfect for special occasions or when you want a luxurious and satisfying meal.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "にんにく",
+        "amount": "1かけ"
+      },
+      {
+        "name": "ゴマ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "お好みで"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "トマト",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "ローストビーフを一口サイズに切る。",
+      "玉ねぎとにんにくをみじん切りにする。",
+      "フライパンで玉ねぎとにんにくを炒める。",
+      "ゴマ、唐辛子、パプリカ、トマトを加えて炒める。",
+      "ローストビーフを加えて炒め、ソースを味見しながら調整する。"
+    ],
+    "prompt": "Close-up photo of a steaming pasta with red and yellow colors, a piece of roast beef on top. The sauce is thick and red, with small pieces of onion and peppers visible.",
+    "filename": "recipe_1793641370.jpg",
+    "date": "2026-11-02 17:44:36",
+    "timestamp": 1793641370,
+    "likes": 0,
+    "views": 306
+  },
+  {
     "id": "recipe_1793603184",
     "category": "Side",
     "category_ja": "サイド",
