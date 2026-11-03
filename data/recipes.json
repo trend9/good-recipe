@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793665309",
+    "category": "サイド",
+    "category_ja": "サイド",
+    "title_ja": "極厚カツ × ハニーマスタード：悪魔的甘辛炸金！",
+    "title_en": "Extreme-Thick Pork Cutlet with Honey Mustard: A Devilishly Delicious Golden Delight!",
+    "description_ja": "極厚カツの究極の進化！甘辛マスタードソースに秘めた悪魔の旨味と、カリッと揚げたての食感に、一Tasteで衝撃！",
+    "description_en": "Take your pork cutlet game to the next level! This recipe delivers a devilishly delicious fusion of intense honey mustard sauce, crispy fried texture, and a burst of flavor you won't forget.",
+    "occasion_ja": "お酒のおつまみ、パーティー、特別な日のディナーに！",
+    "occasion_en": "Perfect for parties, special occasions, and even a casual night in.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "4-6個"
+      },
+      {
+        "name": "ハニーマスタード",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "極厚カツにハニーマスタード、レモン汁、塩、胡椒を混ぜる。",
+      "揚げ油で熱し、両面こんがりと揚げる。",
+      "揚げたての極厚カツを皿に盛り付ける。",
+      "お好みでハニーマスタードソースを添える。"
+    ],
+    "prompt": "Close-up shot of a golden-brown, perfectly fried pork cutlet with a drizzle of honey mustard sauce, placed on a plate.  Focus on the texture and presentation.",
+    "filename": "recipe_1793665309.jpg",
+    "date": "2026-11-03 00:24:19",
+    "timestamp": 1793665309,
+    "likes": 0,
+    "views": 427
+  },
+  {
     "id": "recipe_1793641370",
     "category": "pasta",
     "category_ja": "パスタ",
