@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793691013",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的な甘辛きな粉もちもちアイス！黒蜜が爆発！",
+    "title_en": "Devilishly sweet & spicy Kinako Mochi Ice with Black Sugar Explosion!",
+    "description_ja": "もちもちとしたきな粉アイスに、黒蜜の辛味と甘味が融合！悪魔的な美味しさで、舌を刺激する一品です。",
+    "description_en": "A devilishly sweet and spicy kinako ice cream with a black sugar explosion! The ice cream is soft and fluffy with a unique blend of black sugar's spicy sweetness. A dish to tantalize your taste buds!",
+    "occasion_ja": "特別な日のデザートに！",
+    "occasion_en": "A perfect dessert for a special occasion!",
+    "ingredients": [
+      {
+        "name": "きな粉もちもちアイス",
+        "amount": "1個"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "きな粉もちもちアイスを容器に盛り、黒蜜と砂糖で溶かし、黒胡椒と塩を加える。",
+      "溶かし汁を加えたアイスに黒蜜の甘辛味が染み渡るように混ぜる。",
+      "アイスを盛り付け、黒蜜の辛味と甘味を楽しめるように、お好みで黒胡椒を添える。",
+      "お好みの器に盛り付け、甘辛きな粉もちもちアイスを楽しんでください。"
+    ],
+    "prompt": "Close-up shot of a deliciously sweet and spicy Kinako ice cream in a bowl, with a drizzle of black sugar syrup and a sprinkle of black pepper. The ice cream is fluffy and soft. The overall aesthetic is dark and vibrant. ",
+    "filename": "recipe_1793691013.jpg",
+    "date": "2026-11-03 07:33:20",
+    "timestamp": 1793691013,
+    "likes": 0,
+    "views": 410
+  },
+  {
     "id": "recipe_1793665309",
     "category": "サイド",
     "category_ja": "サイド",
