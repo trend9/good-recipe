@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1793757070",
+    "category": "デザート",
+    "category_ja": "デザート",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘辛デザート風",
+    "title_en": "Devilishly Delicious Dessert: Caramel & Butter Roasted Sweet Potatoes",
+    "description_ja": "普段食べ慣れない焼き芋の美味しさを、とろけるバターカラメルの甘辛な風味で、悪魔的に楽しもう！ 意外な組み合わせの美味しさで、誰もが驚くでしょう。",
+    "description_en": "Enjoy the irresistible sweet potato goodness with a devilishly delicious twist! This unique, unexpected flavor combination will leave your taste buds screaming for more!",
+    "occasion_ja": "特別な日のデザートに、そして意外な組み合わせの美味しさに惹かれる方におすすめ",
+    "occasion_en": "Perfect for special occasions, and for those who love to surprise their taste buds with unexpected flavors!",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "水溶き片栗粉",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "焼き芋をカットし、塩を振り、焼き芋を焼く。",
+      "フライパンにバターを入れ、砂糖を加える。溶けたバターと砂糖を混ぜる。",
+      "溶けたバターと砂糖を焼き芋に塗る。",
+      "水溶き片栗粉と塩を加えて混ぜ、焼き芋に均等に塗る。",
+      "焼き芋の表面をカラメルでコーティングする。"
+    ],
+    "prompt": "A close-up shot of a golden brown, caramelized sweet potato, with a rich, golden-brown syrup.  The image should highlight the unique combination of textures and colors.",
+    "filename": "recipe_1793757070.jpg",
+    "date": "2026-11-04 01:52:53",
+    "timestamp": 1793757070,
+    "likes": 0,
+    "views": 167
+  },
+  {
     "id": "recipe_1793741433",
     "category": "サラダ",
     "category_ja": "サラダ",
