@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1793810832",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的トマト・モッツァレラ・ハーブの甘辛チーズタルト",
+    "title_en": "Devilish Tomato & Mozzarella Herb Sweet & Sour Cheese Tart",
+    "description_ja": "完熟トマトの甘辛い旨味を、フレッシュモッツァレラチーズとハーブの香りで包んだ、極上の甘辛チーズタルト！見た目も鮮やかで、食欲をそそる悪魔的美味しさ！",
+    "description_en": "Devilish Tomato & Mozzarella Herb Sweet & Sour Cheese Tart - a vibrant and tantalizing tart with a sweet and sour tomato base, fresh mozzarella, and aromatic herbs. Perfect for your next decadent dessert experience! ",
+    "occasion_ja": "特別な日のおやつにぴったり！",
+    "occasion_en": "Perfect for your special occasion dessert! ",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "2個"
+      },
+      {
+        "name": "フレッシュモッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "ハーブ（ローズマリー、タイム、バジルなど）",
+        "amount": "適量"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1. 完熟トマトは薄切りにし、砂糖、塩で味付けし、軽く焼きます。",
+      "2. モッツァレラチーズは小さくカットします。",
+      "3. 好きなハーブを細かく刻んで、生地に混ぜます。",
+      "4. 焼きあがったトマトとチーズ、ハーブ、バターをタルト生地に詰めて焼き、甘辛チーズタルトに仕上げます。"
+    ],
+    "prompt": "Close-up image of a devilishly delicious and vibrant cheese tart, showcasing its beautiful color and texture. The tart should be topped with fresh herbs and a generous sprinkle of cheese.",
+    "filename": "recipe_1793810832.jpg",
+    "date": "2026-11-04 16:48:35",
+    "timestamp": 1793810832,
+    "likes": 0,
+    "views": 285
+  },
+  {
     "id": "recipe_1793780880",
     "category": "side",
     "category_ja": "サイド",
