@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1793780880",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のサーモンとろりアボカドタルタル",
+    "title_en": "Devilish Salmon & Creamy Avocado Salad",
+    "description_ja": "サーモンとアボカドの意外な組み合わせで、悪魔的な美味しさに。とろりとしたアボカドと、甘酸っぱくまろやかなサーモンのハーモニーが、あなたを魅了する！",
+    "description_en": "An unexpected and devilishly delicious salad combining salmon and creamy avocado. The creamy avocado and the sweet, tangy salmon will captivate you with its harmonious blend!",
+    "occasion_ja": "特別な日に、ちょっとした贅沢を味わいたいとき",
+    "occasion_en": "Perfect for a special occasion or when you want a little indulgence.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンは薄切りにして塩コショウで味付けする。",
+      "アボカドは皮を剥き、大きめな一口サイズに切る。",
+      "アボカドとサーモンを混ぜ合わせ、レモン汁とマヨネーズを加える。",
+      "お好みで、黒胡椒や唐辛子で更に辛味を加え、味見して完成。 "
+    ],
+    "prompt": "Close-up shot of a delicious salad with salmon and creamy avocado, with a slightly blurred background. The salmon and avocado are arranged artistically on a plate with a drizzle of olive oil.",
+    "filename": "recipe_1793780880.jpg",
+    "date": "2026-11-04 08:29:49",
+    "timestamp": 1793780880,
+    "likes": 0,
+    "views": 168
+  },
+  {
     "id": "recipe_1793757070",
     "category": "デザート",
     "category_ja": "デザート",
