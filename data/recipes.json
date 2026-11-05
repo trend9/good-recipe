@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1793903420",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "トマトとモッツァレラの甘辛チーズ焼き：悪魔的デザート風",
+    "title_en": "Tomato and Mozzarella: Sweet & Spicy Cheese Bake with a Twist",
+    "description_ja": "完熟トマトの甘酸っぱさと、モッツァレラチーズのクリーミーな味わいが、悪魔的な美味しさに昇華！とろけるチーズと、甘辛スパイスで、特別なデザート感覚で楽しめる一品です。",
+    "description_en": "A decadent twist on tomato and mozzarella! The sweetness of ripe tomatoes and the creamy texture of mozzarella cheese is elevated to a whole new level with a touch of spice. Enjoy this special dessert with melting cheese and a hint of sweet and spicy spices.",
+    "occasion_ja": "特別な日にぴったり",
+    "occasion_en": "Perfect for special occasions",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "グリーンピーナッツ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "蜂蜜",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "トマトを1cm角にカットして、10分程度水で洗い、ペーパータオルで拭き取る。",
+      "フライパンにオリーブオイルを流し入れ、中火で熱し、カットしたトマトを炒める。",
+      "モッツァレラチーズを1cm角にカットし、フライパンに加え、チーズが溶け始めるまで炒める。",
+      "パプリカをカットし、フライパンに加えて、トマトとチーズが溶け始めるまで炒める。",
+      "お好みでグリーンピーナッツと蜂蜜を加えて、炒める。",
+      "焼き加減に合わせて皿に盛り付ける。"
+    ],
+    "prompt": "An artful close-up shot of a dish with a vibrant tomato, melting mozzarella, and a sprinkling of spices, served on a rustic wooden plate.",
+    "filename": "recipe_1793903420.jpg",
+    "date": "2026-11-05 18:32:50",
+    "timestamp": 1793903420,
+    "likes": 0,
+    "views": 250
+  },
+  {
     "id": "recipe_1793875371",
     "category": "side",
     "category_ja": "サイド",
