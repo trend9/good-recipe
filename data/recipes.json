@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1793847787",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "海老のクリーミーアボカドグラタン（悪魔的甘辛風味）",
+    "title_en": "Creamy Avocado & Sea Urchin Gratin (Devilishly Sweet & Savory)",
+    "description_ja": "悪魔的な美味しさ！クリーミーなアボカドと、海老の独特な風味と食感を楽しむ、グラタン。甘辛スパイスで、舌全体を刺激する一皿に仕上がります。",
+    "description_en": "A devilishly delicious gratin experience! Cream cheese and sea urchin combine for a rich, savory treat with a touch of sweetness and spice. This dish will tantalize your taste buds!",
+    "occasion_ja": "パーティーや特別なディナーに、特別な一品を",
+    "occasion_en": "For special events or dinners, this dish adds a touch of elegance.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "クリーミーチーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "グラタンソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "海老を1cm角の大きさに切ります。",
+      "アボカドは皮を剥き、1cm角の大きさにして、水気を切った後、ボウルに入れ、クリーミーチーズと混ぜます。",
+      "アボカドとチーズの混合物を、グラタンソースと混ぜ合わせます。",
+      "フライパンにバターを溶かし、海老とアボカドチーズの混合物を炒めます。グラタンソースを混ぜ合わせ、弱火で1分程度煮詰めます。",
+      "焼き加減が良ければ、チーズを乗せて、オーブンで10分焼きます。"
+    ],
+    "prompt": "Close-up shot of creamy avocado gratin with sea urchin and a cheese topping, with a dark background. Focus on texture and richness. A hint of red pepper flakes is visible in the cheese.",
+    "filename": "recipe_1793847787.jpg",
+    "date": "2026-11-05 03:04:30",
+    "timestamp": 1793847787,
+    "likes": 0,
+    "views": 254
+  },
+  {
     "id": "recipe_1793830937",
     "category": "dessert",
     "category_ja": "デザート",
