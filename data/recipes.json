@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1793923051",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔のサーモン × アボカドタルタルチーズケーキ",
+    "title_en": "Devilish Salmon x Avocado Tartare Cheesecake",
+    "description_ja": "悪魔的な美味しさを超える、見た目も華麗なチーズケーキ！サーモンとアボカドのタルタルソースが、なめらかチーズケーキに包まれます。まるで夢の中にいるかのような、極上のデザート体験を味わえます。",
+    "description_en": "A cheesecake experience like no other, with a devilish blend of salmon and avocado tartare! The creamy cheesecake is filled with a decadent, yet unexpected, flavor of the salmon and avocado tartare. ",
+    "occasion_ja": "特別な日のデザート、誕生日、クリスマスなど",
+    "occasion_en": "Dessert for special occasions such as birthdays and Christmas",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "250g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "150ml"
+      },
+      {
+        "name": "バニラエッセンス",
+        "amount": "1滴"
+      }
+    ],
+    "steps": [
+      "1. サーモンを細かく刻んで、アボカドをすりおろします。",
+      "2. 砂糖と生クリーム、バニラエッセンスを加えて混ぜ合わせます。",
+      "3. クリームチーズを混ぜ合わせ、なめらかになるまで混ぜます。",
+      "4. サーモンとアボカドのタルタルソースを、ケーキの土台に盛り付け、冷蔵庫で1時間ほど冷やします。"
+    ],
+    "prompt": "A close-up photo of a cheesecake topped with salmon and avocado tartare, with a dramatic lighting, a decadent dessert on a white plate",
+    "filename": "recipe_1793923051.jpg",
+    "date": "2026-11-05 23:59:20",
+    "timestamp": 1793923051,
+    "likes": 0,
+    "views": 446
+  },
+  {
     "id": "recipe_1793903420",
     "category": "dessert",
     "category_ja": "デザート",
