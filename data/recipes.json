@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1793875371",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔的唐揚げマヨネーズソース！サクサク＆甘辛爆発！",
+    "title_en": "Fried Chicken with Honey Mayonnaise Sauce: A Crispy & Sweet Explosion!",
+    "description_ja": "サクサク唐揚げに、ハニーマヨネーズソースが相性抜群！甘辛な味と食感の組み合わせが、まるで悪魔が作った料理を食べるみたい。家庭で簡単に作れる、絶品レシピ！",
+    "description_en": "Crispy fried chicken with a honey mayonnaise sauce! A sweet and savory combination with a crispy texture.  A delicious recipe you can easily make at home!  ",
+    "occasion_ja": "パーティーや日常、お弁当にも最適！",
+    "occasion_en": "Perfect for parties, everyday meals, and even bento boxes!",
+    "ingredients": [
+      {
+        "name": "鶏もも肉",
+        "amount": "200g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "溶かしバター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ハニー",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "鶏もも肉を一口大に切り、小麦粉と溶かしバターを混ぜる。",
+      "小麦粉と溶かしバターをつけた鶏もも肉を、熱したフライパンで両面を焼き付ける。",
+      "焼き上げた鶏もも肉を、ハニーマヨネーズソースで包んで、さらに焼き付ける。",
+      "焼き上がったら、お好みで、塩を振る。"
+    ],
+    "prompt": "A close-up shot of a plate with delicious fried chicken covered in honey-mayo sauce. The chicken has a crispy exterior and is juicy and flavorful, with the honey-mayo sauce adding a sweet and savory touch. The sauce is drizzled over the chicken, highlighting the delicious combination of textures and flavors.",
+    "filename": "recipe_1793875371.jpg",
+    "date": "2026-11-05 10:45:37",
+    "timestamp": 1793875371,
+    "likes": 0,
+    "views": 266
+  },
+  {
     "id": "recipe_1793847787",
     "category": "side",
     "category_ja": "サイド",
