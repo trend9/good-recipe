@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1794009475",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろけるチーズの旨辛豆腐卵丼 - 悪魔的甘辛爆発！",
+    "title_en": "Spicy Tofu & Egg Bowl with Cheesy Explosion - Devilishly Delicious",
+    "description_ja": "ふっくらととろける卵と、旨辛麻婆豆腐を丼にした悪魔的美味しさ！ 意外な組み合わせに、一口食べれば虜になる一皿に。",
+    "description_en": "A devilishly delicious fusion of creamy egg and spicy mapo tofu in a bowl! This unexpected combination is sure to win you over with one bite.",
+    "occasion_ja": "週末のランチや晩御飯に。",
+    "occasion_en": "Perfect for lunch or dinner on the weekend.",
+    "ingredients": [
+      {
+        "name": "中華豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "1袋"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "ゴマ油",
+        "amount": "小さじ1"
+      }
+    ],
+    "steps": [
+      "中華豆腐を1cm角に切る。",
+      "フライパンにゴマ油をひき、中華豆腐を入れ炒める。",
+      "旨辛麻婆豆腐を加え、炒める。",
+      "卵を溶き、豆腐と麻婆豆腐に加えて、軽く混ぜる。",
+      "チーズを乗せ、丼に盛る。"
+    ],
+    "prompt": "Bowl of spicy tofu and egg with melted cheese, creamy and spicy, close-up, vibrant colors, anime illustration style",
+    "filename": "recipe_1794009475.jpg",
+    "date": "2026-11-06 23:58:45",
+    "timestamp": 1794009475,
+    "likes": 0,
+    "views": 470
+  },
+  {
     "id": "recipe_1793994643",
     "category": "pasta",
     "category_ja": "パスタ",
