@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1793994643",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子×レモンクリーム生パスタ：悪魔の甘辛風！",
+    "title_en": "Devilishly Delicious Lemon Cream Pasta with Spicy Tuna mayo",
+    "description_ja": "明太子とレモンの爽やかな風味が、悪魔的な甘辛さで、生パスタの美味しさを最大限に引き出す！意外な組み合わせがたまらない！",
+    "description_en": "A devilishly delicious lemon cream pasta with a spicy tuna mayo twist!  An unexpected, yet utterly delicious combination!  ",
+    "occasion_ja": "パーティーや特別な日に、お酒との相性抜群！",
+    "occasion_en": "Perfect for parties or special occasions, pairs well with alcohol!",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "適量"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "レモン",
+        "amount": "1/2個"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "タマネギ",
+        "amount": "1/4個"
+      }
+    ],
+    "steps": [
+      "1. 生パスタを茹で、水気を切る。",
+      "2. レモン汁とマヨネーズを混ぜ、明太子とタマネギを加えて混ぜ合わせる。",
+      "3. 生パスタを皿に盛り、レモンクリームソースをたっぷりかける。",
+      "4.  お好みで、レモンの輪切りを添え、魔物顔の可愛いパスタを完成！"
+    ],
+    "prompt": "Close-up shot of devilish pasta with lemon cream sauce and spicy tuna mayo, a bowl of pasta with a mischievous smile, and a lemon slice on top.",
+    "filename": "recipe_1793994643.jpg",
+    "date": "2026-11-06 19:52:30",
+    "timestamp": 1793994643,
+    "likes": 0,
+    "views": 340
+  },
+  {
     "id": "recipe_1793968994",
     "category": "dessert",
     "category_ja": "デザート",
