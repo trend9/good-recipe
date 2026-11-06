@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1793940150",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "悪魔のポテトチーズクリーム！サクサク炸裂！",
+    "title_en": "Devilishly Delicious Crispy Potato & Cheese Cream",
+    "description_ja": "サクサクとクリーミーな食感が一体となった、悪魔的な美味しさ！まるで魔法の料理が誕生したかのよう！",
+    "description_en": "A devilishly delicious combination of crispy and creamy textures for a taste sensation that feels like magic! ",
+    "occasion_ja": "パーティーやディナー、お酒と一緒にもピッタリ",
+    "occasion_en": "Perfect for parties, dinners, or enjoying alongside your drinks!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "じゃがいもを1cm幅に切る。",
+      "じゃがいもをボウルに入れ、塩を振る。",
+      "10分間程度置いて水分を吸わせる。",
+      "チーズとバターを混ぜる。牛乳を加えて溶かし、火をつけながら混ぜる。",
+      "熱した油でじゃがいもを揚げる。",
+      "チーズクリームソースを添える"
+    ],
+    "prompt": "Close-up shot of crispy potato sticks coated with creamy cheese sauce, with steam and cheese dripping, in a dramatic, close-up shot, with a background in red and orange color.",
+    "filename": "recipe_1793940150.jpg",
+    "date": "2026-11-06 04:44:18",
+    "timestamp": 1793940150,
+    "likes": 0,
+    "views": 351
+  },
+  {
     "id": "recipe_1793923051",
     "category": "dessert",
     "category_ja": "デザート",
