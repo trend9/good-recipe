@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794024459",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "抹茶 × ホワイトチョコの甘辛チョコムース：悪魔的スイーツ爆発！",
+    "title_en": "Matcha × White Chocolate Ganache Mousse: An Evil Sweet Explosion!",
+    "description_ja": "抹茶と濃厚ホワイトチョコレートを贅沢に組み合わせた、見た目も美しいムース。濃厚な甘さと抹茶の苦味が絶妙なハーモニー。悪魔的な美味しさに、魅了されるはず！",
+    "description_en": "A decadent mousse made with matcha and white chocolate. This beautiful mousse combines the richness of white chocolate and the earthy flavor of matcha for an explosive sweet experience.  Prepare to be amazed by the unexpected beauty of this dessert!",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for special occasions! ",
+    "ingredients": [
+      {
+        "name": "抹茶粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "濃厚ホワイトチョコレート",
+        "amount": "200g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "250ml"
+      },
+      {
+        "name": "無糖ヨーグルト",
+        "amount": "100ml"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1.  抹茶粉とホワイトチョコレートを混ぜ、湯気が出ないように混ぜる。",
+      "2.  生クリームと無糖ヨーグルトを混ぜ、なめらかになるまで混ぜる。",
+      "3.  抹茶チョコレートと生クリームヨーグルトを混ぜる。",
+      "4.  盛り付け、冷蔵庫で30分以上冷やし固める。"
+    ],
+    "prompt": "Close-up photo of a mousse dessert with matcha powder, white chocolate drizzle, and a sprig of mint.  A beautiful, decadent, and modern dessert. ",
+    "filename": "recipe_1794024459.jpg",
+    "date": "2026-11-07 04:08:58",
+    "timestamp": 1794024459,
+    "likes": 0,
+    "views": 312
+  },
+  {
     "id": "recipe_1794009475",
     "category": "丼もの",
     "category_ja": "丼もの",
