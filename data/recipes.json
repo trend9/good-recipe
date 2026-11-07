@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794086495",
+    "category": "side/snack",
+    "category_ja": "サイド/軽食",
+    "title_ja": "悪魔的唐揚げマヨネーズチーズ巻き：サクサク甘辛爆発！",
+    "title_en": "Devilishly delicious fried chicken mayo cheese roll: A crunch and sweet explosion!",
+    "description_ja": "サクサクの唐揚げに、甘辛なハニーマヨネーズ、チーズが絶妙に絡み合い、悪魔的な美味しさを演出！",
+    "description_en": "The devilishly delicious fried chicken in a cheesy roll. Sweet and sour with a creamy twist, this is a unique treat that will blow your mind! ",
+    "occasion_ja": "パーティーや夜食に！",
+    "occasion_en": "Perfect for parties and night snacks! ",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "2個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 小さい一口サイズにカットした唐揚げを塩コショウで味付けする。",
+      "2. ハニーマヨネーズとチーズを混ぜて、唐辛子も加えて、全体を馴染ませる。",
+      "3.  唐揚げを巻き、しっかりと挟む。",
+      "4.  揚げる。"
+    ],
+    "prompt": "Close-up shot of devilish fried chicken mayo cheese roll with cheese and sauce dripping down.",
+    "filename": "recipe_1794086495.jpg",
+    "date": "2026-11-07 21:22:56",
+    "timestamp": 1794086495,
+    "likes": 0,
+    "views": 370
+  },
+  {
     "id": "recipe_1794071919",
     "category": "サイドディッシュ",
     "category_ja": "サイドディッシュ",
