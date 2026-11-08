@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1794165531",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的ローストビーフ & オニオンソースの甘辛チーズスパゲッティ",
+    "title_en": "Spicy & Creamy Cheese Spaghetti with Roast Beef & Onion Sauce",
+    "description_ja": "ローストビーフの甘辛味を、濃厚なチーズと相性抜群のオニオンソースで、まるでスパゲッティソースが魔法の魔法で変わるような、悪魔的美味しさに仕上げました。",
+    "description_en": "This recipe transforms classic roast beef and onion sauce into an exquisite spaghetti experience! The unique combination of savory roast beef and creamy cheese elevates the dish to a whole new level of deliciousness.",
+    "occasion_ja": "特別な日や、いつもと違う特別な夜にぴったり",
+    "occasion_en": "Perfect for special occasions or for a night out of the ordinary",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "1切れ"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "チーズ",
+        "amount": "200g"
+      },
+      {
+        "name": "オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "スパゲッティ",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフをカットして、玉ねぎと混ぜ合わせて、スパゲッティと混ぜる。",
+      "2. オニオンソースを加えて、よく混ぜる。",
+      "3. チーズを溶かして、スパゲッティに混ぜる。",
+      "4. 溶けたチーズがスパゲッティに染み込むまで、しっかりと混ぜる。",
+      "5.  熱したフライパンで、チーズソースと混ぜ合わせたスパゲッティを炒め、仕上げにオリーブオイルを加えて完成"
+    ],
+    "prompt": "A close-up shot of a steaming bowl of spaghetti topped with a juicy roast beef, a swirl of cheesy sauce, and sliced onions, with a dramatic light and smoke effect",
+    "filename": "recipe_1794165531.jpg",
+    "date": "2026-11-08 19:20:19",
+    "timestamp": 1794165531,
+    "likes": 0,
+    "views": 181
+  },
+  {
     "id": "recipe_1794149115",
     "category": "pasta",
     "category_ja": "パスタ",
