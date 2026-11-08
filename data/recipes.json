@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1794149115",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子レモンクリーム生パスタ：悪魔の甘辛風！",
+    "title_en": "明太子 Lemon Cream Spaghetti: Devilish Sweet and Spicy!",
+    "description_ja": "明太子とレモンの組み合わせは意外性ですが、その意外性が悪魔的な甘辛さに昇華！生パスタにレモンクリームソースを絡めて、明太子の旨味とコクが爆発します！",
+    "description_en": "A taste of unexpected sweetness with the lemon and tuna mayo. It's a devilish twist on the classic pairing, with creamy lemon sauce that's infused with tuna's rich flavor! ",
+    "occasion_ja": "パーティーや特別な日に、ちょっと変わった味わいのパスタを演出したいとき",
+    "occasion_en": "For parties or special occasions, this pasta adds a touch of devilish sweetness to your meal.",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "1 boîte"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "1袋"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 明太子を細切りにし、ボウルに入れて混ぜる。",
+      "2. 生パスタを茹でる。",
+      "3. 茹で上がったパスタと明太子を混ぜる。",
+      "4. レモン汁、クリームチーズ、バターを混ぜ、塩コショウで味を整える。"
+    ],
+    "prompt": "Close-up shot of a plate of devilishly delicious spaghetti, with lemon cream sauce and tuna mayo topping, and a sprinkle of grated parmesan cheese.",
+    "filename": "recipe_1794149115.jpg",
+    "date": "2026-11-08 14:46:34",
+    "timestamp": 1794149115,
+    "likes": 0,
+    "views": 159
+  },
+  {
     "id": "recipe_1794099742",
     "category": "dessert",
     "category_ja": "デザート",
