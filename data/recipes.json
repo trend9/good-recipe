@@ -1,5 +1,64 @@
 [
   {
+    "id": "recipe_1794099742",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的唐揚げマヨネーズチーズケーキ",
+    "title_en": "Devilishly Delicious Fried Chicken Mayo Cheese Cake",
+    "description_ja": "サクサクとした食感の唐揚げと、クリーミーなチーズケーキの組み合わせ。ハニーマヨネーズの甘辛味が、まさに悪魔的な美味しさ！",
+    "description_en": "A combination of crispy fried chicken and creamy cheese cake.  The sweet and spicy honey mayonnaise flavor will bring the devilish taste! ",
+    "occasion_ja": " parties, special occasions",
+    "occasion_en": "Parties, Special Occasions",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "100g"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "100g"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "チーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "パンプキン",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "鶏肉を一口大に切り、小麦粉で dredging する。",
+      "卵を溶き、ハニーマヨネーズを加えて混ぜる。",
+      "揚げ油を熱し、鶏肉を揚げる。",
+      "チーズを溶かし、牛乳を加えて混ぜる。",
+      "パンプキンとチーズを混ぜ、チーズケーキの生地を作る。",
+      "揚げた鶏肉を、チーズケーキの生地で包む。"
+    ],
+    "prompt": "Close-up shot of a cheesecake with fried chicken and a sprinkle of cheese on top, with an orange background and a soft lighting",
+    "filename": "recipe_1794099742.jpg",
+    "date": "2026-11-08 01:04:09",
+    "timestamp": 1794099742,
+    "likes": 0,
+    "views": 426
+  },
+  {
     "id": "recipe_1794086495",
     "category": "side/snack",
     "category_ja": "サイド/軽食",
