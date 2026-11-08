@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1794180250",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグの甘辛チーズクリームパスタ",
+    "title_en": "Tantalizing Creamy Pasta with Semi-Soft Egg and Demi-Glace Beef",
+    "description_ja": "悪魔的な美味しさ！とろーり半熟卵とデミグラスハンバーグの甘辛チーズクリームパスタ！一口食べれば、幸せな脳内爆発が起こる！",
+    "description_en": "An unforgettable taste sensation! Creamy pasta with semi-soft egg and demi-glace beef, topped with a tangy cheese sauce.  Prepare for a brain explosion of deliciousness! ",
+    "occasion_ja": "特別な日や普段の夜ご飯に",
+    "occasion_en": "Perfect for special occasions or a regular dinner.",
+    "ingredients": [
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "適量"
+      },
+      {
+        "name": "とろーり半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. デミグラスハンバーグをフライパンで焼きます。",
+      "2. 溶き卵をボウルに入れて、牛乳を加え、とろみをつける程度に混ぜます。",
+      "3. パスタを茹で、中火で、パスタを茹で汁に溶かしながら、半熟卵をボウルに入れます。",
+      "4. 溶き卵とパスタを混ぜ合わせ、クリームチーズを加え、塩で味を調えます。"
+    ],
+    "prompt": "Close-up shot of the pasta, semi-soft egg with creamy sauce, and demi-glace beef on a plate. High-quality cooking, vibrant colors and a dramatic composition.",
+    "filename": "recipe_1794180250.jpg",
+    "date": "2026-11-08 23:25:53",
+    "timestamp": 1794180250,
+    "likes": 0,
+    "views": 346
+  },
+  {
     "id": "recipe_1794165531",
     "category": "pasta",
     "category_ja": "パスタ",
