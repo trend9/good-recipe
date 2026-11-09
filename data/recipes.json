@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1794197165",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的ハンバーグ × とろとろ卵の甘辛チーズムースパスタ",
+    "title_en": "Deconstructed Hamburger & Egg Custard Pasta",
+    "description_ja": "とろとろ半熟卵とデミグラスハンバーグを、クリーミーで甘辛なチーズムースで包んだパスタ！見た目も衝撃的で、まるで悪魔の料理が食べたくなる！",
+    "description_en": "A pasta dish with a decadent, creamy, and sweet cheese mousse incorporating a soft-boiled egg and demi-glace hamburger. A must-try for those seeking an unconventional yet unbelievably delicious culinary experience! ",
+    "occasion_ja": "特別な日に、特別な人へのプレゼントに、特別な時間を演出",
+    "occasion_en": "Perfect for special occasions, celebrating someone special, and adding a touch of magic to your moments.",
+    "ingredients": [
+      {
+        "name": "ハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "デミグラスソース",
+        "amount": "適量"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ハンバーグを焼きます。デミグラスソースを添え、甘辛な味付けをします。",
+      "2. 卵を溶き、マヨネーズと混ぜ合わせます。",
+      "3. 卵とチーズをパスタに盛り付けます。",
+      "4. 溶き卵のチーズムースをパスタの上に添えます。"
+    ],
+    "prompt": "A close-up shot of a pasta dish with a creamy cheese mousse, a soft-boiled egg nestled amongst the pasta, and a savory demi-glace hamburger. Smoke and steam add a touch of magic to the scene.",
+    "filename": "recipe_1794197165.jpg",
+    "date": "2026-11-09 04:07:26",
+    "timestamp": 1794197165,
+    "likes": 0,
+    "views": 341
+  },
+  {
     "id": "recipe_1794180250",
     "category": "パスタ",
     "category_ja": "パスタ",
