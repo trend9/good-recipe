@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794231235",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "炙りチャーシュー & 濃厚焦がしにんにく醤油：悪魔の甘辛パスタ！",
+    "title_en": "Spicy Smoked Pork & Garlic Pepper Sauce: A Devilish Pasta Delight!",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を合わせた、悪魔的な甘辛パスタ。見た目は美しく、一口食べれば、まさに悪魔の美味しさ！",
+    "description_en": "An incredibly devilish pasta dish featuring smoked pork and a rich garlic pepper sauce. This recipe looks beautiful and tastes even more devilishly delicious! ",
+    "occasion_ja": " parties, dates, gatherings",
+    "occasion_en": "Parties, Dates, Gatherings",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを細かく刻む。",
+      "2. 濃厚焦がしにんにく醤油とバターを混ぜ合わせ、パスタを絡める。",
+      "3. 卵を茹でる。",
+      "4. パスタに溶かしバターと卵を加え、絡める。"
+    ],
+    "prompt": "Close-up photo of devilish pasta dish with a smoky aroma, showing the contrast of red-brown sauce with creamy, white pasta and a splash of golden egg yolk.",
+    "filename": "recipe_1794231235.jpg",
+    "date": "2026-11-09 13:35:37",
+    "timestamp": 1794231235,
+    "likes": 0,
+    "views": 180
+  },
+  {
     "id": "recipe_1794197165",
     "category": "pasta",
     "category_ja": "パスタ",
