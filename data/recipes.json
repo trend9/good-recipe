@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794266230",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的バナナのキャラメルブリュレ！甘辛バナナムース！",
+    "title_en": "Devilishly Delicious Banana Caramel Brulee! A creamy, caramel-infused banana mousse",
+    "description_ja": "バナナの甘酸っぱさとキャラメルの甘さが絶妙な、まるで夢のようなデザート！ 完熟バナナの甘さとキャラメルの組み合わせで、今までにない新しい悪魔的スイーツ体験をご提供します！",
+    "description_en": "A dream dessert! A unique, devilishly delicious, and unexpected banana-caramel mousse! The perfect balance of ripened banana's sweetness and caramel's richness. Experience a new level of devilishly delicious dessert with this creation!",
+    "occasion_ja": "特別な日や特別な方へのギフトに！",
+    "occasion_en": "Perfect for a special occasion or a gift to someone special!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "3個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "200ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "バナナを薄切りにして、キャラメルを全体にまぶす。\n",
+      "フライパンに、生クリームと砂糖を混ぜる。\n",
+      "弱火で、とろみがつくまで加熱する。\n",
+      "キャラメルバナナのムースを、生クリームのソースとともに盛り付ける。\n"
+    ],
+    "prompt": "A close-up shot of a dessert featuring a caramelized banana slice with a creamy, caramel-infused mousse, garnished with a drizzle of caramel sauce, against a dark background, evoking a sense of luxury and intrigue.",
+    "filename": "recipe_1794266230.jpg",
+    "date": "2026-11-09 23:18:06",
+    "timestamp": 1794266230,
+    "likes": 0,
+    "views": 175
+  },
+  {
     "id": "recipe_1794231235",
     "category": "pasta",
     "category_ja": "パスタ",
