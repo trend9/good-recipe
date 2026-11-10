@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794345079",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "キャラメルバナナの魔法ムース！悪魔の甘辛風味！",
+    "title_en": "Chocolate Lava Cake with Banana Caramel Sauce - Devilishly Delicious!",
+    "description_ja": "黒蜜とキャラメル、バナナの甘辛な香りが、まるで魔法のムース！とろける食感と、悪魔的な甘辛さ。自宅で簡単に作れる、特別な夜にぴったりなレシピ！",
+    "description_en": "A decadent and delightful combination of caramel and banana, this lava cake will surprise your taste buds with its unique, devilishly delicious flavour. This recipe is easy enough for any night, just perfect for a special occasion.",
+    "occasion_ja": "特別な夜、誕生日、記念日、ギフトなどに最適な一品",
+    "occasion_en": "Perfect for special occasions like birthdays, anniversaries, gifts.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "大さじ4"
+      },
+      {
+        "name": "チョコレート",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "1. 完熟バナナを半分に切り、チョコレートでデコレーションする。",
+      "2. ボウルに卵とバターを入れて、泡立て器で混ぜる。",
+      "3. バナナの表面にキャラメルソースを塗る。",
+      "4. チョコレートでデコレーションして、30分程度冷ます。 "
+    ],
+    "prompt": "Close-up image of a dark, rich chocolate lava cake with caramelized banana slices, dusted with powdered sugar. It's oozing with a sweet, decadent molten chocolate centre.",
+    "filename": "recipe_1794345079.jpg",
+    "date": "2026-11-10 21:12:46",
+    "timestamp": 1794345079,
+    "likes": 0,
+    "views": 373
+  },
+  {
     "id": "recipe_1794319726",
     "category": "dessert",
     "category_ja": "デザート",
