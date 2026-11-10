@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1794289160",
+    "category": "丼",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵の旨辛麻婆豆腐丼！悪魔の甘辛爆発！",
+    "title_en": "Spicy Tofu Bowl with Creamy Egg: Devilishly Delicious Explosion!",
+    "description_ja": "ふわとろ卵と旨辛麻婆豆腐の組み合わせが、食欲をそそる悪魔的丼！甘辛で奥深い味わい、一口食べれば虜になるはず！",
+    "description_en": "Spicy, creamy, and comforting. A devilishly delicious explosion in every bite! This bowl is a culinary masterpiece!",
+    "occasion_ja": "食欲旺盛な時におすすめ！",
+    "occasion_en": "Perfect for those with a craving!",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "150g"
+      },
+      {
+        "name": "挽肉",
+        "amount": "150g"
+      },
+      {
+        "name": "トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "豆腐と挽肉を炒める。",
+      "トマトは皮をむき、薄切りにする。",
+      "熱した鍋に醤油を加え、トマトを加え、煮詰める。",
+      "卵を溶き、豆腐と挽肉に加えて煮詰める。",
+      "お好みで、唐辛子をトッピングして完成。"
+    ],
+    "prompt": "A bowl of steaming spicy tofu and egg bowl with a rich red sauce and vibrant red chili flakes. Close-up shot, food illustration in the anime style, Ghibli-esque.",
+    "filename": "recipe_1794289160.jpg",
+    "date": "2026-11-10 05:41:09",
+    "timestamp": 1794289160,
+    "likes": 0,
+    "views": 435
+  },
+  {
     "id": "recipe_1794266230",
     "category": "dessert",
     "category_ja": "デザート",
