@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1794319726",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜きな粉もちもちアイス！悪魔の甘辛パウンドケーキ",
+    "title_en": "Devilishly Sweet & Salty: Black Sugar Kinako Soft Serve Cake",
+    "description_ja": "黒蜜の甘さときな粉の香ばしい風味、もちもちとしたアイスが一体となった、悪魔的パウンドケーキ！異次元な美味しさで、幸せなひとときをプレゼント！",
+    "description_en": "A devilishly sweet and salty fusion of black sugar and kinako soft serve, forming a fluffy cake!  Experience a unique taste sensation and savor a happy moment.",
+    "occasion_ja": "特別な日や日常に。",
+    "occasion_en": "Perfect for special occasions or everyday indulgence.",
+    "ingredients": [
+      {
+        "name": "黒蜜",
+        "amount": "100g"
+      },
+      {
+        "name": "きな粉",
+        "amount": "50g"
+      },
+      {
+        "name": "もちもちアイス",
+        "amount": "200g"
+      },
+      {
+        "name": "薄力粉",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "50g"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      }
+    ],
+    "steps": [
+      "1. 薄力粉、砂糖を混ぜ、卵を加えて生地を作る。",
+      "2. 生地を平らに広げ、アイスクリームを包む。",
+      "3. 30分程度冷やして、黒蜜ときな粉を混ぜ合わせる。",
+      "4. 生地をアイスクリームの上に塗り、黒蜜きな粉をトッピングして、冷蔵庫で冷やしておく。"
+    ],
+    "prompt": "Close-up shot of a devilishly sweet and salty soft serve cake. The cake is decorated with black sugar and kinako, and is sitting on a plate with a dramatic, almost smoky, background.",
+    "filename": "recipe_1794319726.jpg",
+    "date": "2026-11-10 14:10:30",
+    "timestamp": 1794319726,
+    "likes": 0,
+    "views": 209
+  },
+  {
     "id": "recipe_1794289160",
     "category": "丼",
     "category_ja": "丼もの",
