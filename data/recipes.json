@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794439086",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的唐揚げマヨネーズパスタ",
+    "title_en": "Devilish Fried Chicken Mayo Pasta",
+    "description_ja": "サクサクの唐揚げとハニーマヨネーズが、濃厚な甘辛ソースで絡み合う、悪魔的美味しさの極上パスタ！",
+    "description_en": "Devilishly delicious fried chicken pasta with a honey mayo sauce and a rich, spicy flavor.",
+    "occasion_ja": "パーティーや夜食にぴったり",
+    "occasion_en": "Perfect for parties or a night-time treat.",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚ソース",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ボウルに唐揚げ、マヨネーズ、濃厚ソースを入れて混ぜる。",
+      "パスタを茹でる。",
+      "パスタに濃厚ソースを絡める。",
+      "パスタと唐揚げソースを混ぜ、バターを加えて混ぜる。"
+    ],
+    "prompt": "A close-up shot of fried chicken covered in a honey-mayonnaise sauce, served atop a plate of pasta with a generous amount of cheese.",
+    "filename": "recipe_1794439086.jpg",
+    "date": "2026-11-11 23:19:20",
+    "timestamp": 1794439086,
+    "likes": 0,
+    "views": 410
+  },
+  {
     "id": "recipe_1794415942",
     "category": "pasta",
     "category_ja": "パスタ",
