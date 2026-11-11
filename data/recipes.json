@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1794415942",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "炙りチャーシュー & 濃厚焦がしにんにく醤油の甘辛スパゲッティ：悪魔の甘辛風！",
+    "title_en": "Spicy Garlic Ramen with Char Siu and Smoky Gouda",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を贅沢に使った、スパイシーな甘辛スパゲッティ！一口食べたら、悪魔の誘惑に襲われる！",
+    "description_en": "Spicy garlic ramen with char siu and smoky gouda. A unique flavor that will leave you wanting more! ",
+    "occasion_ja": "パーティーや特別な日のディナーに、インパクトのある一品をどうぞ！",
+    "occasion_en": "Make a statement meal with this delicious dish perfect for any occasion. ",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "スパゲッティ",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1/2個"
+      },
+      {
+        "name": "にんにく",
+        "amount": "2かけ"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "1. スパゲッティを茹でる。",
+      "2. 炙りチャーシューと濃厚焦がしにんにく醤油を、お好みで混ぜる。",
+      "3. フライパンに玉ねぎとにんにくを炒め、しょうゆを加えて、全体に味が染み渡るように炒める。",
+      "4. スパゲッティを加えて混ぜ、お好みでゴマやパクチーを加える。"
+    ],
+    "prompt": "Close-up image of a steaming bowl of ramen with char siu, smoky gouda, and fresh vegetables, a vibrant and appetizing shot",
+    "filename": "recipe_1794415942.jpg",
+    "date": "2026-11-11 16:53:14",
+    "timestamp": 1794415942,
+    "likes": 0,
+    "views": 164
+  },
+  {
     "id": "recipe_1794386813",
     "category": "pasta",
     "category_ja": "パスタ",
