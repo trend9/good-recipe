@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794386813",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "完熟トマト × モッツァレラ：悪魔の甘辛チーズパスタ",
+    "title_en": "Tomato & Mozzarella: Devilishly Delicious & Creamy Pasta",
+    "description_ja": "完熟トマトの甘酸っぱさとモッツァレラのクリーミーな味わいが、悪魔的な美味しさに！  意外な組み合わせで、誰もが唸る一品に仕上げます。",
+    "description_en": "A devilishly delicious and creamy pasta featuring the sweet and sour flavor of ripe tomato combined with the creamy texture of fresh mozzarella. A unique combination that will leave everyone speechless.",
+    "occasion_ja": "週末ディナー、特別なイベントにぴったり",
+    "occasion_en": "Perfect for a weekend dinner or a special event.",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "1個"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1.  完熟トマトは皮をむき、薄切りにする。",
+      "2.  モッツァレラチーズは食べやすい大きさにカットする。",
+      "3.  生クリーム、塩、黒胡椒を混ぜ合わせる。",
+      "4.  トマトとモッツァレラチーズをパスタソースで包み込む。"
+    ],
+    "prompt": "Close-up of a creamy and delicious pasta dish with red tomato, fresh mozzarella cheese, and a rich sauce. A vibrant and appetizing scene.",
+    "filename": "recipe_1794386813.jpg",
+    "date": "2026-11-11 08:48:48",
+    "timestamp": 1794386813,
+    "likes": 0,
+    "views": 355
+  },
+  {
     "id": "recipe_1794345079",
     "category": "dessert",
     "category_ja": "デザート",
