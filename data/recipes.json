@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794460998",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "ローストビーフ × 特製オニオンソース：悪魔の甘辛スパゲッティ！",
+    "title_en": "Roast Beef × Special Onion Sauce: Devilishly Sweet & Spicy Spaghetti!",
+    "description_ja": "とろけるローストビーフと、甘辛な特製オニオンソースが、スパゲッティに絡み合う悪魔的な美味しさ！まるで「悪魔の甘辛パスタ」の進化系、あなたも試してみよう！",
+    "description_en": "A devilishly good spaghetti recipe featuring melt-in-your-mouth roast beef and a unique, sweet and spicy onion sauce!  It's an upgrade to the classic devilish spaghetti, give it a try!",
+    "occasion_ja": "パーティー、特別な夜、お誕生日など！",
+    "occasion_en": "For parties, special occasions, or birthdays!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "適量"
+      },
+      {
+        "name": "スパゲッティ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフを一口サイズにカットし、スパゲッティに絡める。",
+      "2. 特製オニオンソースを弱火で加熱し、とろみがつくまで煮込む。",
+      "3. スパゲッティをフライパンで炒める。バターを加え、塩コショウで味付けする。",
+      "4. ローストビーフと特製オニオンソース、スパゲッティを混ぜ合わせる。"
+    ],
+    "prompt": "Close-up shot of a spaghetti dish with melt-in-your-mouth roast beef and a sweet & spicy onion sauce, with steam and shadows.",
+    "filename": "recipe_1794460998.jpg",
+    "date": "2026-11-12 05:25:40",
+    "timestamp": 1794460998,
+    "likes": 0,
+    "views": 186
+  },
+  {
     "id": "recipe_1794439086",
     "category": "pasta",
     "category_ja": "パスタ",
