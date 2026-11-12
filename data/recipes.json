@@ -1,5 +1,62 @@
 [
   {
+    "id": "recipe_1794493890",
+    "category": "dessert/pasta",
+    "category_ja": "パスタ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛カレーパスタ！",
+    "title_en": "炙りチャーシュー & Creamy Garlic Chili Curry Pasta",
+    "description_ja": "濃厚焦がしにんにく醤油が、炙りチャーシューと相性抜群！辛味と甘味が絶妙な、悪魔的カレーパスタの誕生！",
+    "description_en": "The creamy garlic chili curry pasta featuring a perfect combination of the smoky and savory taste of the char-grilled beef with the creamy garlic chili sauce. A devilishly delicious recipe with a perfect balance of spice and sweetness! ",
+    "occasion_ja": "特別な日にぴったり！",
+    "occasion_en": "Perfect for a special occasion",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "100g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "スパゲッティ",
+        "amount": "適量"
+      },
+      {
+        "name": "トマト缶",
+        "amount": "1缶"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "にんにく",
+        "amount": "2かけ"
+      },
+      {
+        "name": "カレー粉",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを一口大にカットする。",
+      "2. 熱したフライパンに、にんにくを炒める。香りが立ってきたら玉ねぎを加え炒める。",
+      "3. トマト缶、カレー粉、水を入れ、弱火で煮詰める。",
+      "4.  スパゲッティを投入し、火が通ったら、炙りチャーシューと濃厚焦がしにんにく醤油を混ぜ合わせる。"
+    ],
+    "prompt": "Close-up shot of a bowl of devilishly delicious creamy garlic chili curry pasta with chunks of char-grilled beef and a smoky aroma. Garnished with fresh herbs.",
+    "filename": "recipe_1794493890.jpg",
+    "date": "2026-11-12 14:33:18",
+    "timestamp": 1794493890,
+    "likes": 0,
+    "views": 292
+  },
+  {
     "id": "recipe_1794460998",
     "category": "pasta",
     "category_ja": "パスタ",
