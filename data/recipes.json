@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794519800",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔の海藻グラタン：とろけるクリーミーな海の恵み",
+    "title_en": "Devilish Seafood Gratin: Creamy Sea Treasures",
+    "description_ja": "海藻の旨味とクリーミーなアボカドが、悪魔的な美味しさに昇り詰めるグラタン。まるで海の恵みを食べているような、特別な一品。",
+    "description_en": "A creamy and decadent gratin featuring a seafood medley. This unique dish takes you on a journey of the sea with every bite.",
+    "occasion_ja": "特別な日に、特別な食事をしたい時",
+    "occasion_en": "For special occasions and unforgettable meals",
+    "ingredients": [
+      {
+        "name": "海藻",
+        "amount": "適量"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "150ml"
+      },
+      {
+        "name": "チーズ",
+        "amount": "20g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "ボウルに牛乳とチーズを混ぜる",
+      "アボカドを細かく刻み、海藻を加えて混ぜる",
+      "バターを溶かし、グラタンに塗る",
+      "予熱したオーブンで15分ほど焼く"
+    ],
+    "prompt": "A close-up shot of the Devil's Seafood Gratin in an oven, with creamy, cheesy sauce and seaweed peeking out.",
+    "filename": "recipe_1794519800.jpg",
+    "date": "2026-11-12 21:44:59",
+    "timestamp": 1794519800,
+    "likes": 0,
+    "views": 415
+  },
+  {
     "id": "recipe_1794493890",
     "category": "dessert/pasta",
     "category_ja": "パスタ",
