@@ -1,5 +1,51 @@
 [
   {
+    "id": "recipe_1794536497",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘辛焼き芋パスタ",
+    "title_en": "Baked Apple × Melty Butter Caramel: Devilishly Sweet Apple Pasta",
+    "description_ja": "焼き芋の甘さと、とろけるバターカラメルの組み合わせ。悪魔的美味しさに、思わず「おい！」と声を上げるでしょう。家庭でも簡単に作れる、特別な一品を味わおう！",
+    "description_en": "A devilishly sweet apple twist! This dish combines the sweetness of baked apples with the melt-in-your-mouth butter caramel. A unique and special dish perfect for a small gathering. ",
+    "occasion_ja": "特別な日に、特別な人と過ごす時におすすめ！",
+    "occasion_en": "Perfect for special occasions with loved ones.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "焼き芋を大きめな一口サイズに切る。",
+      "ボウルにバター、砂糖、黒胡椒を入れて溶かし、とろみがつくまで加熱する。",
+      "フライパンにパスタを炒め、焼き芋を投入する。",
+      "焼き芋とパスタを絡めながら、ソースを混ぜる。",
+      "皿に盛り付けて完成。"
+    ],
+    "prompt": "Close-up shot of a pasta dish with caramelized apples, a creamy caramel sauce, and a sprinkle of black pepper. The background is a rustic wooden table, and the lighting is soft and warm. The overall style is rustic and appetizing.",
+    "filename": "recipe_1794536497.jpg",
+    "date": "2026-11-13 02:24:07",
+    "timestamp": 1794536497,
+    "likes": 0,
+    "views": 422
+  },
+  {
     "id": "recipe_1794519800",
     "category": "dessert",
     "category_ja": "デザート",
