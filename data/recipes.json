@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794565698",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油のスパイシー黒豆パスタ！",
+    "title_en": "Spicy Black Bean Pasta with Grilled Pork Belly & Creamy Garlic-Soy Sauce",
+    "description_ja": "悪魔の甘辛なスパイシー黒豆パスタに、炙りチャーシューと濃厚焦がしにんにく醤油をたっぷり。  一口食べれば、衝撃の美味しさに魅了される！",
+    "description_en": "Spicy black bean pasta with grilled pork belly and creamy garlic-soy sauce.  A taste sensation that will leave you wanting more!",
+    "occasion_ja": "パーティーや特別な日に、特別な味わいを求めるあなたに！",
+    "occasion_en": "For special occasions or parties! ",
+    "ingredients": [
+      {
+        "name": "黒豆",
+        "amount": "150g"
+      },
+      {
+        "name": "炙りチャーシュー",
+        "amount": "1切れ"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "スパイス",
+        "amount": "お好みで"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 黒豆を10分ほど茹でて、水気を切る。",
+      "2. 炙りチャーシューは、一口サイズに切り、濃厚焦がしにんにく醤油を絡める。",
+      "3. スパイスを混ぜて、黒豆を加え、全体に馴染ませる。",
+      "4. スパゲッティにパスタを絡め、完成。"
+    ],
+    "prompt": "A close-up shot of the black bean pasta, with a grilled pork belly on top, drizzled with creamy garlic-soy sauce. ",
+    "filename": "recipe_1794565698.jpg",
+    "date": "2026-11-13 10:31:25",
+    "timestamp": 1794565698,
+    "likes": 0,
+    "views": 317
+  },
+  {
     "id": "recipe_1794536497",
     "category": "pasta",
     "category_ja": "パスタ",
