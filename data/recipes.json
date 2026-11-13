@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794594245",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的甘辛黒蜜きな粉もちもちアイスパスタ",
+    "title_en": "Devilishly Sweet & Spicy Black Sesame Honey Ice Cream Pasta",
+    "description_ja": "黒蜜ときな粉の相性は最高！もちもちアイスと絡み合う、悪魔的甘辛パスタ！  ",
+    "description_en": "Sweet and spicy black sesame with a creamy twist! A devilishly delicious pasta with melty ice cream.",
+    "occasion_ja": "特別な日にぴったりな悪魔的な味わいのパスタ",
+    "occasion_en": "A devilishly delicious pasta for a special occasion",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "1個"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "きな粉",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1.  もちもちアイスを、黒蜜ときな粉で混ぜ合わせ、塩コショウで味を調え、パスタに絡めておく。",
+      "2.  パスタを茹でる。",
+      "3.  茹で上がったパスタを、黒蜜きな粉アイスと混ぜる。",
+      "4.  お好みで、お好みのソースを添えてください。"
+    ],
+    "prompt": "Close-up of a steaming plate of pasta with ice cream and black sesame sauce, showcasing the contrast of textures and colors.",
+    "filename": "recipe_1794594245.jpg",
+    "date": "2026-11-13 18:26:21",
+    "timestamp": 1794594245,
+    "likes": 0,
+    "views": 239
+  },
+  {
     "id": "recipe_1794565698",
     "category": "pasta",
     "category_ja": "パスタ",
