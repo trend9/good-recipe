@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794685255",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的黒蜜きな粉もちもちアイス　スパゲッティ！",
+    "title_en": "Devilish Black Sugar Kinako Soft Serve Spaghetti!",
+    "description_ja": "黒蜜ときな粉の意外性あふれる組み合わせで、誰もが魅了される悪魔的美味しさのスパゲッティ。もちもちしたアイスに、黒蜜ときな粉の甘辛味が絡み合う、まさに「悪魔の甘辛」な一品。",
+    "description_en": "A devilishly delicious spaghetti with a black sugar and kinako mix, everyone will be captivated by this twist of unexpected flavors! The soft serve ice cream with a sweet and savory black sugar and kinako glaze is a must-try for a truly devilishly delicious experience. ",
+    "occasion_ja": "特別な日や、日常のちょっとしたおやつにぴったり！",
+    "occasion_en": "Perfect for a special occasion or as a tasty treat any day! ",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "スパゲッティ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. もちもちアイスに黒蜜ときな粉を混ぜ、冷やす。",
+      "2. スパゲッティを茹でる。",
+      "3. スパゲッティを冷水で洗い、水気を切っておく。",
+      "4. スパゲッティに黒蜜きな粉アイスと牛乳を混ぜて完成。"
+    ],
+    "prompt": "Close-up photo of a bowl with a devilish-looking, creamy soft serve ice cream with black sugar and kinako powder drizzled on it. Spaghetti noodles are swimming in the creamy sauce, with a sprinkle of kinako powder on top.",
+    "filename": "recipe_1794685255.jpg",
+    "date": "2026-11-14 19:42:44",
+    "timestamp": 1794685255,
+    "likes": 0,
+    "views": 155
+  },
+  {
     "id": "recipe_1794667536",
     "category": "麺",
     "category_ja": "麺料理",
