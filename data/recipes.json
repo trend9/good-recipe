@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794667536",
+    "category": "麺",
+    "category_ja": "麺料理",
+    "title_ja": "極厚カツ × 特製ハニーマスタード：悪魔的甘辛焼きそば！",
+    "title_en": "Ultra-Thick Steak Cutlet × Special Honey Mustard: Devilishly Sweet & Spicy Japanese-Style Noodle!",
+    "description_ja": "極厚カツをハニーマスタードソースで、焼きそばの麺で包んだ、悪魔的な甘辛焼きそば。見た目は普通だが、食べてみると衝撃の美味しさ！",
+    "description_en": "Ultra-thick steak cutlet coated in a special honey mustard sauce and wrapped in ramen noodles. This devilishly delicious and surprisingly palatable twist on a classic! ",
+    "occasion_ja": "パーティや家族で、みんなで楽しむ、特別な夜にぴったり",
+    "occasion_en": "Perfect for parties and family gatherings, for a special night.",
+    "ingredients": [
+      {
+        "name": "極厚カツ",
+        "amount": "適量"
+      },
+      {
+        "name": "特製ハニーマスタード",
+        "amount": "適量"
+      },
+      {
+        "name": "ラタトゥイユ",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "極厚カツを特製ハニーマスタードで味付けする。",
+      "焼きそばの麺を熱湯で茹でる。",
+      "麺を器に盛り、極厚カツを麺の上に載せる。",
+      "醤油で煮詰めたハニーとラタトゥイユを少し加える。"
+    ],
+    "prompt": "Close-up shot of a delicious looking devilishly sweet and spicy Japanese-style noodle dish, ramen noodles with beef steak cutlet and special honey mustard sauce.  Smoke, steam and heat effects, focus on the noodles and the sauce.",
+    "filename": "recipe_1794667536.jpg",
+    "date": "2026-11-14 14:47:54",
+    "timestamp": 1794667536,
+    "likes": 0,
+    "views": 439
+  },
+  {
     "id": "recipe_1794640737",
     "category": "dessert",
     "category_ja": "デザート",
