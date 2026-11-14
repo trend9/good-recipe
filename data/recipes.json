@@ -1,5 +1,67 @@
 [
   {
+    "id": "recipe_1794614888",
+    "category": "丼もの",
+    "category_ja": "丼もの",
+    "title_ja": "とろける卵の旨辛麻婆豆腐丼：悪魔の甘辛スパゲッティ！",
+    "title_en": "Spicy and Creamy Egg & Tofu Udon Bowl: Devilish Spicy Udon",
+    "description_ja": "ふわとろ卵と旨辛麻婆豆腐の最強コンビ！唐辛子のスパイシーな辛味が食欲をそそります。とろける卵の食感と麻婆豆腐の濃厚な味わいが、まるで悪魔の誘惑に包まれた一皿！",
+    "description_en": "The perfect marriage of creamy egg and spicy tofu udon, with a spicy kick from the chili. Enjoy the creamy texture of the egg and the rich flavor of the udon, all wrapped up in a devilishly delicious package!",
+    "occasion_ja": "一人暮らしや、夜食に最適！",
+    "occasion_en": "Perfect for a solo meal or light dinner!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "豚ひき肉",
+        "amount": "100g"
+      },
+      {
+        "name": "しめじ",
+        "amount": "100g"
+      },
+      {
+        "name": "ニラ",
+        "amount": "100g"
+      },
+      {
+        "name": "麻婆豆腐調味料",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "Udon",
+        "amount": "1袋"
+      },
+      {
+        "name": "ごま油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "ボウルに卵を割りほぐし、醤油と砂糖を加え混ぜる。",
+      "ひき肉を炒める。",
+      "しめじ、ニラを加えて炒める。",
+      "麻婆豆腐調味料を加え、炒める。",
+      "炒めたものを、Udonの麺に絡める"
+    ],
+    "prompt": "Close-up image of a bowl of Udon with a creamy egg and spicy tofu on top, with a bright and vibrant colour, and slightly spicy visual appeal. ",
+    "filename": "recipe_1794614888.jpg",
+    "date": "2026-11-14 00:10:33",
+    "timestamp": 1794614888,
+    "likes": 0,
+    "views": 186
+  },
+  {
     "id": "recipe_1794594245",
     "category": "pasta",
     "category_ja": "パスタ",
