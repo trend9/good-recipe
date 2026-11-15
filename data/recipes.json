@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1794770111",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子 × レモンクリーム生パスタ：悪魔の甘酸っぱいスパイス風パスタ (新バージョン) ",
+    "title_en": "Spicy Lemon Cream Pasta with Spicy Mayo (New Version)",
+    "description_ja": "悪魔的な甘酸っぱさと明太子の旨味が、レモンクリームで引き立つ！ 意外性ある組み合わせで、一口食べたらもう止まらない！",
+    "description_en": "Spicy, acidic, and creamy lemon cream pasta with a unique spicy mayo topping. You're going to love this unexpected and addictive dish. ",
+    "occasion_ja": "パーティーや家族で楽しめる、インパクト抜群の、特別な夜にぴったりな一品",
+    "occasion_en": "Perfect for parties and family gatherings, this dish is sure to make your night special.",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "100g"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "300g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 明太子の旨みを最大限に引き出すために、明太子を細かく刻みます。",
+      "2. 生パスタを茹で、塩を振ります。",
+      "3. レモン汁とレモンを絞り、レモンの香りがパスタに染み渡ります。",
+      "4. 明太子とレモン汁を混ぜ合わせ、マヨネーズと塩コショウで味を調えます。パスタを盛りつけ、チーズをトッピングして完成です。"
+    ],
+    "prompt": "A shot of a steaming bowl of pasta with a creamy lemon sauce and a generous sprinkle of lemon zest, showcasing the vibrant colors and texture.",
+    "filename": "recipe_1794770111.jpg",
+    "date": "2026-11-15 19:17:33",
+    "timestamp": 1794770111,
+    "likes": 0,
+    "views": 320
+  },
+  {
     "id": "recipe_1794745668",
     "category": "pasta",
     "category_ja": "パスタ",
