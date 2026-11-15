@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794716654",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子 × レモンクリーム生パスタ：悪魔の甘酸っぱいスパイス風パスタ",
+    "title_en": "Spicy Lemon Cream Pasta with Tuna: Devilishly Sweet and Sour Flavor",
+    "description_ja": "悪魔的な甘酸っぱさとクリーミーなレモンクリームが、明太子の旨味と相性抜群！一口食べたら、もう止まらない！",
+    "description_en": "Spicy, creamy lemon cream sauce meets the rich umami of tuna. An unexpected but delicious combination! You'll want to keep eating.",
+    "occasion_ja": "パーティーや、特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "50g"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "150g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "20g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "1. 明太子を小さく刻んで、100gの水を加え、溶解させた後、レモン汁と混ぜ合わせる。",
+      "2. 生パスタを沸騰した鍋で茹でる。",
+      "3. ボウルにバターを入れ、溶かしながら生クリームを加え、弱火で混ぜる。",
+      "4. 茹で上がったパスタをボウルに盛り付け、明太子ソースとレモンクリームを混ぜる。"
+    ],
+    "prompt": "Close-up photo of a steaming bowl of pasta with a creamy lemon sauce and grated spicy tuna sprinkled on top, a light drizzle of lemon juice, with a side of fresh chives. Anime illustration style, colorful, vibrant, slightly demonic",
+    "filename": "recipe_1794716654.jpg",
+    "date": "2026-11-15 04:27:04",
+    "timestamp": 1794716654,
+    "likes": 0,
+    "views": 308
+  },
+  {
     "id": "recipe_1794699394",
     "category": "pasta",
     "category_ja": "パスタ",
