@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1794745668",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子 × レモンクリーム生パスタ：悪魔の甘酸っぱいスパイス風パスタ",
+    "title_en": "Spicy Lemon Cream Pasta with Spicy Tuna: An Unexpectedly Delicious Twist",
+    "description_ja": "一見普通に見える生パスタに、明太子とレモンクリームの意外な組み合わせで、悪魔的な甘酸っぱさとスパイシーさが炸裂！見た目も鮮やかで、思わず笑顔になってしまう、誰もが楽しめるレシピです。",
+    "description_en": "This recipe combines the surprising sweetness and tang of lemon cream with spicy tuna and a vibrant and unexpected twist on pasta! It's a recipe that's both visually stunning and delicious, perfect for anyone who loves a little bit of chaos in their meal.",
+    "occasion_ja": "パーティーや特別な日のディナーにぴったり",
+    "occasion_en": "Perfect for a party or a special dinner",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "100g"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "100g"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "1. 明太子と玉ねぎを炒め、バターを加えて溶かし、玉ねぎがしんなりするまで炒める。",
+      "2. 生パスタを茹でる。",
+      "3. レモン汁と生クリームを加え、混ぜ合わせる。",
+      "4. 仕上げに明太子と玉ねぎを加え、レモンクリームパスタを盛り付ける"
+    ],
+    "prompt": "Vibrant close-up shot of a bowl of creamy lemon pasta with a scattering of spicy tuna flakes, showcasing the rich color and texture. The pasta is coiled, and a few drops of lemon juice are glistening.",
+    "filename": "recipe_1794745668.jpg",
+    "date": "2026-11-15 12:28:58",
+    "timestamp": 1794745668,
+    "likes": 0,
+    "views": 297
+  },
+  {
     "id": "recipe_1794716654",
     "category": "pasta",
     "category_ja": "パスタ",
