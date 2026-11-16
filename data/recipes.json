@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794802757",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "トマト・モッツァレラチーズの悪魔的甘酸っぱさスパゲッティ",
+    "title_en": "Spicy Tomato & Mozzarella Cheese Spaghetti",
+    "description_ja": "完熟トマトとモッツァレラチーズの意外な組み合わせが、スパイスの香辛料で、悪魔的に美味しさを引き出します。見た目も華やかで、まさにSNS映え間違いなし！",
+    "description_en": "This unexpected combination of ripe tomatoes and fresh mozzarella cheese, enhanced by spices, delivers an incredibly tasty and visually appealing result. Perfect for sharing and sure to be a hit on your social media feed! ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "完熟トマト",
+        "amount": "200g"
+      },
+      {
+        "name": "モッツァレラチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "1個"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "トマトを1cm角に切り、1cm角の大きさに切る。",
+      "鍋にオリーブオイルと唐辛子を投入し、弱火で炒め、香りが立ったらモッツァレラチーズを加えて混ぜる。",
+      "トマトを鍋に加え、軽く煮込む。",
+      "塩で味を調える。"
+    ],
+    "prompt": "Close-up shot of a steaming spaghetti dish with bright red tomatoes and a sprinkle of mozzarella cheese, highlighting its intricate design. The background can be a rustic stone wall with a few flickering candles",
+    "filename": "recipe_1794802757.jpg",
+    "date": "2026-11-16 04:20:12",
+    "timestamp": 1794802757,
+    "likes": 0,
+    "views": 357
+  },
+  {
     "id": "recipe_1794786229",
     "category": "pasta",
     "category_ja": "パスタ",
