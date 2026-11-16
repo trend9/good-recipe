@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794835165",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "海の悪魔！クリーミーアボカド＆ホタテのグラタン",
+    "title_en": "Devilish Seafood! Creamy Avocado & Clam Gratin",
+    "description_ja": "海で獲れたホタテとクリーミーなアボカドが、クリーミーなグラタンで包まれ、甘酸っぱさと深みのある旨みが引き立つ、見た目もインパクト抜群のレシピ。まるで海に潜り込んだような、特別な一品をお楽しみください。",
+    "description_en": "A creamy avocado and clam gratin with a twist, inspired by the sea! The combination of sweet and savory flavors will have you feeling like you're diving into the ocean for a taste of heaven. ",
+    "occasion_ja": "特別な日にぴったり",
+    "occasion_en": "Perfect for a special occasion",
+    "ingredients": [
+      {
+        "name": "ホタテ",
+        "amount": "200g"
+      },
+      {
+        "name": "クリーミーなアボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "ホワイトソース",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パルメザンチーズ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. ホタテを水洗いし、湯で茹でます。茹で上がったら、水気を切ります。",
+      "2. アボカドは皮を取り、食べやすい大きさにカットします。",
+      "3. フライパンにバターを熱し、アボカドを加えて炒めます。塩胡椒で味を調えます。",
+      "4. ホタテを皿に盛り付け、アボカドとホワイトソースを添えます。パルメザンチーズをトッピングします。"
+    ],
+    "prompt": "A close-up shot of the creamy avocado and clam gratin with a beautiful, artistic presentation.  Seafoam and white background.",
+    "filename": "recipe_1794835165.jpg",
+    "date": "2026-11-16 13:21:18",
+    "timestamp": 1794835165,
+    "likes": 0,
+    "views": 188
+  },
+  {
     "id": "recipe_1794802757",
     "category": "pasta",
     "category_ja": "パスタ",
