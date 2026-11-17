@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1794933604",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘辛ローストビーフ × オニオンソースのスパイシーなスパイスパスタ (新章) ",
+    "title_en": "Spicy Roast Beef & Onion Sauce Pasta with Exotic Spices (New Chapter)",
+    "description_ja": "悪魔の甘辛ソースを更に進化させた、ローストビーフと特製オニオンソースを組み合わせた、スパイシーなスパイスパスタ。見た目も鮮やかで、まるで魔法の料理！",
+    "description_en": "A new, spicy twist on the classic roast beef and onion sauce pasta. This dish combines the rich sweetness of roast beef and a unique onion sauce with exotic spices for a truly unforgettable experience.",
+    "occasion_ja": "特別な日のディナーに、または、週末の晩御飯に。",
+    "occasion_en": "Perfect for a special dinner or a weekend night meal.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "150g"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "200g"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "1個"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "こしょう",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "ローストビーフを塩コショウで味付けし、オーブンで10分焼きます。",
+      "オニオンソースは、パプリカ、じゃがいも、唐辛子、塩、こしょうで味付けして、煮詰めます。",
+      "パスタを茹で、オニオンソースとローストビーフを絡めて、器に盛り付けます。",
+      "お好みで、チーズやハーブを添えても美味しいです。"
+    ],
+    "prompt": "Close-up photo of a steaming plate of pasta with a roasted beef on top, vibrant and colorful, dramatic lighting",
+    "filename": "recipe_1794933604.jpg",
+    "date": "2026-11-17 16:41:27",
+    "timestamp": 1794933604,
+    "likes": 0,
+    "views": 456
+  },
+  {
     "id": "recipe_1794895457",
     "category": "パスタ",
     "category_ja": "パスタ",
