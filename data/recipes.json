@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1794959111",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘辛アボカドタルタルパスタ",
+    "title_en": "Devilish Spicy Salmon Avocado Pasta",
+    "description_ja": "サーモンとアボカドの組み合わせが、今までにない悪魔的美味しさの極上パスタに！ 濃厚なタルタルソースと、スパイシーなスパイスが、まさに「悪魔の甘辛」を味わえます。",
+    "description_en": "Experience devilishly delicious pasta with the unexpected combination of salmon, avocado, and a unique spicy sauce. This recipe brings a twist to classic pasta with a rich and creamy avocado topping and a kick of spice.  ",
+    "occasion_ja": "特別な日や、普段から特別な何かを味わいたいとき",
+    "occasion_en": "For special occasions or for those who want to experience something extraordinary in everyday life",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "アボカド",
+        "amount": "適量"
+      },
+      {
+        "name": "塩",
+        "amount": "少々"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "サーモンを1cm角に切ります。",
+      "アボカドを1cm角に切ります。",
+      "アボカドとサーモンを混ぜ合わせ、マヨネーズ、塩、コショウで味を調え、タルタルソースを作ります。",
+      "パスタを茹で、冷水で洗い、皿に盛り付け、アボカドとサーモンのタルタルソースをかけます。"
+    ],
+    "prompt": "A close-up shot of a delicious pasta dish with a beautiful salmon and avocado topping, in a stylishly plated bowl. The sauce is creamy and golden, reflecting the devilish goodness of the recipe.",
+    "filename": "recipe_1794959111.jpg",
+    "date": "2026-11-17 23:46:59",
+    "timestamp": 1794959111,
+    "likes": 0,
+    "views": 322
+  },
+  {
     "id": "recipe_1794933604",
     "category": "pasta",
     "category_ja": "パスタ",
