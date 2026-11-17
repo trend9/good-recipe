@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1794895457",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油：悪魔の甘辛ソースパスタ",
+    "title_en": "Spicy Roast Beef and Garlic Pepper Cream Sauce Pasta",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油を贅沢に使用した、悪魔的な甘辛ソースが食欲をそそるパスタ。濃厚な味わいに、意外なアクセントを加えることで、特別な一皿に！",
+    "description_en": "A creamy, spicy and savory pasta dish with roast beef and a garlic pepper sauce. The unexpected addition brings a unique flavor experience. A special dish for sure!",
+    "occasion_ja": "パーティーや特別な日におすすめ！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを細切りにする。",
+      "2. 濃厚焦がしにんにく醤油をパスタにたっぷり混ぜる。",
+      "3.  牛乳とバターを加え、弱火で混ぜる。",
+      "4.  熱したフライパンに、パスタを加え、焦げ付かないように混ぜる。"
+    ],
+    "prompt": "Close-up shot of a steaming bowl of pasta with roast beef and a creamy garlic pepper sauce. An explosion of textures and flavors.",
+    "filename": "recipe_1794895457.jpg",
+    "date": "2026-11-17 06:05:27",
+    "timestamp": 1794895457,
+    "likes": 0,
+    "views": 385
+  },
+  {
     "id": "recipe_1794835165",
     "category": "side",
     "category_ja": "サイド",
