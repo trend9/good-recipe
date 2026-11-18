@@ -1,5 +1,62 @@
 [
   {
+    "id": "recipe_1795040982",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "サクサクポテト×クリーミーチーズソース：悪魔の甘辛ソースパスタ",
+    "title_en": "Seared Potato & Creamy Cheese Sauce: A Devilishly Delicious Pasta",
+    "description_ja": "サクサクポテトの食感とクリーミーチーズソースの濃厚な味わいが融合！悪魔的にも美味しいパスタをぜひお試しください。",
+    "description_en": "A delightful fusion of the crispy texture of seared potato with the creamy richness of cheese sauce, devilishly delicious and a must-try pasta creation!",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "1kg"
+      },
+      {
+        "name": "油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "50g"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. じゃがいもを1cm角にカットし、油で両面を揚げて塩コショウで味付けする。",
+      "2. 2. 混ぜ合わせ、牛乳とクリームチーズを加えてなめらかに調える。",
+      "3. じゃがいもを茹でる。",
+      "4. 茹で上がったじゃがいもとクリーミーチーズソースを混ぜ合わせ、パプリカを散りばめたパスタに盛り付ける。"
+    ],
+    "prompt": "Close-up shot of a steaming pasta dish with crispy potato, creamy cheese sauce, and sprinkled paprika, with a vibrant, slightly spooky, and artistic illustration style.",
+    "filename": "recipe_1795040982.jpg",
+    "date": "2026-11-18 22:30:58",
+    "timestamp": 1795040982,
+    "likes": 0,
+    "views": 302
+  },
+  {
     "id": "recipe_1795013918",
     "category": "dessert",
     "category_ja": "デザート",
