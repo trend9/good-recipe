@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1795013918",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "黒蜜×きな粉もちもちアイス：悪魔の甘味と香ばしいハーモニー",
+    "title_en": "Black Honey x Kinako Mochi Ice: Devilishly Sweet & Savory Harmony",
+    "description_ja": "黒蜜の甘さときな粉の香ばしさが、もちもちとしたアイスに融合！ 意外な組み合わせながらも、悪魔的な美味しさの極みを味わえる、新しいデザートレシピ！",
+    "description_en": "A devilishly sweet and savory fusion of black honey's richness and kinako's nutty flavor, brought to life in a melt-in-your-mouth ice treat! A unique yet surprisingly delicious twist on a classic dessert.",
+    "occasion_ja": "特別な日には、特別なデザートをどうぞ。",
+    "occasion_en": "Perfect for special occasions, this devilishly sweet dessert is sure to delight your taste buds!",
+    "ingredients": [
+      {
+        "name": "もちもちアイス",
+        "amount": "適量"
+      },
+      {
+        "name": "黒蜜",
+        "amount": "適量"
+      },
+      {
+        "name": "きな粉",
+        "amount": "適量"
+      },
+      {
+        "name": "抹茶粉",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "もちもちアイスに黒蜜をたっぷりまぶす。",
+      "きな粉を適量混ぜて、黒蜜アイスに広げる。",
+      "抹茶粉を適量混ぜて、きな粉アイスにふりかける。",
+      "お好みで黒蜜、きな粉、抹茶粉を加えて、アレンジを楽しめる。"
+    ],
+    "prompt": "Close-up photo of a beautifully crafted ice treat, a blend of black honey, kinako, and matcha powder, with a delicate sheen, in a minimalist dessert setting.",
+    "filename": "recipe_1795013918.jpg",
+    "date": "2026-11-18 15:00:15",
+    "timestamp": 1795013918,
+    "likes": 0,
+    "views": 225
+  },
+  {
     "id": "recipe_1794959111",
     "category": "pasta",
     "category_ja": "パスタ",
