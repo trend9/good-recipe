@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1795060800",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘辛ローストビーフ × オニオンソースのスパイシーなスパイスパスタ (新章)",
+    "title_en": "Spicy Spiced Roast Beef & Onion Sauce Pasta (New Chapter)",
+    "description_ja": "濃厚なローストビーフと、スパイシーで爽やかなオニオンソースが、まるで悪魔の舌を魅了する一品。見た目もインパクト抜群！",
+    "description_en": "A rich and spicy roast beef and onion sauce pasta, an unforgettable dish that will tantalize your taste buds! The vibrant appearance will surely make you want to grab a fork and dive in!",
+    "occasion_ja": "特別な日や、特別な人へのプレゼントに！",
+    "occasion_en": "Perfect for a special day or a gift for someone special!",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "100g"
+      },
+      {
+        "name": "オニオン",
+        "amount": "1個"
+      },
+      {
+        "name": "スパイス",
+        "amount": "適量"
+      },
+      {
+        "name": "塩・胡椒",
+        "amount": "適量"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. ローストビーフを塩コショウで味付けし、オリーブオイルで焼きます。",
+      "2. オニオンを輪切りにし、スパイスで味付けします。",
+      "3. 混ぜ合わせたソースをパスタに絡めます。",
+      "4. 仕上げに、ローストビーフとオニオンソースを混ぜ合わせ、完成です。"
+    ],
+    "prompt": "Close-up shot of the pasta with roast beef and onion sauce, with steam coming out of the pasta and the sauce, and a sprinkle of spices, in a stylish and modern setting",
+    "filename": "recipe_1795060800.jpg",
+    "date": "2026-11-19 04:03:54",
+    "timestamp": 1795060800,
+    "likes": 0,
+    "views": 356
+  },
+  {
     "id": "recipe_1795040982",
     "category": "pasta",
     "category_ja": "パスタ",
