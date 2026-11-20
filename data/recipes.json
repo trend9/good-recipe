@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1795142996",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘辛・クリーミーアボカドグラタン風パスタ",
+    "title_en": "Devilishly Creamy Avocado & Scallops Pasta",
+    "description_ja": "海藻の苦味とクリーミーなアボカドの味わいが、悪魔的な甘辛さで一層引き立つ！ 意外性のある組み合わせで、一度食べたら忘れられない一品を完成させましょう。",
+    "description_en": "A devilishly creamy combination of avocado and scallops with a kick of salty-sweet flavors! This unexpected yet delicious pasta dish is sure to leave you craving for more.",
+    "occasion_ja": "特別な夜に、特別な人へのプレゼントにぴったり！",
+    "occasion_en": "Perfect for special occasions and as a gift for someone special!",
+    "ingredients": [
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "アボカド",
+        "amount": "2個"
+      },
+      {
+        "name": "マッシュルーム",
+        "amount": "1個"
+      },
+      {
+        "name": "イカ",
+        "amount": "100g"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "パスタを茹でる。",
+      "アボカドは、塩コショウで軽く味付けして、薄切りにする。",
+      "イカは、一口大にカットし、バターと醤油で炒める。",
+      "パスタを盛り、アボカドとイカを乗せ、クリーミーなソースをかける。"
+    ],
+    "prompt": "A creamy pasta dish with a rich, decadent look. Show a close-up of the pasta with the scallops and avocado on top, and a creamy sauce drizzled over it, in an artistic still life style.",
+    "filename": "recipe_1795142996.jpg",
+    "date": "2026-11-20 02:52:45",
+    "timestamp": 1795142996,
+    "likes": 0,
+    "views": 437
+  },
+  {
     "id": "recipe_1795122577",
     "category": "dessert",
     "category_ja": "デザート",
