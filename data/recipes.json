@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1795201144",
+    "category": "dessert/side",
+    "category_ja": "デザート/サイド",
+    "title_ja": "海の悪魔の甘辛グラタン：とろけるアボカドとつぶ貝のクリーミーグラタン",
+    "title_en": "Devilishly Delicious Creamy Clam & Avocado Gratin",
+    "description_ja": "海で獲れた新鮮なつぶ貝を、クリーミーなアボカドと濃厚なソースで仕上げた、悪魔のような甘辛なグラタン。とろけるような食感とクリーミーな味わいが絶妙なハーモニーを奏でます。",
+    "description_en": "A creamy and devilishly delicious gratin featuring fresh clams and avocado, with a rich, smoky, and decadent taste. The unique texture and creamy goodness of this dish is sure to tantalize your taste buds. ",
+    "occasion_ja": "特別なディナーやパーティーに最適な、魅惑的な一品",
+    "occasion_en": "A decadent and eye-catching dessert for special occasions or a party.",
+    "ingredients": [
+      {
+        "name": "つぶ貝",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "150ml"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "こしょう",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. つぶ貝は水洗いし、汚れを取り除く。",
+      "2. アボカドは皮を剥き、種を取り除く。",
+      "3. 卵を泡立て、牛乳とバターを加えてよく混ぜる。",
+      "4. つぶ貝とアボカドを混ぜ合わせ、卵液に注ぐ。塩コショウで味を調える。"
+    ],
+    "prompt": "A close-up shot of a creamy and inviting clam and avocado gratin, with a dramatic golden and white colour contrast, steam and bubbles, and a slight sprinkle of black pepper. ",
+    "filename": "recipe_1795201144.jpg",
+    "date": "2026-11-20 19:00:57",
+    "timestamp": 1795201144,
+    "likes": 0,
+    "views": 405
+  },
+  {
     "id": "recipe_1795171859",
     "category": "pasta",
     "category_ja": "パスタ",
