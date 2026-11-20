@@ -1,5 +1,66 @@
 [
   {
+    "id": "recipe_1795171859",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "とろける卵と旨辛麻婆豆腐の甘辛丼風パスタ",
+    "title_en": "Spicy and Creamy Ramen Bowl with Creamy Egg and Spicy Pork",
+    "description_ja": "衝撃的！とろける卵と旨辛麻婆豆腐の甘辛な味わいが、まるで丼の様なクリーミーパスタに！甘辛ソースで仕上げた、悪魔的な美味しさに魅了されます。",
+    "description_en": "This is an amazing fusion dish. Creamy egg yolk and spicy pork in a creamy pasta ramen bowl style. The taste is incredible, sweet and spicy, so addictive! ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties or special occasions!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "豚バラ肉",
+        "amount": "200g"
+      },
+      {
+        "name": "麻婆豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "みりん",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "ごま油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 麻婆豆腐を作る：豚バラ肉を炒め、醤油、砂糖、みりんを加えて煮込む。",
+      "2. 溶き卵を加え、全体を混ぜる。",
+      "3. パスタを茹でる。",
+      "4. 茹で上がったパスタを皿に盛り、卵の煮汁を乗せる。"
+    ],
+    "prompt": "A photo of a ramen bowl with creamy pasta and fluffy egg yolk topped with a dollop of spicy pork and chili flakes. The ramen bowl is steaming, and the egg yolk is a rich orange color.",
+    "filename": "recipe_1795171859.jpg",
+    "date": "2026-11-20 10:51:59",
+    "timestamp": 1795171859,
+    "likes": 0,
+    "views": 167
+  },
+  {
     "id": "recipe_1795142996",
     "category": "pasta",
     "category_ja": "パスタ",
