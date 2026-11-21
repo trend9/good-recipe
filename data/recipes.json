@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1795296389",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "焼き芋 × とろけるバターカラメル：悪魔の甘辛スパイスパスタ",
+    "title_en": "Spicy Sweet Potato Caramel Pasta: Devilishly Delicious",
+    "description_ja": "焼き芋の甘辛さ、とろけるバターカラメルソースで、今までにない悪魔的な美味しさに。一口食べたら、止まらない、まさに魅惑のスパイスパスタ！",
+    "description_en": "A devilishly delicious twist on the classic sweet potato recipe. This pasta combines the sweet and smoky flavor of roasted sweet potato with a melt-in-your-mouth butter caramel sauce for a truly unique and irresistible taste sensation.",
+    "occasion_ja": "特別な日に、特別な人へ",
+    "occasion_en": "Special occasions, a special someone",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "50g"
+      },
+      {
+        "name": "グラニュー糖",
+        "amount": "50g"
+      },
+      {
+        "name": "食塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "焼き芋を薄切りにすると、より早く調理できます。",
+      "バターとグラニュー糖を鍋に入れて弱火で溶かす。",
+      "溶けたら、塩とコショウを加えて混ぜる。",
+      "焼き芋を加えて、弱火で1分ほど煮込む。",
+      "パスタを茹でる。",
+      "茹で上がったパスタを、溶けたバターソースで和える。",
+      "お好みで、ココナッツミルクやシナモンなどを加えても美味しい。",
+      "完成！"
+    ],
+    "prompt": "Close-up shot of the delicious pasta, featuring a golden-brown baked potato, melted butter, and a swirling caramel sauce, with steam rising from it. ",
+    "filename": "recipe_1795296389.jpg",
+    "date": "2026-11-21 21:28:57",
+    "timestamp": 1795296389,
+    "likes": 0,
+    "views": 335
+  },
+  {
     "id": "recipe_1795276426",
     "category": "pasta",
     "category_ja": "パスタ",
