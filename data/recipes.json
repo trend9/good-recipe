@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1795276426",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘辛サーモンタルタルスパイスパスタ",
+    "title_en": "Devilishly Spicy Salmon Tartar Pasta",
+    "description_ja": "サーモンの旨味とアボカドのクリーミーな風味が、スパイスの香ばしさで爆発する、悪魔的な美味しさ！",
+    "description_en": "A devilishly delicious pasta dish with a spicy, tangy, and creamy flavor explosion of salmon and avocado. ",
+    "occasion_ja": "パーティーや特別な日にぴったり！",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "150g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "タルタルソース",
+        "amount": "適量"
+      },
+      {
+        "name": "スパイス(例: パプリカ、唐辛子、クミン):",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンは塩コショウで味付けをし、1cm程度の厚さに切る。",
+      "アボカドは皮を剥き、石づきを取った後、1cm程度の厚さに切る。",
+      "スパイスを混ぜ合わせ、アボカドを包んでタルタルソースを添える。",
+      "パスタを茹でる。",
+      "茹で上がったパスタに、サーモンとアボカドのタルタルソースを添えて完成。"
+    ],
+    "prompt": "Close-up shot of a plate with devilishly spicy salmon tartar pasta, with a red chili pepper on top.",
+    "filename": "recipe_1795276426.jpg",
+    "date": "2026-11-21 15:55:28",
+    "timestamp": 1795276426,
+    "likes": 0,
+    "views": 271
+  },
+  {
     "id": "recipe_1795247834",
     "category": "dessert",
     "category_ja": "デザート",
