@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1795247834",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的甘辛焼き芋パフェ！とろけるバターカルメルソースで激甘！",
+    "title_en": "Devilishly Sweet and Spicy Baked Apple Parfait! Creamy Caramel Sauce for Extreme Sweetness!",
+    "description_ja": "定番の焼き芋を、意外な甘辛ソースで激甘に仕上げた、見た目も華やかなパフェ！とろけるバターカルメルソースで、舌の奥底まで楽しむ悪魔的な美味しさ！",
+    "description_en": "Elevate your baked apple experience to a whole new level with this devilishly sweet and spicy Baked Apple Parfait! A creamy caramel sauce creates an explosion of flavor in your mouth, and you will never forget this amazing taste. ",
+    "occasion_ja": "特別な日や、夜食におすすめ！",
+    "occasion_en": "Perfect for special occasions and a delicious snack at night.",
+    "ingredients": [
+      {
+        "name": "焼き芋",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "100g"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "水",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "シナモン",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "ココナッツミルク",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      }
+    ],
+    "steps": [
+      "焼き芋にシナモン、ココナッツミルク、砂糖、バターを混ぜて焼く。",
+      "焼いた焼き芋を、生クリームで覆い、軽く冷やしておく。",
+      "溶かしバターを水で溶き、砂糖を加えてとろけるまで炒める。",
+      "パフェにバターカルメルソースをたっぷりかけて、仕上げに生クリームで飾る。"
+    ],
+    "prompt": "Close-up shot of a baked apple parfait. The parfait is adorned with a generous dollop of creamy caramel sauce. The caramel sauce swirls around the apple, creating a beautiful and delicious image.",
+    "filename": "recipe_1795247834.jpg",
+    "date": "2026-11-21 07:58:34",
+    "timestamp": 1795247834,
+    "likes": 0,
+    "views": 226
+  },
+  {
     "id": "recipe_1795221361",
     "category": "Rice",
     "category_ja": "ご飯",
