@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1795221361",
+    "category": "Rice",
+    "category_ja": "ご飯",
+    "title_ja": "ぷりぷり海老とガーリックバターのスパイスピラフ",
+    "title_en": "Jumbo Shrimp and Garlic Butter Spiced Rice",
+    "description_ja": "ぷりぷりの海老とクリーミーガーリックバターが、スパイスに包まれ、まるで魔法のピラフ！悪魔的美味しさで、思わず二度と食べられない一皿を完成させましょう。",
+    "description_en": "Jumbo shrimp and garlicky butter rice get a spicy twist and are ready for a magical meal experience! A recipe so irresistible that you'll never want to eat regular rice ever again.",
+    "occasion_ja": "特別な日に食べたい一品",
+    "occasion_en": "An exquisite dish for special occasions.",
+    "ingredients": [
+      {
+        "name": "海老",
+        "amount": "200g"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "ガーリック",
+        "amount": "適量"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "米",
+        "amount": "300g"
+      },
+      {
+        "name": "スパイス",
+        "amount": "お好みで"
+      }
+    ],
+    "steps": [
+      "1. 海老を一口大にカットする。",
+      "2. フライパンにバターを溶かし、玉ねぎを炒める。",
+      "3. 海老を加え、スパイスを加え、さらに炒める。",
+      "4. 米を加え、水を加え、炊飯器で炊く。"
+    ],
+    "prompt": "A steaming, fluffy rice bowl with a generous portion of jumbo shrimp and a drizzle of garlicky butter on top. Close-up shot with a focus on the shrimp's glistening texture and the aroma of the garlic butter. Photo style is modern and artistic.",
+    "filename": "recipe_1795221361.jpg",
+    "date": "2026-11-21 00:37:15",
+    "timestamp": 1795221361,
+    "likes": 0,
+    "views": 370
+  },
+  {
     "id": "recipe_1795201144",
     "category": "dessert/side",
     "category_ja": "デザート/サイド",
