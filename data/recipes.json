@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1795312413",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘辛ローストビーフ & オニオンソーススパイス炒めパスタ",
+    "title_en": "Devilishly Delicious Roast Beef & Onion Sauce Spiced Pasta",
+    "description_ja": "悪魔の甘辛さが爆発！ ローストビーフと特製オニオンソースをスパイスで炒めて、濃厚なソースをパスタに絡めて、まるで地獄の宴を味わえるような、極上パスタ。",
+    "description_en": "Taste of hell! Roast beef and a special onion sauce with spices, stir-fried and coated in pasta to create a devilishly delicious pasta that will make you feel like you're in a heavenly feast.",
+    "occasion_ja": "特別な日や、特別な夜に、特別な一杯を味わおう",
+    "occasion_en": "Perfect for a special occasion, or a night to indulge in something special.",
+    "ingredients": [
+      {
+        "name": "ローストビーフ",
+        "amount": "200g"
+      },
+      {
+        "name": "特製オニオンソース",
+        "amount": "100g"
+      },
+      {
+        "name": "パスタ",
+        "amount": "150g"
+      },
+      {
+        "name": "スパイス(例: 赤唐辛子, クミン, ローズマリー, etc.)",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      }
+    ],
+    "steps": [
+      "ローストビーフは厚さに合わせてカットし、スパイスを振る。",
+      "特製オニオンソースは、玉ねぎ、ニンジン、セロリなどを使用し、細かく刻んで混ぜる。",
+      "パスタを茹でる。",
+      "フライパンにバターを溶かし、ローストビーフと特製オニオンソースを炒める。パスタを加えて炒め、完成。"
+    ],
+    "prompt": "Close-up shot of a hot pan with red chili flakes and cumin, with a roasted beef cutlet slowly simmering in it, next to a steaming pasta plate with a creamy sauce, and a knife for cutting the pasta and the beef. ",
+    "filename": "recipe_1795312413.jpg",
+    "date": "2026-11-22 01:54:29",
+    "timestamp": 1795312413,
+    "likes": 0,
+    "views": 371
+  },
+  {
     "id": "recipe_1795296389",
     "category": "pasta",
     "category_ja": "パスタ",
