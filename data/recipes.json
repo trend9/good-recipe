@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1795368914",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的麻婆豆腐丼風とろける卵パスタ",
+    "title_en": "Spicy Japanese Tofu Rice Bowl Pasta with Creamy Egg",
+    "description_ja": "ふわふわの卵と、旨辛麻婆豆腐の美味しさが、まるで丼の様な、絶品パスタに！ 意外な組み合わせながら、まさに悪魔的美味しさの発見！",
+    "description_en": "A twist of the classic Japanese flavor! Creamy egg pasta topped with spicy, savory mapo tofu and a touch of fluffy egg. This unexpected combination brings you a new level of deliciousness, a devilishly good fusion! ",
+    "occasion_ja": "週末のお昼ご飯、晩御飯にピッタリ！",
+    "occasion_en": "Perfect for lunch or dinner this weekend!",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "旨辛麻婆豆腐",
+        "amount": "200g"
+      },
+      {
+        "name": "パスタ",
+        "amount": "200g"
+      },
+      {
+        "name": "牛乳",
+        "amount": "50ml"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. パスタを茹でる。",
+      "2. 卵を温かい水で割る。",
+      "3. 麻婆豆腐と牛乳と塩胡椒を混ぜる。",
+      "4. パスタを盛って、麻婆豆腐と卵を乗せて完成！"
+    ],
+    "prompt": "Close-up of a steaming pasta dish with fluffy egg on top and spicy mapo tofu. Anime-style illustration.",
+    "filename": "recipe_1795368914.jpg",
+    "date": "2026-11-22 17:36:31",
+    "timestamp": 1795368914,
+    "likes": 0,
+    "views": 288
+  },
+  {
     "id": "recipe_1795338881",
     "category": "dessert",
     "category_ja": "デザート",
