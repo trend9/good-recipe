@@ -1,5 +1,55 @@
 [
   {
+    "id": "recipe_1795388835",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔の甘辛サーモンタルタルパスタ & アボカドのクリーミーソース！",
+    "title_en": "Devilishly Sweet & Spicy Salmon & Avocado Creamy Sauce Pasta",
+    "description_ja": "サーモンとアボカドのクリーミーなハーモニーに、悪魔的な甘辛スパイスが加わる、見た目も味も衝撃の新しいパスタレシピ！",
+    "description_en": "A pasta recipe that combines the creamy harmony of salmon and avocado with a devilishly sweet and spicy twist, delivering both visual and culinary shock! ",
+    "occasion_ja": "特別な日、または特別な人との食事に最適な一品！",
+    "occasion_en": "Perfect for special occasions or a dinner with someone special! ",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バター",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "スパイス(例: ジンジャー, マッシュルーム, ニンニク等) ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンは、塩コショウで味付けをする。",
+      "アボカドは、細かく刻んで、マヨネーズとバターを加えて混ぜる。",
+      "フライパンでサーモンを焼き、アボカドとマヨネーズのソースを加えて混ぜる。",
+      "卵を溶き、パスタに絡める。",
+      "皿に盛り付け、お好みでスパイスを添える。"
+    ],
+    "prompt": "Close-up photo of devilishly delicious pasta with salmon, avocado, and creamy sauce. Dramatic lighting with a slight glow and vibrant colors.  A chef with a mischievous smile stands behind the pasta.",
+    "filename": "recipe_1795388835.jpg",
+    "date": "2026-11-22 23:09:39",
+    "timestamp": 1795388835,
+    "likes": 0,
+    "views": 393
+  },
+  {
     "id": "recipe_1795368914",
     "category": "pasta",
     "category_ja": "パスタ",
