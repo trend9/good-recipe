@@ -1,5 +1,74 @@
 [
   {
+    "id": "recipe_1795338881",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "悪魔的甘辛唐揚げマヨネーズパフェ",
+    "title_en": "Devilishly Spicy Fried Chicken & Honey Mayo Mousse Pan",
+    "description_ja": "サクサク唐揚げの甘辛味を、まろやかでクリーミーなマヨネーズで包み込んだ、悪魔的デザート！カリカリの食感と甘辛い味が絶妙なハーモニー！",
+    "description_en": "A devilishly delicious dessert! Soft, creamy, and sweet honey mayo mousse envelops the crispy fried chicken. This unique combination will leave your taste buds wanting more! ",
+    "occasion_ja": "特別な日や、普段のデザートにもぴったりな一品",
+    "occasion_en": "A perfect dessert for special occasions or everyday indulgences.",
+    "ingredients": [
+      {
+        "name": "鶏むね肉",
+        "amount": "1個"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "胡椒",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "Honey",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "小さじ2"
+      },
+      {
+        "name": "ココアパウダー",
+        "amount": "小さじ1/2"
+      },
+      {
+        "name": "パンプキン",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "鶏むね肉は一口大に切り、小麦粉、卵、砂糖、塩、胡椒で dredging します。",
+      "油を熱したフライパンで鶏むね肉を揚げ焼きにします。",
+      "ボウルにマヨネーズ、Honey、生クリーム、ココアパウダーを混ぜ合わせます。",
+      "揚げた鶏むね肉を、マヨネーズとHoney のマイルドなソースに包みます。パンプキンを添え、パフェにします。"
+    ],
+    "prompt": "Close-up photo of the fried chicken mousse parfait, golden and crispy chicken with a creamy, sweet, and savory sauce, served on a plate with a small pumpkin slice.",
+    "filename": "recipe_1795338881.jpg",
+    "date": "2026-11-22 09:16:02",
+    "timestamp": 1795338881,
+    "likes": 0,
+    "views": 178
+  },
+  {
     "id": "recipe_1795312413",
     "category": "pasta",
     "category_ja": "パスタ",
