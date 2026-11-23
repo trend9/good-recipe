@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1795453583",
+    "category": "パスタ",
+    "category_ja": "パスタ",
+    "title_ja": "とろけるチーズ × タッカルビチキン: イチゴの甘酸っぱさとスパイシーな唐辛子の悪魔的スパイスが炸裂！",
+    "title_en": "Melting Cheese x TACKLE-Bib Chicken: Sweet & Sour Gochujang Explosion!",
+    "description_ja": "タッカルビチキンとチーズの組み合わせで、その独特な食感とスパイシーな風味を活かした、悪魔的美味しい一品を堪能！イチゴの甘酸っぱさと唐辛子の辛味が絶妙に調和し、食欲をそそる一品に仕上がります。",
+    "description_en": "Melting cheese and TACKLE-Bib Chicken's unique texture and spice are combined to create an excitingly delicious dish. The sweet and sour gochujang flavor will surely satisfy your taste buds.",
+    "occasion_ja": "パーティーや特別な日のお祝いに、インパクト大な一品を召し上がって、さらに印象的な夜を演出しましょう！",
+    "occasion_en": "Perfect for parties or special occasions, this dish will add a dramatic and memorable touch to your evening! ",
+    "ingredients": [
+      {
+        "name": "タッカルビチキン",
+        "amount": "150g"
+      },
+      {
+        "name": "とろけるチーズ",
+        "amount": "150g"
+      },
+      {
+        "name": "イチゴ",
+        "amount": "100g"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "適量"
+      },
+      {
+        "name": "甘辛のスパイス(ゴチジャポ)、塩、こしょう",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンを一口サイズに切り、塩コショウで味付けします。",
+      "2. 好きなチーズを小さくカットし、タッカルビチキンと一緒に、フライパンで弱火で加熱します。",
+      "3. 1. にあるチーズを溶かし、2. にあるタッカルビチキンを加えて混ぜ合わせます。",
+      "4.  1. にあるチーズとタッカルビチキンを、お好みでイチゴと唐辛子で盛り付けます。"
+    ],
+    "prompt": "Close-up shot of TACKLE-Bib Chicken with melted cheese, a bright red strawberry, and a sprinkle of gochugaru powder, with smoke effect, illustration style",
+    "filename": "recipe_1795453583.jpg",
+    "date": "2026-11-23 17:08:33",
+    "timestamp": 1795453583,
+    "likes": 0,
+    "views": 407
+  },
+  {
     "id": "recipe_1795410813",
     "category": "dessert",
     "category_ja": "デザート",
