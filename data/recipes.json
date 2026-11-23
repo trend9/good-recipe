@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1795410813",
+    "category": "dessert",
+    "category_ja": "デザート",
+    "title_ja": "キャラメルバナナ brûlée パフェ",
+    "title_en": "Caramelized Banana Brulee Panna Cotta",
+    "description_ja": "完熟バナナの甘さとキャラメルブリュレの香ばしさに、なめらかでクリーミーなパフェ。悪魔的な美味しさで、一度食べたら止まらなくなるはず！",
+    "description_en": "A decadent panna cotta dessert with a hint of caramel and the deep, smooth taste of ripe bananas. This is sure to be an addictive treat that you can't get enough of.",
+    "occasion_ja": "特別な日や特別な人へのプレゼントにぴったり！",
+    "occasion_en": "Perfect for special occasions and gifts for loved ones.",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "1個"
+      },
+      {
+        "name": "キャラメル",
+        "amount": "100g"
+      },
+      {
+        "name": "パンプコット",
+        "amount": "1個"
+      },
+      {
+        "name": "牛乳",
+        "amount": "100ml"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "バニラエッセンス",
+        "amount": "1/2 teaspoon"
+      }
+    ],
+    "steps": [
+      "1.  完熟バナナは皮をむき、内側にクッキングシートを敷き、オーブンで10分焼く。",
+      "2.  キャラメルをボウルに入れ、弱火で溶かし、バナナをキャラメルに包む。",
+      "3.  溶かしキャラメルに、パンプコットを浸ける。",
+      "4.  冷ましてから、お好みのトッピング (例：抹茶パウダー、チョコチップ) を加え、楽しみましょう。"
+    ],
+    "prompt": "A beautiful pan dessert, with a creamy texture, banana caramelized to perfection and served in a ceramic dish",
+    "filename": "recipe_1795410813.jpg",
+    "date": "2026-11-23 05:14:55",
+    "timestamp": 1795410813,
+    "likes": 0,
+    "views": 448
+  },
+  {
     "id": "recipe_1795388835",
     "category": "pasta",
     "category_ja": "パスタ",
