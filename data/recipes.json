@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1795563887",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "明太子の悪魔的レモンクリームパスタ -  爽やかさと辛さのハーモニー",
+    "title_en": "Devilishly Delicious Lemon Cream Pasta with Spicy Ajitama",
+    "description_ja": "明太子とレモンの爽やかな組み合わせに、隠し味で辛味を加えて、悪魔的な美味しさに昇華！家庭でも簡単に作れる一品です。",
+    "description_en": "A devilishly delicious lemon cream pasta with spicy ajitama, this recipe combines the fresh and sour flavor of lemon and the spiciness of ajitama. This simple dish is perfect for home cooks.",
+    "occasion_ja": "パーティーや特別な日に、特別な味わいを求める方におすすめ",
+    "occasion_en": "Recommended for special occasions and parties",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "1個"
+      },
+      {
+        "name": "生パスタ",
+        "amount": "200g"
+      },
+      {
+        "name": "レモン",
+        "amount": "1個"
+      },
+      {
+        "name": "バター",
+        "amount": "10g"
+      },
+      {
+        "name": "塩",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "黒胡椒",
+        "amount": "少々"
+      }
+    ],
+    "steps": [
+      "1. 明太子を細切りにし、レモン汁と塩胡椒で味付けする。\n",
+      "2. 生パスタを茹で、冷水で洗う。\n",
+      "3. 茹で上がったパスタをレモン汁とバターで混ぜる。\n",
+      "4. 明太子とレモンクリームパスタを皿に盛り、お好みで黒胡椒を振る。"
+    ],
+    "prompt": "A close-up photo of the devilishly delicious lemon cream pasta with spicy ajitama, with a sprinkle of black pepper on top, and a lemon wedge on the side. Anime style illustration.",
+    "filename": "recipe_1795563887.jpg",
+    "date": "2026-11-24 23:46:05",
+    "timestamp": 1795563887,
+    "likes": 0,
+    "views": 273
+  },
+  {
     "id": "recipe_1795530680",
     "category": "side",
     "category_ja": "サイド",
