@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1795491898",
+    "category": "side",
+    "category_ja": "サイドディッシュ",
+    "title_ja": "サーモン × アボカド × 抹茶タルタル：悪魔的抹茶の甘酸っぱさと爽やかさ",
+    "title_en": "Salmon x Avocado x Matcha Tartare: Devilishly Sweet and Tangy Matcha",
+    "description_ja": "抹茶の香ばしさとアボカドのクリーミーさが、サーモンの旨味が引き立てる、まさに悪魔的な美味しさ！",
+    "description_en": "A devilishly delicious taste explosion, with the sweet and tangy matcha flavor enhanced by creamy avocado and rich salmon! ",
+    "occasion_ja": "パーティーや特別な日にぴったり",
+    "occasion_en": "Perfect for parties and special occasions.",
+    "ingredients": [
+      {
+        "name": "サーモン",
+        "amount": "200g"
+      },
+      {
+        "name": "アボカド",
+        "amount": "1個"
+      },
+      {
+        "name": "抹茶",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "レモン",
+        "amount": "1/2個"
+      },
+      {
+        "name": "塩",
+        "amount": "適量"
+      },
+      {
+        "name": "ブラックペッパー",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "サーモンは、一口大にカット。",
+      "アボカドは、皮を剥き、種を取り除き、大きめな一口サイズに切る。",
+      "抹茶、レモン汁、塩、ブラックペッパーを混ぜる。",
+      "サーモン、アボカド、抹茶タレを盛り付け、お好みでレモン汁を添える。"
+    ],
+    "prompt": "Close-up shot of a salmon tartare with avocado on a black slate background, with a sprig of green herbs. It is drizzled with a light lemon juice and a dusting of black pepper.",
+    "filename": "recipe_1795491898.jpg",
+    "date": "2026-11-24 03:46:53",
+    "timestamp": 1795491898,
+    "likes": 0,
+    "views": 419
+  },
+  {
     "id": "recipe_1795453583",
     "category": "パスタ",
     "category_ja": "パスタ",
