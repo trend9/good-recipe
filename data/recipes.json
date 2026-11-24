@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1795530680",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "炙りチャーシュー × 濃厚焦がしにんにく醤油、悪魔の甘辛ソースパスタ！",
+    "title_en": "Devilishly Spicy Arancini with Creamy Garlic Sauce",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油が、悪魔的な甘辛で食欲をそそる、極上の一皿！とろけるチーズが加わり、まるで魔法のレストランの料理を食べているかのように味わえます。",
+    "description_en": "A devilishly spicy and creamy Arancini dish featuring a combination of smoky, charred, and rich garlic sauce.  A generous amount of melted cheese elevates the experience to the next level.",
+    "occasion_ja": "お酒のお供にぴったりな、特別な夜に！",
+    "occasion_en": "An excellent side dish for your after-dinner drinks.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "適量"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "適量"
+      },
+      {
+        "name": "グラタンチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを小さく切ります。",
+      "2. 濃厚焦がしにんにく醤油とグラタンチーズを合わせたソースを作ります。",
+      "3. 2個の卵を溶きほぐします。",
+      "4. パスタと溶き卵を混ぜ合わせ、さらに濃厚焦がしにんにく醤油とグラタンチーズを加えます。"
+    ],
+    "prompt": "Close-up photo of the finished pasta dish with a dramatic lighting, showing the cheesy, savory, and the appealing colors.",
+    "filename": "recipe_1795530680.jpg",
+    "date": "2026-11-24 14:33:04",
+    "timestamp": 1795530680,
+    "likes": 0,
+    "views": 421
+  },
+  {
     "id": "recipe_1795491898",
     "category": "side",
     "category_ja": "サイドディッシュ",
