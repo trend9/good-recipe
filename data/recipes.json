@@ -1,5 +1,58 @@
 [
   {
+    "id": "recipe_1795588366",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "とろーり半熟卵 × デミグラスハンバーグ：悪魔の甘辛スパイスパスタ！",
+    "title_en": "Devilish Savory Pasta: Half-Soft Egg & Demi-Glace Hamburger with Spicy Spice! ",
+    "description_ja": "悪魔的な美味しさ！とろける半熟卵と濃厚なデミグラスハンバーグのハーモニーを、スパイシーなスパイスで仕上げたパスタ。一口食べたら、この美味しさを分かち合いたい！",
+    "description_en": "Devilishly delicious! This pasta brings a harmony of creamy soft-boiled egg and rich demi-glace hamburger with spicy spices. This pasta will make you crave to share this savory dish! ",
+    "occasion_ja": "週末の特別なディナー、特別な人へのプレゼントに！",
+    "occasion_en": "Perfect for special dinners and gifts for special people on the weekend!",
+    "ingredients": [
+      {
+        "name": "半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "にんにく",
+        "amount": "1かけ"
+      },
+      {
+        "name": "唐辛子",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "醤油",
+        "amount": "大さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "大さじ1"
+      }
+    ],
+    "steps": [
+      "1. デミグラスハンバーグを焼きます。",
+      "2.  にんにく、唐辛子、醤油、砂糖を混ぜ合わせ、半熟卵の殻を割って、卵液を混ぜ合わせます。",
+      "3. パスタを茹でる。",
+      "4.  パスタを皿に盛り、デミグラスハンバーグ、半熟卵とソースを添えて、悪魔的な美味しさをお楽しみください！"
+    ],
+    "prompt": "Close-up photo of devilish pasta with a half-soft egg and demi-glace hamburger in an artistic composition, with a smoky background, inspired by a Studio Ghibli anime style.",
+    "filename": "recipe_1795588366.jpg",
+    "date": "2026-11-25 06:34:41",
+    "timestamp": 1795588366,
+    "likes": 0,
+    "views": 440
+  },
+  {
     "id": "recipe_1795563887",
     "category": "pasta",
     "category_ja": "パスタ",
