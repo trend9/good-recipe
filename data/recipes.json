@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1795688510",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "とろけるチーズ × タッカルビチキン: 悪魔的スパイシーチーズケーキパスタ！",
+    "title_en": "Melting Cheese & Spicy Gochujang Chicken: Devilish Spicy Cheese Cake Pasta!",
+    "description_ja": "とろけるチーズとタッカルビチキンの意外な組み合わせ！濃厚なスパイスで、悪魔的ながらも超美味しいチーズケーキパスタ。 ぜひ、一度お試しあれ！",
+    "description_en": "A surprising combination of melting cheese and spicy gochujang chicken! It's a devilishly delicious cheese cake pasta that's both rich and unexpected. A must-try!",
+    "occasion_ja": "特別な日や、日常の晩ご飯にもおすすめ！",
+    "occasion_en": "Perfect for special occasions or your everyday dinner.",
+    "ingredients": [
+      {
+        "name": "とろけるチーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "タッカルビチキン",
+        "amount": "適量"
+      },
+      {
+        "name": "スパイス",
+        "amount": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "適量"
+      },
+      {
+        "name": "牛乳",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. タッカルビチキンの汁を、少しだけ混ぜ合わせ、チーズを混ぜる。",
+      "2. ボウルに小麦粉と牛乳を混ぜ、卵を加え、粘り気をつけながらよく混ぜる。",
+      "3. チーズとタッカルビチキンの混合物と、小麦粉と牛乳の混合物を混ぜ合わせる。",
+      "4. 仕上げに、好きなスパイスを加えて、好みの形に成形する。"
+    ],
+    "prompt": "Close-up of a steaming pasta dish with creamy cheese, spicy gochujang chicken, and beautiful swirls of color, a photorealistic illustration in a warm, inviting style.",
+    "filename": "recipe_1795688510.jpg",
+    "date": "2026-11-26 10:23:46",
+    "timestamp": 1795688510,
+    "likes": 0,
+    "views": 313
+  },
+  {
     "id": "recipe_1795656526",
     "category": "pasta",
     "category_ja": "パスタ",
