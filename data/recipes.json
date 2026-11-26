@@ -1,5 +1,62 @@
 [
   {
+    "id": "recipe_1795656526",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "炙りチャーシュー×濃厚焦がしにんにく醤油　極上チーズクリームパスタ",
+    "title_en": "Smoked Pork Belly & Creamy Garlic Chili Cheese Pasta",
+    "description_ja": "炙りチャーシューと濃厚焦がしにんにく醤油が、クリーミーなチーズソースに絡み合い、食欲をそそる悪魔的な美味しさに。チーズクリームパスタは、一味違う、特別な味わいに仕上がります。",
+    "description_en": "Smoked pork belly and a rich and creamy garlic chili sauce, with a decadent cheese sauce, creating a unique and delicious pasta experience. This cheesy cream pasta will elevate your taste buds.",
+    "occasion_ja": "特別な夜に、贅沢な気分を味わいたいとき",
+    "occasion_en": "A special occasion when you want to indulge and experience a luxurious feeling.",
+    "ingredients": [
+      {
+        "name": "炙りチャーシュー",
+        "amount": "200g"
+      },
+      {
+        "name": "濃厚焦がしにんにく醤油",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "クリームチーズ",
+        "amount": "100g"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "100ml"
+      },
+      {
+        "name": "塩コショウ",
+        "amount": "少々"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "パプリカ",
+        "amount": "1個"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 炙りチャーシューを、濃厚焦がしにんにく醤油で味付けし、冷ましておく。",
+      "2.  生クリームとチーズを混ぜる。塩コショウで味を調える。",
+      "3.  パスタを茹でる。",
+      "4.  パスタを皿に盛り、炙りチャーシューと濃厚焦がしにんにく醤油を添えて、クリームチーズと生クリームソースを混ぜて、パスタ全体にかけながら、チーズソースを絡ませる。"
+    ],
+    "prompt": "Close-up shot of a creamy pasta with smoked pork belly, topped with garlic chili sauce and cheese. A warm glow is visible, and a delicious smell is in the air.",
+    "filename": "recipe_1795656526.jpg",
+    "date": "2026-11-26 01:30:13",
+    "timestamp": 1795656526,
+    "likes": 0,
+    "views": 191
+  },
+  {
     "id": "recipe_1795628820",
     "category": "pasta",
     "category_ja": "パスタ",
