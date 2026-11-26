@@ -1,5 +1,46 @@
 [
   {
+    "id": "recipe_1795723211",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔のハニーマヨ唐揚げパスタ！",
+    "title_en": "Honey Mayo Fried Chicken Pasta: Devilishly Delicious!",
+    "description_ja": "サクサク唐揚げとハニーマヨネーズの意外な組み合わせが、パスタの新しい美味しさをUnlock！  爽やかさと辛さのハーモニーが楽しめる、悪魔的パスタを開発しました。",
+    "description_en": "A devilishly delicious twist on the comfort food classic, fried chicken and honey mayo,  now on pasta!  A symphony of flavors awaits you with this unexpected and heavenly creation.",
+    "occasion_ja": "パーティーや週末の晩餐におすすめ！",
+    "occasion_en": "Perfect for parties or weekend meals!",
+    "ingredients": [
+      {
+        "name": "唐揚げ",
+        "amount": "適量"
+      },
+      {
+        "name": "ハニーマヨネーズ",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "1個"
+      }
+    ],
+    "steps": [
+      "1. 揚げ物: 鶏むね肉を薄く切って、唐揚げを揚げる。",
+      "2. ハニーマヨネーズ: ハニーマヨネーズを混ぜ合わせ、唐揚げに塗る。",
+      "3. パスタ: パスタを茹でる。",
+      "4. Assemble:  揚げた唐揚げ、ハニーマヨネーズ、パスタを盛り付ける。"
+    ],
+    "prompt": "A close-up shot of a steaming pasta dish with golden fried chicken pieces on top, surrounded by a drizzle of honey mayo sauce, with a slight focus on the dramatic texture of the fried chicken and the creamy pasta.",
+    "filename": "recipe_1795723211.jpg",
+    "date": "2026-11-26 20:01:33",
+    "timestamp": 1795723211,
+    "likes": 0,
+    "views": 157
+  },
+  {
     "id": "recipe_1795688510",
     "category": "pasta",
     "category_ja": "パスタ",
