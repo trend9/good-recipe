@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1795779744",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的デミグラスハンバーグととろとろ卵の和風スパイスパスタ",
+    "title_en": "Devilish Demi-Glace Hamburger & Creamy Egg Spaghetti with Japanese Spices",
+    "description_ja": "とろける半熟卵とデミグラスハンバーグの和風スパイスが効いた、悪魔的美味しさの和風パスタレシピ！ 意外な組み合わせで、味覚を驚かせます。",
+    "description_en": "A devilishly delicious Japanese spaghetti recipe that features a creamy egg, demi-glace, and Japanese spices. A surprisingly delightful twist for your taste buds!",
+    "occasion_ja": " parties, gatherings, or for a romantic night in",
+    "occasion_en": " parties, gatherings, or for a romantic night in",
+    "ingredients": [
+      {
+        "name": "デミグラスハンバーグ",
+        "amount": "1個"
+      },
+      {
+        "name": "とろける半熟卵",
+        "amount": "2個"
+      },
+      {
+        "name": "和風スパイス（例: しょうが、シナモン、昆布など）",
+        "amount": "適量"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "和風だし汁",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. Demi-glace sauceを鍋に入れて煮立たせる。\n",
+      "2. ハンバーグをパスタと煮詰める。\n",
+      "3. 卵を茹でる。\n",
+      "4. パスタとハンバーグ、卵を盛り付けて、和風スパイスで仕上げる。"
+    ],
+    "prompt": "Close-up photo of devilish spaghetti with demi-glace hamburger, creamy egg, and Japanese spices.",
+    "filename": "recipe_1795779744.jpg",
+    "date": "2026-11-27 11:43:18",
+    "timestamp": 1795779744,
+    "likes": 0,
+    "views": 391
+  },
+  {
     "id": "recipe_1795723211",
     "category": "pasta",
     "category_ja": "パスタ",
