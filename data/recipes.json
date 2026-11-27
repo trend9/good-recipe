@@ -1,5 +1,54 @@
 [
   {
+    "id": "recipe_1795811719",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "とろとろ卵の悪魔的麻婆豆腐丼！",
+    "title_en": "Spicy Tofu Fried Rice with Creamy Egg on Top",
+    "description_ja": "ふわふわ卵と辛味麻婆豆腐のハーモニー！ご飯の上に、とろとろ卵を乗せて、食欲をそそる一品に仕上げます。",
+    "description_en": "Fluffy eggs and spicy tofu fried rice with a creamy egg on top - a dish that will satisfy your taste buds.",
+    "occasion_ja": "パーティーや家族で食べるのにぴったり！",
+    "occasion_en": "Perfect for parties or family meals!",
+    "ingredients": [
+      {
+        "name": "麻婆豆腐",
+        "amount": "適量"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "ご飯",
+        "amount": "1合"
+      },
+      {
+        "name": "ごま油",
+        "amount": "適量"
+      },
+      {
+        "name": "醤油",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "砂糖",
+        "amount": "小さじ1/2"
+      }
+    ],
+    "steps": [
+      "麻婆豆腐を作る：豆腐を炒める、醤油、砂糖を加えて味付けをする。",
+      "ご飯を炒める：ご飯を炒める。",
+      "卵を炒める：卵を溶き、ごま油を加え、炒める。",
+      "盛り付け：ご飯の上に、卵を乗せ、麻婆豆腐をのせる。"
+    ],
+    "prompt": "Close-up shot of a bowl of spicy tofu fried rice topped with a perfectly cooked egg. Rich and flavorful, with steam rising from the dish, and beautiful colors. ",
+    "filename": "recipe_1795811719.jpg",
+    "date": "2026-11-27 20:36:27",
+    "timestamp": 1795811719,
+    "likes": 0,
+    "views": 209
+  },
+  {
     "id": "recipe_1795779744",
     "category": "pasta",
     "category_ja": "パスタ",
