@@ -1,5 +1,52 @@
 [
   {
+    "id": "recipe_1795869645",
+    "category": "side",
+    "category_ja": "サイド",
+    "title_ja": "バナナのキャラメルブリュレ、悪魔的スパイス風パスタ",
+    "title_en": "Banana Caramel Brulee, Spicy Twist Pasta",
+    "description_ja": "完熟バナナの甘さを活かした、キャラメルブリュレ風パスタに、隠し味スパイスを加えて、悪魔的な美味しさを実現！",
+    "description_en": "A pasta dish that combines the sweet taste of ripe bananas with caramel brulee and a secret spicy twist, for a devilishly delicious experience!",
+    "occasion_ja": "パーティーや特別な日にぴったり",
+    "occasion_en": "Perfect for parties and special occasions!",
+    "ingredients": [
+      {
+        "name": "完熟バナナ",
+        "amount": "2個"
+      },
+      {
+        "name": "キャラメルソース",
+        "amount": "100ml"
+      },
+      {
+        "name": "スパイス(例: パプリカ、コリアンダー、唐辛子など)",
+        "amount": "小さじ1"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      },
+      {
+        "name": "バター",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "バナナを1cm角にカットし、電子レンジで約5秒加熱。",
+      "キャラメルソースを加え、溶かしながら混ぜる。",
+      "スパイスを加え、全体を混ぜる。",
+      "パスタを茹でる。",
+      "パスタを皿に盛り、キャラメルソースとスパイスを絡ませながら。",
+      "バターを少量加え、最後に仕上げる。"
+    ],
+    "prompt": "Close-up shot of a pasta dish with caramelized bananas and a brown sauce, with a sprinkle of spices. Vibrant colors and a steaming texture.",
+    "filename": "recipe_1795869645.jpg",
+    "date": "2026-11-28 12:42:28",
+    "timestamp": 1795869645,
+    "likes": 0,
+    "views": 271
+  },
+  {
     "id": "recipe_1795835029",
     "category": "pasta",
     "category_ja": "パスタ",
