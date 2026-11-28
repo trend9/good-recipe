@@ -1,5 +1,50 @@
 [
   {
+    "id": "recipe_1795835029",
+    "category": "pasta",
+    "category_ja": "パスタ",
+    "title_ja": "悪魔的明太子のレモンクリームパスタ",
+    "title_en": "Devilish Lemon Cream Pasta with Spicy Mayo",
+    "description_ja": "爽やかさと辛さのハーモニー！明太子とレモンクリームの組み合わせ、悪魔的な美味しさ。一口食べたら、もう止まらない！",
+    "description_en": "A devilishly delicious combination of lemon cream and spicy mayo. A harmonious blend of refreshing and spicy flavors, this pasta will leave you wanting more! ",
+    "occasion_ja": "パーティー、夜ご飯、特別な日にも最適！",
+    "occasion_en": "Perfect for parties, dinners, and special occasions!",
+    "ingredients": [
+      {
+        "name": "明太子",
+        "amount": "1袋"
+      },
+      {
+        "name": "レモン汁",
+        "amount": "大さじ3"
+      },
+      {
+        "name": "生クリーム",
+        "amount": "50ml"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": "大さじ2"
+      },
+      {
+        "name": "パスタ",
+        "amount": "適量"
+      }
+    ],
+    "steps": [
+      "1. 明太子を細かく刻む。",
+      "2. 混ぜ合わせることで、レモン汁と生クリームを加えて、とろみのあるペーストを作る。",
+      "3. パスタを茹でる。",
+      "4. 茹で上がったパスタに、明太子ペーストをかけた後、マヨネーズとレモン汁を混ぜる。"
+    ],
+    "prompt": "Close-up shot of devilish lemon cream pasta, with bright yellow lemon sauce and spicy mayonnaise, in a bowl, on a white background. The pasta is slightly charred.",
+    "filename": "recipe_1795835029.jpg",
+    "date": "2026-11-28 03:05:03",
+    "timestamp": 1795835029,
+    "likes": 0,
+    "views": 468
+  },
+  {
     "id": "recipe_1795811719",
     "category": "side",
     "category_ja": "サイド",
